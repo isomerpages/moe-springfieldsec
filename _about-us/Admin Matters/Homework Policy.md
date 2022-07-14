@@ -21,11 +21,9 @@ third_nav_title: Admin Matters
 
 2.2  Enable teachers to:
 
-> (a) consolidate learning that has taken place in class;
-> 
-> (b) check for students’ understanding and progress, so as to provide timely feedback, intervention and support; and
-> 
-> (c) review effectiveness of lesson.
+**(a)** consolidate learning that has taken place in class;  
+**(b)** check for students’ understanding and progress, so as to provide timely feedback, intervention and support; and   
+**(c)** review effectiveness of lesson.
 
 2.3  Enable parents to:
 
