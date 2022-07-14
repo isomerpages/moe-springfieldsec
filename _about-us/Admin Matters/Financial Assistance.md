@@ -4,6 +4,22 @@ permalink: /about-us/admin-matters/financial-assistance
 description: ""
 third_nav_title: Admin Matters
 ---
+### Objective  
+
+The objective of the MOE FAS is to help needy Singaporean students to meet basic schooling expenses.  
+
+### Eligibility Criteria
+
+Student is a Singapore citizen, and meets one of the following income criteria:
+
+a.  The family’s gross household income (GHI) does not exceed $2,750 per month; or
+
+b.  The family’s per capita income (PCI) does not exceed $690 per month.  
+
+PCI = Monthly Gross Household Income / No. of members in the household
+
+For more information of the MOE Financial Assistance Scheme, click [here.](/files/MOE_FAS_Pamphlet_2022.pdf)
+
 ### Household Income
 
 1.  Household income is the total income of family members who stay in the same household. Gross income is income including regular allowances and employee's CPF contribution. Income from other sources (e.g. monthly pension, alimony and rental income) should be included as part of gross monthly income.  
