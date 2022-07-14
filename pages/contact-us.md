@@ -10,11 +10,10 @@ locations:
       - ""
     operating_hours:
       - days: Mon - Fri
-        time: 8.30am - 6.00pm
-        description: Closed on Public Holidays
-      - days: Sat
-        time: 8.30am - 12.00pm
-        description: ""
+        time: 6.30am - 6.30pm
+        description: |-
+          Bus: 8,23, 69, 293 ||
+          Nearest MRT: Tampines, Pasir Ris 
     maps_link: https://goo.gl/maps/SrtBm8dDX5cFagnx8
     title: Address
 contacts:
