@@ -68,6 +68,8 @@ Application can be made via [DSA-SEC Portal](https://go.gov.sg/nmsdsa-sec-appli
 
 ### Reflections from Our Students
 
+<img src="/images/javier.jpg" style="width:300px;height:220px;margin-left:15px;" align = "right">
+
 I used to be in Wushu in Primary School but had confidence issues so I dropped out of the CCA. However, the past experiences with a Martial Art gave me an advantage in terms of flexibility.
 
 In SPF Taekwondo, I was completely new to the Sport and did not achieve much in Sec 1, but through my peers and seniors, I had gained more confidence and started to work harder in Taekwondo, resulting in me improving tremendously.
