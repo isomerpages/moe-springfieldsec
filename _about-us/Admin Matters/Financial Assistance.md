@@ -4,6 +4,10 @@ permalink: /about-us/admin-matters/financial-assistance
 description: ""
 third_nav_title: Admin Matters
 ---
+# **Financial Assistance**
+
+### APPLICATION FOR MOE FINANCIAL ASSISTANCE SCHEME (MOE FAS)
+
 ### Objective  
 
 The objective of the MOE FAS is to help needy Singaporean students to meet basic schooling expenses.  
