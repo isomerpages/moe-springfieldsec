@@ -34,15 +34,11 @@ third_nav_title: Admin Matters
 
 3.1 Homework assigned by teachers will take into account the following key considerations:
 
-> (a) For holistic development, students need a balanced life with adequate time for family bonding, social activities, personal interests and rest; 
-> 
-> (b) The amount of homework given should be age-appropriate and take into account the competing demands on students’ time (e.g. CCA, competitions, enrichment classes, tests, examinations); 
-> 
-> (c) There is a point of diminishing returns to giving more homework andhomework overload can have detrimental effects on learning; 
-> 
-> (d) Assignment of homework, if un-regulated and un-coordinated across subjects/departments, can lead to homework overload; and 
-> 
-> (e) Amount of homework assigned to students, where appropriate, should bedifferentiated, such as by academic courses or ability level. 
+**(a)** For holistic development, students need a balanced life with adequate time for family bonding, social activities, personal interests and rest;    
+**(b)** The amount of homework given should be age-appropriate and take into account the competing demands on students’ time (e.g. CCA, competitions, enrichment classes, tests, examinations);      
+**(c)** There is a point of diminishing returns to giving more homework andhomework overload can have detrimental effects on learning;      
+**(d)** Assignment of homework, if un-regulated and un-coordinated across subjects/departments, can lead to homework overload; and     
+**(e)** Amount of homework assigned to students, where appropriate, should bedifferentiated, such as by academic courses or ability level. 
 
   
 
