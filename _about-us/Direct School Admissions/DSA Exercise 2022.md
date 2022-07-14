@@ -81,3 +81,15 @@ I had gotten silver and bronze medals in Sec 1 but after me putting in more effo
 With Taekwondo boosting my confidence throughout the 4 Years from starting Sec 1 with a White belt to ending Sec 4 as a Red Belt, I had become more disciplined resilient and confident.
 
 _LOH JAVIER \[SEC 4 COMPASSION\] (2019) - CAPTAIN OF TAEKWONDO TEAM_
+
+Unlike most others, I was home-schooled up till PSLE growing up. Naturally, I was more reserved and soft-spoken than most of my peers and struggled with speaking in front of a group of people initially.
+
+  
+
+In my time in OPC, I was tried again and again both physically and mentally. I was given many leadership opportunities such as being appointed as being the Overall-In-Charge for a day in our Annual Let's Rock Competition in Secondary 2 and the Climbing Master in the CCA for my Upper Secondary days. Through these Experiences, I quickly built confidence and was eventually able to clearly delegate roles to my Juniors. 
+
+Rock Climbing has also made me one with greater mental tenacity and determination since in Training, we fail more than we succeed. I've also learnt to deal with failures and setbacks as each time I fall, I have to pick myself up, reorganize my thoughts and give it another good go with the aim of coming back stronger. To me, Winning is not all that important. More often than not, progression is more triumphant.
+
+All these takeaways I got from my time in OPC translated to my academics where Self-Discipline, Resilience and Determination was of great Importance.
+
+_JANNA TEE \[SEC 4\] (2016) - NATIONAL SCHOOLS BOULDERING CHAMPION_
