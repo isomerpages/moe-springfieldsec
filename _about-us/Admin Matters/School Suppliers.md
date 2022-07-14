@@ -13,8 +13,8 @@ third_nav_title: Admin Matters
 | Contact Person: 	| Ms. Agnes Heng 	|
 | Tel: 	| 6748 3101 	|
 | Fax: 	| 6748 9139 	|
-| Email: 	| cascoedu@gmail.com 	|
-| Website: 	| www.casco.com.sg 	|
+| Email: 	| [cascoedu@gmail.com](mailto:cascoedu@gmail.com) 	|
+| Website: 	| [www.casco.com.sg](www.casco.com.sg) 	|
 
 * * *
 
@@ -26,4 +26,4 @@ third_nav_title: Admin Matters
 | Operational Hours at School Premises (School Bookshop): 	| Mondays to Fridays: 9.00am - 3.00pm 	|
 | Operational Hours at the Uniform Office: 	| Weekdays - 3.00pm to 8.00pm<br>Weekends - 10.00am to 4.00pm<br>CLOSED ON - TUESDAYS and PUBLIC HOLIDAYS 	|
 | Tel: 	| 6276 6689 	|
-| Email: 	| myuniformshop@yahoo.com 	|
+| Email: 	| [myuniformshop@yahoo.com](mailto:myuniformshop@yahoo.com) 	|
