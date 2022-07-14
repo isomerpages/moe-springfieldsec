@@ -65,3 +65,15 @@ Application can be made via [DSA-SEC Portal](https://go.gov.sg/nmsdsa-sec-appli
 * Successful DSA-SEC Students are **NOT** allowed to participate in the Secondary One Posting Exercise to opt for secondary schools as they are expected to honour the commitment made to the DSA-Sec school when they exercised their offer. **_If your child is not able to fulfil the DSA commitment without valid reasons, they may be required to transfer out to another school_**
 * Successful DSA-SEC Students are **NOT** allowed to transfer to another school after the release of the PSLE results
 *  **_Parents and Students are encouraged to choose Schools wisely based on the Student's Aptitudes and Strengths, bearing in mind the School's Academic and Non-Academic requirements, and the programmes available to develop the area of talent_**
+
+### Reflections from Our Students
+
+I used to be in Wushu in Primary School but had confidence issues so I dropped out of the CCA. However, the past experiences with a Martial Art gave me an advantage in terms of flexibility.
+
+In SPF Taekwondo, I was completely new to the Sport and did not achieve much in Sec 1, but through my peers and seniors, I had gained more confidence and started to work harder in Taekwondo, resulting in me improving tremendously.
+
+I was offered a CCA Leader Role in Sec 2 which inspired me to achieve more. I then ran for CCA Captainship in Sec 3 with the encouragement from my Seniors and Teachers, which lead to me being the Captain of the CCA.
+
+I had gotten silver and bronze medals in Sec 1 but after me putting in more effort to train and improve, I won consistent gold medals every year since.
+
+With Taekwondo boosting my confidence throughout the 4 Years from starting Sec 1 with a White belt to ending Sec 4 as a Red Belt, I had become more disciplined resilient and confident.
