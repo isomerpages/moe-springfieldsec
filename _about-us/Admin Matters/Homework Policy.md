@@ -50,17 +50,12 @@ third_nav_title: Admin Matters
 
 4.1  Students will be expected to:
 
-> (a) Understand the purpose of homework and what is expected of them;
-> 
-> (b) Keep track of homework instructions and deadlines;
-> 
-> (c) Manage time well to ensure that homework is completed and submitted on time;
-> 
-> (d) Give his/her best effort in completing homework;
-> 
-> (e) Review feedback from teachers on homework submitted; and
-> 
-> (f) Communicate with parents regarding their homework assignments.
+(a) Understand the purpose of homework and what is expected of them;
+(b) Keep track of homework instructions and deadlines;
+(c) Manage time well to ensure that homework is completed and submitted on time;
+(d) Give his/her best effort in completing homework;
+(e) Review feedback from teachers on homework submitted; and
+(f) Communicate with parents regarding their homework assignments.
 
 4.2  Parents can support their child by :
 
