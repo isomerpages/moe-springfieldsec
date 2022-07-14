@@ -97,3 +97,16 @@ Rock Climbing has also made me one with greater mental tenacity and determinatio
 All these takeaways I got from my time in OPC translated to my academics where Self-Discipline, Resilience and Determination was of great Importance.
 
 _JANNA TEE \[SEC 4\] (2016) - NATIONAL SCHOOLS BOULDERING CHAMPION_
+
+<br>
+<br>
+
+<img src="/images/MARK.jpg" style="width:300px;height:220px;margin-left:15px;" align = "right">
+
+Back in Primary School, I was really a Rebellious Child, always getting into unnecessary trouble with the other kids in School. Back at Home, I would not listen to what my Parents and always disobeyed them. I started to change for the better when I was in Secondary School due to my CCA, OPC. I started taking up leadership roles to guide my other fellow Classmates/Teammates. It was also at OPC that I fell in love with Rockwall Climbing.
+
+There, I learnt to be disciplined and focused. Why discipline and focus? Simply because it has kept me on track with what I have planned for myself. Success doesn't come easy. So knowing that I have that clear goal and sticking to the plan has helped me stay the path from representing Springfield and finally, Singapore.
+
+Besides that, I also learnt to believe in the process and myself. If you're going to have doubts in yourself, you wouldn't break new barriers. I am thankful to those who have helped  me along the way. I always have them behind my head even though I don't tell them how much I've appreciated their support and guidance! Without the Values and Lessons I've learnt until now, I wouldn't become who I am today. Someone who ensures that he sticks to a plan or goal and does not get distracted by anyone or anything.
+
+_MARK CHAN \[5B\] (2017) - NATIONAL ATHLETE & OLYMPIC HOPEFUL IN ROCKWALL CLIMBING_
