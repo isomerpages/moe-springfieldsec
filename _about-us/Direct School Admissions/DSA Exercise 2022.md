@@ -82,8 +82,7 @@ With Taekwondo boosting my confidence throughout the 4 Years from starting Sec 1
 
 _LOH JAVIER \[SEC 4 COMPASSION\] (2019) - CAPTAIN OF TAEKWONDO TEAM_
 
-<br>
-<br>
+* * *
 
 
 Unlike most others, I was home-schooled up till PSLE growing up. Naturally, I was more reserved and soft-spoken than most of my peers and struggled with speaking in front of a group of people initially.
@@ -98,8 +97,7 @@ All these takeaways I got from my time in OPC translated to my academics where S
 
 _JANNA TEE \[SEC 4\] (2016) - NATIONAL SCHOOLS BOULDERING CHAMPION_
 
-<br>
-<br>
+* * *
 
 <img src="/images/MARK.jpg" style="width:300px;height:220px;margin-left:15px;" align = "right">
 
@@ -111,8 +109,7 @@ Besides that, I also learnt to believe in the process and myself. If you're goin
 
 _MARK CHAN \[5B\] (2017) - NATIONAL ATHLETE & OLYMPIC HOPEFUL IN ROCKWALL CLIMBING_
 
-<br>
-<br>
+* * *
 
 <img src="/images/F404C84B.jpeg" style="width:300px;height:220px;margin-left:15px;" align = "right">
 
@@ -123,8 +120,7 @@ _SITI KHADIJAH BTE MD YAACOB (2013-2016)_
 _2013: NSG C Div 2ND PLACE_     
 _2015: NSG B Div 2ND PLACE_
 
-<br>
-<br>
+* * *
 
 <img src="/images/2019.jpg" style="width:300px;height:220px;margin-left:15px;" align = "right">
 
