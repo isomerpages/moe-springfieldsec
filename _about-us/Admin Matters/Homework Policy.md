@@ -58,8 +58,8 @@ third_nav_title: Admin Matters
 
 4.2  Parents can support their child by :
 
-**(a)** Creating a home environment conducive for studying and completion of homework;
-**(b)** Supervising and providing support for child’s learning;
-**(c)** Reinforcing good study habits and attitudes;
-**(d)** Being mindful of the stresses arising from school homework and out-of-school activities, and help their children prioritise their time among these activities; and
+**(a)** Creating a home environment conducive for studying and completion of homework;     
+**(b)** Supervising and providing support for child’s learning;     
+**(c)** Reinforcing good study habits and attitudes;    
+**(d)** Being mindful of the stresses arising from school homework and out-of-school activities, and help their children prioritise their time among these activities; and    
 **(e)** Working in partnership with teachers to support child’s learning and development.
