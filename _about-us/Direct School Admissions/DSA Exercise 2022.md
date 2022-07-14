@@ -21,11 +21,7 @@ In Springfield, we nurture students to be lifelong learners and exemplary leader
 
 2\. Students who undergo the Junior Sports Academy programme or external academies and would like to explore their potential in Springfield Secondary School are strongly encouraged to apply. Applications for 2022 DSA Exercise will open from **5th May 2022** and the selection process will be conducted at our school.
 
-  
-
 For more information on various programmes, activities and/or opportunities that students can expect to participate in for Floorball, Rock-Climbing and Taekwondo, please refer to our School's CCA Website.
-
-  
 
 3. Specific sports trials and interviews will be conducted for shortlisted students based on their area of involvement and selection. Shortlisted DSA applicants will be notified of the dates of the trials and interviews. During the trial, shortlisted DSA applicants will immerse in the CCA session and require to demonstrate technical skills.
 
@@ -35,7 +31,7 @@ For more information on various programmes, activities and/or opportunities that
 
 2.     Concepts application like decision-making, and support play during gameplay
 
-  
+<br>
 
 *        Rock-Climbing
 
@@ -43,7 +39,7 @@ For more information on various programmes, activities and/or opportunities that
 
 2.     Fitness Test – duration of time climber can hang on the rock wall.
 
-  
+<br>  
 
 *       Taekwondo
 
