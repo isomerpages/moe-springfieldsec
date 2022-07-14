@@ -59,3 +59,9 @@ Application can be made via [DSA-SEC Portal](https://go.gov.sg/nmsdsa-sec-appli
 | <br> • Shortlisted applicants will be invited through a letter for a sports trial and interview       <br> • Shortlisted applicants will be advised on the date and time as well as attire for the tests<br><br>  	|  <br>Between 27th June <br>to <br>12th Sept 2022 	|
 | <br> • All applicants will receive letters on the outcome of their applications 	| Between 13 Sept<br>to <br>15 Sept 2022 	|
 | <br> • PSLE Result Release 	| Between 25 Nov<br>and <br>26 Nov 2022 (tentative) 	|
+
+**(D) IMPORTANT CLAUSES FOR APPLICANTS**
+
+* Successful DSA-SEC Students are **NOT** allowed to participate in the Secondary One Posting Exercise to opt for secondary schools as they are expected to honour the commitment made to the DSA-Sec school when they exercised their offer. **_If your child is not able to fulfil the DSA commitment without valid reasons, they may be required to transfer out to another school_**
+* Successful DSA-SEC Students are **NOT** allowed to transfer to another school after the release of the PSLE results
+*  **_Parents and Students are encouraged to choose Schools wisely based on the Student's Aptitudes and Strengths, bearing in mind the School's Academic and Non-Academic requirements, and the programmes available to develop the area of talent_**
