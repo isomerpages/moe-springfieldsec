@@ -45,14 +45,17 @@ For more information on various programmes, activities and/or opportunities that
 
 1.     Poomsae - Pattern display of Belt Level
 
-_Please note that meeting all the criteria does not guarantee the student will be shortlisted/given an offer._
-
-  
+_Please note that meeting all the criteria does not guarantee the student will be shortlisted/given an offer._ 
 
 **(B) APPLICATION PROCESS**
-
-  
 
 Application can be made via [DSA-SEC Portal](https://go.gov.sg/nmsdsa-sec-application). It is a free-of-charge and the application period is from 5th May 2022 (Thursday, 9am) to 1st June 2022 (Wednesday, 3pm). For more details, please refer to MOE website – [www.moe.gov.sg/dsa-sec](http://www.moe.gov.sg/dsa-sec)
 
 **(C) IMPORTANT DATES TO NOTE**
+
+| DSA Exercise 	| Time Frame 	|
+|---	|---	|
+|  Start of DSA Application<br><br> • Application can be made via (DSA-SEC Portal)<br> 	| 5th May 2022 (Thursday, 9am) <br>to <br>1st June 2022 (Wednesday, 3pm) 	|
+| <br> • Shortlisted applicants will be invited through a letter for a sports trial and interview       <br> • Shortlisted applicants will be advised on the date and time as well as attire for the tests<br><br>  	|  <br>Between 27th June <br>to <br>12th Sept 2022 	|
+| <br> • All applicants will receive letters on the outcome of their applications 	| Between 13 Sept<br>to <br>15 Sept 2022 	|
+| <br> • PSLE Result Release 	| Between 25 Nov<br>and <br>26 Nov 2022 (tentative) 	|
