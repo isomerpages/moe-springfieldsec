@@ -122,3 +122,12 @@ I am thankful for my Teachers-In-Charge, my Coach, and especially my Teammates f
 _SITI KHADIJAH BTE MD YAACOB (2013-2016)_    
 _2013: NSG C Div 2ND PLACE_     
 _2015: NSG B Div 2ND PLACE_
+
+<br>
+<br>
+
+<img src="/images/2019.jpg" style="width:300px;height:220px;margin-left:15px;" align = "right">
+
+I picked up the Sport Floorball in Primary School. Being a sporty person by nature, I also love to try out new things. Floorball wasn't popular back then but I wanted to give it a try. I went for the trials and to my surprise, the Sport was really fun and intense. I love how one moment you can be two goals down but the next moment, you're two goals up and the tides can change at any given moment. After the trials, a strong drive and passion for Floorball started to develop within me. I was then selected to represent my Primary School and when it was my time to graduate, I wasn't good in my Academics. So, I used Floorball to help me get into the Secondary School I wanted through DSA. I was given the opportunity to lead as the Captain for my Secondary School Team. Floorball has shaped me into a better person with great leadership, good character and taught me that with Hard Work, Resilience, Teamwork and Dedication, you can achieve your goals. I now continue my Floorball Journey with my Secondary School and External Floorball Club Team.  
+
+_NG KAI YANG (2019) - FLOORBALL BOYS' CAPTAIN_
