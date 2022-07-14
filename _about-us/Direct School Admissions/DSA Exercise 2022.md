@@ -119,6 +119,6 @@ _MARK CHAN \[5B\] (2017) - NATIONAL ATHLETE & OLYMPIC HOPEFUL IN ROCKWALL CLIMBI
 Floorball has been my hobby since Primary 3. The fast-paced Game encourages me to make decisions quickly and practice communication among my teammates in Court. I was elected the Vice-Captain and did my best to lead by example. 
 I am thankful for my Teachers-In-Charge, my Coach, and especially my Teammates for being a part of my Springfield floorball journey. My passion for Floorball has yet to fade. Currently, I'm playing for U Sports Protege FC and also Nanyang Polytechnic while pursuing my Diploma in Sport & Wellness Management. Certainly, the Four Years playing floorball has helped me in becoming someone who is more resilient to challenges, confident to stand out, and disciplined to juggle various responsibilities.
 
-_SITI KHADIJAH BTE MD YAACOB (2013-2016)_
-_2013: NSG C Div 2ND PLACE_
+_SITI KHADIJAH BTE MD YAACOB (2013-2016)_    
+_2013: NSG C Div 2ND PLACE_     
 _2015: NSG B Div 2ND PLACE_
