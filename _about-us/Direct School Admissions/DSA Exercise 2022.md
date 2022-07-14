@@ -79,3 +79,5 @@ I was offered a CCA Leader Role in Sec 2 which inspired me to achieve more. I th
 I had gotten silver and bronze medals in Sec 1 but after me putting in more effort to train and improve, I won consistent gold medals every year since.
 
 With Taekwondo boosting my confidence throughout the 4 Years from starting Sec 1 with a White belt to ending Sec 4 as a Red Belt, I had become more disciplined resilient and confident.
+
+_LOH JAVIER \[SEC 4 COMPASSION\] (2019) - CAPTAIN OF TAEKWONDO TEAM_
