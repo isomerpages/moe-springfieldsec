@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Admin Matters/Safety & Security Measures.md
       - Admin Matters/Homework Policy.md
       - Admin Matters/Fees Information.md
       - Admin Matters/School Suppliers.md
