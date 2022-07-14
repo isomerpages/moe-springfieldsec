@@ -82,9 +82,13 @@ With Taekwondo boosting my confidence throughout the 4 Years from starting Sec 1
 
 _LOH JAVIER \[SEC 4 COMPASSION\] (2019) - CAPTAIN OF TAEKWONDO TEAM_
 
+<br>
+<br>
+
+
 Unlike most others, I was home-schooled up till PSLE growing up. Naturally, I was more reserved and soft-spoken than most of my peers and struggled with speaking in front of a group of people initially.
 
-  
+<img src="/images/JENNA.jpg" style="width:300px;height:220px;margin-left:15px;" align = "right">
 
 In my time in OPC, I was tried again and again both physically and mentally. I was given many leadership opportunities such as being appointed as being the Overall-In-Charge for a day in our Annual Let's Rock Competition in Secondary 2 and the Climbing Master in the CCA for my Upper Secondary days. Through these Experiences, I quickly built confidence and was eventually able to clearly delegate roles to my Juniors. 
 
