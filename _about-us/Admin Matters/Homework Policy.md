@@ -14,10 +14,10 @@ third_nav_title: Admin Matters
 
 2.1  Enable students to:
 
-(a) reinforce learning and deepen understanding of lessons taught;    
-(b) to regularly practise, and apply skills and concepts taught;   
-(c) develop good study skills and habits; and   
-(d) take greater ownership and responsibility for independent learning.
+**(a)** reinforce learning and deepen understanding of lessons taught;    
+**(b)** to regularly practise, and apply skills and concepts taught;   
+**(c)** develop good study skills and habits; and   
+**(d)** take greater ownership and responsibility for independent learning.
 
 2.2  Enable teachers to:
 
