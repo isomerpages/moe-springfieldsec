@@ -2,5 +2,6 @@ collections:
   about-us:
     output: true
     order:
+      - Admin Matters/School Suppliers.md
       - Admin Matters/Financial Assistance.md
       - Admin Matters/.keep
