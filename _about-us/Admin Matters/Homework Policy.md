@@ -27,9 +27,8 @@ third_nav_title: Admin Matters
 
 2.3  Enable parents to:
 
-> (a) have timely information on the learning progress of their child; and
-> 
-> (b) have an opportunity to be involved in the child’s learning.
+**(a)** have timely information on the learning progress of their child; and      
+**(b)** have an opportunity to be involved in the child’s learning.
 
 ### 3\. Key Considerations for Homework Assignment
 
