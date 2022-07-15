@@ -70,3 +70,7 @@ Last but not least, learning journeys and participation in competitions are orga
 ### Historical Scene Investigation (HSI) Challenge 2020
 
 ![](/images/HSI%20challenge%20team%20photo.jpg)
+
+2E History enthusiasts, Nur Adiibah, Dinie Erina, Anis Farhany and Riesya Qusyairah, did Springfield proud by clinching a **GOLD** Award in the Historical Scene Investigation (HSI) Challenge 2020 organized by the National Library Board (NLB) and CPDD Humanities Branch.  
+  
+In response to the historical inquiry question: '_What public health-related incident or movement did Singapore experience in the period from 1900 to 2000? Compare and Contrast the challenges faced and the ways they were overcome by the people in the past to the present day_', the team produced a poster on "_Tuberculosis in Singapore (1945 - 1979)_".
