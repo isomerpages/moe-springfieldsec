@@ -73,3 +73,9 @@ A collaboration with the Science Department, we want the Students to learn Mathe
 
 ![](/images/k2.jpg)
 *Students are cutting out the kite*
+
+![](/images/k3.jpg)
+*The Students are flying their kites at the School Field*
+
+![](/images/k4.jpg)
+*The Students proudly showing their hand-made kites*
