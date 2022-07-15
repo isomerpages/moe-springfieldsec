@@ -79,3 +79,13 @@ Using the knowledge and skills acquired from their Science and Mathematics lesso
 ![](/images/16xx.jpg)
 
 ![](/images/17xx.jpg)
+
+### **Biodiversity Learning Journey**
+
+Secondary 2 students were engaged in an outdoor learning experience in Ecology at different locations in Singapore last year. They had the opportunity to explore the rich biodiversity of the flora and fauna of Singapore and learn about the conservation efforts and strategies that aim at conserving Singapore's habitats and ecosystems for long-term sustainability. While some classes went on a learning trail at Bukit Timah Nature Reserve, other classes went to the Lee Kong Chian Natural History Museum and Sungei Buloh Wetland Reserve.
+
+During the learning journey at the Bukit Timah Nature Reserve, students were able to experience and interact with nature and learn about the variety of plant, animal and insect life in one of Singapore's richest and most diverse ecological systems. At the same time, students also learnt about the importance of conserving our natural heritage and developed a sense of commitment and ownership of the reserve. 
+
+At the Lee Kong Chian Natural History Museum, students explored the biodiversity gallery, tracing the history of life on Earth, learnt about the evolution history of terrestrial vertebrates and studied closely the diplodocid sauropod skeletons. Explorations of the gallery aroused the students' curiosity and interest in the rich natural history and heritage of Singapore and had a better appreciation and understanding of the conservation efforts in Singapore.
+
+The learning trail through the wetlands of Sungei Buloh Wetland Reserve, Singapore's first ASEAN Heritage Park, enabled students to explore and discover the rich biodiversity of the extensive mangrove forest of the reserve. Trekking through the trails of the reserve, students discovered the native inhabitants of the reserve such as the mudskippers, crabs, monitor lizards and otters, and learnt about the resident birds such as the herons, the kingfishers and sunbirds.
