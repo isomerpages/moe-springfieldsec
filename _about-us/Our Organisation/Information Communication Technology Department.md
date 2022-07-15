@@ -46,3 +46,7 @@ Transformative Teaching and Learning Experiences
 ### Department Programmes:
 
 In alignment with the National Digital Literacy Programme's (NDLP) aim to strengthen students' digital literacy in order for them to be future-ready, the Springfield ICT Department has developed and ran programmes which allows students to acquire digital skills across four components, i.e. "**_Find, Think, Apply, Create_**".
+
+![](/images/ICT.jpg)
+
+
