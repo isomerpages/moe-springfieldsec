@@ -132,3 +132,7 @@ To promote the love of reading, the Chinese unit carries out the reading pro
 ![](/images/CL2.jpg)
 
 The Chinese unit has organized China Immersion trips. We have been to cities like Shanghai, Suzhou, Hangzhou, Xi’An, and Beijing and visited Bin Wang Middle School and Xi’An 26th Middle School.
+
+![](/images/CL3.jpg)
+
+In addition, to ignite the students’ love for the Chinese language, we have programmes such as Mother Tongue fortnight and Cultural Performance Exposure Scheme.
