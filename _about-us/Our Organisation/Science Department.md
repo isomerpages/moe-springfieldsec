@@ -89,3 +89,9 @@ During the learning journey at the Bukit Timah Nature Reserve, students were abl
 At the Lee Kong Chian Natural History Museum, students explored the biodiversity gallery, tracing the history of life on Earth, learnt about the evolution history of terrestrial vertebrates and studied closely the diplodocid sauropod skeletons. Explorations of the gallery aroused the students' curiosity and interest in the rich natural history and heritage of Singapore and had a better appreciation and understanding of the conservation efforts in Singapore.
 
 The learning trail through the wetlands of Sungei Buloh Wetland Reserve, Singapore's first ASEAN Heritage Park, enabled students to explore and discover the rich biodiversity of the extensive mangrove forest of the reserve. Trekking through the trails of the reserve, students discovered the native inhabitants of the reserve such as the mudskippers, crabs, monitor lizards and otters, and learnt about the resident birds such as the herons, the kingfishers and sunbirds.
+
+![](/images/18.jpg)
+*An exploration of the biodiversity of the flora and fauna of the mangroves in Sungei Buloh Wetland Reserve.*
+
+
+
