@@ -49,3 +49,7 @@ Intra-school competitions are held throughout the year for students to apply the
 2021 Merit Award in the 6th National Secondary Chinese Poetry Writing Competition 2021 Gold Award in the National Secondary Chinese Creative Writing Competition “Xin Lei Jiang"
 
 **Students’ Works**
+
+For more information, click here.
+
+(file exceeds 5mb)
