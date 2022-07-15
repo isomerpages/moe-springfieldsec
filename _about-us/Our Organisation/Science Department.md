@@ -103,3 +103,6 @@ The learning trail through the wetlands of Sungei Buloh Wetland Reserve, Singapo
 Started as an American cooking game show involving kids from ages nine to twelve years old, the Junior MasterChef has caught on in several other countries. Springfield Secondary School had also launched in 2019 its very own SFSS Junior MasterChef Challenge involving Secondary 1 students, with the theme 'Festive Cookies'. The challenge aimed at getting students to apply what they had learnt in their FCE lessons and display their baking skills and creativity by preparing and plating their baked goodies based on the requirements of the challenge. The challenge also aims to promote interest in the culinary art and food sciences.
 
 Secondary 1 students were provided with some training during their FCE practical lessons to learn and acquire certain culinary skills. In the preliminary round, the best two pairs of students from each class were shortlisted and went on to compete in the final round. Prior to the challenge, the contestants attended a Baking Masterclass to refine and hone further their skills at baking and icing cookies. The winners of the challenge were voted for by their peers and a panel of judges.
+
+![](/images/sci-12.jpg)
+*Students learn to work in teams to create their own unique batch of Festive Cookies.*
