@@ -23,3 +23,5 @@ Email: [_muhammad\_hafiz\_salleh@moe.edu.sg_](mailto:muhammad_hafiz_salleh@moe.
 
 ### Department Goals/ Objectives:
 
+![](/images/Slide1.jpg)
+![](/images/Slide2.jpg)
