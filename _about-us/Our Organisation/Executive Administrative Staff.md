@@ -16,3 +16,11 @@ third_nav_title: Our Organisation
 ![](/images/WhatsApp%20Image%202020-09-03-1.jpeg)
 
 ![](/images/executive%20administrative%20staff.jpg)
+
+**SAT Competency Framework Workshop**
+
+![](/images/Workshop%20Pic%201.jpg)
+
+![](/images/Workshop%20Pic%202.jpg)
+
+![](/images/Workshop%20Pic%205.jpg)
