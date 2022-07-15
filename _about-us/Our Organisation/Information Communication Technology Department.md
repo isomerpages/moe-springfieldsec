@@ -49,3 +49,13 @@ In alignment with the National Digital Literacy Programme's (NDLP) aim to streng
 
 ![](/images/ICT.jpg)
 Click [**_HERE_**](https://springfieldsec.moe.edu.sg/programmes/national-digital-literacy-programme-ndlp) to learn more about the National Digital Literacy Programme (NDLP)
+
+### New Media Literacy Programme
+
+<img src="/images/ict4.png" style="width:200px;height:200px;margin-left:15px;" align = "right">
+
+To support the Personalised Learning Environment, students will access self-paced 
+
+SLS lessons on New Media Literacy and attend engagement sessions to develop their dispositions, knowledge and skills to thrive in the digital environment.
+
+The New Media Literacy programme aims to equip students with the competencies to Curate, Create, Connect information in the digital networked environment and to Apply the productivity skills to operate devices and software effectively.
