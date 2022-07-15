@@ -4,39 +4,26 @@ permalink: /about-us/our-organisation/information-communication-technology-depar
 description: ""
 third_nav_title: Our Organisation
 ---
-Information Communication Technology Department
-===============================================
+# **Information Communication Technology Department**
 
   
 
-### 
+### Head of Department
 
-**Head of Department**  
-
-[](https://springfieldsec.moe.edu.sg/about-us/our-organisation/information-communication-technology-department)
-
-### 
-
-Mr Ng Jenn Yang
-
+Mr Ng Jenn Yang     
 Email: [_ng\_jenn\_yang@moe.edu.sg_](mailto:ng_jenn_yang@moe.edu.sg)
 
-  
 
-Coordinators:  
+### Coordinators:  
 
-**Computing :** Mr Ng Jenn Yang
-
+**Computing :** Mr Ng Jenn Yang    
 **Computer Applications (CPA) :** Mr Lim Kim Mong
 
-  
 
 ### Technology Support:
 
-ICT Manager
-
-Mr Neo Jun Kiat (Desktop Engineer)  
-
+ICT Manager        
+Mr Neo Jun Kiat (Desktop Engineer)            
 Mr Anizar Bin Abdul Rahim (Desktop Engineer)
 
   
@@ -47,21 +34,14 @@ Mr Anizar Bin Abdul Rahim (Desktop Engineer)
 
 Transformative Teaching and Learning Experiences
 
-\- To enhance Teaching & Learning
-
-\- To support Self-directed and Collaborative Learning
-
-\- To support the development of Digital Literacies
-
-  
+- To enhance Teaching & Learning
+- To support Self-directed and Collaborative Learning
+- To support the development of Digital Literacies
 
 ### Curriculum & Assessments:
 
 *   Computing (O Level - 7155)  
-    
 *   Computer Applications (N Level -7018)
-
-  
 
 ### Department Programmes:
 
