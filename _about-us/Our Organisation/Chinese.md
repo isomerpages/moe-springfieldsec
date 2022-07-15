@@ -60,23 +60,12 @@ The Chinese unit aims to create a supporting environment, to nurture lifelong le
 本校所参与的比赛包括：
 
 <table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><td style="background-color:#ffffff;border-color:#ffffff;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"> • 新蕾奖<br><br> • 青年奥运小记者比赛<br><br> • “VOX！新媒体新闻工作坊<br><br> • 读吧！新加坡’创意阅读比赛<br></td><td style="background-color:#ffffff;border-color:#ffffff;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"> • “地球村”青少年双语演讲大赛<br><br> • 全国中小学生华文文化常识比赛<br><br> • 中学、初级及理工学院中英文互译比赛<br></td></tr></thead></table>
-
   
-
-  
-
-  
-
-  
-
-  
-
-  
-
+	
 ＊校内外活动**Activities**  
  本校所参与的活动包括：  
 
-<table class="ive_eobj_left ives_tab_kosong" style="margin: 0px 10px 0px 0px; outline: 0px; padding: 0px; border-collapse: collapse; float: left; border: none; table-layout: fixed; text-align: justify; font-size: 13.3333px; width: 506px; height: 60px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px !important; vertical-align: top; border: none; background: rgb(244, 244, 244); color: rgb(0, 0, 0); width: 249px;"><ul style="margin: 0px 0px 0.5em 1em; outline: 0px; padding: 0px;"><li style="margin: 0px; outline: 0px; padding: 0px;">阅读计划<br style="margin: 0px; outline: 0px; padding: 0px;"></li><li style="margin: 0px; outline: 0px; padding: 0px;">中国浸濡<br style="margin: 0px; outline: 0px; padding: 0px;"></li><li style="margin: 0px; outline: 0px; padding: 0px;">文化交流<br style="margin: 0px; outline: 0px; padding: 0px;"></li><li style="margin: 0px; outline: 0px; padding: 0px;">母语双周<br style="margin: 0px; outline: 0px; padding: 0px;"></li></ul></td><td style="margin: 0px; outline: 0px; padding: 0px !important; vertical-align: top; border: none; background: rgb(244, 244, 244); color: rgb(0, 0, 0); width: 249px;"><ul style="margin: 0px 0px 0.5em 1em; outline: 0px; padding: 0px;"><li style="margin: 0px; outline: 0px; padding: 0px;">新年庆祝会</li><li style="margin: 0px; outline: 0px; padding: 0px;">世界书香日<br style="margin: 0px; outline: 0px; padding: 0px;"></li><li style="margin: 0px; outline: 0px; padding: 0px;">“文化随意门”计划<br style="margin: 0px; outline: 0px; padding: 0px;"></li></ul></td></tr></tbody></table>
+<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><td style="background-color:#ffffff;border-color:#ffffff;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"> • 阅读计划<br><br> • 中国浸濡<br><br> • 文化交流<br><br> • 母语双周<br></td><td style="background-color:#ffffff;border-color:#ffffff;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"> • 新年庆祝会<br><br> • 世界书香日<br><br> • “文化随意门”计划</td></tr></thead></table>
 
   
   
