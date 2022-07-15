@@ -32,7 +32,7 @@ The Science and Food Science Research Programme (SFSRP) is offered to selected S
 
 ![](/images/45678.jpg)
 
-### **2019 East Zone A\*STAR Science Fair  
+### 2019 East Zone A\*STAR Science Fair  
 
 **Achievement: Merit Award**
 
