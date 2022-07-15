@@ -52,3 +52,5 @@ With each magazine dedicated to the different streams, these EL magazines aims t
 
 * **News Reading Programme**   
 The department believes in providing students opportunities to use the language in real-life applications. The News Reading programme aims to give students the platform for them to showcase their reading and presentation skills. At the same time, it is also to imbue students with the confidence in public speaking as well as the use of good conversational English.
+
+![](/images/News%20Reading%20Programme.jpg)
