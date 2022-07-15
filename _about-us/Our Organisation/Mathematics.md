@@ -60,3 +60,6 @@ The Students also learn life skills such as Oral Communication when presenting t
 
 ![](/images/i2.jpg)
 *Students showing proudly their hand-made sound amplifiers.*
+
+![](/images/i3.jpg)
+*Students doing their sales pitch to the Sec 1s.*
