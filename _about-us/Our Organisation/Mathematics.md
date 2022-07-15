@@ -47,3 +47,10 @@ This is a collaboration with the Science Department and the theme for this Year 
 
 ![](/images/e2.jpg)
 *Students trying to solve a Science Question.*
+
+**Interdisciplinary Project Work (IPW): Sec 2 (2019)**    
+This is a collaboration with the Mathematics, Design and Technology and ART Department. 
+
+We want to provide the Students with an authentic learning platform where they can learn through research and collaboration, think critically and creatively. 
+
+The Students also learn life skills such as Oral Communication when presenting their ideas and working effectively in teams.
