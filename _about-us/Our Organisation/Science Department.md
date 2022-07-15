@@ -63,4 +63,11 @@ _Chemistry Station_: Students used chromatography to analyze and investigate the
 _Biology Station_: Students carried out food tests on an unknown food sample to analyze its nutritional content.
 
 ![](/images/sci-8.jpg)
-_Food Science Station_: Students learnt about the Science behind caramelisation and popping of the corn kernels
+_Food Science Station_: Students learnt about the Science behind caramelisation and popping of the corn kernels.
+
+
+### **Science and Mathematics Educational Escape Room**
+
+The Science and Mathematics Educational Escape Room is a collaborative effort of the two departments to promote applied learning of scientific and mathematical concepts amongst the Secondary 1 students.
+
+Using the knowledge and skills acquired from their Science and Mathematics lessons, students applied their learning to solve Science and Mathematics tasks of varying difficulties. Clues given help the students solve the murder mystery and escape from the crime scene within the shortest time possible. The Science and Mathematics Educational Escape Room programme aims to engage the students by making the learning of the Sciences and Mathematics fun, exciting and meaningful. The activities and tasks that the students participated in help develop critical thinking skills and problem solving skills that are key in today's world. This programme is also one of our school's unique approach towards formative assessments and applied learning in both Science and Mathematics.
