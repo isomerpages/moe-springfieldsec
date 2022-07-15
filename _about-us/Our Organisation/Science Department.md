@@ -29,3 +29,7 @@ Email: [neo_hui_jun@moe.edu.sg](mailto:neo_hui_jun@moe.edu.sg)_
 The Science and Food Science Research Programme (SFSRP) is offered to selected Secondary 3 students who have demonstrated interest in and aptitude for scientific research. It provides the opportunity for these Students to participate actively in research projects independently and responsibly, under the guidance of the Science and NFS Research Mentors. The programme aims to promote an early appreciation of the methods, culture and ethos of research through immersion of scientific inquiry. The research teams will thereon communicate their research findings at various Science Research Competitions.
 
 ![](/images/Sci-1.jpg)
+
+![](/images/12345.jpg)
+
+![](/images/45678.jpg)
