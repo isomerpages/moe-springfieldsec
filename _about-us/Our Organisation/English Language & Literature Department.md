@@ -54,3 +54,12 @@ With each magazine dedicated to the different streams, these EL magazines aims t
 The department believes in providing students opportunities to use the language in real-life applications. The News Reading programme aims to give students the platform for them to showcase their reading and presentation skills. At the same time, it is also to imbue students with the confidence in public speaking as well as the use of good conversational English.
 
 ![](/images/News%20Reading%20Programme.jpg)
+
+
+### **Events / Competitions in 2020**
+
+**Read for Books 2020 - organized by National Library Board**  
+  
+75 students from 1A, 1D and 1C contributed to the society by participating in the Read for Books initiative organized by the National Library Board.  
+  
+Read for Books is a charity book drive with the intention of raising awareness of reading as well as sharing the gift of reading with the less privileged. For every 10 people who read for 15 minutes, one book will be donated to selected beneficiaries.
