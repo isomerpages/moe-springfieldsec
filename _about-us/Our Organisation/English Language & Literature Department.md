@@ -92,3 +92,6 @@ Our upper secondary Literature students worked in teams of 4 and engaged in a de
 As part of bringing Literature to life, the secondary 2 cohort went to watch a play based on the short story that they are reading, '_The Mistake_' by local writer Cyril Wong. Apart from that, the students also walked along the Singapore River to put themselves in the stories that they read in their Literature text, _Balik Kampung 2A_.
 
 ![](/images/Lower%20Sec%20LJ%20to%20Civic%20District.jpg)
+
+**Literature Learning Journey to Little India (Upper Sec)**    
+Based on their Literature text of '_Hullabaloo in the Guava Orchard_', students immersed themselves in the Indian culture in order to understand their text better. Students not only learn about the Indian culture, they also got opportunity to savour authentic Indian cuisines that would whet anyone's appetite.
