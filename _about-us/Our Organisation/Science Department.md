@@ -61,3 +61,6 @@ _Chemistry Station_: Students used chromatography to analyze and investigate the
 
 ![](/images/sci-7.png)
 _Biology Station_: Students carried out food tests on an unknown food sample to analyze its nutritional content.
+
+![](/images/sci-8.jpg)
+_Food Science Station_: Students learnt about the Science behind caramelisation and popping of the corn kernels
