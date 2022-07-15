@@ -27,3 +27,5 @@ The SIR is a unique programme designed and customised to provide the students wi
 
 \* Staggered Dismissal    
 \** Students are required to bring along PE attire for CCA immersion activities on Wednesday and Thursday
+
+**Secondary 2**
