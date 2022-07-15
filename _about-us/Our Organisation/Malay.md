@@ -56,8 +56,6 @@ The theme for this year is ‘Jejak Warisan’ (Heritage Trail). There will be 
 
 In our continuous effort to inculcate good reading habits amongst students, selected reading materials suitable for our age readers are compiled and presented in a booklet. Good reading skills are also reinforced among our young readers. This is done through a special column allocated in every reading page to encourage reflective reading. Students can pen their thoughts as they read.
 
-  
-
 All students are involved in the programme which takes place from Term 1 onwards.
 
 **“Peribahasa: Kekreatifan Kita” Programme**
