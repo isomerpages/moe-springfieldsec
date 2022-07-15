@@ -12,7 +12,7 @@ In Springfield we believe in nurturing **Lifelong Learners** who will eventual
 
 Being able to start it right and to learn to not be alone but to enjoy the support and camaraderie of friends, our Springfielders have proven that they get the freedom to choose the road they want to travel, knowing that the teachers and allied educators are present to lend them a helping hand whenever they need it.
 
-All this will culminate with our Springfielders preparing themselves for their milestone test of readiness to graduate from secondary education and progress on to post-secondary pursuits – junior college / polytechnic / ITE vocational training.  
+All this will culminate with our Springfielders preparing themselves for their milestone test of readiness to graduate from secondary education and progress on to post-secondary pursuits – Junior College / Polytechnic / ITE vocational training.  
 
 Here, I am pleased to share that our cohort 2021 have all successfully completed their secondary education and all have found different pathways to build their future.
 
@@ -22,12 +22,7 @@ Thus, I hope that all parents and Springfielders who have read this message will
 
 Let’s be together and we will achieve!
 
-_
-
-_Mrs Mabel Leong_ 
-
-_Principal_ 
-
+_Mrs Mabel Leong_    
+_Principal_    
 _Springfield Secondary School_
 
-_
