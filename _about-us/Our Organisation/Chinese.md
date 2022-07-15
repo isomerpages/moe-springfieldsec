@@ -123,6 +123,8 @@ We have participated and achieved in National Competitions, such as Chinese Crea
 
 ![](/images/DJJK6101-1.jpg)
 
+![](/images/CL1.jpg)
+
 The intra-school competitions held include CNY Classroom Decoration Competition, Reading Competition, Writing Competition, Lyrics Writing Competition, Chinese Input Competition and Cultural Quiz.
 
 To promote the love of reading, the Chinese unit carries out the reading programme for all levels and streams.
