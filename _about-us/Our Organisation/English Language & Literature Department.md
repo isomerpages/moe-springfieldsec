@@ -87,3 +87,6 @@ The National Schools Literature Festival (NSLF) is the biggest literary festival
 Our upper secondary Literature students worked in teams of 4 and engaged in a debate with another school. The debate topic is an argumentative topic based on their Sec 3 Literature text. After multiple rounds of debate with schools from all over Singapore, our Springfield team emerged as the winners for their round. Congratulations!
 
 ![](/images/National%20Schools%20Literature%20Festival.jpg)
+
+**Literature Learning Journey to Singapore's Civic District (Lower Sec)**     
+As part of bringing Literature to life, the secondary 2 cohort went to watch a play based on the short story that they are reading, '_The Mistake_' by local writer Cyril Wong. Apart from that, the students also walked along the Singapore River to put themselves in the stories that they read in their Literature text, _Balik Kampung 2A_.
