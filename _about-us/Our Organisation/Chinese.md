@@ -136,3 +136,7 @@ The Chinese unit has organized China Immersion trips. We have been to cities lik
 ![](/images/CL3.jpg)
 
 In addition, to ignite the students’ love for the Chinese language, we have programmes such as Mother Tongue fortnight and Cultural Performance Exposure Scheme.
+
+![](/images/KIDV46671.jpg)
+
+![](/images/IMG_0020.jpg)
