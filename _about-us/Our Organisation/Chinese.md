@@ -140,3 +140,5 @@ In addition, to ignite the students’ love for the Chinese language, we have pr
 ![](/images/KIDV46671.jpg)
 
 ![](/images/IMG_0020.jpg)
+
+![](/images/CL4.jpg)
