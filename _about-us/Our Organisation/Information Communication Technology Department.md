@@ -68,4 +68,20 @@ As part of STEM (_Science, Technology, Engineering and Mathematics_) education, 
 
 The micro:bit lessons is another signature programme that allow students to develop logical thinking and design skills. Students are provided the opportunities to apply these skills in Interdisciplinary Project Work (_IPW_) and Applied Learning Programme (ALP).
 
-The Lower Secondary coding programme not only equips the students with an important digital competency skill, it also lays the foundation for the aspiring students to offer Computing as an O Level subject in the Upper Secondary
+The Lower Secondary coding programme not only equips the students with an important digital competency skill, it also lays the foundation for the aspiring students to offer Computing as an O Level subject in the Upper Secondary.
+
+
+### Cyber Wellness Programme
+
+The Springfield Cyber Wellness programme focuses on equipping students with an understanding of online behaviour and enable them to be responsible for their own well-being in cyberspace. The ICT department works with the CCE committee to run a myriad of activities ranging from Cyber Wellness talk, CCE lessons and post-exam programmes to teach the students to:  
+  
+
+*   Sense - Identify possible online risks and protect themselves
+*   Think - Analyze, evaluate and reflect on a situation based on the CW principles.
+*   Act - Take actions to keep safe and be a positive influence online.
+
+### Competitions
+
+*   Annual CPA Animation & Game Making Competition
+*   National Infocomm Competition by IMDA
+*   East Zone Hackathon
