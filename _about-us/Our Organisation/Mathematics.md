@@ -63,3 +63,13 @@ The Students also learn life skills such as Oral Communication when presenting t
 
 ![](/images/i3.jpg)
 *Students doing their sales pitch to the Sec 1s.*
+
+#### **Kite Design and Flying: Sec 2 (2019)**
+
+A collaboration with the Science Department, we want the Students to learn Mathematics and Science concepts through this activity. The Students learnt about the forces acting on the kite and the properties of the shape used for the kite.
+
+![](/images/k1.jpg)
+*The teacher is going through the Mathematics behind kite design*
+
+![](/images/k2.jpg)
+*Students are cutting out the kite*
