@@ -43,8 +43,12 @@ The spirit and intent of the reading programme is for Springfielders to keep abr
 
 	Carefully curated articles from various themes suitable for the different levels and streams are put together by the department teachers for student to access readily through the school app, Kaleidoscope. These articles include a word bank quiz and questions for students to reflect on, of which will then be covered in their English Language lessons in class.
 
-English Language Magazines (i-Magazine, i-THINK & iNSPIRE) 
-With each magazine dedicated to the different streams, these EL magazines aims to supplement student's learning of the language. Pitched appropriately to the different levels, students will subscribe to 4-issues of the magazines that abides closely with MOE EL Syllabuses.  
+<br>
 
-News Reading Programme 
-The department believes in providing students opportunities to use the language in real-life applications. The News Reading programme aims to give students the platform for them to showcase their reading and presentation skills. At the same time, it is also to imbue students with the confidence in public speaking as well as the use of good conversational English. 
+* **English Language Magazines (i-Magazine, i-THINK & iNSPIRE)**   
+With each magazine dedicated to the different streams, these EL magazines aims to supplement student's learning of the language. Pitched appropriately to the different levels, students will subscribe to 4-issues of the magazines that abides closely with MOE EL Syllabuses.
+
+<br>
+
+* **News Reading Programme**   
+The department believes in providing students opportunities to use the language in real-life applications. The News Reading programme aims to give students the platform for them to showcase their reading and presentation skills. At the same time, it is also to imbue students with the confidence in public speaking as well as the use of good conversational English.
