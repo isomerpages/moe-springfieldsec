@@ -93,5 +93,4 @@ The learning trail through the wetlands of Sungei Buloh Wetland Reserve, Singapo
 ![](/images/18.jpg)
 *An exploration of the biodiversity of the flora and fauna of the mangroves in Sungei Buloh Wetland Reserve.*
 
-
-
+![](/images/sci-11.jpg)
