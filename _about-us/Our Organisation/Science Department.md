@@ -39,3 +39,9 @@ The Science and Food Science Research Programme (SFSRP) is offered to selected S
 **Achievement: Merit Award**
 
 On 30th July 2019, 3 students from Secondary 3 Fortitude took part in the annual East Zone A\*STAR Science Fair 2019, organized by the East Zone Science and Technology Centre at Victoria Junior College and sponsored by A\*STAR. This is part of the school's effort in inspiring and generating greater interest in Science, Technology, Engineering and Mathematics among our Students. Kristal Koo Ting Yean, Qistina Nadhirah and Shermaine Lau Tsz Kei conducted an investigative science project on the effectiveness of Solar Water Disinfection (SODIS) and the amount of time required for effective pathogen inactivation. The team spent months carrying out various experiments using recycled PET bottles brought back from their Global Education Programme in Siem Reap, Cambodia. On Judging Day, the team impressed the panel with their creativity, experimental design and teamwork and clinched the Merit Award. Through this project, the team found the overall experience invaluable as it helped to instill in them the confidence to pursue research work at the tertiary level and to further develop their interest in the sciences.
+
+![](/images/sci-3.jpg)
+*Prize presentation for the East Zone A\STAR Science Fair at Victoria Junior College.*
+
+![](/images/sci-2.jpg)
+*The research Team collected and ran tests on the water sample collected from the school's Ecology pond.*
