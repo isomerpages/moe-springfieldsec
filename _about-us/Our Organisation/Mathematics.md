@@ -41,3 +41,9 @@ Students trying to solve a question on which menu is more value for money.
 #### Escape Room: Sec 1 (2019)
 
 This is a collaboration with the Science Department and the theme for this Year is CSI. The Students had to apply their Mathematics and Science knowledge to solve the puzzles and gain clues to identify the suspects.
+
+![](/images/e1.jpg)
+*Students trying to solve a Mathematics Question.*
+
+![](/images/e2.jpg)
+*Students trying to solve a Science Question.*
