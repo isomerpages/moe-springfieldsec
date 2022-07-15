@@ -57,5 +57,4 @@ This is a collaboration between the Art, D&amp;T and Music Unit of the C&amp;T D
 <br>
 
 ![](/images/IW5.png)
-
 Students learning how to apply rhythms and formation to put together a short performance with their Cajons during Music lessons
