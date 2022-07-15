@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Our Organisation/Executive Administrative Staff.md
       - Our Organisation/.keep
       - School Corporate Video.md
       - Direct School Admissions/Direct School Admissions.md
