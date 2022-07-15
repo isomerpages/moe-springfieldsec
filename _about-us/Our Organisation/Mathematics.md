@@ -79,3 +79,14 @@ A collaboration with the Science Department, we want the Students to learn Mathe
 
 ![](/images/k4.jpg)
 *The Students proudly showing their hand-made kites*
+
+#### **Real World Tasks: Sec 3 (2019)**
+
+The ability to apply Mathematics to real-life contexts is of utmost importance. At Secondary 3 Level, the Teachers come together and crafted out authentic real-world tasks for the Students to apply their Mathematics knowledge.
+
+![](/images/r1.jpg)
+![](/images/r2.jpg)
+*Students need to assess what kind of dimensions are needed for their calculation and how to get these dimensions.*
+
+![](/images/r3.jpg)
+*Student making use of inclinometer app to measure the angle of elevation*
