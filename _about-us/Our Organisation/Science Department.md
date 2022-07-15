@@ -45,3 +45,14 @@ On 30th July 2019, 3 students from Secondary 3 Fortitude took part in the annual
 
 ![](/images/sci-2.jpg)
 *The research Team collected and ran tests on the water sample collected from the school's Ecology pond.*
+
+### **Science and FCE Carnival**
+
+The Science & FCE Carnival is a specially curated programme to engage and ignite the interest and passion of our Secondary 1 students in the Sciences and Food Science. This carnival provides opportunities for students to EXPLORE the wonders of Science, through **EXCITING** and **ENGAGING** activities that enable them to apply scientific knowledge in the areas of Physics, Chemistry, Biology and Food Science.
+
+In the Science Labs, at the Physics station, the students carried out an investigation to find out if the different flavoured canned drinks sink or float in water. Their observations enabled them to make the correlation between the sugar content of these drinks and their densities. At the Chemistry station, the students investigated the pigments in food colourings using paper chromatography technique while at the Biology station, they ran food tests on an unknown food sample to determine its nutritional content. At the Food Science station held in the school kitchen, not only did the students make their own delicious caramel-flavoured popcorn, they also learnt about the science behind the process of caramelisation and the popping of the corn kernels. The Science and FCE Carnival has provided our students a platform to appreciate the Sciences and experience the joy of learning.
+
+![](/images/sci-4.png)
+_Physics Station_: Students investigated if the canned drinks float or sink in water.
+
+![](/images/sci-5.jpg)
