@@ -45,3 +45,11 @@ The TKD **CCA programme** will support and reinforce the interest and ability 
 
 
 ### Consolidated trend and major achievements
+
+
+
+| CCA/YEAR 	| 2017 	| 2018 	| 2019 	| 2020 	|
+|:---:	|:---:	|:---:	|:---:	|:---:	|
+| Taekwondo<br>(Boys/Girls)<br>(Overall Team) 	| **National School Games**<br><br>Overall Champions <br>(Poomsae) 	| **National School Games**<br><br>Overall Champions (Poomsae & Kyorugi) 	| **National School Games**<br> <br>Overall Champions (Poomsae) 	|  <br>**Competitions were suspended due to COVID pandemic** 	|
+| Floorball<br>(Boys/Girls) 	| **National B Div Girls**<br><br>2nd<br><br> <br>**National C Div Boys**<br><br>4th 	| **National B Div Girls**<br><br>Top 10<br> <br><br>**National B Div Boys**<br><br>SFA Plate & Bowl Championship – 4th<br>  	| **Springfield Blast**<br> <br>C Div (Girls) CHAMPION<br> <br>B Div (Girls) 1st Runner up<br><br> <br>**National B Div Boys**<br><br>SFA Plate & Bowl Championship – 3rd 	| **Competitions were suspended due to COVID pandemic** 	|
+| Rockwall climbing<br>(No. of Top 4 positions & other Significant Awards) 	| **NSBC**<br> <br>B Div Boys 1st<br> <br>C Div Boys 2nd<br> <br>B Div Girls 4th<br> <br>C Div Girls 1st<br><br> <br>**NSSC Championship**<br> <br>B Div Boys 1st<br> <br>C Div Boys 3rd 	| **NSBC**<br> <br>B Div Boys 1st<br> <br>C Div Boys 3rd<br> <br>B Div Girls 3rd<br> <br>C Div Girls 3rd<br><br> <br>**NSSC Championship**<br> <br>B Div Boys 2nd<br> <br>C Div Boys 3rd<br> <br>B Div Girls 4th<br><br>C Div Girls 4th 	| **NSBC**<br> <br>B Div Boys CHAMPION<br> <br>C Div Boys CHAMPION<br><br> <br>**NSSC Championship**<br> <br>B Div Boys CHAMPION<br><br>C Div Boys 3rd<br><br>B Div Girls 4th<br><br>C Div Girls 4th 	| **Competitions were suspended due to COVID pandemic** 	|
