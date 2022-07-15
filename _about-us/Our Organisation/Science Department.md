@@ -12,9 +12,7 @@ Email: [norain_anuar@moe.edu.sg_](mailto:norain_anuar@moe.edu.sg)
 
 **Subject Head**    
 (**_Physics_**) Ms Neo Hui Jun    
-Email: [neo_hui_jun@moe.edu.sg](mailto:neo_hui_jun@moe.edu.sg)_
-
-  
+Email: [neo_hui_jun@moe.edu.sg](mailto:neo_hui_jun@moe.edu.sg)
 
 ### Department Goals/Objectives:
 
@@ -56,3 +54,4 @@ In the Science Labs, at the Physics station, the students carried out an investi
 _Physics Station_: Students investigated if the canned drinks float or sink in water.
 
 ![](/images/sci-5.jpg)
+_Physics Station_: Students make a density tower using sugar solutions of different concentrations.
