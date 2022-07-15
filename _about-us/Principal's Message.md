@@ -4,7 +4,7 @@ permalink: /about-us/principals-message
 description: ""
 ---
 # **Principal's Message**
-<img src="/images/Principal.png" style="width:183px;height:240px;margin-left:15px;" align = "right">
+<img src="/images/Principal.png" style="width:200px;height:280px;margin-left:15px;" align = "right">
 
 We, the educators of Springfield have begun the new academic year of 2022 with first welcoming our Sec 1 Springfielders and together with our senior Springfielders (Sec 2s, 3s, 4s and 5s) have successfully completed our  **‘Start-It-Right’ (SIR)** programme. 
 
@@ -25,4 +25,3 @@ Let’s be together and we will achieve!
 _Mrs Mabel Leong_    
 _Principal_    
 _Springfield Secondary School_
-
