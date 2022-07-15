@@ -129,6 +129,6 @@ The intra-school competitions held include CNY Classroom Decoration Competition
 
 To promote the love of reading, the Chinese unit carries out the reading programme for all levels and streams.
 
-
+![](/images/CL2.jpg)
 
 The Chinese unit has organized China Immersion trips. We have been to cities like Shanghai, Suzhou, Hangzhou, Xi’An, and Beijing and visited Bin Wang Middle School and Xi’An 26th Middle School.
