@@ -112,3 +112,9 @@ The Chinese unit aims to create a supporting environment, to nurture lifelong le
 2010 青年奥运小记者比赛铜奖
 
 We have participated and achieved in National Competitions, such as Chinese Creative Writing Competition, Vox! New Media Workshop, Read! Singapore Creative Reading Competition, Global Village Children & Youths Bilingual Speech Competition, Chinese Language and Cultural competition and National Translation Competition.
+
+![](/images/CSUN2121.jpg)
+
+![](/images/EGXU2073.jpg)
+
+![](/images/FMEF8236.jpg)
