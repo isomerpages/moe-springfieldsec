@@ -34,3 +34,6 @@ The SIR is a unique programme designed and customised to provide the students wi
 
 \* Staggered Dismissal    
 \*\* Selected Sec 2 - 5 students may assist in the Sec 1 CCA Immersion Activities. Parents of these students will be informed via PG
+
+**Secondary 3**
+
