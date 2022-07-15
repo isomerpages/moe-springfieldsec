@@ -34,23 +34,18 @@ Training our students to have confidence and be a self-directed learner are part
 ###  Department Programmes:
 
 **Reading Programme**  
-
 In our continuous effort to inculcate good reading habits amongst students, suitable reading materials are selected for e-reading on the school’s Kaleidoscope application.  Reading packages are designed to enhance the reading experience.    
 
-**Podcast Programme**
-
+**Podcast Programme**    
 Our Sec 3 Podcast Programme is a collaborative effort with Tampines West Community Club. This programme aims to improve students’ oral speaking and listening skill through authentic experience.
 
-**Mother Tongue Fortnight**
-
+**Mother Tongue Fortnight**    
 With a variety of hands-on activities, the Mother Tongue Fortnight Programme provides an opportunity for students to gain a deeper understanding of their culture and heritage and to use the MTL .
 
-**Competitions**
-
+**Competitions**    
 Intra-school competitions are held throughout the year for students to apply their language skills and creative thinking.
 
-**Recent Achievements**
-
+**Recent Achievements**   
 2021 Merit Award in the 6th National Secondary Chinese Poetry Writing Competition 2021 Gold Award in the National Secondary Chinese Creative Writing Competition “Xin Lei Jiang"
 
 **Students’ Works**
