@@ -106,3 +106,8 @@ Secondary 1 students were provided with some training during their FCE practical
 
 ![](/images/sci-12.jpg)
 *Students learn to work in teams to create their own unique batch of Festive Cookies.*
+
+![](/images/26.jpg)
+
+![](/images/27.jpg)
+*Competing teams displayed their creativity in decorating and plating their baked festive cookies.*
