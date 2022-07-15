@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - School Corporate Video.md
       - Direct School Admissions/Direct School Admissions.md
       - Direct School Admissions/DSA Exercise 2022.md
       - Direct School Admissions/.keep
