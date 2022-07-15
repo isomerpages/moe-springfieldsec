@@ -67,11 +67,7 @@ The Chinese unit aims to create a supporting environment, to nurture lifelong le
 
 <table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><td style="background-color:#ffffff;border-color:#ffffff;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"> • 阅读计划<br><br> • 中国浸濡<br><br> • 文化交流<br><br> • 母语双周<br></td><td style="background-color:#ffffff;border-color:#ffffff;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"> • 新年庆祝会<br><br> • 世界书香日<br><br> • “文化随意门”计划</td></tr></thead></table>
 
-  
-  
-  
-  
-  
+
 
 **Achievements**
 
@@ -114,7 +110,5 @@ The Chinese unit aims to create a supporting environment, to nurture lifelong le
 2010 年‘读吧！新加坡’创意阅读比赛第二名
 
 2010 青年奥运小记者比赛铜奖
-
-  
 
 We have participated and achieved in National Competitions, such as Chinese Creative Writing Competition, Vox! New Media Workshop, Read! Singapore Creative Reading Competition, Global Village Children & Youths Bilingual Speech Competition, Chinese Language and Cultural competition and National Translation Competition.
