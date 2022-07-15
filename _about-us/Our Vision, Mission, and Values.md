@@ -13,3 +13,5 @@ Lifelong Learners, Exemplary Leaders.
 ### Our Mission
 
 To nurture youth with a passion for learning, shape leaders of character and develop useful citizens through a comprehensive education.
+
+### Our Values - GR<sub>2</sub>ID
