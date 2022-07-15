@@ -63,3 +63,12 @@ The department believes in providing students opportunities to use the language 
 75 students from 1A, 1D and 1C contributed to the society by participating in the Read for Books initiative organized by the National Library Board.  
   
 Read for Books is a charity book drive with the intention of raising awareness of reading as well as sharing the gift of reading with the less privileged. For every 10 people who read for 15 minutes, one book will be donated to selected beneficiaries.
+
+![](/images/Read%20for%20Books%202020.jpg)
+
+**The Queen's Royal Commonwealth Essay Competition 2020**  
+  
+Each year, aspiring young writers are asked to submit their pieces in response to a theme. Recent themes have included _A Connected Commonwealth (2019)_ _Towards a Common Future (2018)_ _A Commonwealth for Peace (2017)_ and _'An Inclusive Commonwealth' (2016)_; drawing out innovative ideas for positive change and encouraging entrants to consider new perspectives. The theme is rooted in Commonwealth values, providing an interesting introduction to the network and allowing young people to explore their own connection to the Commonwealth, whilst fostering an empathetic and open-minded world view.  
+  
+For 2020 competition, the theme was _**'Climate Action and the Commonwealth'**_.  
+Springfield Secondary participated once again in this competition and we are pleased to announce the following results.
