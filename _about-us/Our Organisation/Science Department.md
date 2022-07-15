@@ -55,3 +55,9 @@ _Physics Station_: Students investigated if the canned drinks float or sink in w
 
 ![](/images/sci-5.jpg)
 _Physics Station_: Students make a density tower using sugar solutions of different concentrations.
+
+![](/images/sci-6.jpg)
+_Chemistry Station_: Students used chromatography to analyze and investigate the pigments in food colourings.
+
+![](/images/sci-7.png)
+_Biology Station_: Students carried out food tests on an unknown food sample to analyze its nutritional content.
