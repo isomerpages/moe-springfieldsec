@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Our Organisation/Humanities Department.md
       - Our Organisation/Physical Education Department.md
       - Our Organisation/Craft & Technology Department.md
       - Our Organisation/Information Communication Technology Department.md
