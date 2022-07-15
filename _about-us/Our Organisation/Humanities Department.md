@@ -66,3 +66,7 @@ Our pupils are trained to be skillful thinkers with the ability to assess source
 Assessment is also aligned with this mantra, with authentic tasks featured alongside the more traditional pen and paper assessments. This not only allows students to see the relevance of their learning, and in so doing, enthuse them further in the subject; but also encourages students of differing abilities to showcase their varied intelligence so that our assessment of our students will be accurate and holistic.
 
 Last but not least, learning journeys and participation in competitions are organised to take learning beyond the confines of the classroom and to help students see how their knowledge can be applied to the real world.
+
+### Historical Scene Investigation (HSI) Challenge 2020
+
+![](/images/HSI%20challenge%20team%20photo.jpg)
