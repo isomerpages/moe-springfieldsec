@@ -25,20 +25,12 @@ Ms Shariffa Amalsharaff Bte Syed Othman Aledroos
 
 ### Department Goals/ Objectives:
 
-*   To develop students to be self-directed and life-long learners.  
-    
-*   To provide opportunities for students to excel in competitions.  
-    
-*   To help students to perform well in internal and national examinations.  
-    
-*   To conduct instructional programmes in line with school strategic thrust.  
-    
-*   To achieve excellent results from graduating classes.  
-    
+*   To develop students to be self-directed and life-long learners.      
+*   To provide opportunities for students to excel in competitions.     
+*   To help students to perform well in internal and national examinations.     
+*   To conduct instructional programmes in line with school strategic thrust.    
+*   To achieve excellent results from graduating classes.    
 *   To work in partnership with parents in order to help students attain learning objectives.  
-    
-
-  
 
 ### Curriculum & Assessments:
 
@@ -50,7 +42,7 @@ Springfielders are provided with opportunities to play an active role in learnin
 
 Leveraging on technology, language learning is made purposeful and applicable to everyday living. Programme are designed to encourage teaching and learning of the Malay Language beyond the four walls of the classroom. Assessments are varied and purposeful emphasizing on quality feedback to ensure effective teaching and learning.
 
-### Bahasa Cemerlang, Budaya Gemilang, Negara Terbilang
+***Bahasa Cemerlang, Budaya Gemilang, Negara Terbilang***
 
   
 
