@@ -6,12 +6,10 @@ third_nav_title: Our Organisation
 ---
 # **Information Communication Technology Department**
 
-  
-
 ### Head of Department
 
 Mr Ng Jenn Yang     
-Email: [_ng\_jenn\_yang@moe.edu.sg_](mailto:ng_jenn_yang@moe.edu.sg)
+Email: [ng_jenn_yang@moe.edu.sg_](mailto:ng_jenn_yang@moe.edu.sg)
 
 
 ### Coordinators:  
@@ -59,3 +57,15 @@ To support the Personalised Learning Environment, students will access self-pace
 SLS lessons on New Media Literacy and attend engagement sessions to develop their dispositions, knowledge and skills to thrive in the digital environment.
 
 The New Media Literacy programme aims to equip students with the competencies to Curate, Create, Connect information in the digital networked environment and to Apply the productivity skills to operate devices and software effectively.
+
+### Lower Secondary Coding Programme
+
+<img src="/images/ict5.png" style="width:200px;height:280px;margin-left:15px;" align = "right">
+
+In Springfield, the Lower Secondary students will attend a series of coding lessons to develop them computational thinking skills and seed their interest for the one of the most important languages of the future, i.e. programming.
+
+As part of STEM (_Science, Technology, Engineering and Mathematics_) education, students will have the hands-on experience on robot (_mBots_) programming using block-based programming.
+
+The micro:bit lessons is another signature programme that allow students to develop logical thinking and design skills. Students are provided the opportunities to apply these skills in Interdisciplinary Project Work (_IPW_) and Applied Learning Programme (ALP).
+
+The Lower Secondary coding programme not only equips the students with an important digital competency skill, it also lays the foundation for the aspiring students to offer Computing as an O Level subject in the Upper Secondary
