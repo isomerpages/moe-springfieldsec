@@ -95,3 +95,5 @@ As part of bringing Literature to life, the secondary 2 cohort went to watch a p
 
 **Literature Learning Journey to Little India (Upper Sec)**    
 Based on their Literature text of '_Hullabaloo in the Guava Orchard_', students immersed themselves in the Indian culture in order to understand their text better. Students not only learn about the Indian culture, they also got opportunity to savour authentic Indian cuisines that would whet anyone's appetite.
+
+![](/images/Upper%20Sec%20LJ%20to%20Little%20India.jpg)
