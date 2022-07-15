@@ -94,3 +94,6 @@ The learning trail through the wetlands of Sungei Buloh Wetland Reserve, Singapo
 *An exploration of the biodiversity of the flora and fauna of the mangroves in Sungei Buloh Wetland Reserve.*
 
 ![](/images/sci-11.jpg)
+
+![](/images/22.jpg)
+*Learning about the parasitic flowering plant, the Rafflesia and the fossils of the dinosaurs at the Lee Kong Chian Natural History Museum.*
