@@ -36,8 +36,6 @@ The Chinese unit aims to create a supporting environment, to nurture lifelong le
 
 所谓书中自有黄金屋，阅读不但能提升学生的语文能力，也能提升学生的情绪智商。华文部希望通过阅读活动来培养学生对阅读的兴趣。阅读的成果包括书签、手工书、录音、专题作业等。本校也参与过国家图书馆举办的‘读吧！新加坡’创意阅读比赛并获得不错的成绩。
 
-  
-
 **＊母语双周及文化营Mother Tongue Fortnight and Cultural & Language Camp**
 
 为推广华族文化及华文的使用，华文部组织了一些系列的文化及语文活动。文化活动的项目包括书法、国画、茶艺、泥塑、面谱、篆刻、象棋等。语文活动的项目包括走进图书馆、小记者营、学习之旅、作家分享会、点歌寄意等。学生的杰出作品也将在校内展出。
@@ -51,23 +49,17 @@ The Chinese unit aims to create a supporting environment, to nurture lifelong le
 这项活动的目的是让学生通过亲身经历感受中华文化，并与中国学生建立友好关系。部门曾到访过上海、苏州、杭州、西安、北京等城市，并与义乌宾王中学及西安26中等校府进行过交流。参与活动的学生不但能体验在中国上课的情形，也能丰富他们对于中国与中华文化的认识。
 
   
-
 ### Competitions:
 
 ＊校内比赛 **Intra-school Competitions**  
 部门所主办过的校内比赛包括：
 
-<table class="ive_eobj_left ives_tab_kosong" style="margin: 0px 10px 0px 0px; outline: 0px; padding: 0px; border-collapse: collapse; float: left; border: none; table-layout: fixed; width: 506px; height: 60px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px !important; vertical-align: top; border: none; background: rgb(244, 244, 244); color: rgb(0, 0, 0); width: 249px;"><ul style="margin: 0px 0px 0.5em 1em; outline: 0px; padding: 0px; text-align: justify; background-color: rgb(255, 255, 255);"><li style="margin: 0px; outline: 0px; padding: 0px;"><span style="margin: 0px; outline: 0px; padding: 0px; font-size: 13.3333px;">阅读竞赛</span><br style="margin: 0px; outline: 0px; padding: 0px;"></li><li style="margin: 0px; outline: 0px; padding: 0px;"><span style="margin: 0px; outline: 0px; padding: 0px; font-size: 13.3333px;">写作比赛</span><br style="margin: 0px; outline: 0px; padding: 0px;"></li><li style="margin: 0px; outline: 0px; padding: 0px;"><span style="margin: 0px; outline: 0px; padding: 0px; font-size: 13.3333px;">专题作业比赛</span><br style="margin: 0px; outline: 0px; padding: 0px;"></li><li style="margin: 0px; outline: 0px; padding: 0px;"><span style="margin: 0px; outline: 0px; padding: 0px; font-size: 13.3333px;">歌词创作比赛</span><br style="margin: 0px; outline: 0px; padding: 0px;"></li></ul></td><td style="margin: 0px; outline: 0px; padding: 0px !important; vertical-align: top; border: none; background: rgb(244, 244, 244); color: rgb(0, 0, 0); width: 249px;"><ul style="margin: 0px 0px 0.5em 1em; outline: 0px; padding: 0px; text-align: justify; background-color: rgb(255, 255, 255);"><li style="margin: 0px; outline: 0px; padding: 0px;"><span style="margin: 0px; outline: 0px; padding: 0px; font-size: 13.3333px;">中文输入比赛</span><br style="margin: 0px; outline: 0px; padding: 0px;"></li><li style="margin: 0px; outline: 0px; padding: 0px;"><span style="margin: 0px; outline: 0px; padding: 0px; font-size: 13.3333px;">文化知识比赛</span></li><li style="margin: 0px; outline: 0px; padding: 0px;"><span style="margin: 0px; outline: 0px; padding: 0px; font-size: 13.3333px;">新年课室布置比赛<br style="margin: 0px; outline: 0px; padding: 0px;"></span></li></ul></td></tr></tbody></table>
+<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><td style="background-color:#ffffff;border-color:#ffffff;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"> • 阅读竞赛<br><br> • 写作比赛<br><br> • 专题作业比赛<br><br> • 歌词创作比赛<br></td><td style="background-color:#ffffff;border-color:#ffffff;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"> • 中文输入比赛<br><br> • 文化知识比赛<br> • 新年课室布置比赛<br></td></tr></thead></table>
 
-  
-
-  
-
-＊校外比赛 **Inter-school Competitions**  
-
+＊校外比赛 **Inter-school Competitions**       
 本校所参与的比赛包括：
 
-<table class="ive_eobj_left ives_tab_kosong" style="margin: 0px 10px 0px 0px; outline: 0px; padding: 0px; border-collapse: collapse; float: left; border: none; table-layout: fixed; font-size: 13.3333px; width: 506px; height: 60px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px !important; vertical-align: top; border: none; background: rgb(244, 244, 244); color: rgb(0, 0, 0); width: 249px;"><ul style="margin: 0px 0px 0.5em 1em; outline: 0px; padding: 0px;"><li style="margin: 0px; outline: 0px; padding: 0px;">新蕾奖<br style="margin: 0px; outline: 0px; padding: 0px;"></li><li style="margin: 0px; outline: 0px; padding: 0px;">青年奥运小记者比赛<br style="margin: 0px; outline: 0px; padding: 0px;"></li><li style="margin: 0px; outline: 0px; padding: 0px;">“ VOX！新媒体新闻工作坊<br style="margin: 0px; outline: 0px; padding: 0px;"></li><li style="margin: 0px; outline: 0px; padding: 0px;">读吧！新加坡’创意阅读比赛<br style="margin: 0px; outline: 0px; padding: 0px;"></li></ul></td><td style="margin: 0px; outline: 0px; padding: 0px !important; vertical-align: top; border: none; background: rgb(244, 244, 244); color: rgb(0, 0, 0); width: 249px;"><ul style="margin: 0px 0px 0.5em 1em; outline: 0px; padding: 0px;"><li style="margin: 0px; outline: 0px; padding: 0px;">“地球村”青少年双语演讲大赛</li><li style="margin: 0px; outline: 0px; padding: 0px;">全国中小学生华文文化常识比赛<br style="margin: 0px; outline: 0px; padding: 0px;"></li><li style="margin: 0px; outline: 0px; padding: 0px;">中学、初级及理工学院中英文互译比赛<br style="margin: 0px; outline: 0px; padding: 0px;"></li></ul></td></tr></tbody></table>
+<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><td style="background-color:#ffffff;border-color:#ffffff;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"> • 新蕾奖<br><br> • 青年奥运小记者比赛<br><br> • “VOX！新媒体新闻工作坊<br><br> • 读吧！新加坡’创意阅读比赛<br></td><td style="background-color:#ffffff;border-color:#ffffff;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"> • “地球村”青少年双语演讲大赛<br><br> • 全国中小学生华文文化常识比赛<br><br> • 中学、初级及理工学院中英文互译比赛<br></td></tr></thead></table>
 
   
 
