@@ -2,6 +2,7 @@ collections:
   programmes:
     output: true
     order:
+      - Applied Learning Programme (ALP).md
       - Learning for Life Programme (LLP).md
       - Global Education Programme.md
       - CCE Programme/CCE Programme.md
