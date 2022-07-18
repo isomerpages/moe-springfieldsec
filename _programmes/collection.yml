@@ -2,6 +2,7 @@ collections:
   programmes:
     output: true
     order:
+      - CCE Programme/Counselling Programme.md
       - CCE Programme/.keep
       - NDLP/National Digital Literacy Programme (NDLP).md
       - NDLP/NDLP & PLD Initiative Parents' Briefing (26 Jan 2022).md
