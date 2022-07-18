@@ -61,3 +61,8 @@ A healthy diet is essential for good health and nutrition. It protects a person 
 ![](/images/Experiment.jpg)
 <center>Students carry out experiments to investigate the sugar content in drinks and learn more about Diabetes.</center>
 
+![](/images/HPB_.png)
+<center>Students learn how to use the HPB Nutrition Calculator Tool to know more about healthy and balanced meals.</center>
+
+### Mental Health
+The programme segment on Mental Health helps students have a better understanding of good mental health and how they can be mentally and emotionally healthy. They learnt how to handle stress better and build mental resilience. Students were also taught how they can use different types of music to help them relax and reduce stress, and how sleep has a great impact not only on a person's physical health but also mental health.
