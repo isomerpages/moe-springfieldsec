@@ -25,7 +25,7 @@ To discuss any of the following, please book appointment slots that are during y
 | [**O-level** Joint Admissions Exercise **(JAE)**](https://www.moe.gov.sg/2022jaebooklet) 	| O-Levels Post-sec options, entry requirements, aggregate, etc. 	|
 | [**N-level** Joint Intake Exercise **(JIE)**](https://www.ite.edu.sg/docs/default-source/admissions-docs/full-time/publications/admission-booklet/gce-n-admission-booklet-2022.pdf)	| N-Levels Post-sec options, entry requirements, aggregate, etc. 	|
 | **[ITE Courses](https://www.ite.edu.sg/courses/full-time-courses)** 	| List of all ITE Courses 	|
-| ITE Prospectus 	| Information on ITE courses, including Traineeship 	|
+| [**ITE Prospectus**](https://www.ite.edu.sg/docs/default-source/admissions-docs/full-time/publications/prospectus/ite-2022-prospectus-full-time-education-and-traineeship.pdf) 	| Information on ITE courses, including Traineeship 	|
 | CourseFinder 	| List of ITE & Polytechnic courses 	|
 | ITE Early Admissions Exercise (for N/O-level Students) 	| Applicable to all graduating students 	|
 | ITE EAE FAQ 	| FAQ for ITE EAE (Important: read if you are considering EAE) 	|
