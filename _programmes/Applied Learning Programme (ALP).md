@@ -69,3 +69,6 @@ The programme segment on Mental Health helps students have a better understandin
 
 ![](/images/MH_6.png)
 
+### Project Work & ALP Showcase
+
+Students apply the knowledge that they have acquired through their ALP journey in the projects that they work on during the course of the programme. These projects focus on any one of the health domains learnt, either on physical health, nutrition and health or mental health. Students share their project work at the ALP Showcase at the end of the School Term.
