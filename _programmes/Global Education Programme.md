@@ -38,25 +38,15 @@ The purpose and pre-requisites of this programme serve to motivate the students 
   
 
 #### Destinations
-
-  
 The destinations had been carefully shortlisted, with the following factors taken into consideration.  
-  
 
 1.  Age-appropriateness
 2.  Focus on South East Asia and China
 3.  Affordability
 
-  
-
 Changes to the shortlisted destinations may be made if there is a high possibility of a natural disaster or any foreseeable circumstances that may pose a threat or risks the safety of our students and staff who will be travelling there.
 
-  
-
 **Shortlisted destinations for 2020**
-
-  
-
 *   Chiang Mai, Thailand
 *   Samut Prakan, Thailand
 *   Hanoi, Vietnam
@@ -64,9 +54,8 @@ Changes to the shortlisted destinations may be made if there is a high possibili
 *   Siem Reap, Cambodia
 *   Phnom Penh, Cambodia
 
-![WhatsApp Image 2019-07-02 at 8.33.01 PM.jpeg](https://springfieldsec.moe.edu.sg/qql/slot/u171/2020/GEP/WhatsApp%20Image%202019-07-02%20at%208.33.01%20PM.jpeg)
+![](/images/WhatsApp%20Image%202019-07-02.jpeg)
 
-  
-![WhatsApp Image 2019-07-02 at 8.53.49 PM.jpeg](https://springfieldsec.moe.edu.sg/qql/slot/u171/2020/GEP/WhatsApp%20Image%202019-07-02%20at%208.53.49%20PM.jpeg)  
+![](/images/WhatsApp%20Image%202019-07-02-1.jpeg)
 
-![IMG_0340.JPG](https://springfieldsec.moe.edu.sg/qql/slot/u171/2020/GEP/IMG_0340.JPG)
+![](/images/IMG_0340.jpg)
