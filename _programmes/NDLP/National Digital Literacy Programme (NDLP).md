@@ -39,3 +39,27 @@ At Springfield Secondary School, your child will be using PLD for active learnin
 The students will also be embarking on a series of self-paced New Media Literacies lessons on the Student Learning Space (SLS), with facilitated discussions on cyber wellness, key digital skills and literacies by teachers.
 
 ![](/images/PLD.png)
+
+The device that the students will be purchasing is intended for Teaching & Learning purposes, and device affordability for all students is one of the considerations.
+
+The cost of the device bundle can be paid using your child's Edusave account, after setting aside provision for payment of second-tier miscellaneous fees.
+
+To ensure the affordability of devices, there was a one-time Edusave top-up of $200 in April 2020 to support the purchase of the device. This is on top of the annual $290 credited into the Edusave account for Secondary School students. Most Singapore Citizen students would have sufficient funds in the Edusave account after the top-up. Should the Edusave funds be insufficient, cash out-of-pocket would be kept low.
+
+For students on MOE Financial Assistance Scheme, subsidies are available even if there is insufficient Edusave balance. The cash out-of-pocket will be $0.
+
+Additional subsidies are available for students who need financial assistance, and that parents should approach the school for more information.
+
+### Supporting Students in the Responsible Use of the Devices
+
+The school has in place some measures to enable a safe and seamless learning environment for students. The role of the parent is also key in partnering the school to support your child.
+
+#### Cyber Wellness Education
+
+In addition to the implementation of CCE2021 syllabus, the school has strategies to enable school-wide implementation of CCE. These include: 
+
+*   _Promoting a Peer Support Culture, by nurturing Peer Support Leaders and ICT Representatives_
+*   _Promoting Digital defence under the Total Defence, which requires every individual to be the first line of defence against threats from the digital domain_
+*   _Students test-driving their future with the Singtel Cyber Security Experience_
+
+To support you in keeping your child safe online, you may refer to these resources:
