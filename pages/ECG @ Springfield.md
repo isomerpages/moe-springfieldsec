@@ -42,7 +42,7 @@ To discuss any of the following, please book appointment slots that are during y
 | [**Singapore Industry Landscape**](https://go.gov.sg/industrylandscape-sec) 	| ECG Portal to explore the world of work 	|
 | [**Industry Transformation Maps (ITMs)**](https://www.mti.gov.sg/ITMs/Overview) 	| Roadmaps for the various industries in Singapore 	|
 | [**Skills Framework**](https://www.skillsfuture.sg/skills-framework#whicharethesectors) 	| Information on career sectors, pathways, roles, skills, training, etc. 	|
-| ECG Parent Guide 	| Journeying with our Children, Achieving their Aspirations 	|
+| [**ECG Parent Guide**](https://go.gov.sg/ecg-parent-guide) 	| Journeying with our Children, Achieving their Aspirations 	|
 | Schoolbag Website 	| An online publication by MOE for education news, school features and tips. 	|
 | The Next Step Forward (e-book) 	| Stories of students and the pathways they have chosen 	|
 | What's Next (After PSLE, 'N'/'O'/'A'-level) 	| Applicable to all graduating students 	|
