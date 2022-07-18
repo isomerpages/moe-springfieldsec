@@ -36,6 +36,6 @@ For information on the parents' engagement on NDLP, you may click [**_HERE_**](
 
 At Springfield Secondary School, your child will be using PLD for active learning in all subjects, including the conduct, completion & submission of authentic learning/inquiry tasks that require research, digital creation and collaborative learning.
 
-  
-
 The students will also be embarking on a series of self-paced New Media Literacies lessons on the Student Learning Space (SLS), with facilitated discussions on cyber wellness, key digital skills and literacies by teachers.
+
+![](/images/PLD.png)
