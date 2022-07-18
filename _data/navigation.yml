@@ -4,6 +4,8 @@ links:
     collection: about-us
   - title: Programmes
     collection: programmes
+  - title: Achievements
+    collection: achievements
   - title: Contact Us
     url: /contact-us/
   - title: Example Page
