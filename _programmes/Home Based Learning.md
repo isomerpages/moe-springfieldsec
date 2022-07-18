@@ -74,3 +74,15 @@ For support on SLS, please find the instructions at the bottom of this page or c
 [Timetable - 3A / 3B / 3C / 3D](/files/S3%20Year-End%20HBL%20Study%20Programme%202021%20-%203A_3B_3C_3D.pdf)
 
 [Timetable - 3E / 3F / 3G](/files/S3%20Year-End%20HBL%20Study%20Programme%202021%20-%203E_3F_3G.pdf)
+
+Dear Students,  
+  
+Click on the link below to access the **HBL Plan** for your class.
+
+### HBL - SECONDARY 3 Year-End Study Programme (November 2021) 
+
+**Timetable**
+
+[Timetable - 3A / 3B / 3C / 3D](/files/S3%20Year-End%20HBL%20Study%20Programme%202021%20-%203A_3B_3C_3D.pdf)
+
+[Timetable - 3E / 3F / 3G](/files/S3%20Year-End%20HBL%20Study%20Programme%202021%20-%203E_3F_3G.pdf)
