@@ -57,3 +57,7 @@ A healthy diet is essential for good health and nutrition. It protects a person 
 
 ![](/images/Granola%20Bars.jpg)
 <center>Students learn to make healthy granola bars during ALP Lessons.</center>
+
+![](/images/Experiment.jpg)
+<center>Students carry out experiments to investigate the sugar content in drinks and learn more about Diabetes.</center>
+
