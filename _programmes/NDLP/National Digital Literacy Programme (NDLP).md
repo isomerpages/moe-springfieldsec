@@ -63,3 +63,11 @@ In addition to the implementation of CCE2021 syllabus, the school has strategies
 *   _Students test-driving their future with the Singtel Cyber Security Experience_
 
 To support you in keeping your child safe online, you may refer to these resources:
+
+To support you in keeping your child safe online, you may refer to these resources:
+
+*   [_go.gov.sg/moe-cyber-wellness_](https://go.gov.sg/moe-cyber-wellness)
+*   [_https://beta.moe.gov.sg/programmes/cyber-wellness_](https://beta.moe.gov.sg/programmes/cyber-wellness)
+*   [_go.gov.sg/better-internet-sg_](https://go.gov.sg/better-internet-sg)
+*   [_sure.nlb.gov.sg_](http://sure.nlb.gov.sg/)
+*   [_help123.sg_](http://help123.sg/)
