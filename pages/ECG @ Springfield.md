@@ -46,7 +46,7 @@ To discuss any of the following, please book appointment slots that are during y
 | [**Schoolbag Website**](https://go.gov.sg/schoolbag) 	| An online publication by MOE for education news, school features and tips. 	|
 | [**The Next Step Forward (e-book)**](https://go.gov.sg/next-step-forward) 	| Stories of students and the pathways they have chosen 	|
 | [**What's Next (After PSLE, 'N'/'O'/'A'-level)**](https://go.gov.sg/whats-next) 	| Applicable to all graduating students 	|
-| Post-Secondary Education Options 	| Applicable to all graduating students 	|
+| [**Post-Secondary Education Options**](https://go.gov.sg/postsecondary) 	| Applicable to all graduating students 	|
 | Post-Secondary Education Institutions 	| Overview of the Post-Secondary Education Institutions (PSEIs) 	|
 | Where to After Secondary School? 	| Overview of the Post-Secondary Education Landscape 	|
 | Scholarships 	| Learn about the different merit-based awards and scholarships 	|
