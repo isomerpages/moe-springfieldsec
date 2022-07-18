@@ -28,7 +28,7 @@ To discuss any of the following, please book appointment slots that are during y
 | [**ITE Prospectus**](https://www.ite.edu.sg/docs/default-source/admissions-docs/full-time/publications/prospectus/ite-2022-prospectus-full-time-education-and-traineeship.pdf) 	| Information on ITE courses, including Traineeship 	|
 | **[CourseFinder](https://go.gov.sg/coursefinder)** 	| List of ITE & Polytechnic courses 	|
 | [**ITE Early Admissions Exercise (for N/O-level Students)**](https://go.gov.sg/applyeae) 	| Applicable to all graduating students 	|
-| [ITE EAE **FAQ**](https://www.ifaq.gov.sg/ite/apps/fcd_faqmain.aspx?qst=hRhkP9BzcBImsx2TBbssMsxu7lqt6UJK70a1wAEVmyd6TMMO%2FBncmMSO%2FXGjLrdh0l0ZXdurjVz2upKIaHJNKIjAg8lmJAPOVT6KB6zyGknpO2txXgtTdWzBSGT96JZ704rJ%2BBAWc3%2BStv9yIr0eAmyYWW41BLMAdoZFTgGJ5YCcChga6lF42cjpORjAWHJngffVbdP23DDC3vUlgHcktw0X2RwEfEUDYl%2BgW2GUOz4%3D) 	| FAQ for ITE EAE (Important: read if you are considering EAE) 	|
+| [ITE EAE **FAQ**](https://www.ifaq.gov.sg/ite/apps/fcd_faqmain.aspx?qst=hRhkP9BzcBImsx2TBbssMsxu7lqt6UJK70a1wAEVmyd6TMMO%2FBncmMSO%2FXGjLrdh0l0ZXdurjVz2upKIaHJNKIjAg8lmJAPOVT6KB6zyGknpO2txXgtTdWzBSGT96JZ704rJ%2BBAWc3%2BStv9yIr0eAmyYWW41BLMAdoZFTgGJ5YCcChga6lF42cjpORjAWHJngffVbdP23DDC3vUlgHcktw0X2RwEfEUDYl%2BgW2GUOz4%3D) - not found	| FAQ for ITE EAE (Important: read if you are considering EAE) 	|
 | Poly Early Admissions Exercise (for O-Level students) 	| Applicable to 'O'-Level students 	|
 | Poly EAE FAQ 	| FAQ for Poly EAE (Important: read if you are considering EAE) 	|
 | Direct School Admission - Junior Colleges 	| Applicable to 'O'-Level students 	|
