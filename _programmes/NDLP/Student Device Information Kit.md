@@ -14,7 +14,6 @@ Upon receiving your form submission, we will then contact and advise you accordi
 If we are unable to solve the issue in School, we will need to retain your PLD - Chromebook for further checking. A spare Chromebook (_subject to availability_) will be loaned out to you while your PLD - Chromebook is sent for repair/service.  
   
 Alternatively, you may want to personally send your PLD - Chromebook to the Lenovo Service Center:  
-  
 
 *   _Located at Funan Mall, 107 North Bridge Road #03-19 to 20 Singapore (179105)_
 *   _Operating Hours : 11.00am - 8.00pm, Mondays to Saturdays<_
