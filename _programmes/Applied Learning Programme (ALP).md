@@ -45,13 +45,13 @@ Students learn how to:
 ![](/images/Tier%201%20Programme_.jpg)
 <center>Students learn how to build their core strength to increase sports performance.</center>
 
-### SFSS Step Challenge  
+**SFSS Step Challenge**
 
 The school collaborates with the Health Promotion Board to launch its own SFSS Step Challenge. This helps to promote a more active lifestyle among our students by encouraging them to take more steps daily. Students use the HPB's Healthy 365 mobile application to sync and update their step count.
 
 ![](/images/SFSS%20Steps%20Challenge.jpg)
 
-### Nutrition and Health
+**Nutrition and Health**
 
 A healthy diet is essential for good health and nutrition. It protects a person against many chronic non-communicable diseases, such diabetes, heart diseases and cancer. It is important to eat a variety of foods, consume less salt, sugars and saturated and industrially-produced trans-fats to ensure a healthy diet. During the course of the programme, students learn about what makes a healthy diet. They learn about the different types of nutrients, calories in foods and how to use the Nutrition Calculator mobile applications to calculate the nutrients in a meal. They also learn about the effects of high sugar intake in one's diet and carried out tests to investigate the sugar content in some common drinks like Bubble Tea. To encourage students to have healthier food options and snacks, students learn how to make healthier, high fibre energy bars and healthier sports drinks. Through these activities, students have a better understanding of the importance of a balanced diet to stay healthy.
 
@@ -64,11 +64,24 @@ A healthy diet is essential for good health and nutrition. It protects a person 
 ![](/images/HPB_.png)
 <center>Students learn how to use the HPB Nutrition Calculator Tool to know more about healthy and balanced meals.</center>
 
-### Mental Health
+**Mental Health**
 The programme segment on Mental Health helps students have a better understanding of good mental health and how they can be mentally and emotionally healthy. They learnt how to handle stress better and build mental resilience. Students were also taught how they can use different types of music to help them relax and reduce stress, and how sleep has a great impact not only on a person's physical health but also mental health.
 
 ![](/images/MH_6.png)
 
-### Project Work & ALP Showcase
+**Project Work & ALP Showcase**
 
 Students apply the knowledge that they have acquired through their ALP journey in the projects that they work on during the course of the programme. These projects focus on any one of the health domains learnt, either on physical health, nutrition and health or mental health. Students share their project work at the ALP Showcase at the end of the School Term.
+
+![](/images/ALP%20Showcase.jpg)
+
+### Tier 2 Programme
+
+**For students with a deeper interest in Health Science and Sports Science**
+ 
+Our students visited the Active Health Lab at Our Tampines Hub.
+
+![](/images/Active%20Lab.jpg)
+
+![](/images/KK_Work%20Attachment.jpg)
+A Work Attachment Programme at the KK Women's and Children's Hospital.
