@@ -17,10 +17,12 @@ with Springfield Secondary School’s Mission: “Lifelong learners, exemplary l
 
 VIA, however, takes a more student-centric, values-driven approach where students reflect on the values they have put into practice and how they can continue to contribute meaningfully. This is made possible by structured classroom programmes in preparing the student and having post-activity reflections to reinforce learning. VIA thus helps students to internalise the values. VIA thus focuses on the “Head”, “Hands” and “Heart”.
 
-  
-
 Every year, for the class-based VIA, students need to fulfill a **minimum 10-hours** **requirement to align with LEAPS 2.0 (Through class-based, CCA-based, and own** **involvement)**. However, the focus is on quality learning rather than completing the number of hours. This involvement is compulsory for each student to help them achieve a comprehensive and holistic learning experience.
 
-  
-
 In Springfield Secondary School, we have a structured 4 to 5 years programme that develops the relevant knowledge, skills, and attitudes to put values into action. The programmes are aligned with the school values and follow the **3R** approach: **Ready**, **Render** and **Reflect**.
+
+| Stage 	| Ready / Render / Reflect 	| What the stage refers to 	|
+| ---	| ---	| ---	|
+| Stage 1 	| Ready 	| Project Planning & Preparation (Identifying learning goals) 	|
+| Stage 2 	| Render 	| Project Implementation (Conscious Learning) 	|
+|  Stage 3 	| Reflect  	| Post-Project Implementation (Reinforcing Learning)  	|
