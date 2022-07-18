@@ -36,4 +36,4 @@ Click **[here](https://www.mobileguardian.com/)** to access the DMA Parents' P
 
   
 
-\* For more information on the DMA, please click [**here**](https://springfieldsec-moe-edu-sg-admin.cwp.sg/programmes/national-digital-literacy-programme-ndlp/device-management-application-dma/dma-parent-engagement-slides).
+\* For more information on the DMA, please click [here](/files/DMA%20Parent%20Engagement%20Slides.pdf)
