@@ -26,3 +26,6 @@ SEC Yearbook Photoshoot 2019
 
 ![](/images/2SL.jpg)
 President and Vice-President of 2019
+
+![](/images/3%20(1).jpg)
+SEC Investiture: Oath Taking Ceremony
