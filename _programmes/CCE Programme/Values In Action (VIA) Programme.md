@@ -30,3 +30,10 @@ In Springfield Secondary School, we have a structured 4 to 5 years programme tha
 Students from Secondary 1 to 5 will go through a structured VIA programme which will bring them through stages 1, 2 and 3 as stated above.
 
 The school values are **Graciousness, Responsibility, Resilience, Diligence,** and **Integrity**. Every student in Springfield Secondary will take part in activities which will emphasise on all 5 values. However, for each level, there will be a special elevated focus on one particular school value. The breakdown is shown below:
+
+| Level 	| School Value 	| How VIA projects will incorporate our school values 	|
+| ---	| ---	| ---	|
+|  Secondary 1 	|  Graciousness 	| The Secondary 1 students will focus on **kindness** projects with the self, the class, and the school as the focus using the 3Rs.<br> 	|
+|  Secondary 2 	|  Responsibility 	| The Secondary 2 students will focus on **environmental** projects with the class, the school, and the community, as the focus by using the 3Rs. 	|
+|  Secondary 3 	|  Resilience  	| The Secondary 3 students will focus on **community-centered** projects as the focus by using the 3Rs. Classes will work collaboratively and may initiate projects with the community.<br>  	|
+|  Secondary 4 & 5  	|  Diligence & Integrity 	| The Secondary 4 & 5 students will plan and execute social entrepreneurship projects with the aim of raising funds for the school and/or the community. 	|
