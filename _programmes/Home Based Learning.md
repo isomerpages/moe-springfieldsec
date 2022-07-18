@@ -22,3 +22,7 @@ Please follow the steps below for the HBL lessons: 
 For support on lessons, please contact your Subject Teachers through Google Classroom or the subject chat groups.
 
 For support on SLS, please find the instructions at the bottom of this page or click [**HERE**](https://springfieldsec-moe-edu-sg-admin.cwp.sg/students/student-learning-space-sls).
+
+### HBL - SECONDARY 1/2/3/4/5 Term 3 Week 1 
+
+#### _Mass Run (Friday, 01 July 2022)_
