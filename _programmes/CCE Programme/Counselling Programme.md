@@ -32,3 +32,20 @@ During school hours, students can approach the form teacher to get a referral fo
 
 Please click on the below link for counseling procedure:
 (pdf not available)
+
+### Talks, Workshops, and Programmes
+
+We offer a number of high-quality classroom talks, workshops, and programmes on topics that help students be more successful in and out of the classroom. These programmes focus on stress management, study skills, anger management, healthy relationships guidance and more.
+
+### Useful Links
+
+|  	|  	|
+|---	|---	|
+| Ministry of Social and Family Development (MSF) 	| http://app.msf.gov.sg/ 	|
+| REACH 	| http://reachforstudents.com/ 	|
+| Family Justice Courts 	| https://www.familyjusticecourts.gov.sg/ 	|
+| Samaritans of Singapore (S.O.S) 	| https://www.familyjusticecourts.gov.sg/ 	|
+| North East Community Development Centre 	| https://cdc.org.sg/NorthEast 	|
+| National Youth Council 	| https://www.nyc.gov.sg/ 	|
+| Singapore Children's Society 	| http://www.childrensociety.org.sg/ 	|
+| Guide to mental health and well-being 	| http://helpguide.org/ 	|
