@@ -45,3 +45,8 @@ Students learn how to:
 ![](/images/Tier%201%20Programme_.jpg)
 <center>Students learn how to build their core strength to increase sports performance.</center>
 
+### SFSS Step Challenge  
+
+The school collaborates with the Health Promotion Board to launch its own SFSS Step Challenge. This helps to promote a more active lifestyle among our students by encouraging them to take more steps daily. Students use the HPB's Healthy 365 mobile application to sync and update their step count.
+
+![](/images/SFSS%20Steps%20Challenge.jpg)
