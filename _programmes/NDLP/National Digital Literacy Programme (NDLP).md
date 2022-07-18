@@ -72,4 +72,4 @@ To support you in keeping your child safe online, you may refer to these resourc
 *   [_sure.nlb.gov.sg_](http://sure.nlb.gov.sg/)
 *   [_help123.sg_](http://help123.sg/)
 
-To download the Parent Handbook, click [here](/files/Parent%20Handbook%20I%20on%201_1%20Learning.pdf)
+To download the Parent Handbook on 1-to-1 Learning, click [here](/files/Parent%20Handbook%20I%20on%201_1%20Learning.pdf)
