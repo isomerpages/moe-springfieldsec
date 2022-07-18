@@ -19,3 +19,15 @@ Every life has its challenges. We run into deep, sharp corners and slippery road
 <img src="/images/o%20AED%20-%20mr%20sebastian%20seet%20keng%20cheng%20sq%20100.jpg" 
      style="width:50%">
 <center>Mr. Sebastian Seet Keng Cheng</center>
+
+### Counselling Hours
+
+Mondays to Fridays (During School hours)     
+7.30am - 2.20pm **Strictly By Appointment Only\***    
+2.20pm - 4.30pm  Open for Walk-in
+
+### Appointment with the school counsellor
+
+During school hours, students can approach the form teacher to get a referral for counseling. Alternatively, the students can walk-in to the counseling room after 2.25pm.
+
+Please click on the below link for counseling procedure:
