@@ -101,5 +101,32 @@ Please follow the below for the HBL lessons:
 
 For support on lessons, please contact your Subject Teachers through Google Classroom or the subject chat groups.
   
-Thank you.  
+Thank you.
 
+*   Please refer below on the Individual Students' Username
+
+    Username: **XXXXX**0000A  
+
+        **XXXXX** - FIRST **5** Characters of Student's Name  
+
+        0000A - LAST 4 Digits + the Alphabet of Student's NRIC  
+
+Example:
+
+        **CHUA C**HEE WENG, T0123**4567J** (Userid = **CHUAC****4567J**)  
+
+        **NUR FA**TIMAH BINTE RIDZUAN, T098**7654E** (Userid = **NURFA****7654E**)  
+
+  
+
+*   If you have forgotten your SLS Password, Click Forgot Password to reset - click **[HERE](/files/SLS%20Guide%20to%20Pwd%20Reset.pdf)** to find out more
+*   If your account is locked, please contact the following Helpdesk:
+
+During **School Operating Hours**,   
+Please contact your Form Teachers, Mondays to Fridays 8.00am - 4.00pm.  
+  
+For **Non-School Operating Hours**,  
+SLS Helpdesk: 6702 6513  
+Mondays - Fridays: 4.00pm - 9.00pm  
+Saturdays: 9.00am - 9.00pm  
+**\***_Closed on Sundays & Public Holidays_
