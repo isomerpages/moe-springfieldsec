@@ -50,6 +50,6 @@ To discuss any of the following, please book appointment slots that are during y
 | [**Post-Secondary Education Institutions**](https://go.gov.sg/overview-pseis) 	| Overview of the Post-Secondary Education Institutions (PSEIs) 	|
 | [**Where to After Secondary School?**](https://youtu.be/ndDVlzT-z0g) 	| Overview of the Post-Secondary Education Landscape 	|
 | [**Scholarships**](https://go.gov.sg/admissions-scholarships) 	| Learn about the different merit-based awards and scholarships 	|
-| MOE Financial Assistance Scheme 	| Applicable to all students 	|
+| [**MOE Financial Assistance Scheme**](https://www.moe.gov.sg/FAS) 	| Applicable to all students 	|
 | Committee for Private Education 	| Resources for students considering private education 	|
 | Resources for Private Education Students 	| Resources for students considering private education 	|
