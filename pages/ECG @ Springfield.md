@@ -39,7 +39,7 @@ To discuss any of the following, please book appointment slots that are during y
 | [Joint Polytechnic Admissions Exercise (**JPAE**)](https://jpae.polytechnic.edu.sg/) 	| Admission to the five polytechnics for Nitec & Higher Nitec students 	|
 | [**IBDP Curriculum**](https://www.ibo.org/programmes/diploma-programme/curriculum/) 	| International Baccalaureate® (IB) Diploma Programme (DP) curriculum 	|
 | [**MyCareersFuture**](https://go.gov.sg/careersfuture) 	| A portal with career-related content 	|
-| Singapore Industry Landscape 	| ECG Portal to explore the world of work 	|
+| [**Singapore Industry Landscape**](https://go.gov.sg/industrylandscape-sec) 	| ECG Portal to explore the world of work 	|
 | Industry Transformation Maps (ITMs) 	| Roadmaps for the various industries in Singapore 	|
 | Skills Framework 	| Information on career sectors, pathways, roles, skills, training, etc. 	|
 | ECG Parent Guide 	| Journeying with our Children, Achieving their Aspirations 	|
