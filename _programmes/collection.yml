@@ -2,6 +2,7 @@ collections:
   programmes:
     output: true
     order:
+      - NDLP/Student Device Information Kit.md
       - NDLP/.keep
       - Home Based Learning.md
       - Student Leadership/SPF Student Leadership Framework.md
