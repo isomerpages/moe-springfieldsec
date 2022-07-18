@@ -14,7 +14,8 @@ description: ""
 ![](/images/NPCC.jpg)
 <table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">NATIONAL POLICE CADET CORP (SEA)</th></tr></thead><tbody><tr><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">UNIT OVERALL PROFICIENCY AWARD 2018 (GOLD)</td></tr></tbody></table>
 
-
+![](/images/NCC%20LAND.jpg)
+<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">NATIONAL CADTE CORP (LAND)</th></tr></thead><tbody><tr><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">UNIT RECOGNITION 2018 (ACCOMPLISHMENT)</td></tr></tbody></table>
 
 ### Performing Arts
 
