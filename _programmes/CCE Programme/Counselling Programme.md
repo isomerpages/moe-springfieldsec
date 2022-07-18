@@ -31,3 +31,4 @@ Mondays to Fridays (During School hours)
 During school hours, students can approach the form teacher to get a referral for counseling. Alternatively, the students can walk-in to the counseling room after 2.25pm.
 
 Please click on the below link for counseling procedure:
+(pdf not available)
