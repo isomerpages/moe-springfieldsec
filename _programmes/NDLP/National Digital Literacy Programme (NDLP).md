@@ -15,6 +15,4 @@ The National Digital Literacy Programme was launched in March 2020 and is intend
 
 Through the NDLP, students will own personal learning devices (PLD) that will enable them to learn effectively through ICT mediated activities. The device will be used to facilitate an environment that encourages personalised learning. Support will be given to ensure that no child is denied of this opportunity. Singapore Citizen students can use their Edusave Account to pay for the PLD.
 
-  
-
 Springfield Secondary is scheduled for Phase 1 implementation and the non-graduating students in Secondary 1, 2 and 3 will be receiving the PLD in Term 2, 2021.
