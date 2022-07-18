@@ -50,3 +50,7 @@ Students learn how to:
 The school collaborates with the Health Promotion Board to launch its own SFSS Step Challenge. This helps to promote a more active lifestyle among our students by encouraging them to take more steps daily. Students use the HPB's Healthy 365 mobile application to sync and update their step count.
 
 ![](/images/SFSS%20Steps%20Challenge.jpg)
+
+### Nutrition and Health
+
+A healthy diet is essential for good health and nutrition. It protects a person against many chronic non-communicable diseases, such diabetes, heart diseases and cancer. It is important to eat a variety of foods, consume less salt, sugars and saturated and industrially-produced trans-fats to ensure a healthy diet. During the course of the programme, students learn about what makes a healthy diet. They learn about the different types of nutrients, calories in foods and how to use the Nutrition Calculator mobile applications to calculate the nutrients in a meal. They also learn about the effects of high sugar intake in one's diet and carried out tests to investigate the sugar content in some common drinks like Bubble Tea. To encourage students to have healthier food options and snacks, students learn how to make healthier, high fibre energy bars and healthier sports drinks. Through these activities, students have a better understanding of the importance of a balanced diet to stay healthy.
