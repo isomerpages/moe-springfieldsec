@@ -23,3 +23,6 @@ The SEC is currently made up of Students holding key positions in their respecti
 
 ![](/images/1SL.jpg)
 SEC Yearbook Photoshoot 2019
+
+![](/images/2SL.jpg)
+President and Vice-President of 2019
