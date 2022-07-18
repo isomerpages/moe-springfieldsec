@@ -37,3 +37,7 @@ The school values are **Graciousness, Responsibility, Resilience, Diligence,** a
 |  Secondary 2 	|  Responsibility 	| The Secondary 2 students will focus on **environmental** projects with the class, the school, and the community, as the focus by using the 3Rs. 	|
 |  Secondary 3 	|  Resilience  	| The Secondary 3 students will focus on **community-centered** projects as the focus by using the 3Rs. Classes will work collaboratively and may initiate projects with the community.<br>  	|
 |  Secondary 4 & 5  	|  Diligence & Integrity 	| The Secondary 4 & 5 students will plan and execute social entrepreneurship projects with the aim of raising funds for the school and/or the community. 	|
+
+Students will use their handbook to help facilitate their VIA learning process. Hard copies of reflection sheets will be provided to each student after the completion of every VIA activity.
+
+Every student is expected to go through the reflection process together with the FT/Teacher-in-Charge after the activity, complete the reflection sheet and submit to the FT promptly.
