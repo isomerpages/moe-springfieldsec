@@ -21,3 +21,16 @@ Better Health for a Better Tomorrow
  
 ### ALP Framework
 
+![](/images/Picture1.png)
+
+The Applied Learning Programme covers three domains of Health: Physical Health, Nutrition and Mental Health.
+
+  
+
+### Tier 1 Programme
+
+**For ALL Secondary 1 and 2 students**
+
+**Physical Health Domain**
+
+Students learn to assess their own health and fitness status by measuring their blood pressure using the Blood Pressure monitor, measure their percentage body fat and calculate their Body Mass Index (BMI) to understand better how these impact their health. They also learn more about how they can stay healthy and fit through regular exercices. To promote this to the entire school cohort, the School collaborates with the Health Promotion Board (HPB) and launches its own SFSS Step Challenge.
