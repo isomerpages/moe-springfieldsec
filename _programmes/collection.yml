@@ -2,6 +2,7 @@ collections:
   programmes:
     output: true
     order:
+      - CCE Programme/Values In Action (VIA) Programme.md
       - CCE Programme/Counselling Programme.md
       - CCE Programme/.keep
       - NDLP/National Digital Literacy Programme (NDLP).md
