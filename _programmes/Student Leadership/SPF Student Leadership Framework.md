@@ -6,7 +6,7 @@ third_nav_title: Student Leadership
 ---
 # **SPF STUDENT LEADERSHIP FRAMEWORK – The ‘1-5’ Model**
 
-At Springfield, we focus on the holistic development of every Springfielder through a variety of programmes and activities. Such programmes and activities have been specifically designed to cater to the unique needs of our students with the goal of meeting the 4 CCE Student Outcomes[\[1\]](https://springfieldsec.moe.edu.sg/our-programmes/student-leadership#_ptoh_14318). Our school focus “Developing the Leader in You” is achieved through the opportunities provided to every student to excel.
+At Springfield, we focus on the holistic development of every Springfielder through a variety of programmes and activities. Such programmes and activities have been specifically designed to cater to the unique needs of our students with the goal of meeting the 4 CCE Student Outcomes<sub>\[1]</sub>. Our school focus “Developing the Leader in You” is achieved through the opportunities provided to every student to excel.
 
 We accomplish this through The ‘1-5’ Model:
 
@@ -60,9 +60,9 @@ All Student Executive Committee members are invited to participate in the SLPI w
 
 Using the SLPI as basis, the school has developed their own assessment tool which will be used by the general student population. The results will then be recorded in the students’ ePortfolio in the school’s online portal.
 
-[1] The 4 CCE Student Outcomes are Confident Person, Concerned Citizen, Self-directed Learner, Active Contributor.  
+\[1] The 4 CCE Student Outcomes are Confident Person, Concerned Citizen, Self-directed Learner, Active Contributor.  
 
-[/2] Springfield’s 5 Leadership Practices have been adapted from Kouzes and Posner’s Leadership Challenge Model ©.
+\[2] Springfield’s 5 Leadership Practices have been adapted from Kouzes and Posner’s Leadership Challenge Model ©.
 
 \[3] Character, Vision, Passion.
 
