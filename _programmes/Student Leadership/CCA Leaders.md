@@ -19,3 +19,5 @@ In Secondary 2, potential CCA leaders will be nominated across all four CCA grou
 ### CCA Leaders Camp
 
 The CCA Leaders Camp is an intensive leadership training camp held during the June Holidays every year. Organised and executed by Secondary 3 Resilience Camp participants, this student-led camp aims to imbue the very qualities expected of a Springfield student leader – one who embodies the five leadership practices and is a role model for fellow Springfielders to follow.
+
+![](/images/CCA%20leaders.jpg)
