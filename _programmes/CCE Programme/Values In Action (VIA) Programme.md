@@ -26,3 +26,7 @@ In Springfield Secondary School, we have a structured 4 to 5 years programme tha
 | Stage 1 	| Ready 	| Project Planning & Preparation (Identifying learning goals) 	|
 | Stage 2 	| Render 	| Project Implementation (Conscious Learning) 	|
 |  Stage 3 	| Reflect  	| Post-Project Implementation (Reinforcing Learning)  	|
+
+Students from Secondary 1 to 5 will go through a structured VIA programme which will bring them through stages 1, 2 and 3 as stated above.
+
+The school values are **Graciousness, Responsibility, Resilience, Diligence,** and **Integrity**. Every student in Springfield Secondary will take part in activities which will emphasise on all 5 values. However, for each level, there will be a special elevated focus on one particular school value. The breakdown is shown below:
