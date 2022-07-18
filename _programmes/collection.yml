@@ -2,6 +2,7 @@ collections:
   programmes:
     output: true
     order:
+      - Student Leadership/SPF Student Leadership Framework.md
       - Student Leadership/Student Executive Committee.md
       - Student Leadership/CCA Leaders.md
       - Student Leadership/.keep
