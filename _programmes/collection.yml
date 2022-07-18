@@ -2,6 +2,7 @@ collections:
   programmes:
     output: true
     order:
+      - CCE Programme/CCE Programme.md
       - CCE Programme/Sexuality Education Programme.md
       - CCE Programme/Education & Career Guidance Programme.md
       - CCE Programme/Values In Action (VIA) Programme.md
