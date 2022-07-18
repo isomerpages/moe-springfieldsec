@@ -2,5 +2,6 @@ collections:
   programmes:
     output: true
     order:
+      - Student Leadership/CCA Leaders.md
       - Student Leadership/.keep
       - Start IT Right (SIR) Programme.md
