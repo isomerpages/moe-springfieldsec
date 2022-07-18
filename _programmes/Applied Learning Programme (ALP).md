@@ -34,3 +34,14 @@ The Applied Learning Programme covers three domains of Health: Physical Health, 
 **Physical Health Domain**
 
 Students learn to assess their own health and fitness status by measuring their blood pressure using the Blood Pressure monitor, measure their percentage body fat and calculate their Body Mass Index (BMI) to understand better how these impact their health. They also learn more about how they can stay healthy and fit through regular exercices. To promote this to the entire school cohort, the School collaborates with the Health Promotion Board (HPB) and launches its own SFSS Step Challenge.
+
+![](/images/Tier%201%20Programme-.jpg)
+
+Students learn how to:    
+1\. measure their blood pressure;    
+2\. measure their body fat composition and     
+3\. calculate their Body Mass Index (BMI)
+
+![](/images/Tier%201%20Programme_.jpg)
+<center>Students learn how to build their core strength to increase sports performance.</center>
+
