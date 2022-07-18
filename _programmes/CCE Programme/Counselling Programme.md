@@ -14,3 +14,5 @@ Every life has its challenges. We run into deep, sharp corners and slippery road
 
 "Our purpose is to provide an environment that stimulates growth in the students, for them to be responsible, resilient and resourceful, hence leading them towards personal wellbeing in the aspect of cognitive, social, emotional, physical and mental."
 
+### Who are the counsellors?
+
