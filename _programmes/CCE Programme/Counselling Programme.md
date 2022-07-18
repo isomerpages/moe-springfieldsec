@@ -16,3 +16,5 @@ Every life has its challenges. We run into deep, sharp corners and slippery road
 
 ### Who are the counsellors?
 
+<img src="/images/o%20AED%20-%20mr%20sebastian%20seet%20keng%20cheng%20sq%20100.jpg" 
+     style="width:50%">
