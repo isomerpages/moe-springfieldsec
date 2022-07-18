@@ -4,8 +4,7 @@ permalink: /programmes/NDLP
 description: ""
 third_nav_title: NDLP
 ---
-National Digital Literacy Programme (NDLP)
-==========================================
+# **National Digital Literacy Programme (NDLP)**
 
 _**\* Update - For more information on the NDLP & PLD Initiative Parents' Briefing held on 26 Jan 2022, please click [HERE](/programmes/national-digital-literacy-programme-ndlp/ndlp-n-pld-initiative-parents-briefing-26-jan-2022).**_
 
@@ -17,15 +16,11 @@ Through the NDLP, students will own personal learning devices (PLD) that will en
 
 Springfield Secondary is scheduled for Phase 1 implementation and the non-graduating students in Secondary 1, 2 and 3 will be receiving the PLD in Term 2, 2021.
 
-#### Intended Outcome
-
-  
+### Intended Outcome
 
 There are **3** intended outcomes of the 1:1 personalized learning environment. 
 
 The use of the personal learning devices for teaching and learning will
-
-  
 
 _1)    Support the development of digital literacies, where students will learn digital skills such as gathering and evaluating information online, interacting with the online community, and creating digital products._
 
@@ -33,6 +28,14 @@ _2)    Support self-directed and collaborative learning, where students can ac
 
 _3)    Enhance Teaching & Learning. 1:1 learning environment allows teachers and students to harness technology for greater effectiveness in teaching. For example, instructions, activities and feedback for each student could be more tailored and relevant to students' learning needs._
 
+For information on the parents' engagement on NDLP, you may click [**_HERE_**](/files/NDLP%20-%20Briefing%20for%20Parents%20Website_Updated1.pdf) to download the slides.
+
+### Springfield Digital Learning Vision
+
+![](/images/Digital%20Learning%20Vision.png)
+
+At Springfield Secondary School, your child will be using PLD for active learning in all subjects, including the conduct, completion & submission of authentic learning/inquiry tasks that require research, digital creation and collaborative learning.
+
   
 
-For information on the parents' engagement on NDLP, you may click [**_HERE_**](/files/NDLP%20-%20Briefing%20for%20Parents%20Website_Updated1.pdf) to download the slides.
+The students will also be embarking on a series of self-paced New Media Literacies lessons on the Student Learning Space (SLS), with facilitated discussions on cyber wellness, key digital skills and literacies by teachers.
