@@ -66,3 +66,6 @@ A healthy diet is essential for good health and nutrition. It protects a person 
 
 ### Mental Health
 The programme segment on Mental Health helps students have a better understanding of good mental health and how they can be mentally and emotionally healthy. They learnt how to handle stress better and build mental resilience. Students were also taught how they can use different types of music to help them relax and reduce stress, and how sleep has a great impact not only on a person's physical health but also mental health.
+
+![](/images/MH_6.png)
+
