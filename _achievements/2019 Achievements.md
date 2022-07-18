@@ -8,6 +8,8 @@ description: ""
 ![](/images/2019%20acheivements%20PA.jpg)
 <table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="border-color:#343434;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">INDOOR BAND</th></tr></thead><tbody><tr><td style="border-color:#343434;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">SINGAPORE YOUTH FESTIVAL (SYF) 2019 - CERTIFICATE OF ACCOMPLISHMENT</td></tr></tbody></table>
 
+![](/images/2019%20acheivements%20PA(2).jpg)
+<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">GUZHENG</th></tr></thead><tbody><tr><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">SINGAPORE YOUTH FESTIVAL (SYF) 2019 - CERTIFICATE OF ACCOMPLISHMENT</td></tr></tbody></table>
 
 
 ### Sports
