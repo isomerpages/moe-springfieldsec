@@ -27,3 +27,5 @@ _**If you wish to have a discussion on your ECG concerns, please Click**_ **_[H
 ![](/images/Grad-19.jpg)
 
 ![](/images/G3.png)
+
+![](/images/G4.png)
