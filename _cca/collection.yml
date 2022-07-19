@@ -2,5 +2,6 @@ collections:
   cca:
     output: true
     order:
+      - Visual & Performing Arts/Drama (English).md
       - Visual & Performing Arts/Guzheng Ensemble.md
       - Visual & Performing Arts/.keep
