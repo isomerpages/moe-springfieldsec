@@ -34,11 +34,7 @@ description: ""
 
 7\. Each CCA has a quota and once they reached their quota, they will not be able to recruit any more new members. Students are required to contribute to the CCA, work with their friends and learn new skills.
 
-  
-
 8\. The above process is repeated for a whole month (31st January 2020) until Students finalise their CCA. After which, they will be allocated a CCA.
-
-  
 
 Please note that the CCA Schedule can be found at the links below.
 
@@ -47,8 +43,6 @@ Please also note that Consent Forms will be given once the student has confirmed
   
 
 ### CCA Grading System – LEAPS Award
-
-  
 
 LEAPS 2.0 recognises students' experiential learning and attainment in the Four domains of the Co-Curriculum as they progress through their Secondary School years. At the end of the graduating year, Students' Co-Curriculum attainment will be translated to bonus point(s) which can be used for Admission to Junior Colleges / Polytechnics / Institutes of Technical Education (ITE).
 
