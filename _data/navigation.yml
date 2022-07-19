@@ -8,7 +8,7 @@ links:
     collection: cca
   - title: Achievements
     collection: achievements
+  - title: Students
+    collection: students
   - title: Contact Us
     url: /contact-us/
-  - title: Example Page
-    url: /example-page/
