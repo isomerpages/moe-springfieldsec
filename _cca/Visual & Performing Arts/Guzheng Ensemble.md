@@ -19,3 +19,11 @@ third_nav_title: Visual & Performing Arts
 ![](/images/Upd_seniors%20back%20home%202020.jpg)
 
 ![](/images/Upd_NPIK9116_2020.jpg)
+
+![](/images/Upd_VYXW4324.jpg)
+
+![](/images/Upd_KIAM0190.jpg)
+
+![](/images/National%20Day%20Carnival%202019.jpg)
+
+![](/images/CNY%20Performance%202018.jpeg)
