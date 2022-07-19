@@ -30,7 +30,7 @@ Example:
 
   
 
-*   If you have forgotten your SLS Password, Click Forgot Password to reset - click **[HERE](https://springfieldsec-moe-edu-sg-admin.cwp.sg/qql/slot/u171/2020/HBL/SLS%20Guide%20to%20Pwd%20Reset.pdf)** to find out more
+*   If you have forgotten your SLS Password, Click Forgot Password to reset - click **[HERE](/files/SLS%20Guide%20to%20Pwd%20Reset%20(1).pdf)** to find out more
 *   If your account is locked, please contact the following Helpdesk:
 
 During **School Operating Hours**,   
@@ -58,9 +58,7 @@ The Singapore Student Learning Space (SLS) is accessible through the Internet Br
 *   iPad with iOS 8 and later
 *   Android Tablet with Android 5 and later
 
-SLS is accessible through the latest Internet Browsers (minimum: Internet Explorer 11, Google Chrome 51, Firefox 51 or Safari 7.1)  
-
-  
+SLS is accessible through the latest Internet Browsers (minimum: Internet Explorer 11, Google Chrome 51, Firefox 51 or Safari 7.1).
 
 **Qn 2: Can SLS run on Mobile Phones?**
 
