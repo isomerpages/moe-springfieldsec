@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - Uniform Groups/NPCC (Sea).md
       - Uniform Groups/.keep
       - Visual & Performing Arts/Band.md
       - Visual & Performing Arts/Dance.md
