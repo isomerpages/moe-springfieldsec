@@ -27,3 +27,9 @@ third_nav_title: Visual & Performing Arts
 ![](/images/National%20Day%20Carnival%202019.jpg)
 
 ![](/images/CNY%20Performance%202018.jpeg)
+
+![](/images/OTH%20Performance.jpeg)
+
+![](/images/Upd_SYF%202017.jpg)
+
+![](/images/Upd_Bonding%20Session.jpg)
