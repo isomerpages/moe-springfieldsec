@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - Physical Sports/Outdoor Pursuits Club.md
       - Physical Sports/Taekwondo.md
       - Physical Sports/.keep
       - Uniform Groups/Boys' Brigade.md
