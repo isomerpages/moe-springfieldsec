@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - Physical Sports/Floorball (Girls).md
       - Physical Sports/Floorball (Boys).md
       - Physical Sports/Football.md
       - Physical Sports/Netball.md
