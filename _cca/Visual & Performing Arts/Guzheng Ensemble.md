@@ -4,3 +4,6 @@ permalink: /cca/visual-n-performing-arts/guzheng-ensemble
 description: ""
 third_nav_title: Visual & Performing Arts
 ---
+# **Guzheng Ensemble**
+
+![](/images/Photo%201.jpeg)
