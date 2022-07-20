@@ -15,19 +15,7 @@ The PDF copies are also available for download.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/H5sUFf8bs3Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-**3 EXPRESS**
-
-
-<div>
-<div style="float: left">
-<a href="/files/3EXP_Streaming_Parent%20Engagement_2022.pdf">
-<img src="/images/pdf.png"
-     style="width:10%">
-</a>
-</div>
-<br>
-<br>
-
+**3 EXPRESS** - Click [here](/files/3EXP_Streaming_Parent%20Engagement_2022.pdf) for more information on Subject Combinations for Sec 3 2022.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vkJr3PK90PQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
