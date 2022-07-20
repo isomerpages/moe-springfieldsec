@@ -6,4 +6,4 @@ third_nav_title: 2022 S1 Posting & Registration
 ---
 # **Parent Kit: Pri to Sec Transition**
 
-
+* [Resource Kit - Parent Kit - Primary to Secondary Transition.pdf](/files/Resource%20Kit%20-%20Parent%20Kit%20-%20Primary%20to%20Secondary%20Transition.pdf)
