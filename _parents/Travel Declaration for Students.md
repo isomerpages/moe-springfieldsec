@@ -20,6 +20,6 @@ To make your travel declaration, go to \[SERVICE > DECLARE TRAVELS\]. Please dec
 
 You may print the hardcopy declaration ([_**Appendix 2**_ ](/files/Appendix%202%20-%20Hardcopy%20Letter%20to%20Parents%20and%20Guardians%20Not%20Using%20PG%20-June%202021.pdf)), complete the relevant information and submit via your child/ward Form Teacher.  
   
-_When planning your travel, please refer to the attached advisory on travelling ([**Appendix 3**](https://springfieldsec.moe.edu.sg/qql/slot/u171/2021/Travel%20Declaration/Appendix%203%20-%20Advisory%20on%20Travel.pdf)). If there is a change of travel plan(s) after declaration, please inform the school directly rather than through Parents' Gateway (PG).  
+_When planning your travel, please refer to the attached advisory on travelling ([**Appendix 3**](/files/Appendix%203%20-%20Advisory%20on%20Travel.pdf)). If there is a change of travel plan(s) after declaration, please inform the school directly rather than through Parents' Gateway (PG).  
   
 Thank you for your partnership and support to keep our school safe._
