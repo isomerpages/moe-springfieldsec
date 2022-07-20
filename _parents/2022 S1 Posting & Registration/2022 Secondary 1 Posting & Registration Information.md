@@ -133,4 +133,4 @@ d.   HPB offers fully subsidised Human Papillomavirus (HPV) vaccinations to el
 
 e.    HPB’s School Health Service only screens for specific conditions. For other medical conditions, please consult a doctor.   
 
-f.      If you do not wish for your child to undergo HPB’s annual health screening in school, please write to                                           [HPB\_SHC@hpb.gov.sg](mailto:HPB_SHC@hpb.gov.sg).
+f.      If you do not wish for your child to undergo HPB’s annual health screening in school, please write to [HPB_SHC@hpb.gov.sg](mailto:HPB_SHC@hpb.gov.sg).
