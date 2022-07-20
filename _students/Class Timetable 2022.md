@@ -8,10 +8,9 @@ description: ""
 Please click on your respective Classes to view your Timetable and Download a copy.  
  _\*Updated as of 23 June 2022_
  
-[](/files/1D-CT.pdf)
-[](/files/2D-CT.pdf)
-[](/files/3D-CT.pdf)
-[](/files/4D-CT.pdf)
+[](/files/1E-CT.pdf)
+[](/files/2E-CT.pdf)
+[](/files/3E-CT.pdf)
 
 **TERM 3**
 
