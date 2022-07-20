@@ -127,9 +127,9 @@ a.      The Health Promotion Board (HPB)’s School Health and Dental Serv
 
 b.    Your consent is needed to ensure your child receives these important health and dental services provided. You may access the Child Consent Portal via the link [https://childconsent.hpb.gov.sg/](https://childconsent.hpb.gov.sg/).   
 
-c.     Upon access to the Child Consent Portal, you will need to (1) provide consent for HPB to deliver health and dental                    services to your child, and (2) update your child’s medical condition(s).   
+c.     Upon access to the Child Consent Portal, you will need to (1) provide consent for HPB to deliver health and dental services to your child, and (2) update your child’s medical condition(s).   
 
-d.   HPB offers fully subsidised Human Papillomavirus (HPV) vaccinations to eligible Secondary 1 and 2 female students.               HPV vaccinations are highly recommended for females 9-26 years old for protection against cervical cancer. Parental               consent is required before HPV vaccination can be administered.    
+d.   HPB offers fully subsidised Human Papillomavirus (HPV) vaccinations to eligible Secondary 1 and 2 female students. HPV vaccinations are highly recommended for females 9-26 years old for protection against cervical cancer. Parental consent is required before HPV vaccination can be administered.    
 
 e.    HPB’s School Health Service only screens for specific conditions. For other medical conditions, please consult a doctor.   
 
