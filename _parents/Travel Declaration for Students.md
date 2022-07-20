@@ -22,4 +22,4 @@ You may print the hardcopy declaration ([_**Appendix 2**_ ](/files/Appendix%202%
   
 _When planning your travel, please refer to the attached advisory on travelling ([**Appendix 3**](/files/Appendix%203%20-%20Advisory%20on%20Travel.pdf)). If there is a change of travel plan(s) after declaration, please inform the school directly rather than through Parents' Gateway (PG).  
   
-Thank you for your partnership and support to keep our school safe._
+Thank you for your partnership and support to keep our school safe.
