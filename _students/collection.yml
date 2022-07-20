@@ -2,7 +2,6 @@ collections:
   students:
     output: true
     order:
-      - Assessment 2022/School Uniform.md
       - Assessment 2022/Schedule (WA & Exam).md
       - Assessment 2022/Synopsis (WA & EXAM).md
       - Assessment 2022/Non weighted Assessment.md
