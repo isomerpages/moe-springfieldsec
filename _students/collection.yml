@@ -2,6 +2,7 @@ collections:
   students:
     output: true
     order:
+      - Student Handbook 2022.md
       - School Rules 2022.md
       - Student Calendar 2021.md
       - School eYearbook.md
