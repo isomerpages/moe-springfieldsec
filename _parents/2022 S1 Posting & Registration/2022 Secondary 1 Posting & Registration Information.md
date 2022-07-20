@@ -26,3 +26,7 @@ The information provided here and the online resources via the School Website an
 *   Please refer to Springfield Secondary School Website for updates prior to the school term reopening. 
 *   Face-to-face meetings will be limited as part of the School’s overall Safe Management Measures (SMMs). You may refer to Annex A for the SMMs put in place to ensure the safety of our staff and students in school.       
 *   You may direct any feedback or query via the following during office hours (8am to 5pm) on weekdays
+
+| Springfield Secondary School 	| Year Head (Lower Secondary) 	|
+|---	|---	|
+| General Office <br>6318 3053                <br>springfields@moe.edu.sg            	| Mr Eddie Chong<br>6318 3971            <br>chong_suan_yan_eddie@moe.edu.sg          	|
