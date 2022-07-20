@@ -30,3 +30,10 @@ The information provided here and the online resources via the School Website an
 | Springfield Secondary School 	| Year Head (Lower Secondary) 	|
 |---	|---	|
 | General Office <br>6318 3053                <br>springfields@moe.edu.sg            	| Mr Eddie Chong<br>6318 3971            <br>chong_suan_yan_eddie@moe.edu.sg          	|
+
+**B**    **Students under MOE Financial Assistance Scheme (MOE FAS)**
+
+*   Kindly refer to the FAS section of the school website. The link is as follow: 
+[https://moe-springfieldsec-staging.netlify.app/about-us/admin-matters/financial-assistance](https://moe-springfieldsec-staging.netlify.app/about-us/admin-matters/financial-assistance)
+
+*   All Parents / Students under the MOE FAS application process – Do not purchase any books or uniform before the receipt of the FAS confirmation letter
