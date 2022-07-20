@@ -134,3 +134,41 @@ d.   HPB offers fully subsidised Human Papillomavirus (HPV) vaccinations to el
 e.    HPB’s School Health Service only screens for specific conditions. For other medical conditions, please consult a doctor.   
 
 f.      If you do not wish for your child to undergo HPB’s annual health screening in school, please write to [HPB_SHC@hpb.gov.sg](mailto:HPB_SHC@hpb.gov.sg).
+
+Annex
+
+Safe Management Measures:
+Exercising Social Responsibility   
+
+We would like to seek the cooperation of parents/guardians to impress upon your child/ward on the following matters with regard to exercising social responsibility:    
+
+1. Staying away when Unwell or if family/household members are unwell: students and staff should be reminded to remain at     home if they are feeling unwell with any COVID symptoms (e.g. fever, runny nose, cough, loss of smell). In addition, if there are     any family or household members who are unwell, have been issued a Quarantine Order (QO) or Stay Home Notice (SHN)           received Health Risk Warning (HRW) from MOH, or have to undergo mandatory testing due to COVID-19 cluster, students and        staff should be reminded to remain at home.
+
+2. Bring TraceTogether Token to School Daily: parents/guardians are requested to remind their child/ to bring their                        TraceTogether token to school and have it with them as they move from place to place. This is to facilitate contact tracing if the     need arises.
+
+3. Wipe Down Routines: All students will wipe down their desk areas and common/shared equipment each time they need to            move to a different classroom/venue.
+
+4. Wearing of masks/shields properly: Teachers and students should wear high filtration face masks as a default.
+
+5. Reinforcing good habits: Staff will remind students to continue washing their hands with soap and water regularly, with hand        sanitisers topped up in learning spaces around the school, including classrooms, for staff and students to us.                                 Parents/guardians can also remind their child/ward to continue to wash hands frequently at home, 
+
+
+Safe Management Measures: 
+Visit to Schools by Parents/Guardians
+
+
+1. Students should be accompanied by at most one parent/guardian.    
+
+2. Safe-entry check-in, visual screening and temperature measurement will be employed at the security post. Please note        that visitors who are unwell will not be allowed to enter the school. We appreciate your patience and understanding to        comply with the checks and safe measures.   
+
+3. Visitors are not required to be fully vaccinated or show valid PET result so long as their visits are transient in nature with        no sustained interactions with students. This includes visitors for parent-teacher meetings.   
+
+4. Safe distancing of 1m should be maintained at all times between different groups of parents/guardians and                              students.    
+    
+    To prevent over-crowding, parents should visit the school by appointment. Parents/ guardians should not turn up in            school unannounced. You should, as far as possible, complete your administrative tasks in the same time slot.    
+
+i.      In classrooms: maximum of 30 persons per classroom, subject to venue layout and visitors being able to                                    maintain safe distancing of 1m between groups.       
+ii.     In large venues (e.g. hall/canteen): maximum of 50 parents/guardians with their child/ward.      
+iii.    Follow markings / guides drawn to ensure safe distancing in queues inside and outside the venue.   
+
+5. All venues will be equipped with hand sanitisers.
