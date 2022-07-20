@@ -2,6 +2,7 @@ collections:
   parents:
     output: true
     order:
+      - Secondary 1/Meet the Parents 2021.md
       - Secondary 1/.keep
       - Secondary 2/Secondary 2 Streaming 2022.md
       - Secondary 2/Secondary 2 Streaming 2021.md
