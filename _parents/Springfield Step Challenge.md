@@ -23,4 +23,5 @@ The second stage will be the engagement phase where we can plan a series of plan
 5. Students will be able to view their total number of steps as a Class on a monthly basis. In this way, Students will be motivated to move more in order to climb up the Leaderboard.  
   
 Your child is required to participate in the above-mentioned activity. Each child will be given a Fitness Tracker to calculate the amount of Steps they take and measure their Heart Rate. The Physical Education (PE) Teachers will assist the child to register and sync the fitness tracker.  
+
 Please note that data (such as age, etc..) from your child will be collected during Registration and could be used for Research Purposes. Please feel free to contact the Teacher-In-Charge below if you need further clarification.
