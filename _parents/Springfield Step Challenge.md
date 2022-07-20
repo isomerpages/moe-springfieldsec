@@ -27,3 +27,15 @@ Your child is required to participate in the above-mentioned activity. Each chil
 Please note that data (such as age, etc..) from your child will be collected during Registration and could be used for Research Purposes. Please feel free to contact the Teacher-In-Charge below if you need further clarification.
 
 <table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:#F4F4F4;border-color:#ffffff;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal" colspan="3"><span style="color:#000;background-color:#F4F4F4">Name of Teacher(s)-in-Charge</span></th><th style="background-color:#F4F4F4;border-color:#ffffff;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal" colspan="2"><span style="color:#000;background-color:#F4F4F4">Lim Zhi-Hao Adrian</span></th></tr></thead><tbody><tr><td style="background-color:#DDEEE9;border-color:#ffffff;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal" colspan="3"><span style="color:#000;background-color:#DDEEE9">Contact No(s)</span></td><td style="background-color:#DDEEE9;border-color:#ffffff;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal" colspan="2"><span style="color:#000;background-color:#DDEEE9">6318 3973</span></td></tr></tbody></table>
+
+Thank you.  
+  
+Yours faithfully,
+
+Bambang Purnama    
+Vice-Principal
+
+Lim Zhi Hao Adrian    
+HOD PE/CCA   
+1st March 2019 
+
