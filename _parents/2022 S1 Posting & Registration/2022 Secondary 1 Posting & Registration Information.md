@@ -38,4 +38,4 @@ The information provided here and the online resources via the School Website an
 *   All Parents / Students under the MOE FAS application process – Do not purchase any books or uniform before the receipt of the FAS confirmation letter
 
 **C**    **Sale of Books and Uniform & PE Attire**    
-**\*Booklists can be found** [_HERE_](https://springfieldsec.moe.edu.sg/students/booklist-2022)**.**
+**\*Booklists can be found** [_HERE_](https://moe-springfieldsec-staging.netlify.app/students/booklist-2022)**.**
