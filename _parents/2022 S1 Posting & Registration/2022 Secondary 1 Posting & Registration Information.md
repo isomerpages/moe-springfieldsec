@@ -121,7 +121,7 @@ CCA play an integral role in the holistic growth and character development of ea
 
 *   Kindly fill up the following form to update us the Covid-19 Vaccination Status of your child: [https://form.gov.sg/61bda5a486d04e0013c85dde](https://form.gov.sg/61bda5a486d04e0013c85dde)
 
-**J    Enrol Your Child For Annual School-based Health & Dental Services**       
+#### **J. Enrol Your Child For Annual School-based Health & Dental Services**       
 
 a.      The Health Promotion Board (HPB)’s School Health and Dental Services will be conducting its annual health screening, immunisation and dental services for your child. These services ensure the protection of your child’s health and early detection of health issues. We appreciate your partnership with HPB to give our children a healthier start in life. 
 
