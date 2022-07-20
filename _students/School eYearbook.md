@@ -20,7 +20,7 @@ Please click the picture below to view the school e-Yearbook for 2021.
 </div>
 	
 
-### 2020
+	<h3>2020</h3>
 
 Please click the picture below to view the school e-Yearbook for 2020.
 	
@@ -31,7 +31,16 @@ Please click the picture below to view the school e-Yearbook for 2020.
      style="width:100%">
 </a>
 </div>
-<div>
 	
-### 2019
+	<h3>2019</h3>
 Please click the picture below to view the school e-Yearbook for 2019.
+		
+	<div>
+<div style="float: left">
+<a href="https://issuu.com/zhang_lisa/docs/yearbook_2019_r4p_v13_compress_2">
+<img src="/images/Yearbook%202019.png"
+     style="width:100%">
+</a>
+</div>
+		
+		
