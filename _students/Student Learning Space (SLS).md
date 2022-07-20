@@ -11,8 +11,18 @@ Singapore Student Learning Space (SLS) @ [https://learning.moe.edu.sg](https://
 
 Please login to the Student Learning Space (SLS) portal to access some of the lessons assigned by your teachers.  
 You may access the Portal by clicking the SLS Logo below:  
-  
-![1574986730605-SLS Logo.jpg](https://springfieldsec-moe-edu-sg-admin.cwp.sg/qql/slot/u171/2020/1574986730605-SLS%20Logo.jpg)  
+ 
+<div>
+<div style="float: left">
+<a href="https://vle.learning.moe.edu.sg/login">
+<img src="/images/1574986730605-SLS%20Logo.jpg"
+     style="width:100%">
+</a>
+</div>
+<div>
+</div>
+</div>
+
 
 *   Please refer below on the Individual Students' Username
 
@@ -28,8 +38,7 @@ Example:
 
         **NUR FA**TIMAH BINTE RIDZUAN, T098**7654E** (Userid = **NURFA****7654E**)  
 
-  
-
+ 
 *   If you have forgotten your SLS Password, Click Forgot Password to reset - click **[HERE](/files/SLS%20Guide%20to%20Pwd%20Reset%20(1).pdf)** to find out more
 *   If your account is locked, please contact the following Helpdesk:
 
