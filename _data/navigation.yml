@@ -10,5 +10,7 @@ links:
     collection: achievements
   - title: Students
     collection: students
+  - title: Parents
+    collection: parents
   - title: Contact Us
     url: /contact-us/
