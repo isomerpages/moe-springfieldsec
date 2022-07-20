@@ -15,3 +15,6 @@ third_nav_title: Secondary 1
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SNaqoHb-Ywo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Academic IP and Applied Learning Programme (ALP) - VP Keith Tan (VP2)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EOjvW37rX-I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
