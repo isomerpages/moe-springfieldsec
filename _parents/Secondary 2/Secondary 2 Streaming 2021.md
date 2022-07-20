@@ -22,7 +22,7 @@ The PDF copies are also available for download.
 <div style="float: left">
 <a href="/files/3EXP_Streaming_Parent%20Engagement_2022.pdf">
 <img src="/images/pdf.png"
-     style="width:25%">
+     style="width:10%">
 </a>
 </div>
 <br>
