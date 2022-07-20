@@ -2,6 +2,7 @@ collections:
   parents:
     output: true
     order:
+      - 2022 S1 Posting & Registration/.keep
       - Termly Letter to Parents.md
       - Parents Gateway (PG).md
       - Crime Prevention Advisory.md
