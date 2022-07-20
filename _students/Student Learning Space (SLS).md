@@ -5,7 +5,7 @@ description: ""
 ---
 # **Student Learning Space (SLS)**
 
-Singapore Student Learning Space (SLS) @ [https://learning.moe.edu.sg](https://learning.moe.edu.sg/), an online platform that provides teachers and students with access to quality curriculum-aligned digital resources and learning tools. It gives the Students' flexibility to drive their own learning pace anytime, anywhere with the ability to learn better through the use of Technology.  
+Singapore Student Learning Space (SLS) @ [https://learning.moe.edu.sg](https://learning.moe.edu.sg/) - not found, an online platform that provides teachers and students with access to quality curriculum-aligned digital resources and learning tools. It gives the Students' flexibility to drive their own learning pace anytime, anywhere with the ability to learn better through the use of Technology.  
 
 ### **SLS Support for Home-based Learning**
 
