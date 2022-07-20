@@ -120,3 +120,17 @@ CCA play an integral role in the holistic growth and character development of ea
 *   Vaccination for students in schools is part of the larger national efforts to keep our education institutions and the wider community safe. As part of the national vaccination exercise, SMS invites would have been sent to parents/guardians of medically eligible students, and the students are encouraged to get vaccinated when vaccination is offered to them
 
 *   Kindly fill up the following form to update us the Covid-19 Vaccination Status of your child: [https://form.gov.sg/61bda5a486d04e0013c85dde](https://form.gov.sg/61bda5a486d04e0013c85dde)
+
+**J    Enrol Your Child For Annual School-based Health & Dental Services**       
+
+a.      The Health Promotion Board (HPB)’s School Health and Dental Services will be conducting its annual health screening, immunisation and dental services for your child. These services ensure the protection of your child’s health and early detection of health issues. We appreciate your partnership with HPB to give our children a healthier start in life. 
+
+b.    Your consent is needed to ensure your child receives these important health and dental services provided. You may access the Child Consent Portal via the link [https://childconsent.hpb.gov.sg/](https://childconsent.hpb.gov.sg/).   
+
+c.     Upon access to the Child Consent Portal, you will need to (1) provide consent for HPB to deliver health and dental                    services to your child, and (2) update your child’s medical condition(s).   
+
+d.   HPB offers fully subsidised Human Papillomavirus (HPV) vaccinations to eligible Secondary 1 and 2 female students.               HPV vaccinations are highly recommended for females 9-26 years old for protection against cervical cancer. Parental               consent is required before HPV vaccination can be administered.    
+
+e.    HPB’s School Health Service only screens for specific conditions. For other medical conditions, please consult a doctor.   
+
+f.      If you do not wish for your child to undergo HPB’s annual health screening in school, please write to                                           [HPB\_SHC@hpb.gov.sg](mailto:HPB_SHC@hpb.gov.sg).
