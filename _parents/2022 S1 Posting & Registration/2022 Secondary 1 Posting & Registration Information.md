@@ -135,10 +135,10 @@ e.    HPB’s School Health Service only screens for specific conditions. For
 
 f.      If you do not wish for your child to undergo HPB’s annual health screening in school, please write to [HPB_SHC@hpb.gov.sg](mailto:HPB_SHC@hpb.gov.sg).
 
-Annex
+#### Annex
 
-Safe Management Measures:
-Exercising Social Responsibility   
+**Safe Management Measures:     
+Exercising Social Responsibility** 
 
 We would like to seek the cooperation of parents/guardians to impress upon your child/ward on the following matters with regard to exercising social responsibility:    
 
@@ -153,8 +153,8 @@ We would like to seek the cooperation of parents/guardians to impress upon your 
 5. Reinforcing good habits: Staff will remind students to continue washing their hands with soap and water regularly, with hand        sanitisers topped up in learning spaces around the school, including classrooms, for staff and students to us.                                 Parents/guardians can also remind their child/ward to continue to wash hands frequently at home, 
 
 
-Safe Management Measures: 
-Visit to Schools by Parents/Guardians
+**Safe Management Measures:       
+Visit to Schools by Parents/Guardians**
 
 
 1. Students should be accompanied by at most one parent/guardian.    
