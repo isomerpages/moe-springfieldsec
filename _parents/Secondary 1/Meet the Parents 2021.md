@@ -22,4 +22,6 @@ third_nav_title: Secondary 1
 
 ### NDLP - VP Keith Tan (VP2)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/J-LZpZyTNKY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 **You may download the PDF copy [_HERE_](/files/NDLP%20Briefing%20for%20Parents.pdf).**
