@@ -33,3 +33,5 @@ Please click the picture below to view the school e-Yearbook for 2020.
 </div>
 <div>
 	
+### 2019
+Please click the picture below to view the school e-Yearbook for 2019.
