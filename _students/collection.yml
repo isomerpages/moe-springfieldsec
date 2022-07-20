@@ -2,15 +2,15 @@ collections:
   students:
     output: true
     order:
-      - Class Timetable 2022.md
       - School eYearbook.md
+      - Class Timetable 2022.md
       - Booklist.md
       - Annual Health Screening.md
       - School Uniform.md
+      - Assessment 2022/.keep
       - Assessment 2022/Schedule (WA & Exam).md
       - Assessment 2022/Synopsis (WA & EXAM).md
       - Assessment 2022/Non weighted Assessment.md
       - Assessment 2022/GCE N(A), N(T), O Level Examinations.md
-      - Assessment 2022/.keep
       - Student Learning Space (SLS).md
       - Submission of Electronic Medical Certificate.md
