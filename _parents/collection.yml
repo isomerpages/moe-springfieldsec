@@ -2,6 +2,7 @@ collections:
   parents:
     output: true
     order:
+      - "2022 S1 Posting & Registration/Parent Kit: Pri to Sec Transition.md"
       - 2022 S1 Posting & Registration/Application for Transfer to Springfield
         Secondary.md
       - 2022 S1 Posting & Registration/.keep
