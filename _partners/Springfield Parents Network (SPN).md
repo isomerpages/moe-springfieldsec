@@ -30,4 +30,8 @@ For Teacher's Day this year, the SPN gifted every Teacher with a personalized pe
 | 9. Angel Ho 	|
 | 10. Tay Siwe Chu 	|
 
-For Parents whom are keen to join the Springfield Parents' Network, please do not hesitate to contact Ms Aishah at [_mdmaishah@gmail.com_](mailto:mdmaishah@gmail.com) .
+For Parents whom are keen to join the Springfield Parents' Network, please do not hesitate to contact Ms Aishah at [_mdmaishah@gmail.com_](mailto:mdmaishah@gmail.com).
+
+### 2020
+
+Here's a short clip of Mdm Siti Aishah's sharing.
