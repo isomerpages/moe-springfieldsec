@@ -23,9 +23,12 @@ sections:
           description: Click here to access
           url: https://moe-springfieldsec-staging.netlify.app/students/class-timetable-2022
   - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
+      title: School Corporate Video
+      button: Click here to view the video
+      url: https://moe-springfieldsec-staging.netlify.app/about-us/school-corporate-video
+  - infobar:
+      title: 2022 GCE O Level Examination - Conduct of Examination
+      description: Instructions and guidelines on the GCE O Level Examinations
+      button: Click here
+      url: https://moe-springfieldsec-staging.netlify.app/students/assessment-2022/gce-n-a-n-t-o-level-examinations
 ---
