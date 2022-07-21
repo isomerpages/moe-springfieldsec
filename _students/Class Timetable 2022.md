@@ -28,6 +28,10 @@ description: ""
 [](/files/3E-Term1-Timetable.pdf)
 [](/files/4E-Term1-Timetable.pdf)
 
+[](/files/1F-Term1-Timetable.pdf)
+[](/files/2F-Term1-Timetable.pdf)
+[](/files/3F-Term1-Timetable.pdf)
+
 
 # **Class Timetable 2022**
 
