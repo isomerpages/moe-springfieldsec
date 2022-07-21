@@ -15,11 +15,11 @@ description: ""
 *   [Lightning Warning System](http://www.weather.gov.sg/lightning/)
 *   [MC Online Facility & Equipment Booking](https://www.mconline.sg/)
 *   [MIMS Portal](https://portal.mims.moe.gov.sg/)
-*   [MOE Intranet](https://intranet.moe.gov.sg/)
-*   [MOE IDEAS Bank](https://ideas.moe.gov.sg/)
+*   [MOE Intranet](https://intranet.moe.gov.sg/) - site can't be reached
+*   [MOE IDEAS Bank](https://ideas.moe.gov.sg/) - site can't be reached
 *   [MRL Portal](https://springfieldsec.spydus.com.sg/cgi-bin/spydus.exe/MSGTRN/OPAC/HOME)
 *   [OPAL 2.0](https://idm.opal2.moe.edu.sg/account/login?returnUrl=%2Fconnect%2Fauthorize%2Fcallback%3Fresponse_type%3Dcode%26client_id%3DOpal2WebApp%26state%3DgLnJjdvhqoTm8rYfvx3zuAKXIwWcyJaBmkn8Kdea8cHX-%26redirect_uri%3Dhttps%253A%252F%252Fwww.opal2.moe.edu.sg%252Fapp%252Findex.html%26scope%3Dcxprofile%2520openid%2520cxDomainInternalApi%26code_challenge%3DPZ2fBl6FjMSxAmmVIVvIWVShcR6vCi1u5CT0i6Grbs0%26code_challenge_method%3DS256%26nonce%3DgLnJjdvhqoTm8rYfvx3zuAKXIwWcyJaBmkn8Kdea8cHX-)
-*   [Pac@Gov](https://pacgov.agd.gov.sg/ipac/portal/jsp/login/index1.jsp)
+*   [Pac@Gov](https://pacgov.agd.gov.sg/ipac/portal/jsp/login/index1.jsp) - site can't be reached
 *   [School Bag](http://www.schoolbag.sg/)
 *   [School Cockpit](https://schoolcockpit.moe.gov.sg/)
 *   [SPF Library OPAC](https://schoolibrary.moe.edu.sg/springfieldsec)
