@@ -46,4 +46,6 @@ Here's a short clip of Mdm Siti Aishah's sharing.
 
 ![](/images/SPN_SportsDay.jpg)
 
+#### Secondary 1 BBQ, 3 February 2018
+
 ![](/images/SPN-2.jpg)
