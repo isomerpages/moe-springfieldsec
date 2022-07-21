@@ -48,8 +48,7 @@ Since 2012, SKM has been actively reaching out to the students at Springfield Se
 
 Springfield Secondary School has been an active partner with nEbO since 2015. During my time here, I have had the opportunities to collaborate with the school over programmes such as Work Attachment, O'Lively, Paint A New Hope and Social Entrepreneurship Workshop. It has therefore been a joy and privilege getting to relate with different students through these programmes, and I hope they have managed to gain deeper insights as well as to develop in their own capacities. Thank you Springfield Secondary for being ever so accommodating and nEbO looks forward to more collaborations with your school and your students.
 
-###   
-PAYM Service-Learning Champion (SLC)
+###   PAYM Service-Learning Champion (SLC)
 
 The PAYM Service-Learning Champion (SLC) programme aims to promote holistic development in youths through their involvement in the community. With Springfield Secondary School students, this has been achieved hands-on guidance by the teachers and grassroots mentors which greatly enhances their learning experiences. Moving forward, it is hoped that the students can continue organising and spearheading various service-learning activities to meet the needs of the community and become leaders who contribute to the community.
 
@@ -57,6 +56,6 @@ The PAYM Service-Learning Champion (SLC) programme aims to promote holistic deve
 
 ### National Environmental Agency (NEA)
 
-### **Ms. Khrisha Chatterji, Senior Executive (3P Partnership), North East Regional Office**
+**Ms. Khrisha Chatterji, Senior Executive (3P Partnership), North East Regional Office**
 
 Training the students to become junior ambassadors of the environment has been a pleasant experience with the support and cooperation of the teachers. The students are enthusiastic and ever-ready to reach out to the community. As we work together to engage the community, we hope to build a community that has a strong interest in caring for the environment.
