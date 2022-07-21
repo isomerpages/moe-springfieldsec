@@ -51,4 +51,9 @@ sections:
       title: Are we allowed to ride the e-Scooter?
       button: Click here to find out
       url: /Are-we-allowed-to-ride-the-e-Scooter
+  - infobar:
+      title: Submission of Digital MC
+      subtitle: Attention Springfielders!
+      button: Click here
+      url: https://moe-springfieldsec-staging.netlify.app/students/submission-of-electronic-medical-certificate
 ---
