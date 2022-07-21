@@ -36,4 +36,4 @@ Click **[here](https://www.mobileguardian.com/)** to access the DMA Parents' P
 
   
 
-\* For more information on the DMA, please click [here](/files/DMA%20Parent%20Engagement%20Slides.pdf)
+\* To download the DMA Parent Engagement slides, please click [here](/files/DMA%20Parent%20Engagement%20Slides.pdf)
