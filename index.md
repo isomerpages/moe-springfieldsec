@@ -42,4 +42,9 @@ sections:
       subtitle: Administrative Instructions on
       button: Click here
       url: /2021-gce-o-level-results-release-administrative-instructions
+  - infobar:
+      title: Sec 1 Registration 2022
+      description: Welcome to Springfield Secondary School!
+      button: Click here for more information
+      url: /parents/2022-secondary-1-posting-n-registration-information
 ---
