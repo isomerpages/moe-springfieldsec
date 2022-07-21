@@ -22,9 +22,7 @@ Please click the picture below to view the school e-Yearbook for 2021.
 <br>
 	
 <h3>2020</h3>
-
 Please click the picture below to view the school e-Yearbook for 2020.
-	
 	<div>
 <div style="float: left">
 <a href="https://issuu.com/ngchoonhwee/docs/sfsseyearbook2020">
@@ -32,8 +30,11 @@ Please click the picture below to view the school e-Yearbook for 2020.
      style="width:100%">
 </a>
 </div>
+		
+<br>
 	
 <h3>2019</h3>
+		
 Please click the picture below to view the school e-Yearbook for 2019.
 	<div>
 <div style="float: left">
