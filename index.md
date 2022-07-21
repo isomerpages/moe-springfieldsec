@@ -41,5 +41,5 @@ sections:
       title: 2021 GCE O Level Result Release
       subtitle: Administrative Instructions on
       button: Click here
-      url: /faq/
+      url: /2021-gce-o-level-results-release-administrative-instructions
 ---
