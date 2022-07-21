@@ -28,5 +28,5 @@ description: ""
 *   [SSOE Service Portal](https://ssoe.moe.edu.sg/) - site can't be reached
 *   [Student CCA Management](http://www.learnfusion.com/schools/springfield/) - site can't be reached
 *   [Student Learning Space](https://learning.moe.edu.sg/)
-*   [TRAISI](https://traisi.moe.gov.sg/AD/login.asp)
+*   [TRAISI](https://traisi.moe.gov.sg/AD/login.asp) - site can't be reached
 *   [Travel Advisory Portal](http://www.internationalsos.com/MasterPortal/default.aspx?membnum=02AABC000031)
