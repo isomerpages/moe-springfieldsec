@@ -14,4 +14,4 @@ permalink: /faq/
   
 **Finance Matters:**  
 
-1.  [What are the school fees for Secondary School education?](https://springfieldsec.moe.edu.sg/about-us/admin-matters/fees-information)
+1.  [What are the school fees for Secondary School education?](https://moe-springfieldsec-staging.netlify.app/about-us/admin-matters/fees-information)
