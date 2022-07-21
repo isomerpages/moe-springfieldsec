@@ -44,4 +44,6 @@ Here's a short clip of Mdm Siti Aishah's sharing.
 
 #### Sports Day
 
+![](/images/SPN_SportsDay.jpg)
+
 ![](/images/SPN-2.jpg)
