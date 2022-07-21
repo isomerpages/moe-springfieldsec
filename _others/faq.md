@@ -8,7 +8,7 @@ permalink: /faq/
 
 1.  [How do I get to Springfield Secondary School?](https://moe-springfieldsec-staging.netlify.app/contact-us/)
 2.  [How do I contact the school?](https://moe-springfieldsec-staging.netlify.app/contact-us/)
-3.  [Where can I buy the school books and uniforms?](https://springfieldsec.moe.edu.sg/about-us/admin-matters/school-suppliers)
+3.  [Where can I buy the school books and uniforms?](https://moe-springfieldsec-staging.netlify.app/about-us/admin-matters/school-suppliers)
 4.  [Where can I find out more information about the Direct School Admission (DSA) to Springfield Secondary School?](https://springfieldsec.moe.edu.sg/about-us/direct-school-admissions)
 
   
