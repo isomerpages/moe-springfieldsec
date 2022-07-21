@@ -12,5 +12,7 @@ links:
     collection: students
   - title: Parents
     collection: parents
+  - title: Partners
+    collection: partners
   - title: Contact Us
     url: /contact-us/
