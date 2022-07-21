@@ -41,11 +41,11 @@ We offer a number of high-quality classroom talks, workshops, and programmes on 
 
 |  	|  	|
 |---	|---	|
-| Ministry of Social and Family Development (MSF) 	| http://app.msf.gov.sg/ 	|
-| REACH 	| http://reachforstudents.com/ 	|
-| Family Justice Courts 	| https://www.familyjusticecourts.gov.sg/ 	|
-| Samaritans of Singapore (S.O.S) 	| https://www.familyjusticecourts.gov.sg/ 	|
-| North East Community Development Centre 	| https://cdc.org.sg/NorthEast 	|
-| National Youth Council 	| https://www.nyc.gov.sg/ 	|
-| Singapore Children's Society 	| http://www.childrensociety.org.sg/ 	|
-| Guide to mental health and well-being 	| http://helpguide.org/ 	|
+| Ministry of Social and Family Development (MSF) 	| [http://app.msf.gov.sg/](http://app.msf.gov.sg/) 	|
+| REACH 	| [http://reachforstudents.com/](http://reachforstudents.com/) 	|
+| Family Justice Courts 	| [https://www.familyjusticecourts.gov.sg/](https://www.familyjusticecourts.gov.sg/) 	|
+| Samaritans of Singapore (S.O.S) 	| [https://www.familyjusticecourts.gov.sg/](https://www.familyjusticecourts.gov.sg/) 	|
+| North East Community Development Centre 	| [https://cdc.org.sg/NorthEast](https://cdc.org.sg/NorthEast) 	|
+| National Youth Council 	| [https://www.nyc.gov.sg/](https://www.nyc.gov.sg/) 	|
+| Singapore Children's Society 	| [http://www.childrensociety.org.sg/](http://www.childrensociety.org.sg/) 	|
+| Guide to mental health and well-being 	| [http://helpguide.org/](http://helpguide.org/) 	|
