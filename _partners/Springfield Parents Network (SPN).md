@@ -56,4 +56,10 @@ Here's a short clip of Mdm Siti Aishah's sharing.
 
 #### Values in Action (VIA) Carnival, 6 April 2018
 
+![](/images/Carnival%202018.jpg)
 
+#### Awards Day, 13 April 2018
+
+![](/images/Springfield%20Awards%20Day%202018%20(3).jpg)
+
+![](/images/SPN-4.jpg)
