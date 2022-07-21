@@ -2,7 +2,7 @@ collections:
   others:
     output: true
     order:
-      - Quick Links.md
       - Others.md
+      - Quick Links.md
       - faq.md
       - privacy.md
