@@ -15,4 +15,17 @@ In 2020, most of the SPN activities had to be shelved due to COVID-19. Neverthel
   
 For Teacher's Day this year, the SPN gifted every Teacher with a personalized pen pouch. For the Graduating Classes, the SPN sponsored key chains as well as a hand-made graduating pen.
 
+### Members
 
+| The SPN 2020 Core Members 	|
+| ---	|
+| 1. Siti Aishah Bte Abdullah 	|
+| 2. Mastura Bte Mas’od 	|
+| 3. Tang Mun Yeng 	|
+| 4. Melissa Tan 	|
+| 5. Ernita Yuliartiek 	|
+| 6. Latifah Mohd 	|
+| 7. Amimah Saman 	|
+| 8. Lee Man Yee 	|
+| 9. Angel Ho 	|
+| 10. Tay Siwe Chu 	|
