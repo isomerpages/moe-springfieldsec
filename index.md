@@ -37,4 +37,9 @@ sections:
       description: Briefing slides for NDLP and PLD
       button: Click here
       url: https://moe-springfieldsec-staging.netlify.app/programmes/ndlp/ndlp-n-pld-initiative-parents-briefing-26-jan-2022
+  - infobar:
+      title: 2021 GCE O Level Result Release
+      subtitle: Administrative Instructions on
+      button: Click here
+      url: /faq/
 ---
