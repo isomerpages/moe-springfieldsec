@@ -8,7 +8,7 @@ notification: Here's a notification bar you can use!
 sections:
   - hero:
       title: Springfield Secondary School
-      subtitle: Lifelong Learners, Eemplary Leaders
+      subtitle: Lifelong Learners, Exemplary Leaders
       background: /images/SFSS.gif
       button: Contact Us
       url: /contact-us/
