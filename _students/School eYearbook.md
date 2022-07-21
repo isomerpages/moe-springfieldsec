@@ -21,6 +21,8 @@ Please click the picture below to view the school e-Yearbook for 2021.
 	
 <br>
 	
+-------------------------------------------------------------------------
+	
 <h3>2020</h3>
 Please click the picture below to view the school e-Yearbook for 2020.
 	<div>
@@ -32,6 +34,7 @@ Please click the picture below to view the school e-Yearbook for 2020.
 </div>
 		
 <br>
+		<br>
 	
 <h3>2019</h3>
 		
