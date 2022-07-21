@@ -4,7 +4,7 @@ title: Springfield Secondary School
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
   - hero:
       title: Springfield Secondary School
@@ -13,9 +13,9 @@ sections:
       button: Contact Us
       url: /contact-us/
       key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
-          url: https://google.com
+        - title: Home-Based Learning (HBL) - Friday, 22 July 2022
+          description: Read more
+          url: https://moe-springfieldsec-staging.netlify.app/programmes/home-based-learning
         - title: Highlight B
           description: Important highlight B is equally important
           url: https://gmail.com
