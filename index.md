@@ -31,4 +31,10 @@ sections:
       description: Instructions and guidelines on the GCE O Level Examinations
       button: Click here
       url: https://moe-springfieldsec-staging.netlify.app/students/assessment-2022/gce-n-a-n-t-o-level-examinations
+  - infobar:
+      title: NDLP and PLD Initiative Parents Briefing – 26 January 2022
+      subtitle: Infobar Subtitle
+      description: Briefing slides for NDLP and PLD
+      button: Click here
+      url: https://moe-springfieldsec-staging.netlify.app/programmes/ndlp/ndlp-n-pld-initiative-parents-briefing-26-jan-2022
 ---
