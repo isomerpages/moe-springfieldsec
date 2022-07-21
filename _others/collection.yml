@@ -2,6 +2,6 @@ collections:
   others:
     output: true
     order:
-      - privacy.md
       - Others.md
       - faq.md
+      - privacy.md
