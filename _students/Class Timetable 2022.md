@@ -20,6 +20,11 @@ description: ""
 
 [](/files/1D-Term1-Timetable.pdf)
 [](/files/2D-Term1-Timetable.pdf)
+[](/files/3D-Term1-Timetable.pdf)
+[](/files/4D-Term1-Timetable.pdf)
+
+
+
 
 # **Class Timetable 2022**
 
