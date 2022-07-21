@@ -31,7 +31,11 @@ description: ""
 [](/files/1F-Term1-Timetable.pdf)
 [](/files/2F-Term1-Timetable.pdf)
 [](/files/3F-Term1-Timetable.pdf)
+[](/files/4F-Term1-Timetable.pdf)
 
+[](/files/2G-Term1-Timetable.pdf)
+[](/files/4G-Term1-Timetable.pdf)
+[](/files/5A-Term1-Timetable.pdf)
 
 # **Class Timetable 2022**
 
