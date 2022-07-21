@@ -9,8 +9,8 @@ description: ""
 *   [eMedia](http://emedia.moe.edu.sg/) - site can't be reached
 *   [HRMS](https://hrms.moe.gov.sg/) - site can't be reached
 *   [iCONnect](https://icon.moe.edu.sg/)
-*   [iEXAM](https://iexams.seab.gov.sg/login)
-*   [IFAAS2](https://ifaas2-idm.moe.gov.sg/oam/server/obrareq.cgi?encquery%3Dil9oLi3FDmIvJ%2B%2FP6cU90%2FpW8vCLQE15WuSeFclXSoYtrfYYCpMRNAldVzAi%2BSn5Ef3OcJNTzaLmYGwSfLjtfJCqQJyZrO7PZ%2BummmeGHvMS1cTBpU94hnAehg5M10hiT7MQIYxBshFu05n6iKMP0XlFEnfnZbGcrk5RulX%2BoiVCAw1Cl4Okar0I%2BYQ9IvjpsBAyGTHq6VfKxI9qbqQHbL0uroCpTumLP2GezzH8XLZz1%2F9xQSG3112PHad5Vad5%20agentid%3DMOEHOST%20ver%3D1%20crmethod%3D2&ECID-Context=1.0006lBKlP4U2nJmLSqo2yc0004Q3000HCh%3BkXjE)
+*   [iEXAM](https://iexams.seab.gov.sg/login) - access denied
+*   [IFAAS2](https://ifaas2-idm.moe.gov.sg/oam/server/obrareq.cgi?encquery%3Dil9oLi3FDmIvJ%2B%2FP6cU90%2FpW8vCLQE15WuSeFclXSoYtrfYYCpMRNAldVzAi%2BSn5Ef3OcJNTzaLmYGwSfLjtfJCqQJyZrO7PZ%2BummmeGHvMS1cTBpU94hnAehg5M10hiT7MQIYxBshFu05n6iKMP0XlFEnfnZbGcrk5RulX%2BoiVCAw1Cl4Okar0I%2BYQ9IvjpsBAyGTHq6VfKxI9qbqQHbL0uroCpTumLP2GezzH8XLZz1%2F9xQSG3112PHad5Vad5%20agentid%3DMOEHOST%20ver%3D1%20crmethod%3D2&ECID-Context=1.0006lBKlP4U2nJmLSqo2yc0004Q3000HCh%3BkXjE) - site can't be reached
 *   [iMTL](https://imtl.moe.edu.sg/)
 *   [Lightning Warning System](http://www.weather.gov.sg/lightning/)
 *   [MC Online Facility & Equipment Booking](https://www.mconline.sg/)
