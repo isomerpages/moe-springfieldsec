@@ -3,39 +3,6 @@ title: Class Timetable 2022
 permalink: /students/class-timetable-2022
 description: ""
 ---
-[](/files/1A-Term1-Timetable.pdf)
-[](/files/2A-Term1-Timetable.pdf)
-[](/files/3A-Term1-Timetable.pdf)
-[](/files/4A-Term1-Timetable.pdf)
-
-[](/files/1B-Term1-Timetable.pdf)
-[](/files/2B-Term1-Timetable.pdf)
-[](/files/3B-Term1-Timetable.pdf)
-[](/files/4B-Term1-Timetable.pdf)
-
-[](/files/1C-Term1-Timetable.pdf)
-[](/files/2C-Term1-Timetable.pdf)
-[](/files/3C-Term1-Timetable.pdf)
-[](/files/4C-Term1-Timetable.pdf)
-
-[](/files/1D-Term1-Timetable.pdf)
-[](/files/2D-Term1-Timetable.pdf)
-[](/files/3D-Term1-Timetable.pdf)
-[](/files/4D-Term1-Timetable.pdf)
-
-[](/files/1E-Term1-Timetable.pdf)
-[](/files/2E-Term1-Timetable.pdf)
-[](/files/3E-Term1-Timetable.pdf)
-[](/files/4E-Term1-Timetable.pdf)
-
-[](/files/1F-Term1-Timetable.pdf)
-[](/files/2F-Term1-Timetable.pdf)
-[](/files/3F-Term1-Timetable.pdf)
-[](/files/4F-Term1-Timetable.pdf)
-
-[](/files/2G-Term1-Timetable.pdf)
-[](/files/4G-Term1-Timetable.pdf)
-[](/files/5A-Term1-Timetable.pdf)
 
 # **Class Timetable 2022**
 
