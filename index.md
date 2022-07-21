@@ -7,9 +7,9 @@ permalink: /
 notification: Here's a notification bar you can use!
 sections:
   - hero:
-      title: Hero title
-      subtitle: Hero subtitle
-      background: /images/hero-banner.png
+      title: Springfield Secondary School
+      subtitle: Lifelong Learners, Eemplary Leaders
+      background: /images/SFSS.gif
       button: Contact Us
       url: /contact-us/
       key_highlights:
@@ -29,6 +29,3 @@ sections:
       button: Button text
       url: /faq/
 ---
-
-
-
