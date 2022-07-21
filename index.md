@@ -21,7 +21,7 @@ sections:
           url: https://moe-springfieldsec-staging.netlify.app/parents/secondary-2/secondary-2-streaming-2022
         - title: Timetable - Term 3
           description: Click here to access
-          url: /privacy/
+          url: https://moe-springfieldsec-staging.netlify.app/students/class-timetable-2022
   - infobar:
       title: Infobar title
       subtitle: Subtitle
