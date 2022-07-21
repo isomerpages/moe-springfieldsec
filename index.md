@@ -16,11 +16,11 @@ sections:
         - title: Home-Based Learning (HBL) - Friday, 22 July 2022
           description: Read more
           url: https://moe-springfieldsec-staging.netlify.app/programmes/home-based-learning
-        - title: Highlight B
-          description: Important highlight B is equally important
-          url: https://gmail.com
-        - title: Page A
-          description: Page A is important too
+        - title: Parents Engagement - Secondary 2 Streaming, 15 July 2022
+          description: Sec 3 Subject Combinations
+          url: https://moe-springfieldsec-staging.netlify.app/parents/secondary-2/secondary-2-streaming-2022
+        - title: Timetable - Term 3
+          description: Click here to access
           url: /privacy/
   - infobar:
       title: Infobar title
