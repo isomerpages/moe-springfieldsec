@@ -4,6 +4,15 @@ permalink: /students/class-timetable-2022
 description: ""
 ---
 [](/files/1A-Term1-Timetable.pdf)
+[](/files/2A-Term1-Timetable.pdf)
+[](/files/3A-Term1-Timetable.pdf)
+[](/files/4A-Term1-Timetable.pdf)
+
+[](/files/1B-Term1-Timetable.pdf)
+[](/files/2B-Term1-Timetable.pdf)
+[](/files/3B-Term1-Timetable.pdf)
+
+
 # **Class Timetable 2022**
 
 Please click on your respective Classes to view your Timetable and Download a copy.  
