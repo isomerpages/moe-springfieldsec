@@ -49,3 +49,11 @@ Here's a short clip of Mdm Siti Aishah's sharing.
 #### Secondary 1 BBQ, 3 February 2018
 
 ![](/images/SPN-2.jpg)
+
+#### Sports Day, 29 March 2018
+
+![](/images/SPN%20-%203.jpg)
+
+#### Values in Action (VIA) Carnival, 6 April 2018
+
+
