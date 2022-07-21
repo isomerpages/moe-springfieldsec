@@ -27,3 +27,5 @@ third_nav_title: Admin Matters
 | Operational Hours at the Uniform Office: 	| Weekdays - 3.00pm to 8.00pm<br>Weekends - 10.00am to 4.00pm<br>CLOSED ON - TUESDAYS and PUBLIC HOLIDAYS 	|
 | Tel: 	| 6276 6689 	|
 | Email: 	| [myuniformshop@yahoo.com](mailto:myuniformshop@yahoo.com) 	|
+
+Note: **Ready stocks are available in the School Bookshop**. In the event if there is no available stock, Order can be made through the School Bookshop and it will be delivered directly to the Bookshop within 5 working days.
