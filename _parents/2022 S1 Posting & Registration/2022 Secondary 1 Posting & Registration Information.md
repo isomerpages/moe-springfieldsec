@@ -115,7 +115,7 @@ CCA play an integral role in the holistic growth and character development of ea
 \* Staggered Dismissal     
 \*\* Students are required to bring along PE attire for CCA immersion activities on Wednesday and Thursday  
 
-#### I. Covid-19 Vaccination Status  
+#### **I. Covid-19 Vaccination Status**  
 
 *   Vaccination for students in schools is part of the larger national efforts to keep our education institutions and the wider community safe. As part of the national vaccination exercise, SMS invites would have been sent to parents/guardians of medically eligible students, and the students are encouraged to get vaccinated when vaccination is offered to them
 
