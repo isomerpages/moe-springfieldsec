@@ -1,6 +1,6 @@
 ---
 title: School Uniform
-permalink: /students/school-uniform
+permalink: /students/school-uniform/
 description: ""
 ---
 # **School Uniform**

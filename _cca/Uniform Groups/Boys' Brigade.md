@@ -1,6 +1,6 @@
 ---
 title: Boys' Brigade
-permalink: /cca/uniformed-groups/boys-brigade
+permalink: /cca/uniformed-groups/boys-brigade/
 description: ""
 third_nav_title: Uniform Groups
 ---

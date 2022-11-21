@@ -1,6 +1,6 @@
 ---
 title: Springfield Parents Network (SPN)
-permalink: /partners/springfield-parents-network-spn
+permalink: /partners/springfield-parents-network-spn/
 description: ""
 ---
 # **Springfield Parents' Network (SPN)**

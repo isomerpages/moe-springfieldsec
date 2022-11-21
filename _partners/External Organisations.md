@@ -1,6 +1,6 @@
 ---
 title: External Organisations
-permalink: /partners/external-organisations
+permalink: /partners/external-organisations/
 description: ""
 ---
 # **External Organisations**

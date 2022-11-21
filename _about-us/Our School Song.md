@@ -1,6 +1,6 @@
 ---
 title: Our School Song
-permalink: /about-us/our-school-song
+permalink: /about-us/our-school-song/
 description: ""
 ---
 # **Our School Song**

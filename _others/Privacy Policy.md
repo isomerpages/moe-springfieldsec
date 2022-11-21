@@ -1,6 +1,6 @@
 ---
 title: Privacy Policy
-permalink: /others/privacy-policy
+permalink: /others/privacy-policy/
 description: ""
 ---
 # **Privacy Policy**

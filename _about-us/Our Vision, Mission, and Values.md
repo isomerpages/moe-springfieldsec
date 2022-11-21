@@ -1,6 +1,6 @@
 ---
 title: Our Vision, Mission, and Values
-permalink: /about-us/our-vision-mission-and-values
+permalink: /about-us/our-vision-mission-and-values/
 description: ""
 ---
 # **Our Vision, Mission, and Values**

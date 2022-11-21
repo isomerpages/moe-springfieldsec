@@ -1,6 +1,6 @@
 ---
 title: ECG @ Springfield
-permalink: /programmes/cce-programme/educational-n-career-guidance-programme/ecg-at-springfield
+permalink: /programmes/cce-programme/educational-n-career-guidance-programme/ecg-at-springfield/
 description: ""
 ---
 Hello! I am **Ms Yang**, your **ECG Counsellor**.  

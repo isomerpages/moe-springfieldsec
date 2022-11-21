@@ -1,6 +1,6 @@
 ---
 title: School eYearbook
-permalink: /students/school-e-yearbook
+permalink: /students/school-e-yearbook/
 description: ""
 ---
 # **School e-Yearbook**
