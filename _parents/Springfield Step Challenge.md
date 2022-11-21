@@ -1,6 +1,6 @@
 ---
 title: Springfield Step Challenge
-permalink: /parents/springfield-step-challenge
+permalink: /parents/springfield-step-challenge/
 description: ""
 ---
 # **Springfield Step Challenge**

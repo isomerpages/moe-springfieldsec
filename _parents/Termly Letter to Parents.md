@@ -1,6 +1,6 @@
 ---
 title: Termly Letter to Parents
-permalink: /parents/termly-letter-to-parents
+permalink: /parents/termly-letter-to-parents/
 description: ""
 ---
 # **Termly Letter to Parents**

@@ -1,6 +1,6 @@
 ---
 title: Home Based Learning
-permalink: /programmes/home-based-learning
+permalink: /programmes/home-based-learning/
 description: ""
 ---
 ### HBL - SECONDARY 1/2/3 Term 3 Week 2 (Friday, 08 July 2022)

@@ -1,6 +1,6 @@
 ---
 title: Booklist
-permalink: /students/booklist-2022
+permalink: /students/booklist-2022/
 description: ""
 ---
 # **Booklist 2022**

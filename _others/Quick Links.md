@@ -1,6 +1,6 @@
 ---
 title: Quick Links
-permalink: /others/quick-links
+permalink: /others/quick-links/
 description: ""
 ---
 # **Quick Links**

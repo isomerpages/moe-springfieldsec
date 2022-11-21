@@ -1,6 +1,6 @@
 ---
 title: Learning for Life Programme (LLP)
-permalink: /programmes/learning-for-life-programme-llp
+permalink: /programmes/learning-for-life-programme-llp/
 description: ""
 ---
 # **Learning for Life Programme (LLP)**

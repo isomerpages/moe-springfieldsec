@@ -1,6 +1,6 @@
 ---
 title: Annual Health Screening 2021
-permalink: /students/annual-health-screening-2021
+permalink: /students/annual-health-screening-2021/
 description: ""
 ---
 

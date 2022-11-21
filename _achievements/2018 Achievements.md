@@ -1,6 +1,6 @@
 ---
 title: 2018 Achievements
-permalink: /achievements/2018-achievements
+permalink: /achievements/2018-achievements/
 description: ""
 ---
 # **2018 Achievements**

@@ -1,6 +1,6 @@
 ---
 title: Are we allowed to ride the eScooter?
-permalink: /Are-we-allowed-to-ride-the-e-Scooter
+permalink: /Are-we-allowed-to-ride-the-e-Scooter/
 description: ""
 ---
 

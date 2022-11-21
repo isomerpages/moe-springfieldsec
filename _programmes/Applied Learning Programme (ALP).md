@@ -1,6 +1,6 @@
 ---
 title: Applied Learning Programme (ALP)
-permalink: /programmes/applied-learning-programme-alp
+permalink: /programmes/applied-learning-programme-alp/
 description: ""
 ---
 # **Applied Learning Programme (ALP)**
