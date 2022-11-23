@@ -49,8 +49,8 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-remote-theme
-staging: https://moe-springfieldsec-staging.netlify.app
-prod: https://moe-springfieldsec-prod.netlify.app
+staging: https://staging.d1lby80704im2d.amplifyapp.com
+prod: https://master.d1lby80704im2d.amplifyapp.com
 shareicon: /images/isomer-logo.svg
 is_government: false
 facebook-pixel: ""
