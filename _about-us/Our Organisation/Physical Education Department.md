@@ -7,7 +7,7 @@ third_nav_title: Our Organisation
 # **Physical Education Department**
 
 **Head of Department**  
-Mr Marcus Lau  
+Mr Marcus Lau Kok Hiong  
 Email: [lau_kok_hiong@moe.edu.sg](mailto:Lim_zhi-hao@moe.edu.sg)  
 
 **Year Head (Lower Secondary)**  
