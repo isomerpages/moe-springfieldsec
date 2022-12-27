@@ -7,8 +7,8 @@ third_nav_title: Our Organisation
 # **Physical Education Department**
 
 **Head of Department**  
-Mr Lim Zhi-Hao Adrian  
-Email: [Lim_zhi-hao@moe.edu.sg_](mailto:Lim_zhi-hao@moe.edu.sg)  
+Mr Marcus Lau  
+Email: [lau_kok_hiong@schools.gov.sg](mailto:Lim_zhi-hao@moe.edu.sg)  
 
 **Year Head (Lower Secondary)**  
 Mr Wong Ting Hsin     
