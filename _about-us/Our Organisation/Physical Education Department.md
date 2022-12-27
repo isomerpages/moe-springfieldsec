@@ -8,7 +8,7 @@ third_nav_title: Our Organisation
 
 **Head of Department**  
 Mr Marcus Lau Kok Hiong  
-Email: [lau_kok_hiong@moe.edu.sg](mailto:Lim_zhi-hao@moe.edu.sg)  
+Email: [lau_kok_hiong@moe.edu.sg](mailto:lau_kok_hiong@moe.edu.sg)  
 
 **Year Head (Lower Secondary)**  
 Mr Wong Ting Hsin     
