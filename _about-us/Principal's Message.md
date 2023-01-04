@@ -6,22 +6,21 @@ description: ""
 # **Principal's Message**
 <img src="/images/Principal photo.png" style="width:300px;height:400px;margin-left:15px;" align = "right">
 
-We, the educators of Springfield have begun the new academic year of 2022 with first welcoming our Sec 1 Springfielders and together with our senior Springfielders (Sec 2s, 3s, 4s and 5s) have successfully completed our  **‘Start-It-Right’ (SIR)** programme. 
+Dear members of the Springfield community,
 
-In Springfield we believe in nurturing **Lifelong Learners** who will eventually be **Exemplary Leaders**. As we embrace all learners regardless of their starting points in their journey of education, we believe in learning from making our 1st mistake and taking the **2nd chance** to get ourselves back on track. All Springfielders do their own reflections together with their classmates and are strongly encouraged to be good team players so that they are imbued with **‘Esprit de Corps’** not only in class but also in their Co-curricular activities.  
+It is my honor to welcome all new students and staff to Springfield, and to welcome everyone else back to school for the new academic year!
 
-Being able to start it right and to learn to not be alone but to enjoy the support and camaraderie of friends, our Springfielders have proven that they get the freedom to choose the road they want to travel, knowing that the teachers and allied educators are present to lend them a helping hand whenever they need it.
+Despite having just joined the school, I have experienced a warm welcome from the Springfield community – students, staff, parents, Alumni and the School Advisory Committee. I am excited to connect further with the different stakeholder groups to hear perspectives, understand needs and work together towards desired goals. United, we can make a positive difference and help our students reach their full potential.
 
-All this will culminate with our Springfielders preparing themselves for their milestone test of readiness to graduate from secondary education and progress on to post-secondary pursuits – Junior College / Polytechnic / ITE vocational training.  
+In taking over the school, I stand on the shoulders of giants. I thank Mrs Mabel Leong, and the various Principals before her, for developing Springfield to what it is today. 30 years ago, the name “Springfield” was chosen to represent flexibility and resilience, as well as growth and development. Indeed, grow and develop with flexibility and resilience was what we did. Last year, Springfield celebrated its 30th School Anniversary, and there are many achievements that we can be proud of. Our Springfielders have done us proud in academics, co-curricular activities (Sports, Performing Arts and Uniformed Groups) and most importantly, in character and life skills development. We will continue to develop our students as **Lifelong Learners** and **Exemplary Leaders**, who are grounded in our **GR2ID school values of Graciousness, Responsibility, Resilience, Integrity and Diligence**. By standing on the shoulders of giants, I have gained a vantage point, and hope to continue the good work to build upon what has been established.      
 
-Here, I am pleased to share that our cohort 2021 have all successfully completed their secondary education and all have found different pathways to build their future.
+With the COVID-19 situation an endemic one, many of the school’s activities may resume to “pre-Covid” norms. This presents more opportunities for students and stakeholders to pursue their passions and interests, connect face-to-face, and benefit from the “human touch” or experiential learning. However, COVID-19 has also opened our eyes to the affordances of technology, which we will continue to harness where beneficial. We will continue to enhance our students’ engagement and learning via the National Digital Literacy Programme, where all students will own a personalised learning device, and develop self-directed learning with home-based learning. 
 
-I am very proud of all of our graduates for despite having different abilities and capacities in learning, all are well prepared and ready to take the challenge and have proven that if they believe in themselves, they will achieve together.
+With the world rapidly changing, we live in challenging times. We need to prepare our charges to be adaptable and resilient, to be able to respect differences and embrace diversity, to be discerning yet build trusting relationships. Every individual has the power to change the world for the better, starting with ourselves. Hence, I call out to all Springfielders, students and staff alike, to join me in living out our school motto of **‘Better Self for Better Tomorrow’**. 
 
-Thus, I hope that all parents and Springfielders who have read this message will join me to cheer our current Springfielders on. Give them your best support and encouragement so that they too will have the full confidence to ride the waves that are still coming our way in our daily lives as we live out the COVID-19 endemic safely.
+Wishing all a healthy and fulfilling 2023.
 
-Let’s be together and we will achieve!
 
-_Mrs Mabel Leong_    
+_Ms Eleanor Chia_    
 _Principal_    
 _Springfield Secondary School_
