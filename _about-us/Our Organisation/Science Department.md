@@ -62,6 +62,7 @@ The Science and Mathematics Escape Room programme aims to engage the students by
 
 
 
+
 ![](/images/sci-4.png)
 _Physics Station_: Students investigated if the canned drinks float or sink in water.
 
