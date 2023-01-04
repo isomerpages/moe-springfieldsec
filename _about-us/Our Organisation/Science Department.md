@@ -30,9 +30,9 @@ Email: [tan_bee_yong_a@moe.edu.sg](mailto:tan_bee_yong_a@moe.edu.sg)
 
 ### Department Goals/Objectives:
 
-*   To ignite students' curiosity, passion and joy of learning the Sciences.
-*   To stimulate interest in and care for the local and global environment.
-*   To equip students with scientific mind-sets, values and practical knowledge of science and its applications to prepare them for Life and Society.  
+*   To develop scientific mindsets, inquiry and practical knowledge of science and its applications to prepare students for a fast-changing and globalised world of the 21st century.
+*   To impart excitement and value of Science to students.
+
 
 ### Department Programmes:
 
