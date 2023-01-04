@@ -36,9 +36,15 @@ Email: [tan_bee_yong_a@moe.edu.sg](mailto:tan_bee_yong_a@moe.edu.sg)
 
 ### Department Programmes:
 
-#### Science & Food Science Research Programme (SFSRP)
+#### Empowering Springfielders to Learn for Life to be Future Leaders
 
-The Science and Food Science Research Programme (SFSRP) is offered to selected Secondary 3 students who have demonstrated interest in and aptitude for scientific research. It provides the opportunity for these Students to participate actively in research projects independently and responsibly, under the guidance of the Science and NFS Research Mentors. The programme aims to promote an early appreciation of the methods, culture and ethos of research through immersion of scientific inquiry. The research teams will thereon communicate their research findings at various Science Research Competitions.
+##### 1) Science Research Programme #####
+
+The Science Research Programme is offered to selected Secondary 1 to 3 students who have demonstrated interest in and aptitude for scientific research. It provides the opportunity for these students to participate actively in research projects independently and responsibly, under the guidance of the Science Research Mentors. 
+
+The programme aims to promote an appreciation of the methods, culture and ethos of research through immersion of scientific inquiry and innovation. The research teams will thereon communicate their research findings at various Science Research competitions.
+
+
 
 ![](/images/Sci-1.jpg)
 
