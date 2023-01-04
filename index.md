@@ -25,7 +25,7 @@ sections:
   - infobar:
       title: School Corporate Video
       button: Click here to view the video
-      url: https://moe-springfieldsec-staging.netlify.app/about-us/school-corporate-video
+      url: https://youtu.be/up-2lZHaOgc
   - infobar:
       title: 2022 GCE O Level Examination - Conduct of Examination
       description: Instructions and guidelines on the GCE O Level Examinations
