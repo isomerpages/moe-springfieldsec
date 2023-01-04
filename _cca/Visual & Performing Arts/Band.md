@@ -28,5 +28,14 @@ as they uphold their motto 'Nothing is impossible, it's all in the mind'.
 <br>
 
 <table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:#F4F4F4;border-color:#ffffff;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Goals & Objectives</th><th style="background-color:#F4F4F4;border-color:#ffffff;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-style:italic;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="color:black">To stretch student abilities in their musicality through theory lesson </span><span style="color:black"></span><br>To foster close bonds among members and Alumni.<br><span style="color:black">To nurture their leadership quality through giving them responsibility and attitude of serving others.</span></th></tr></thead><tbody><tr><td style="background-color:#DDEEE9;border-color:#ffffff;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><br>Home-Based Learning Activities</td><td style="background-color:#DDEEE9;border-color:#ffffff;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-style:italic;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Resources:<br>SLS<br><span style="color:#1F497D">(</span><a href="https://lwtheatres.co.uk/celebrate-theatre-at-home/">https://lwtheatres.co.uk/celebrate-theatre-at-home/</a><span style="color:#1F497D">)</span></td></tr><tr><td style="border-color:#ffffff;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"></td></tr></tbody></table>
-	
 
+
+![](/images/band1.jpg)
+
+![](/images/band2.jpg)
+
+![](/images/band3.jpg)
+
+![](/images/band4.jpg)
+
+![](/images/band5.jpg)
