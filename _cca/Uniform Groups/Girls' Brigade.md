@@ -6,7 +6,6 @@ third_nav_title: Uniform Groups
 ---
 # **Girls' Brigade**
 
-![](/images/girls_brigade_web.jpg)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YOqh1yTVfms" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
