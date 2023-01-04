@@ -8,7 +8,7 @@ third_nav_title: Physical Sports
 
 ![](/images/floorballGirlsTeam.jpeg)
 
-
+[Click Here to Watch the 2021 Open House Video](https://youtu.be/gj1S70I3sJ4)
 
 <br>
 
