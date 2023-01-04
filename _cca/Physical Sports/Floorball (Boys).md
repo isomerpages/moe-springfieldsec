@@ -15,3 +15,4 @@ The training sessions and activities are designed to provide the team with a sen
 
 <br>
 
+![](/images/floorballboysfooterpic.png)
