@@ -77,7 +77,9 @@ Springfield has made inroads into interdisciplinary approaches in learning. The 
 
 Kite-making and kite-flying during post-exam was an activity where students explored the Mathematical concepts of quadrilaterals and Physics concepts of the different forces that act on the kite which allows it to ascend: tension, thrust, drag, lift and gravity.
 
+![](/images/science%20collation5.png)
 
+![](/images/science%20collation6.png)
 
 
 
