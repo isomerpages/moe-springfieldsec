@@ -68,16 +68,18 @@ The STEM Fiesta is a specially curated programme to engage and ignite the intere
 
 At the Biology station, students applied concepts of the ecosystem to build a terrarium. At the Chemistry station, students investigated how changes in pH denatures milk protein and turns milk into solid casein. At the Physics station, students explored the concepts of gravitational potential energy while creating their own paper roller coaster. At the Nutrition and Food Science station, students designed and made their unique 3D jelly cake at the school kitchen. The STEM Fiesta has provided our students a platform to appreciate STEM and experience the joy of learning
 
+![](/images/science%20collation4.png)
+
+
+##### 4) Secondary 3 Kite Programme #####
+
+Springfield has made inroads into interdisciplinary approaches in learning. The Science and Mathematics departments have combined their efforts in ensuring that students are able to have a holistic view of their subjects.
+
+Kite-making and kite-flying during post-exam was an activity where students explored the Mathematical concepts of quadrilaterals and Physics concepts of the different forces that act on the kite which allows it to ascend: tension, thrust, drag, lift and gravity.
 
 
 
-![](/images/sci-13.jpg)
 
-![](/images/sci-9.jpg)
-
-![](/images/16xx.jpg)
-
-![](/images/17xx.jpg)
 
 ### **Biodiversity Learning Journey**
 
