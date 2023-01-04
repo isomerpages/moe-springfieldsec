@@ -59,31 +59,17 @@ Using the knowledge and skills acquired from their Science and Mathematics lesso
 The Science and Mathematics Escape Room programme aims to engage the students by making the learning of the Sciences and Mathematics fun, exciting and meaningful. The activities and tasks that the students participated in help develop critical thinking skills and problem solving skills that are key in today's world. This programme is also one of our school's unique approaches towards formative assessments and applied learning in both Science and Mathematics.
 
 
+![](/images/science%20collation3.png)
+
+
+##### 3) Secondary 2 STEM Fiesta #####
+
+The STEM Fiesta is a specially curated programme to engage and ignite the interest and passion of our Secondary 2 students in Science, Technology, Engineering and Mathematics (STEM). This Fiesta provides opportunities for students to explore the wonders of STEM, through exciting and engaging activities that enable them to apply scientific knowledge in the areas of Biology, Chemistry, Physics and Nutrition and Food Science (NFS).
+
+At the Biology station, students applied concepts of the ecosystem to build a terrarium. At the Chemistry station, students investigated how changes in pH denatures milk protein and turns milk into solid casein. At the Physics station, students explored the concepts of gravitational potential energy while creating their own paper roller coaster. At the Nutrition and Food Science station, students designed and made their unique 3D jelly cake at the school kitchen. The STEM Fiesta has provided our students a platform to appreciate STEM and experience the joy of learning
 
 
 
-
-![](/images/sci-4.png)
-_Physics Station_: Students investigated if the canned drinks float or sink in water.
-
-![](/images/sci-5.jpg)
-_Physics Station_: Students make a density tower using sugar solutions of different concentrations.
-
-![](/images/sci-6.jpg)
-_Chemistry Station_: Students used chromatography to analyze and investigate the pigments in food colourings.
-
-![](/images/sci-7.png)
-_Biology Station_: Students carried out food tests on an unknown food sample to analyze its nutritional content.
-
-![](/images/sci-8.jpg)
-_Food Science Station_: Students learnt about the Science behind caramelisation and popping of the corn kernels.
-
-
-### **Science and Mathematics Educational Escape Room**
-
-The Science and Mathematics Educational Escape Room is a collaborative effort of the two departments to promote applied learning of scientific and mathematical concepts amongst the Secondary 1 students.
-
-Using the knowledge and skills acquired from their Science and Mathematics lessons, students applied their learning to solve Science and Mathematics tasks of varying difficulties. Clues given help the students solve the murder mystery and escape from the crime scene within the shortest time possible. The Science and Mathematics Educational Escape Room programme aims to engage the students by making the learning of the Sciences and Mathematics fun, exciting and meaningful. The activities and tasks that the students participated in help develop critical thinking skills and problem solving skills that are key in today's world. This programme is also one of our school's unique approach towards formative assessments and applied learning in both Science and Mathematics.
 
 ![](/images/sci-13.jpg)
 
