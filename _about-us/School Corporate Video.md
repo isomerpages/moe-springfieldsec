@@ -5,4 +5,4 @@ description: ""
 ---
 # **School Corporate Video**
 
-(video needs to be uploaded on yt)
+[School corporate video](https://youtu.be/up-2lZHaOgc)
