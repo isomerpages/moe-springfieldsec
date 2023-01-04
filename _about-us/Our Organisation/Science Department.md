@@ -94,3 +94,4 @@ As professional educators, we continuously take on the mindset of life-long lear
 -	Professional Learning Teams (PLT)
 -	Department Engagement and Learning Day
 
+![](/images/science%20collation7.png)
