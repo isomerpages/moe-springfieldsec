@@ -50,24 +50,17 @@ The programme aims to promote an appreciation of the methods, culture and ethos 
 [Science Research Programme 2022 - 15th Singapore National Crystal Growing Challenge](https://www.youtube.com/watch?v=p9CpARjh00g)
 [cience Research Programme 2022 - Eat Your Farm Competition](https://www.youtube.com/watch?v=50ireutv3oo)
 
+##### 2) Secondary 1 Science and Mathematics Escape Room #####
 
-### 2019 East Zone A\*STAR Science Fair  
+The Science and Mathematics Escape Room is a collaborative effort of the two departments to promote applied learning of scientific and mathematical concepts amongst the Secondary 1 students.
 
-**Achievement: Merit Award**
+Using the knowledge and skills acquired from their Science and Mathematics lessons, students applied their learning to solve integrated Science and Mathematics tasks of varying difficulties. Each task solved will unlock a clue for students to unravel the mystery of the “ZOMBI-22 virus” and find the identity of “Patient Zero” to escape from the laboratory within the shortest time possible. 
 
-On 30th July 2019, 3 students from Secondary 3 Fortitude took part in the annual East Zone A\*STAR Science Fair 2019, organized by the East Zone Science and Technology Centre at Victoria Junior College and sponsored by A\*STAR. This is part of the school's effort in inspiring and generating greater interest in Science, Technology, Engineering and Mathematics among our Students. Kristal Koo Ting Yean, Qistina Nadhirah and Shermaine Lau Tsz Kei conducted an investigative science project on the effectiveness of Solar Water Disinfection (SODIS) and the amount of time required for effective pathogen inactivation. The team spent months carrying out various experiments using recycled PET bottles brought back from their Global Education Programme in Siem Reap, Cambodia. On Judging Day, the team impressed the panel with their creativity, experimental design and teamwork and clinched the Merit Award. Through this project, the team found the overall experience invaluable as it helped to instill in them the confidence to pursue research work at the tertiary level and to further develop their interest in the sciences.
+The Science and Mathematics Escape Room programme aims to engage the students by making the learning of the Sciences and Mathematics fun, exciting and meaningful. The activities and tasks that the students participated in help develop critical thinking skills and problem solving skills that are key in today's world. This programme is also one of our school's unique approaches towards formative assessments and applied learning in both Science and Mathematics.
 
-![](/images/sci-3.jpg)
-*Prize presentation for the East Zone A\STAR Science Fair at Victoria Junior College.*
 
-![](/images/sci-2.jpg)
-*The research Team collected and ran tests on the water sample collected from the school's Ecology pond.*
 
-### **Science and FCE Carnival**
 
-The Science & FCE Carnival is a specially curated programme to engage and ignite the interest and passion of our Secondary 1 students in the Sciences and Food Science. This carnival provides opportunities for students to EXPLORE the wonders of Science, through **EXCITING** and **ENGAGING** activities that enable them to apply scientific knowledge in the areas of Physics, Chemistry, Biology and Food Science.
-
-In the Science Labs, at the Physics station, the students carried out an investigation to find out if the different flavoured canned drinks sink or float in water. Their observations enabled them to make the correlation between the sugar content of these drinks and their densities. At the Chemistry station, the students investigated the pigments in food colourings using paper chromatography technique while at the Biology station, they ran food tests on an unknown food sample to determine its nutritional content. At the Food Science station held in the school kitchen, not only did the students make their own delicious caramel-flavoured popcorn, they also learnt about the science behind the process of caramelisation and the popping of the corn kernels. The Science and FCE Carnival has provided our students a platform to appreciate the Sciences and experience the joy of learning.
 
 ![](/images/sci-4.png)
 _Physics Station_: Students investigated if the canned drinks float or sink in water.
