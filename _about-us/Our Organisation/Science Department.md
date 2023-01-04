@@ -83,34 +83,15 @@ Kite-making and kite-flying during post-exam was an activity where students expl
 
 
 
-### **Biodiversity Learning Journey**
+### **Empowering Staff to Inspire and Aspire**
 
-Secondary 2 students were engaged in an outdoor learning experience in Ecology at different locations in Singapore last year. They had the opportunity to explore the rich biodiversity of the flora and fauna of Singapore and learn about the conservation efforts and strategies that aim at conserving Singapore's habitats and ecosystems for long-term sustainability. While some classes went on a learning trail at Bukit Timah Nature Reserve, other classes went to the Lee Kong Chian Natural History Museum and Sungei Buloh Wetland Reserve.
+We strive to engage our diverse learners through novel and experiential activities to spark curiosity in Science. Through facilitating learning in a positive classroom environment, we inspire and motivate our students to apply core ideas, practices and ethos of Science in their daily lives. 
 
-During the learning journey at the Bukit Timah Nature Reserve, students were able to experience and interact with nature and learn about the variety of plant, animal and insect life in one of Singapore's richest and most diverse ecological systems. At the same time, students also learnt about the importance of conserving our natural heritage and developed a sense of commitment and ownership of the reserve. 
+As professional educators, we continuously take on the mindset of life-long learners, engaging in professional development to stay relevant and effective. We also value the sharing of good practices within learning communities and professional networks both locally and internationally. Platforms where our teachers have learned and shared among educators include:
 
-At the Lee Kong Chian Natural History Museum, students explored the biodiversity gallery, tracing the history of life on Earth, learnt about the evolution history of terrestrial vertebrates and studied closely the diplodocid sauropod skeletons. Explorations of the gallery aroused the students' curiosity and interest in the rich natural history and heritage of Singapore and had a better appreciation and understanding of the conservation efforts in Singapore.
+-	Singapore International Science Teachers’ Conference (SISTC)
+-	Singapore Learning Designers Circle (SgLDC)
+-	Professional Learning Teams (PLT)
+-	Department Engagement and Learning Day
 
-The learning trail through the wetlands of Sungei Buloh Wetland Reserve, Singapore's first ASEAN Heritage Park, enabled students to explore and discover the rich biodiversity of the extensive mangrove forest of the reserve. Trekking through the trails of the reserve, students discovered the native inhabitants of the reserve such as the mudskippers, crabs, monitor lizards and otters, and learnt about the resident birds such as the herons, the kingfishers and sunbirds.
 
-![](/images/18.jpg)
-*An exploration of the biodiversity of the flora and fauna of the mangroves in Sungei Buloh Wetland Reserve.*
-
-![](/images/sci-11.jpg)
-
-![](/images/22.jpg)
-*Learning about the parasitic flowering plant, the Rafflesia and the fossils of the dinosaurs at the Lee Kong Chian Natural History Museum.*
-
-### **SFSS Junior MasterChef Challenge**
-
-Started as an American cooking game show involving kids from ages nine to twelve years old, the Junior MasterChef has caught on in several other countries. Springfield Secondary School had also launched in 2019 its very own SFSS Junior MasterChef Challenge involving Secondary 1 students, with the theme 'Festive Cookies'. The challenge aimed at getting students to apply what they had learnt in their FCE lessons and display their baking skills and creativity by preparing and plating their baked goodies based on the requirements of the challenge. The challenge also aims to promote interest in the culinary art and food sciences.
-
-Secondary 1 students were provided with some training during their FCE practical lessons to learn and acquire certain culinary skills. In the preliminary round, the best two pairs of students from each class were shortlisted and went on to compete in the final round. Prior to the challenge, the contestants attended a Baking Masterclass to refine and hone further their skills at baking and icing cookies. The winners of the challenge were voted for by their peers and a panel of judges.
-
-![](/images/sci-12.jpg)
-*Students learn to work in teams to create their own unique batch of Festive Cookies.*
-
-![](/images/26.jpg)
-
-![](/images/27.jpg)
-*Competing teams displayed their creativity in decorating and plating their baked festive cookies.*
