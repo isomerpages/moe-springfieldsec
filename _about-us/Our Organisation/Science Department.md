@@ -46,6 +46,13 @@ The programme aims to promote an appreciation of the methods, culture and ethos 
 
 
 
+| A*STAR-VJC Science Fair (Sec 3) <br> ![](/images/VID1_Astar.jpeg)| The Singapore National Crystal Growing Challenge (Sec 3) <br> ![](/images/VID2_Crystal.jpeg)|
+| -------- | -------- | 
+	| Eat Your Farm Competition (Sec 2)    | Singapore Science Buskers   | 
+
+
+
+
 ![](/images/Sci-1.jpg)
 
 ![](/images/12345.jpg)
