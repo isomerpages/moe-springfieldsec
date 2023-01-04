@@ -11,8 +11,22 @@ Mrs Norain Johari
 Email: [norain_anuar@moe.edu.sg_](mailto:norain_anuar@moe.edu.sg)
 
 **Subject Head**    
-(**_Physics_**) Ms Neo Hui Jun    
-Email: [neo_hui_jun@moe.edu.sg](mailto:neo_hui_jun@moe.edu.sg)
+	(**Lower Secondary Scinece**)(**Acting**)<br>
+Miss Lim Hui Leng    
+Email: [lim_hui_leng_b@moe.edu.sg](mailto:lim_hui_leng_b@moe.edu.sg)
+
+**Physics Coordinator**    
+Mr Koh Di Sheng Alwyn   
+Email: [koh_di_sheng_alwyn@moe.edu.sg](mailto:koh_di_sheng_alwyn@moe.edu.sg)
+
+**Chemistry Coordinator**    
+Ms Ho  Shu Ling Judith   
+Email: [ho_shu_ling_judith@moe.edu.sg](mailto:ho_shu_ling_judith@moe.edu.sg)
+
+**Science(NT) Coordinator**    
+Mdm Tan Bee Yong  
+Email: [tan_bee_yong_a@moe.edu.sg](mailto:tan_bee_yong_a@moe.edu.sg)
+
 
 ### Department Goals/Objectives:
 
