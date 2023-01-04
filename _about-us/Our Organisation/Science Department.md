@@ -44,20 +44,12 @@ The Science Research Programme is offered to selected Secondary 1 to 3 students 
 
 The programme aims to promote an appreciation of the methods, culture and ethos of research through immersion of scientific inquiry and innovation. The research teams will thereon communicate their research findings at various Science Research competitions.
 
+![](/images/phonto.png)
 
+[Science Research Programme 2022 A*STAR-VJC Science Fair Video](https://www.youtube.com/watch?v=jhZdWDqxOtI)
+[Science Research Programme 2022 - 15th Singapore National Crystal Growing Challenge](https://www.youtube.com/watch?v=p9CpARjh00g)
+[cience Research Programme 2022 - Eat Your Farm Competition](https://www.youtube.com/watch?v=50ireutv3oo)
 
-| A*STAR-VJC Science Fair (Sec 3) <br> ![](/images/VID1_Astar.jpeg)| The Singapore National Crystal Growing Challenge (Sec 3) <br> ![](/images/VID2_Crystal.jpeg)|
-| -------- | -------- | 
-	| Eat Your Farm Competition (Sec 2)    | Singapore Science Buskers   | 
-
-
-
-
-![](/images/Sci-1.jpg)
-
-![](/images/12345.jpg)
-
-![](/images/45678.jpg)
 
 ### 2019 East Zone A\*STAR Science Fair  
 
