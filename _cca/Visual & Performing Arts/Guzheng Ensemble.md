@@ -16,23 +16,22 @@ third_nav_title: Visual & Performing Arts
 
 <br>
 
-<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:#ffffff;border-color:#333333;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Objectives of Home-Based Learning Activities<br>(in alignment to Student Development Plan)</th><th style="background-color:#ffffff;border-color:#333333;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-style:italic;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><br><span style="color:black">As stated in SDP,</span><br><span style="color:black">To have students learn skills , appreciate music and building leadership</span><br>To instill discipline and values, creating leaders in the process</th></tr></thead><tbody><tr><td style="background-color:#DDEEE9;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><br><br><br><br><br><br>Home-Based Learning Activities</td><td style="background-color:#DDEEE9;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-style:italic;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Resources:<br><br><br>1. Zoom<br>2. Quiz (Kahoot)<br>3. Notes for reading - click<a href="(/files/Introduction%20To%20Guzheng%20.pdf)"> here</a><img src="/images/pdf.png" alt="pdf.png" width="26" height="31"><br><span style="font-weight:bold;color:#000">4. videos/recordings from students showing their practice of musical drama pieces</span><br><br><br><br><a href="https://www.youtube.com/watch?v=oF2Ov6jt0qQ" target="_blank" rel="noopener noreferrer"> https://www.youtube.com/watch?v=oF2Ov6jt0qQ</a><br><br><span style="font-weight:normal;color:#000"> </span><br><br><a href="https://www.youtube.com/watch?v=wYG1aKihKV0" target="_blank" rel="noopener noreferrer">https://www.youtube.com/watch?v=wYG1aKihKV0</a><br><br><span style="font-weight:normal;color:#000"> </span><br><br><a href="https://www.youtube.com/watch?v=_QlFMf7Ae7M" target="_blank" rel="noopener noreferrer">https://www.youtube.com/watch?v=_QlFMf7Ae7M</a><br></td></tr><tr><td style="background-color:#ffffff;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Instructions</td><td style="background-color:#ffffff;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:bold;text-decoration:underline">Week 1, 3, 5, 7, 9</span><br><br><span style="font-style:italic">1. Students will watch the video, notes and attempt the exercises through using of Kahoot.</span><br><br><span style="font-style:italic">2. Students are reminded to practice the "what a beautiful Jasmine" and "one rainy night" - videos/recordings will be provided by our 2 Sec 2 members.</span><br><br><span style="font-style:italic">3. Leaders will remind the juniors what to take note of during training duties / performance duties. </span><br><br><span style="font-style:italic">4.  Senior members will video a short segment of their practice onn music pieces/ and notation teaching: (Will seek permission from the teacher in charge before posting in the chat group)</span><br><br><span style="font-weight:bold;text-decoration:underline">Week 2, 4, 6, 8, 10</span><br><br><span style="font-style:italic">1. Students will watch the video and attempt the exercises through using of Kahoot. </span><br><br><span style="font-style:italic">2. Students are reminded to practice the "what a beautiful Jasmine" and "one rainy night" - videos/recordings will be provided by our 2 Sec 2 members</span><br><br><span style="font-style:italic">3. Juniors (Sec 1-3) will show how their practice to their seniors and share their opinion or raise questions through using zoom, for seniors to comment. </span><br><br><span style="font-style:italic">4. Encouragement and saying thank-you to their seniors, wishing them all the best in their exams. </span></td></tr></tbody></table>
+**Team Bonding Activities 2021**
+![](/images/Team%20Bonding%20Activities%202021.jpeg)
+**Values in Action at OTH - 6 August 2022**
+![](/images/VIA%20at%20Tampines%20OTH%206%20Aug%202022.jpeg)
+**Leaders step-down 2022**
+![](/images/Leaders%20step-down%202022.jpeg)
+**30th Anniversary Celebration**
+![](/images/30th%20Pearl%20Anniversary%20Celebrations.jpeg)
 
-
+![](/images/picture1.jpeg)
 
 ![](/images/Upd_seniors%20back%20home%202020.jpg)
 
 ![](/images/Upd_NPIK9116_2020.jpg)
 
-![](/images/Upd_VYXW4324.jpg)
-
 ![](/images/Upd_KIAM0190.jpg)
 
 ![](/images/National%20Day%20Carnival%202019.jpg)
-
-![](/images/CNY%20Performance%202018.jpeg)
-
-![](/images/OTH%20Performance.jpeg)
-
-![](/images/Upd_SYF%202017.jpg)
 
