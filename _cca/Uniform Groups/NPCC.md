@@ -12,7 +12,6 @@ third_nav_title: Uniform Groups
 
 The Corps has grown in numbers and substance. Its popularity amongst our youths is largely attributed to its stature as the only uniformed youth organisation to enjoy close affiliation with the Singapore Police Force.
 
-
 Our cadets are exposed to the unique opportunities to gain exposure and familiarity with Singapore’s crime prevention efforts to build a Safe and Secure Home.
 
 Through a myriad of activities, values such as discipline, loyalty, integrity, resourcefulness, tenacity and civic-consciousness are inculcated to develop them into Caring and Responsible Citizens.
