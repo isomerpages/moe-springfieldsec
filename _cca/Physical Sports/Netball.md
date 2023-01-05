@@ -6,7 +6,7 @@ third_nav_title: Physical Sports
 ---
 # **Netball**
 
-
+![](/images/Group%20Photo%201.jpeg)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8WrOlfnOW-U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -20,11 +20,6 @@ The Netball girls have also served the needs of the community. They have raised 
 
 <br>
 
+![](/images/C%20Division%20Netball%20Girls.jpeg)
 
-![](/images/Pic%201.jpg)
-
-![](/images/Pic%204.jpg)
-
-![](/images/Pic%203.jpg)
-
-![](/images/Netball%201.jpg)
+![](/images/Road%20to%20National%20School%20Games%202022.jpeg)
