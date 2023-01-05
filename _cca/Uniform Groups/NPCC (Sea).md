@@ -4,6 +4,8 @@ permalink: /cca/uniformed-groups/npcc-sea/
 description: ""
 third_nav_title: Uniform Groups
 ---
+# **NPCC (Sea)**
+
 ![](/images/NPCC_2018.jpg)
 
 **OUR MISSION AND VISION**  
