@@ -8,11 +8,10 @@ third_nav_title: Physical Sports
 
 ### CCA Achievement
 
+![](/images/TKD1.jpg)
 
+![](/images/TKD2.jpg)
 
-![](/images/1%20(2).jpg)
-![](/images/3%20(2).jpg)
-![](/images/2%20(1).jpg)
 
 ### Primary School Outreach
 
