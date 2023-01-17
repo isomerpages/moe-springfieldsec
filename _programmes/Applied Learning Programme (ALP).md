@@ -15,6 +15,13 @@ Our programme caters to students of varying interest levels by allowing a tiered
 
 **Tier 1 Foundation Programme: Secondary 1**
 
+![](/images/ALP3.png)
+
+Our foundation programme for Secondary 1 students centers around personal choices to lead a healthier and more sustainable lifestyle through proper health and nutrition. Students learn the essential skills in maintaining a healthy diet such as reading nutrition labels and swapping out ingredients in recipes to make dishes healthier.
+
+This programme culminates in a milestone project where students design their own healthy recipes and attempt to cook and plate their healthy dishes. Students are also required to create eye-catching posters to market their creations to their fellow peers.
+
+An  overview of the Tier 1 Foundation Programme for Secondary 1:
 
 
 
