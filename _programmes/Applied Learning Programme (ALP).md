@@ -23,6 +23,9 @@ This programme culminates in a milestone project where students design their own
 
 An  overview of the Tier 1 Foundation Programme for Secondary 1:
 
+![](/images/ALPTable1.png)
+
+
 
 
 
