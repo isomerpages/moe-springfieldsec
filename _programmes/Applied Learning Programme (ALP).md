@@ -5,7 +5,10 @@ description: ""
 ---
 # **Applied Learning Programme (ALP)**
 
-The Applied Learning Programme (ALP) is Springfield's distinctive programme that aims to ignite the interest and passion of our students in various Science, Technology, Engineering and Mathematics (STEM) related fields with a focus in the domains of Health Science and Sports Science.  
+The Applied Learning Programme (ALP) is Springfield’s distinctive programme that incorporates various areas in the Science, Technology, Engineering and Mathematics (STEM) field. Through problem-based learning and authentic experiences in the Science and Food laboratories, we aim to develop our students to innovate and think critically as well as creatively, while gaining a deeper understanding in the subjects. The ALP curriculum consists of real-world projects and learning journeys to provide students the opportunity to apply their knowledge and think beyond the scope of the school.
+
+
+
 
 ### Vision for ALP
 
