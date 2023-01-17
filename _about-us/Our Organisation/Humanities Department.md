@@ -60,11 +60,13 @@ _History syllabus_
 
 ### Department Programmes:
 
-Springfield employs an inquiry-based approach to learning. Focusing on the appreciation of enduring understandings through essential questions, instruction takes on a hands-on approach, incorporating field studies or historical inquiry as a compulsory part of the curriculum during the Specialisation Years.
-
+Springfield employs an inquiry-based approach to learning. Focusing on the appreciation of enduring understandings through essential questions, instruction takes a hands-on approach, incorporating field studies or historical inquiry as a compulsory part of the curriculum during the Specialisation Years.
+ 
 Our pupils are trained to be skillful thinkers with the ability to assess sources of all nature in an objective manner. Pupils are introduced to source-based case study skills which will enable them to develop thinking and process skills essential to lifelong and independent learning.
-
+ 
 Assessment is also aligned with this mantra, with authentic tasks featured alongside the more traditional pen and paper assessments. This not only allows students to see the relevance of their learning, and in so doing, enthuse them further in the subject; but also encourages students of differing abilities to showcase their varied intelligence so that our assessment of our students will be accurate and holistic.
+ 
+It has long been the department’s belief that the Humanities is an excellent vehicle for the transference of values. Thus, at every level and through every discipline, there is a deliberate infusion of the teaching of values. Through the study of Geography, students learn values such as Gratitude for Singapore’s efficient transportation system, and Civic Consciousness through the understanding of climate change concerns. The study of Social Studies enables students to develop Respect and Graciousness as key ingredients in the maintenance of societal peace, as well as Grit and Innovation when facing challenges. By studying our own History, students appreciate the value of Diligence as portrayed by the immigrants who helped build Singapore, and see the importance of Empathy when learning the plight of minority groups throughout the world.
 
 Last but not least, learning journeys and participation in competitions are organised to take learning beyond the confines of the classroom and to help students see how their knowledge can be applied to the real world.
 
