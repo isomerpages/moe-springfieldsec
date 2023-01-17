@@ -25,7 +25,9 @@ An  overview of the Tier 1 Foundation Programme for Secondary 1:
 
 ![](/images/ALPTable1.png)
 
+![](/images/ALP%20table%202.png)
 
+![](/images/ALP%20table%203.png)
 
 
 
