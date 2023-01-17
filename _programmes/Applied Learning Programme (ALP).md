@@ -53,8 +53,15 @@ This year, the Secondary Two students visited three local urban farms that are c
 
 **Learning Journey to Koh Fah Technology Farm**
 
+![](/images/alp%20table%207.png)
 
+**Learning Journey to Vertivegies Farm**
 
+![](/images/alp%20table%208.png)
+
+**The Edible Garden City Tour: Queenstown Farm**
+
+![](/images/alp%20table%209.png)
 
 ### Vision for ALP
 
