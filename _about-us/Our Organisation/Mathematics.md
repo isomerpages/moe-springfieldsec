@@ -46,6 +46,16 @@ Email: [alisya_yeo@moe.edu.sg_](mailto:alisya_yeo@moe.edu.sg)
 
 **<u>Making Learning Relevant</u>**
 
+***Learning Estimation through Supermarket Experience: Sec 1 (2021)***
+
+Students learnt the concept of estimation through a Supermarket activity. It is authentic, interactive and collaborative which the students find it engaging.
+
+
+
+
+
+
+
 
 
 #### Math Trail: Sec 1 (2019)
