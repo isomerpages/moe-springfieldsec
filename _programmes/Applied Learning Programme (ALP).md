@@ -7,6 +7,14 @@ description: ""
 
 The Applied Learning Programme (ALP) is Springfield’s distinctive programme that incorporates various areas in the Science, Technology, Engineering and Mathematics (STEM) field. Through problem-based learning and authentic experiences in the Science and Food laboratories, we aim to develop our students to innovate and think critically as well as creatively, while gaining a deeper understanding in the subjects. The ALP curriculum consists of real-world projects and learning journeys to provide students the opportunity to apply their knowledge and think beyond the scope of the school.
 
+![](/images/ALP1.png)
+
+Our programme caters to students of varying interest levels by allowing a tiered system of experiential learning. Throughout their years in secondary school, students will be exposed to experiences from Tier 1 and Tier 2 minimally (see diagram below).
+
+![](/images/ALP2.png)
+
+**Tier 1 Foundation Programme: Secondary 1**
+
 
 
 
