@@ -93,6 +93,8 @@ And finally, through the research of Singapore’s traditional foods, games and 
 
 [Watch our Humanities Department 2022 Video Here](https://youtu.be/QDBAJEo5Qus)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QDBAJEo5Qus" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 ### Historical Scene Investigation (HSI) Challenge 2022
 
