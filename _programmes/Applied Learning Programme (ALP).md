@@ -32,7 +32,11 @@ An  overview of the Tier 1 Foundation Programme for Secondary 1:
 
 **Tier 1 Foundation Programme: Secondary 2**
 
+![](/images/ALP10.png)
 
+Our  foundation programme for Secondary 2 offers a more self-directed and independent experience for the students. Students are presented with a real-world scenario of ensuring food security amidst land-scarce Singapore. They are given the opportunity to plant their own vegetables in school,  harvest and cook them as part of our signature ‘Farm-to-Table’ experience held at the end of the school year. 
+
+Similarly, students are tasked with a milestone project where they design a prototype for a vertical farming set-up that can be included in the school with minimal landscape use.
 
 
 
