@@ -30,6 +30,8 @@ An  overview of the Tier 1 Foundation Programme for Secondary 1:
 ![](/images/ALP%20table%203.png)
 
 
+**Tier 1 Foundation Programme: Secondary 2**
+
 
 ### Vision for ALP
 
