@@ -88,6 +88,15 @@ Statistics is a branch of Mathematics that deals with collection, organization, 
 
 ***Inquiry Based Learning: Sec 3 (2022)***
 
+To enhance students’ problem solving skill and enable them to develop a deep understanding of mathematical concepts, the Secondary 3 went through Inquiry Based Learning. The task was to determine whether the motion of the ball can be modelled by quadratic function.
+
+The students learnt to use an app for tracking of motion, plotting the motion on Google Sheet and made their conclusion.
+
+![](/images/maths6.png)
+
+
+
+
 
 
 
