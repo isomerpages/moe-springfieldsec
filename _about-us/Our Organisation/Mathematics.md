@@ -73,6 +73,24 @@ An interdisciplinary collaboration with the Science Department, we want the stud
 
 ***Math Trail: Sec 1 (2019)***
 
+The Trail builds confidence in students’ ability to recall and use their knowledge gained from lessons. It also gave them authentic learning experiences through combining students’ understanding, experiences and reasoning.
+
+
+![](/images/maths4.png)
+
+
+***Statistics Learning Experience: Sec 2 (2022)***
+
+Statistics is a branch of Mathematics that deals with collection, organization, presentation, computation and interpretation of data. In the Mathematics syllabus, it is important for students to understand and be able to interpret given data. Thus this activity made the learning of Statistics alive.
+
+![](/images/maths5.png)
+
+
+***Inquiry Based Learning: Sec 3 (2022)***
+
+
+
+
 Through this trail it builds confidence in students’ ability to recall and use their knowledge gained from lessons. It also gave them authentic learning experiences through combining students’ understanding, experiences and reasoning.
 
 ![](/images/m1.jpg)
