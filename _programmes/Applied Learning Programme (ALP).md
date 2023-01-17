@@ -42,7 +42,7 @@ Similarly, students are tasked with a milestone project where they design a prot
 
 ![](/images/ALP%20table%205.png)
 
-
+![](/images/ALP%20table%206.png)
 
 
 
