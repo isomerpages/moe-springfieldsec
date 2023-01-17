@@ -44,7 +44,7 @@ Email: [alisya_yeo@moe.edu.sg_](mailto:alisya_yeo@moe.edu.sg)
 [Watch our Mathematics Department Video Here](https://youtu.be/Yvq3I4hFBDE)
 
 
-### Making Learning Relevant
+#### Making Learning Relevant
 
 ***Learning Estimation through Supermarket Experience: Sec 1 (2021)***
 
@@ -59,7 +59,7 @@ An interdisciplinary collaboration with the Science Department, we want the stud
 ![](/images/maths2.png)
 
 
-### Classroom Learning Experience
+#### Classroom Learning Experience
 
 ***Learning with Technology: Sec 1 to 3 (2022)***
 
@@ -68,7 +68,7 @@ An interdisciplinary collaboration with the Science Department, we want the stud
 ![](/images/maths3.png)
 
 
-### Alternative assessments
+#### Alternative assessments
 
 
 ***Math Trail: Sec 1 (2019)***
