@@ -13,7 +13,7 @@ Our programme caters to students of varying interest levels by allowing a tiered
 
 ![](/images/ALP2.png)
 
-**Tier 1 Foundation Programme: Secondary 1**
+<u>**Tier 1 Foundation Programme: Secondary 1**</u>
 
 ![](/images/ALP3.png)
 
@@ -30,7 +30,7 @@ An  overview of the Tier 1 Foundation Programme for Secondary 1:
 ![](/images/ALP%20table%203.png)
 
 
-**Tier 1 Foundation Programme: Secondary 2**
+<u>**Tier 1 Foundation Programme: Secondary 2**</u>
 
 ![](/images/ALP10.png)
 
@@ -44,6 +44,8 @@ Similarly, students are tasked with a milestone project where they design a prot
 
 ![](/images/ALP%20table%206.png)
 
+
+<u>**Opportunities for authentic application of knowledge through Outdoor Learning Experiences**</u>
 
 
 ### Vision for ALP
