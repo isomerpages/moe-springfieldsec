@@ -13,7 +13,7 @@ Our programme caters to students of varying interest levels by allowing a tiered
 
 ![](/images/ALP2.png)
 
-<u>**Tier 1 Foundation Programme: Secondary 1**</u>
+**<u>Tier 1 Foundation Programme: Secondary 1</u>**
 
 ![](/images/ALP3.png)
 
@@ -30,7 +30,7 @@ An  overview of the Tier 1 Foundation Programme for Secondary 1:
 ![](/images/ALP%20table%203.png)
 
 
-<u>**Tier 1 Foundation Programme: Secondary 2**</u>
+**<u>Tier 1 Foundation Programme: Secondary 2</u>**
 
 ![](/images/ALP10.png)
 
@@ -64,4 +64,3 @@ This year, the Secondary Two students visited three local urban farms that are c
 ![](/images/alp%20table%209.png)
 
 ![](/images/alp%20table%2010.png)
-
