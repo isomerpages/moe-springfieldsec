@@ -41,6 +41,13 @@ Email: [alisya_yeo@moe.edu.sg_](mailto:alisya_yeo@moe.edu.sg)
 
 ### Department Programmes:
 
+[Watch our Mathematics Department Video Here](https://youtu.be/Yvq3I4hFBDE)
+
+
+**<u>Making Learning Relevant</u>**
+
+
+
 #### Math Trail: Sec 1 (2019)
 
 Through this trail it builds confidence in students’ ability to recall and use their knowledge gained from lessons. It also gave them authentic learning experiences through combining students’ understanding, experiences and reasoning.
