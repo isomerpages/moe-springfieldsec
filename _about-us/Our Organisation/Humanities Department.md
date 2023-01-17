@@ -94,7 +94,15 @@ And finally, through the research of Singapore’s traditional foods, games and 
 [Watch our Humanities Department 2022 Video Here](https://youtu.be/QDBAJEo5Qus)
 
 
+### Historical Scene Investigation (HSI) Challenge 2022
 
+![](/images/Human1.jpg)
+
+The Historical Scene Investigation (HSI) Challenge is an annual contest conducted by the National Library Board (NLB) and supported by the MOE’s CPDD Humanities Branch (History Unit). Since its inception in 2015, the contest welcomes Lower Secondary History students to participate in in-depth research on a given historical inquiry. 
+
+170 teams from 82 schools participated in this year’s installment of the HSI. Amongst them were two teams from Springfield’s Secondary 2E and 2F who took up the challenge to research on the historical significance of the Japanese Occupation of Singapore (1942-1945), in commemoration of the 80th anniversary of the fall of Singapore. 
+
+The team from 2E, comprising Hao Chenyi, Tay Gabriela, Tan Shermaine, and Nurul Batrisyia Mawasi, did Springfield proud by clinching overall 1st place for HSI 2022 and being accorded the Young Historians’ Award by the MOE!
 
 
 
