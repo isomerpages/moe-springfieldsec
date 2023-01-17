@@ -47,6 +47,14 @@ Similarly, students are tasked with a milestone project where they design a prot
 
 <u>**Opportunities for authentic application of knowledge through Outdoor Learning Experiences**</u>
 
+Students are  given the opportunity to visit industry partners to augment their learning experience as part of the ALP journey. This aims to promote and  encourage healthy and sustainable living among the students, and at the same time create an  awareness of the potential job prospects in these industries.
+
+This year, the Secondary Two students visited three local urban farms that are currently providing sustainable solutions to farming and food security.
+
+**Learning Journey to Koh Fah Technology Farm**
+
+
+
 
 ### Vision for ALP
 
