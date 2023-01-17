@@ -38,6 +38,9 @@ Our  foundation programme for Secondary 2 offers a more self-directed and indepe
 
 Similarly, students are tasked with a milestone project where they design a prototype for a vertical farming set-up that can be included in the school with minimal landscape use.
 
+![](/images/ALP%20table%204.png)
+
+![](/images/ALP%20table%205.png)
 
 
 
