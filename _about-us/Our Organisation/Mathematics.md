@@ -58,6 +58,9 @@ Students learnt the concept of estimation through a Supermarket activity. It is 
 
 
 
+
+
+
 #### Math Trail: Sec 1 (2019)
 
 Through this trail it builds confidence in students’ ability to recall and use their knowledge gained from lessons. It also gave them authentic learning experiences through combining students’ understanding, experiences and reasoning.
