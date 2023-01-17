@@ -26,7 +26,6 @@ An  overview of the Tier 1 Foundation Programme for Secondary 1:
 
 
 
-
 ### Vision for ALP
 
 Better Health for a Better Tomorrow  
