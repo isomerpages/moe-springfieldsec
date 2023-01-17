@@ -70,6 +70,34 @@ It has long been the department’s belief that the Humanities is an excellent v
 
 Last but not least, learning journeys and participation in competitions are organised to take learning beyond the confines of the classroom and to help students see how their knowledge can be applied to the real world.
 
+
+**<u>Department achievements in 2022 </u>**
+
+To commemorate Springfield Secondary School’s 30th anniversary as an institute of learning, the Humanities department helped lead students through key world events: 
+
+1. The Kyoto Protocol (1998) and its relation to International Friendship Day; 
+2. The devastation caused by the 9/11 incident (2001); 
+3. The demise of our first Prime Minister Mr. Lee Kuan Yew (2015); 
+4. Singapore’s response to Covid 19 (2020 – present) and; 
+5. The War between Ukraine and Russia (2022).
+
+Through lessons carefully prepared by our teachers, students were able to learn about and discuss the impact of these significant events on Singapore as a nation and on themselves as individuals.
+
+The Social Studies unit allowed for students to carry out an issue investigation on experiences of the Covid 19 pandemic. Through the use of posters and videos, our students helped raise awareness of how Singaporeans could stay safe during the pandemic.
+
+By taking part in competitions such as the NUS Challenge, our Geography students created videos and discussed how Singapore’s push for electric vehicles would help our country achieve the UN’s Sustainable Development Goals.
+
+And finally, through the research of Singapore’s traditional foods, games and folklore, students of History learnt about the different cultures of our people as part of Racial Harmony Day.
+
+
+
+
+
+
+
+
+
+
 ### Historical Scene Investigation (HSI) Challenge 2020
 
 ![](/images/HSI%20challenge%20team%20photo.jpg)
