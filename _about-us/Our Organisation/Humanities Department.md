@@ -17,21 +17,22 @@ Email: _[azeanni\_yasni@moe.edu.sg](mailto:azeanni_yasni@moe.edu.sg)_
 Mdm Zaleela Zakariah    
 Mrs Suzanne Gomes    
 Ms Ng Zhao Ying   
-Miss Mary Wong    
 Miss Shermin Chee
+<br>Mr Gemmon Wah
 
 **History**   
-Mrs Joy Moreira   
-Mr Fabian Lim    
+Mrs Joy Moreira  (SH/History) 
+<br>Mr Fabian Lim    
 Mr Tan Yik Zhen
 
-**Geography**    
-Ms Verine Yeo    
+**Geography**   
+Mrs Jenny Yoong-Goh Jia Yee (SH/Geography)
+<br>Ms Verine Yeo    
 Mr Joel Sng    
 Ms Nor Hazimah Mohd Hanafi    
 Miss Rachel Koh    
 Mr Jeremiah Loke    
-Ms Jenny Goh
+
 
 ### Department Goals / Objectives:
 
