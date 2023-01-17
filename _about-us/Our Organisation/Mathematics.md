@@ -44,24 +44,34 @@ Email: [alisya_yeo@moe.edu.sg_](mailto:alisya_yeo@moe.edu.sg)
 [Watch our Mathematics Department Video Here](https://youtu.be/Yvq3I4hFBDE)
 
 
-**<u>Making Learning Relevant</u>**
+### Making Learning Relevant
 
 ***Learning Estimation through Supermarket Experience: Sec 1 (2021)***
 
 Students learnt the concept of estimation through a Supermarket activity. It is authentic, interactive and collaborative which the students find it engaging.
 
+![](/images/maths1.png)
+
+***Kite Design and Flying: Sec 3 (2021)***
+
+An interdisciplinary collaboration with the Science Department, we want the students to learn Mathematics and Science concepts through this activity. The students learnt about the forces acting on the kite and the properties of the shapes used for the kite.
+
+![](/images/maths2.png)
 
 
+### Classroom Learning Experience
+
+***Learning with Technology: Sec 1 to 3 (2022)***
+
+<br>Technology provides students with easy-to-access information, accelerated their learning and fun opportunities to practice what they had learnt.
+
+![](/images/maths3.png)
 
 
+### Alternative assessments
 
 
-
-
-
-
-
-#### Math Trail: Sec 1 (2019)
+***Math Trail: Sec 1 (2019)***
 
 Through this trail it builds confidence in students’ ability to recall and use their knowledge gained from lessons. It also gave them authentic learning experiences through combining students’ understanding, experiences and reasoning.
 
