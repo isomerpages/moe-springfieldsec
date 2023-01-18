@@ -33,11 +33,11 @@ Sexuality education is an important programme in our schools. It aims to help ou
 The Education & Career Guidance Programme aims to provide Springfielders with the knowledge, skills and attitudes they need to make good and informed decisions about post-Secondary education, training and employment options. This is done through promoting career awareness and equipping Springfielders with the skills in gathering and making decisions on educational and career options. 
      
 *   **Cyber Wellness**     
-Cyber Wellness refers to the positive well-being of Internet users. It involves an understanding of the risks of harmful online behaviours, an awareness of how to protect oneself and other Internet users from such behaviours.  
+Cyber Wellness (CW) refers to the positive well-being of Internet users. Through CW education in CCE, students learn to be respectful, safe and responsible users of technology and be a positive peer influence, advocating for the good of the community online. It involves an understanding of the risks of harmful online behaviours, an awareness of how to protect oneself and other Internet users from such behaviours.
      
 *   **Community Involvement**    
-The school involves pupils in community service so as to fulfil its responsibilities to the community and to encourage the spirit of volunteerism in all Springfielders. Every Springfielder is encouraged to go beyond the required minimum six hours of community service.  
+The school involves students in community service to fulfil its responsibilities to the community and to encourage the spirit of volunteerism in all Springfielders. Every Springfielder is encouraged to go beyond the required minimum six hours of community service.
       
     
 *   **Counselling**  
-    Counselling aims to help Springfielders with problems to reach beneficial solutions. Teacher-Pupil Conferencing is a proactive approach adopted by the school so as to enable teachers and pupils to build rapport and for teachers to identify pupils who need help, at an early stage.
+   Counselling aims to help Springfielders with problems to reach beneficial solutions. Teacher-Student Conferencing is a proactive approach adopted by the school to enable teachers and students to build rapport and for teachers to identify students who need help, at an early stage.
