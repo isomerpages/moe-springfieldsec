@@ -96,67 +96,31 @@ The students learnt to use an app for tracking of motion, plotting the motion on
 
 
 
+***Mathematics Learning Day: Sec 1 to 3 (2022)***
+
+Students in Springfield Secondary School are engaged in a termly programme by the Mathematics Department: Mathematics Learning Day. In May’s Learning Day @ Springfield, students are equipped with the knowledge and skills as well and the capacities to think logically, critically and analytically with the activities planned out for them. Students will find joy in the learning of Mathematics through Real World Practices.
+
+In each term, students will go through an activity based on the three strands in the Mathematics curriculum:
 
 
 
+Numbers and Algebra
+Geometry and Measurement
+Statistics and Probability
 
-Through this trail it builds confidence in students’ ability to recall and use their knowledge gained from lessons. It also gave them authentic learning experiences through combining students’ understanding, experiences and reasoning.
 
-![](/images/m1.jpg)
-Students trying to solve a question on the drinks sold in the Vending Machine.
+By infusing Numbers and Algebra and the game Sudoku, students and teachers embarked on a journey through a virtual Escape Room.
 
-![](/images/m2.jpg)
-Students trying to solve a question on which menu is more value for money.
+![](/images/Maths7.png)
 
-#### Escape Room: Sec 1 (2019)
+We have also combined the Mathematics strand on Geometry and Measurement with Football. Through the e-quiz, students go on a school hunt trail to complete the quiz as well as to find out more about the school.
 
-This is a collaboration with the Science Department and the theme for this Year is CSI. The Students had to apply their Mathematics and Science knowledge to solve the puzzles and gain clues to identify the suspects.
+![](/images/Maths8.png)
 
-![](/images/e1.jpg)
-*Students trying to solve a Mathematics Question.*
+As we part of the Springfield’s 30th PEARL Anniversary events, students get to understand and experienced the situation that happened during the 1997 Asian Financial Crisis through the life of Springfield teachers, Ms Tan and Mr Chong through Google Form.
 
-![](/images/e2.jpg)
-*Students trying to solve a Science Question.*
+![](/images/Maths9.png)
 
-**Interdisciplinary Project Work (IPW): Sec 2 (2019)**    
+Students also participated actively in the termly Mathematics Learning Day and have shown greater interest and understanding towards Mathematics and the application to Real World Context Practices.
 
-<img src="/images/i1.jpg" style="width:300px;height:200px;margin-left:15px;" align = "right">
 
-This is a collaboration with the Mathematics, Design and Technology and ART Department. 
-
-We want to provide the Students with an authentic learning platform where they can learn through research and collaboration, think critically and creatively. 
-
-The Students also learn life skills such as Oral Communication when presenting their ideas and working effectively in teams.
-
-![](/images/i2.jpg)
-*Students showing proudly their hand-made sound amplifiers.*
-
-![](/images/i3.jpg)
-*Students doing their sales pitch to the Sec 1s.*
-
-#### **Kite Design and Flying: Sec 2 (2019)**
-
-A collaboration with the Science Department, we want the Students to learn Mathematics and Science concepts through this activity. The Students learnt about the forces acting on the kite and the properties of the shape used for the kite.
-
-![](/images/k1.jpg)
-*The teacher is going through the Mathematics behind kite design*
-
-![](/images/k2.jpg)
-*Students are cutting out the kite*
-
-![](/images/k3.jpg)
-*The Students are flying their kites at the School Field*
-
-![](/images/k4.jpg)
-*The Students proudly showing their hand-made kites*
-
-#### **Real World Tasks: Sec 3 (2019)**
-
-The ability to apply Mathematics to real-life contexts is of utmost importance. At Secondary 3 Level, the Teachers come together and crafted out authentic real-world tasks for the Students to apply their Mathematics knowledge.
-
-![](/images/r1.jpg)
-![](/images/r2.jpg)
-*Students need to assess what kind of dimensions are needed for their calculation and how to get these dimensions.*
-
-![](/images/r3.jpg)
-*Student making use of inclinometer app to measure the angle of elevation*
