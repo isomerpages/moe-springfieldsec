@@ -23,4 +23,3 @@ The SEC is currently made up of Students holding key positions in their respecti
 ![](/images/SEC3.jpg)
 
 ![](/images/SEC4.jpg)
-
