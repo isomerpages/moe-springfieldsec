@@ -10,6 +10,12 @@ third_nav_title: Our Organisation
 Mr Muhammad Hafiz Bin Salleh    
 Email: [_muhammad\_hafiz\_salleh@moe.edu.sg_](mailto:muhammad_hafiz_salleh@moe.edu.sg)
 
+**Senior Teacher**  
+Mdm Siti Zubaidah Bte Arshad   
+Email: [_siti_zubaidah_arshad@moe.edu.sg_](mailto:siti_zubaidah_arshad@moe.edu.sg)
+
+
+
 ### Coordinators:
 
 **Lower Secondary :** Mdm Siti Zubaidah Arshad    
