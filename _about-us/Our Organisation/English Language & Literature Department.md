@@ -41,12 +41,27 @@ The study of Literature centres on literary response – the negotiation of mean
 
 ![](/images/EL1.png)
 
+The various layers of this framework are as follows, starting from the centre to the outermost layer.
+
+1.	The Literary Text at the Centre 
+2.	Five Areas of Study: Plot, Character, Setting and Atmosphere, Style, Theme 
+3.	Processes: Responding through Dialogue and Writing 
+4.	Lenses: Experiencing Story, Appreciating Style and Interpreting Theme 
+5.	Connections: Self, The World, Other Readers, Other Texts
 
 
+**Lower Secondary – Literature Texts**
+-	Prose: Balik Kampung 2A: People and Places by Verena Tay 
+-	Drama: Something Old, Something New, Something Borrowed by Ken Misuzawa 
+
+**Upper Secondary – Literature Texts**
+-	Prose: How We Live Now by Yu-Mei Balasingamchow
+-	Drama: Boom by Jean Tay  
 
 ### Curriculum & Assessments:
-* Based on MOE English Language Syllabus 2010 (applicable for cohort 2019 and before)
-* Based on MOE English Language Syllabus 2020 (applicable for cohort 2020 onwards)
+•	Based on MOE English Language Syllabus 2020 (applicable for cohort 2020 onwards)
+<br>•	Based on MOE English Literature Syllabus 2019 (applicable for cohort 2019 onwards) 
+
 
 ### Department Programmes:
 * **Reading Programme (for all students) via Kaleidoscope [School app]**   
@@ -56,13 +71,18 @@ The spirit and intent of the reading programme is for Springfielders to keep abr
 
 <br>
 
-* **English Language Magazines (i-Magazine, i-THINK & iNSPIRE)**   
+* **English Language Magazines**   
 With each magazine dedicated to the different streams, these EL magazines aims to supplement student's learning of the language. Pitched appropriately to the different levels, students will subscribe to 4-issues of the magazines that abides closely with MOE EL Syllabuses.
 
 <br>
 
-* **News Reading Programme**   
+* **News Reading Programme - All levels**   
 The department believes in providing students opportunities to use the language in real-life applications. The News Reading programme aims to give students the platform for them to showcase their reading and presentation skills. At the same time, it is also to imbue students with the confidence in public speaking as well as the use of good conversational English.
+<br>
+
+* **Student Activists  Programme - Sec 3**  
+Students will embark on an inquiry based on the topic of choice. Students will then conduct research, gather information and propose ways to improve the situation. Students will then present their findings at a school-level platform. The programme aims to equip students with a sense of civic-mindedness and at the same time, be aware of what is happening with the community. 
+
 
 ![](/images/News%20Reading%20Programme.jpg)
 
