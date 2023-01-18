@@ -6,9 +6,11 @@ description: ""
 # **CCA**
 ### Aims of our CCA Programme
 
-*   Our programme aims to give a more complete and balanced education. It teaches our pupil through informal instruction, the values of sharing, teamwork co-operation, friendship and other qualities which are essential in character-building for the sake of self and nation-building.   
+![](/images/CCA1.jpg)
+
+*  Our programme aims to give a more complete and balanced education. It teaches our pupil through informal instruction, the values of sharing, teamwork co-operation, friendship and other qualities which are essential in character-building for the sake of self and nation-building. 
     
-*   Pupils with special talents or potential in these areas of interests will be nurtured and guided to attain higher levels of achievement and to win glory and honour for themselves, their families and even our nation.   
+*   Pupils with special talents or potential in these areas of interests will be nurtured and guided to attain higher levels of achievement and to win glory and honour for themselves, their families and even our nation.    
     
 *   We would like to develop in each of our pupils a life-long skill or an area of interest that he or she could pursue as a life-long recreational activity.   
     
