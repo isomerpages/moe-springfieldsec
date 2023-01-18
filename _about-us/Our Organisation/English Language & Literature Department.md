@@ -16,11 +16,10 @@ Email: [_siti_zubaidah_arshad@moe.edu.sg_](mailto:siti_zubaidah_arshad@moe.edu.
 
 
 
-### Coordinators:
+**Normal Technical (NT) Coordinator & Year Head (Upper Sec)**
+<br>Miss Tan Chna Huang
 
-**Lower Secondary :** Mdm Siti Zubaidah Arshad    
-**Upper Secondary :** Mrs Maureen Tan & Ms Nurhuda Osman  
-**Normal Technical (NT) Coordinator :** Miss Tan Chna Huang
+
 
 
 ### Department Educators
