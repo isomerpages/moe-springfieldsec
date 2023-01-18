@@ -4,6 +4,10 @@ permalink: /partners/springfield-parents-network-spn/
 description: ""
 ---
 # **Springfield Parents' Network (SPN)**
+The Springfield Parents’ Network (SPN) consists of a group of committed parents who partner the school to support fellow parents in nurturing their children. It is the platform for parents to network, share, learn and support each other in this parenting journey. 
+
+
+
 
 Schools and Parents must work hand in hand to support the child's learning and be successful in life. The Springfield Parents' Network (SPN) is always supporting the School in nurturing and developing confident individuals into lifelong learners.  
   
