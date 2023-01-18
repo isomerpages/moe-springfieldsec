@@ -37,6 +37,11 @@ Email: [_siti_zubaidah_arshad@moe.edu.sg_](mailto:siti_zubaidah_arshad@moe.edu.
 * To harness IT and other resources for the teaching and learning of English and Literature
 * To develop a reading culture
 
+
+
+https://youtu.be/wmkgetyPFg4
+
+
 ### Curriculum & Assessments:
 * Based on MOE English Language Syllabus 2010 (applicable for cohort 2019 and before)
 * Based on MOE English Language Syllabus 2020 (applicable for cohort 2020 onwards)
