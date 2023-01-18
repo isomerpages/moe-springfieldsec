@@ -6,6 +6,28 @@ description: ""
 # **Springfield Parents' Network (SPN)**
 The Springfield Parents’ Network (SPN) consists of a group of committed parents who partner the school to support fellow parents in nurturing their children. It is the platform for parents to network, share, learn and support each other in this parenting journey. 
 
+**Objectives of the SPN**
+![](/images/SPNN.png)
+
+**Activities/Support Provided**
+
+The SPN plans and conducts Family Days, Parent-Child Bonding activities, Termly Meetings and Sharing Sessions, and participate in school based activities to encourage strong bonding between parents, pupils and staff of the school.
+
+With the loosening of safe management measures, SPN able to conduct meetings with the School Leaders and Teachers face-to-face to ensure communication. SPN members also met in small groups to plan out several activities such the Parents’ Day, Teacher’s Day and Graduation Day. 
+
+### Members
+
+![](/images/Exco%20members.png)
+
+
+For Parents whom are keen to join the Springfield Parents' Network, please do not hesitate to contact Ms Aishah at mdmaishah@gmail.com .
+
+
+
+
+
+
+
 
 
 
@@ -19,7 +41,7 @@ In 2020, most of the SPN activities had to be shelved due to COVID-19. Neverthel
   
 For Teacher's Day this year, the SPN gifted every Teacher with a personalized pen pouch. For the Graduating Classes, the SPN sponsored key chains as well as a hand-made graduating pen.
 
-### Members
+
 
 | The SPN 2020 Core Members 	|
 | ---	|
