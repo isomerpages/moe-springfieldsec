@@ -10,9 +10,7 @@ third_nav_title: Our Organisation
 Mr Marcus Lau Kok Hiong  
 Email: [lau_kok_hiong@moe.edu.sg_](mailto:lau_kok_hiong@moe.edu.sg)  
 
-**Year Head (Lower Secondary)**  
-Mr Wong Ting Hsin     
-Email: [wong_ting_hsin@moe.edu.sg_](mailto:wong_ting_hsin@moe.edu.sg)  
+ 
 
 **Head of Department (Student Development)**    
 Mr Alex Goh Wui Huat     
@@ -27,7 +25,7 @@ Mr Teo Wee Meng
   
 
 **Teacher**    
-Mr Lionel Boey
+Mr Yonatan Ng Yu Zhe
 
 ### Introduction
 
