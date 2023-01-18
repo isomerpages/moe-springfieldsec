@@ -23,4 +23,3 @@ The CCA Leaders Camp is an intensive leadership training camp held during the Ju
 ![](/images/CCAL3.jpg)
 
 ![](/images/CCAL6.jpg)
-
