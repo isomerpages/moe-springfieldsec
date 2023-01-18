@@ -28,19 +28,17 @@ description: ""
 
 3\. At the session, CCA Teacher will select and inform the students if they are in the CCA or not.
 
-4\. If the student is _**NOT selected**_, the CCA Teacher will then assist the student in choosing their next choice and update the Google Document that is being shared.
+4\. If the student is _**NOT selected**_, the CCA Teacher will then assist the student in choosing their next choice and update the teachers.
 
-5\. If the student _**is selected**_, he or she may attend CCA immediately. However, if they wish to still try out for our CCAs before making an informed decision, they are allowed to. However, please note that once they choose not to accept the offer, they might lose their spot.
+5\. IIf the student _**is selected**_, he or she may attend CCA immediately. However, if they wish to still try out for our CCAs before making an informed decision, they are allowed to. However, please note that once they choose not to accept the offer, they might lose their spot.
 
-6\. If CCA Teachers would like to keep-in-view the student, he or she may do so but have to make a decision till end of the Week. This is to also allow the other students not selected from other CCAs to attend another CCA of their choice too. 
+6\. If CCA Teachers would like to keep-in-view the student, he or she may do so but have to make a decision till end of the Week. This is to also allow the other students not selected from other CCAs to attend another CCA of their choice too.
 
 7\. Each CCA has a quota and once they reached their quota, they will not be able to recruit any more new members. Students are required to contribute to the CCA, work with their friends and learn new skills.
 
-8\. The above process is repeated for a whole month (31st January 2020) until Students finalise their CCA. After which, they will be allocated a CCA.
+8\. The above process is repeated for a whole month (31st January 2023) until students finalise their CCA. After which, they will be allocated a CCA.
 
-Please note that the CCA Schedule can be found at the links below.
-
-Please also note that Consent Forms will be given once the student has confirmed his or her CCA.
+Please note that the CCA Schedule can be found at the links below. Please also note that Consent Forms will be given once the student has confirmed his or her CCA.
 
   
 
