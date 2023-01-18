@@ -36,6 +36,7 @@ For Parents whom are keen to join the Springfield Parents' Network, please do no
 
 
 
+
 Schools and Parents must work hand in hand to support the child's learning and be successful in life. The Springfield Parents' Network (SPN) is always supporting the School in nurturing and developing confident individuals into lifelong learners.  
   
 Family Days, Parent-Child Bonding activities, Termly Meetings, Sharing Sessions, participation in school based activities were planned and conducted to encourage strong bonding between parents, pupils and staff of the school.
