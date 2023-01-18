@@ -8,29 +8,31 @@ third_nav_title: CCE Programme
 
 ### Objectives
 
-*   To develop and promote effective, character and career development needs of all students through a comprehensive Pastoral Care Programmes.  
-*   To instil in pupils the attitude of caring, civic-mindedness and graciousness.  
-*   To provide Career Guidance for our pupils.  
-*   To arrange appropriate help for identified pupils through a system of referral, counselling and follow-up action.  
-*   To render help to identified pupils with behavioural and emotional problems so as to reach beneficial solutions.  
-*   To guide students to by independent and responsible individuals.  
-*   To provide opportunities for pupils to develop leadership qualities.  
+•	To develop and promote effective, character and career development needs of all students through learning activities in the classroom and Student Development Experiences (SDEs).
+<br>•	To instill in students the attitude of caring, civic-mindedness and graciousness.
+<br>•	To provide Education & Career Guidance (ECG) for our pupils.
+<br>•	To arrange appropriate help for identified students through a system of referral, counselling and follow-up action.
+<br>•	To render help to identified students with behavioural and emotional concerns to reach beneficial solutions.
+<br>•	To guide students to be independent and responsible individuals.
+<br>•	To provide opportunities for students to develop leadership qualities.
+<br>•	To equip our students with the relevant competencies to thrive in the Volatile, Uncertain, Complex, Ambiguous (VUCA) world.
+  
       
 
 ### Programmes
 
 The department runs six main programmes that have been planned in stages so as to cover the four/five years that a Springfielder will spend in school before graduation
 
-*   **SEL**   
-CME Lessons / PC Session  
+*   **Social  and Emotinal Learning**   
+Social and Emotional Learning is taught through the conduct of SDE Activities and/or Pastoral Care Lessons which contribute towards the holistic development of our students in the physical, aesthetic, intellectual, moral and social domains. 
      
-*   **Sexuality Educational**     
-Sexuality education is an important programme in our schools. It aims to help our young understand the physiological, social and emotional changes they experience as they mature, develop healthy relationships with the opposite sex and to teach them how to make responsible choices. It is premised on the importance of the heterosexual married family as the basic unit of society, and respect for the values and beliefs of the different ethnic and religious communities on sexuality issues.  
+*   **Sexuality Education**     
+Sexuality education is an important programme in our schools. It aims to help our young understand the physiological, social and emotional changes they experience as they mature, develop healthy relationships with the opposite gender and to teach them how to make responsible choices. It is premised on the importance of the heterosexual married family as the basic unit of society, and respect for the values and beliefs of the different ethnic and religious communities on sexuality issues.  
      
-*   **Educational & Career Guidance**     
-The Career Guidance Programme aims to provide Springfielders with the knowledge, skills and attitudes they need to make good and informed decisions about post-Secondary education, training and employment options. This is done through promoting career awareness and equipping Springfielders with the skills in gathering and making decisions on educational and career options.  
+*   **Education & Career Guidance**     
+The Education & Career Guidance Programme aims to provide Springfielders with the knowledge, skills and attitudes they need to make good and informed decisions about post-Secondary education, training and employment options. This is done through promoting career awareness and equipping Springfielders with the skills in gathering and making decisions on educational and career options. 
      
-*   **Cyberwellness**     
+*   **Cyber Wellness**     
 Cyber Wellness refers to the positive well-being of Internet users. It involves an understanding of the risks of harmful online behaviours, an awareness of how to protect oneself and other Internet users from such behaviours.  
      
 *   **Community Involvement**    
