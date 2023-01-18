@@ -36,6 +36,11 @@ Email: [_siti_zubaidah_arshad@moe.edu.sg_](mailto:siti_zubaidah_arshad@moe.edu.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wmkgetyPFg4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+#### English Literature
+The study of Literature centres on literary response – the negotiation of meaning between readers and texts. This Literary Response Framework represents how teachers will design learning experiences that encourage students to respond to texts in a holistic manner. The Framework is shaped like an eye to emphasise how responding to Literature empowers students to read texts and the world in different ways and with discernment. 
+
+![](/images/EL1.png)
+
 
 
 
