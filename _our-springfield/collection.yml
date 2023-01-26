@@ -1,5 +1,5 @@
 collections:
-  about-us:
+  our-springfield:
     output: true
     order:
       - Principal's Message.md
