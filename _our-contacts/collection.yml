@@ -2,7 +2,7 @@ collections:
   our-contacts:
     output: true
     order:
-      - Others.md
+      - Stall Vacancies.md
       - Admin Matters/.keep
       - Admin Matters/Fees Information.md
       - Admin Matters/School Suppliers.md
