@@ -2,7 +2,6 @@ collections:
   our-contacts:
     output: true
     order:
-      - Safety & Security Measures.md
       - Admin Matters.md
       - Others.md
       - Quick Links.md
