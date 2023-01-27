@@ -2,12 +2,12 @@ collections:
   our-contacts:
     output: true
     order:
-      - Vacancies for Canteen Stalls.md
       - Admin Matters/.keep
       - Admin Matters/Fees Information.md
       - Admin Matters/School Suppliers.md
       - Admin Matters/Financial Assistance.md
       - Admin Matters/Homework Policy.md
       - Admin Matters/Safety & Security Measures.md
+      - Vacancies for Canteen Stalls.md
       - Quick Links.md
       - faq.md
