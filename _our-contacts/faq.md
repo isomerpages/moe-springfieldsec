@@ -2,16 +2,18 @@
 title: FAQ
 permalink: /faq/
 ---
-# **FAQs**
+# **Getting in touch with Springfield Secondary School**
   
-### General:  
-
-1.  [How do I get to Springfield Secondary School?](https://moe-springfieldsec-staging.netlify.app/contact-us/)
-2.  [How do I contact the school?](https://moe-springfieldsec-staging.netlify.app/contact-us/)
-3.  [Where can I buy the school books and uniforms?](https://moe-springfieldsec-staging.netlify.app/about-us/admin-matters/school-suppliers)
-4.  [Where can I find out more information about the Direct School Admission (DSA) to Springfield Secondary School?](https://moe-springfieldsec-staging.netlify.app/about-us/direct-school-admissions)
+##### Address   
+30 Tampines Avenue 8<br>
+Singapore 529593
 
   
-**Finance Matters:**  
+##### Operating Hours  
+Mon-Fri: 630am-630pm
+<br>Bus: 8,23, 69, 293 & 118 (from Punggol Temp Int) || Nearest MRT: Tampines, Pasir Ris
 
-1.  [What are the school fees for Secondary School education?](https://moe-springfieldsec-staging.netlify.app/about-us/admin-matters/fees-information)
+##### Contact Us
+**Tel**: 6318 3053
+<br>**Fax:** 6318 3050
+<br>**E-mail:** springfields@moe.edu.sg
