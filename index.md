@@ -48,10 +48,6 @@ sections:
       button: Click here for more information
       url: /parents/2022-secondary-1-posting-n-registration-information
   - infobar:
-      title: Are we allowed to ride the e-Scooter?
-      button: Click here to find out
-      url: /Are-we-allowed-to-ride-the-e-Scooter
-  - infobar:
       title: Submission of Digital MC
       subtitle: Attention Springfielders!
       button: Click here
