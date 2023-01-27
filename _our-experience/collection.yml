@@ -2,6 +2,7 @@ collections:
   our-experience:
     output: true
     order:
+      - 2017 Achievements.md
       - 2018 Achievements.md
       - 2019 Achievements.md
       - CCA.md
