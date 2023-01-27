@@ -2,6 +2,7 @@ collections:
   our-contacts:
     output: true
     order:
+      - Contact Us.md
       - Admin Matters/.keep
       - Admin Matters/Fees Information.md
       - Admin Matters/School Suppliers.md
@@ -10,4 +11,3 @@ collections:
       - Admin Matters/Safety & Security Measures.md
       - Quick Links.md
       - Vacancies for Canteen Stalls.md
-      - Contact Us.md
