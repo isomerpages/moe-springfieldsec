@@ -2,22 +2,22 @@ collections:
   our-experience:
     output: true
     order:
-      - Start IT Right (SIR) Programme.md
       - CCA.md
+      - Physical Sports/.keep
       - Physical Sports/Floorball (Girls).md
       - Physical Sports/Floorball (Boys).md
       - Physical Sports/Football.md
       - Physical Sports/Netball.md
       - Physical Sports/Outdoor Pursuits Club.md
       - Physical Sports/Taekwondo.md
-      - Physical Sports/.keep
+      - Uniform Groups/.keep
       - Uniform Groups/Boys' Brigade.md
       - Uniform Groups/Girls' Brigade.md
       - Uniform Groups/NCC (Land).md
       - Uniform Groups/NPCC.md
-      - Uniform Groups/.keep
+      - Visual & Performing Arts/.keep
       - Visual & Performing Arts/Band.md
       - Visual & Performing Arts/Dance.md
       - Visual & Performing Arts/Drama (English).md
       - Visual & Performing Arts/Guzheng Ensemble.md
-      - Visual & Performing Arts/.keep
+      - Start IT Right (SIR) Programme.md
