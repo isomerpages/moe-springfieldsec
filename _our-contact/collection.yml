@@ -1,5 +1,5 @@
 collections:
-  others:
+  our-contact:
     output: true
     order:
       - Others.md
