@@ -2,6 +2,7 @@ collections:
   our-experience:
     output: true
     order:
+      - Start IT Right (SIR) Programme.md
       - CCA.md
       - Physical Sports/Floorball (Girls).md
       - Physical Sports/Floorball (Boys).md
