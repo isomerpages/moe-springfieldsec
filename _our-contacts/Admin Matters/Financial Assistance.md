@@ -13,7 +13,7 @@ third_nav_title: Admin Matters
 
 ### Objective  
 
-The objective of the MOE FAS is to help needy Singaporean students to meet basic schooling expenses.  
+The objective of the MOE FAS is to provide financial assistance to Singaporean students who need financial assistance for their studies.
 
 ### Eligibility Criteria
 
