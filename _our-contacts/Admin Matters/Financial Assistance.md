@@ -4,8 +4,10 @@ permalink: /about-us/admin-matters/financial-assistance/
 description: ""
 third_nav_title: Admin Matters
 ---
-
 # **Financial Assistance**
+![](/images/FAS%20Brochure%202023.png)
+
+[FAS Brochure 2023]()
 
 ### APPLICATION FOR MOE FINANCIAL ASSISTANCE SCHEME (MOE FAS)
 
