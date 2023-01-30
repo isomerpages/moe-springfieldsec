@@ -2,9 +2,6 @@ collections:
   our-experience:
     output: true
     order:
-      - 2017 Achievements.md
-      - 2018 Achievements.md
-      - 2019 Achievements.md
       - CCA.md
       - Physical Sports/.keep
       - Physical Sports/Floorball (Girls).md
@@ -24,3 +21,6 @@ collections:
       - Visual & Performing Arts/Drama (English).md
       - Visual & Performing Arts/Guzheng Ensemble.md
       - Start IT Right (SIR) Programme.md
+      - 2019 Achievements.md
+      - 2018 Achievements.md
+      - 2017 Achievements.md
