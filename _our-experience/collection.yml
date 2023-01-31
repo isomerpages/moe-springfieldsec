@@ -2,6 +2,7 @@ collections:
   our-experience:
     output: true
     order:
+      - CCA Programme/Outdoor Pursuits Club.md
       - CCA Programme/Netball.md
       - CCA Programme/Football.md
       - CCA Programme/Floorball (Boys).md
