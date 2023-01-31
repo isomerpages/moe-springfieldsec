@@ -2,22 +2,22 @@ collections:
   our-experience:
     output: true
     order:
-      - CCA Programme/.keep
-      - CCA Programme/CCA.md
-      - CCA Programme/Floorball (Girls).md
-      - CCA Programme/Floorball (Boys).md
-      - CCA Programme/Football.md
-      - CCA Programme/Netball.md
-      - CCA Programme/Outdoor Pursuits Club.md
-      - CCA Programme/Taekwondo.md
-      - CCA Programme/Boys' Brigade.md
-      - CCA Programme/Girls' Brigade.md
-      - CCA Programme/NCC (Land).md
-      - CCA Programme/NPCC.md
-      - CCA Programme/Band.md
-      - CCA Programme/Dance.md
-      - CCA Programme/Drama (English).md
-      - CCA Programme/Guzheng Ensemble.md
+      - CCA/.keep
+      - CCA/CCA.md
+      - CCA/Floorball (Girls).md
+      - CCA/Floorball (Boys).md
+      - CCA/Football.md
+      - CCA/Netball.md
+      - CCA/Outdoor Pursuits Club.md
+      - CCA/Taekwondo.md
+      - CCA/Boys' Brigade.md
+      - CCA/Girls' Brigade.md
+      - CCA/NCC (Land).md
+      - CCA/NPCC.md
+      - CCA/Band.md
+      - CCA/Dance.md
+      - CCA/Drama (English).md
+      - CCA/Guzheng Ensemble.md
       - Start IT Right (SIR) Programme.md
       - Student Leadership/.keep
       - Student Leadership/SPF Student Leadership Framework.md
