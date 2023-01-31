@@ -2,7 +2,6 @@ collections:
   students:
     output: true
     order:
-      - Booklist.md
       - Annual Health Screening 2021.md
       - School Uniform.md
       - Assessment 2022/.keep
