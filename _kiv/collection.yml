@@ -2,6 +2,7 @@ collections:
   kiv:
     output: true
     order:
+      - Synopsis (WA & EXAM).md
       - Schedule (WA & Exam).md
       - Submission of Electronic Medical Certificate.md
       - Student Learning Space (SLS).md
