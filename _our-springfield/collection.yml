@@ -2,6 +2,7 @@ collections:
   our-springfield:
     output: true
     order:
+      - Alumni/.keep
       - School Advisory Committee.md
       - Springfield Parents Network (SPN).md
       - Staying Connected.md
