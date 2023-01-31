@@ -2,6 +2,7 @@ collections:
   our-experience:
     output: true
     order:
+      - CCA Programme/NCC (Land).md
       - CCA Programme/Girls' Brigade.md
       - CCA Programme/Boys' Brigade.md
       - CCA Programme/.keep
