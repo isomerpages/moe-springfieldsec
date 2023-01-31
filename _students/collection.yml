@@ -2,7 +2,6 @@ collections:
   students:
     output: true
     order:
-      - School Uniform.md
       - Assessment 2022/.keep
       - Assessment 2022/Schedule (WA & Exam).md
       - Assessment 2022/Synopsis (WA & EXAM).md
