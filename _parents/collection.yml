@@ -1,5 +1,4 @@
 collections:
   parents:
     output: true
-    order:
-      - Secondary 2/.keep
+    order: []
