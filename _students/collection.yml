@@ -2,7 +2,6 @@ collections:
   students:
     output: true
     order:
-      - Student Calendar 2021.md
       - School eYearbook.md
       - Class Timetable 2022.md
       - Booklist.md
