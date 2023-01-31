@@ -45,9 +45,39 @@ b. Character and Citizenship Education (CCE)
 
 **At Springfield Secondary School, the following lessons from the Sexuality Education Programme will be taught in 2023:**
 
-  
+
 
 #### **SECONDARY 1**  
+
+[SED 2023 for Secondary 1.pdf](/files/SED%202023_Sec%201.pdf)
+
+#### **SECONDARY 2** 
+[SED 2023 for Secondary 2.pdf](/files/SED%202023_Sec%202.pdf)
+
+#### **SECONDARY 3** 
+[SED 2023 for Secondary 3.pdf](/files/SED%202023_Sec%203.pdf)
+
+#### **SECONDARY 4** 
+[SED 2023 for Secondary 4.pdf](/files/SED%202023_Sec%204.pdf)
+
+#### **SECONDARY 5** 
+[SED for Secondary 5.pdf](/files/SED%202023_Sec%205.pdf)
+
+
+
+**_eTeens_ Programme:**
+
+8. _eTeens_ is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, for Secondary 3 students to provide them with accurate information on STIs, HIV and protection from a health perspective. _eTeens_ is conducted in two segments – a mass talk segment and a classroom-based programme.
+
+9\. Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family. Abstinence and upholding family values are the key messages. The desired outcome of the _eTeens_ programme is that students are empowered to make wise, informed and sensible decisions.
+
+
+**At Springfield Secondary School, the _eTeens_ programme will be implemented as follows in 2022:**
+
+<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:#C5E0B3;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Topics/Lessons</th><th style="background-color:#C5E0B3;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Programme Learning Objectives</th><th style="background-color:#C5E0B3;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Time Period<br>(e.g. Term 3 Week 9)</th></tr></thead><tbody><tr><td style="background-color:#ffffff;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Mass Talk by HPB appointed vendor </td><td style="background-color:#ffffff;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Awareness of the different STIs and HIV/AIDS<br><br>Modes of transmission<br><br>Modes of protection, specifically on how the condom is used<br><br>Consequences and impact of STIs/HIV</td><td style="background-color:#ffffff;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Term 3 Week 3<br></td></tr><tr><td style="background-color:#DDEEE9;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Classroom-based Lesson</td><td style="background-color:#DDEEE9;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Learn to negotiate their way out of a risky situation by applying skills of assertiveness and responsible decision-making</td><td style="background-color:#DDEEE9;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Term 3 Week 3<br></td></tr></tbody></table>
+
+
+
 
 **CCE 2021 Theme: Making Choices**
 
