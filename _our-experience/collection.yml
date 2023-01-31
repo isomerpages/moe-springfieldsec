@@ -2,14 +2,14 @@ collections:
   our-experience:
     output: true
     order:
+      - CCA Programme/.keep
+      - CCA Programme/CCA.md
       - CCA Programme/Taekwondo.md
       - CCA Programme/Outdoor Pursuits Club.md
       - CCA Programme/Netball.md
       - CCA Programme/Football.md
       - CCA Programme/Floorball (Boys).md
       - CCA Programme/Floorball (Girls).md
-      - CCA Programme/CCA.md
-      - CCA Programme/.keep
       - Uniform Groups/.keep
       - Uniform Groups/Boys' Brigade.md
       - Uniform Groups/Girls' Brigade.md
