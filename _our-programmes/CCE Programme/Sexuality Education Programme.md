@@ -84,4 +84,4 @@ b. Character and Citizenship Education (CCE)
  
  12\. Parents who wish to opt their children out of the **eTeens programme** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [HERE](https://form.gov.sg/63bf8ce419e9eb0012edd780). The completed form is to be submitted by 20/02/2022.  
  
- 13\. Parents can contact the School at 6318 3053, or email to [_springfields@moe.edu.sg_](mailto:springfields@moe.edu.sg) for discussion or to seek clarification about the school’s sexuality education programme.  
+ 13\. Parents can contact the School at 6318 3053, or email to [_springfields@moe.edu.sg_](mailto:springfields@moe.edu.sg) for discussion or to seek clarification about the school’s sexuality education programme.
