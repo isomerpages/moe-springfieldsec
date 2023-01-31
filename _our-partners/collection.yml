@@ -2,7 +2,6 @@ collections:
   our-partners:
     output: true
     order:
-      - Alumni/Staying Connected.md
       - Alumni/.keep
       - External Organisations.md
       - School Advisory Committee.md
