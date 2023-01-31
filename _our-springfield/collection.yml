@@ -2,11 +2,11 @@ collections:
   our-springfield:
     output: true
     order:
+      - Alumni/.keep
+      - Alumni/Alumni.md
+      - Alumni/Alumni Committee.md
       - Alumni/Alumni Achievers.md
       - Alumni/Alumni Registration.md
-      - Alumni/Alumni Committee.md
-      - Alumni/Alumni.md
-      - Alumni/.keep
       - School Advisory Committee.md
       - Springfield Parents Network (SPN).md
       - Staying Connected.md
