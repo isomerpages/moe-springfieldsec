@@ -2,6 +2,7 @@ collections:
   kiv:
     output: true
     order:
+      - Class Timetable 2022.md
       - School eYearbook.md
       - Student Calendar 2021.md
       - School Rules 2022.md
