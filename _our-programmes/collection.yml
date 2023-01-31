@@ -2,17 +2,17 @@ collections:
   our-programmes:
     output: true
     order:
-      - Curriculum/Information Communication Technology Department.md
-      - Curriculum/Craft & Technology Department.md
-      - Curriculum/Physical Education Department.md
-      - Curriculum/Humanities Department.md
-      - Curriculum/Malay.md
-      - Curriculum/Chinese.md
-      - Curriculum/Mother Tongue Department.md
-      - Curriculum/Science Department.md
-      - Curriculum/Mathematics.md
-      - Curriculum/English Language & Literature Department.md
       - Curriculum/.keep
+      - Curriculum/English Language & Literature Department.md
+      - Curriculum/Mathematics.md
+      - Curriculum/Science Department.md
+      - Curriculum/Mother Tongue Department.md
+      - Curriculum/Chinese.md
+      - Curriculum/Malay.md
+      - Curriculum/Humanities Department.md
+      - Curriculum/Physical Education Department.md
+      - Curriculum/Craft & Technology Department.md
+      - Curriculum/Information Communication Technology Department.md
       - Applied Learning Programme (ALP).md
       - Learning for Life Programme (LLP).md
       - CCE Programme/.keep
