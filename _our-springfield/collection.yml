@@ -2,22 +2,22 @@ collections:
   our-springfield:
     output: true
     order:
+      - Principal's Message.md
+      - Our Vision, Mission, and Values.md
+      - Our School Logo and Motto.md
+      - Our School Song.md
+      - Our Organisation/.keep
+      - Our Organisation/Our Organisation.md
+      - Our Organisation/Executive Administrative Staff.md
+      - School Corporate Video.md
+      - Direct School Admissions/.keep
+      - Direct School Admissions/Direct School Admissions.md
+      - Direct School Admissions/DSA Exercise 2022.md
       - Alumni/.keep
       - Alumni/Alumni.md
       - Alumni/Alumni Committee.md
       - Alumni/Alumni Achievers.md
       - Alumni/Alumni Registration.md
       - Alumni/Staying Connected.md
-      - School Advisory Committee.md
       - Springfield Parents Network (SPN).md
-      - Principal's Message.md
-      - Our Vision, Mission, and Values.md
-      - Our School Logo and Motto.md
-      - Our School Song.md
-      - Our Organisation/Our Organisation.md
-      - Our Organisation/Executive Administrative Staff.md
-      - Our Organisation/.keep
-      - School Corporate Video.md
-      - Direct School Admissions/Direct School Admissions.md
-      - Direct School Admissions/DSA Exercise 2022.md
-      - Direct School Admissions/.keep
+      - School Advisory Committee.md
