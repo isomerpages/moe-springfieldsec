@@ -4,8 +4,6 @@ permalink: /cca/uniformed-groups/ncc-land/
 description: ""
 third_nav_title: CCA
 ---
-
-
 # **NCC (Land)**
 
 ![](/images/NCC1.png)
