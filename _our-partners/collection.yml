@@ -2,7 +2,6 @@ collections:
   our-partners:
     output: true
     order:
-      - Alumni/.keep
       - External Organisations.md
       - School Advisory Committee.md
       - Springfield Parents Network (SPN).md
