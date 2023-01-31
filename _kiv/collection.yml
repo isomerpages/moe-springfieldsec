@@ -2,6 +2,7 @@ collections:
   kiv:
     output: true
     order:
+      - School Uniform.md
       - Annual Health Screening 2021.md
       - Booklist.md
       - Class Timetable 2022.md
