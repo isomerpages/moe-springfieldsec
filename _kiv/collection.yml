@@ -2,5 +2,6 @@ collections:
   kiv:
     output: true
     order:
+      - School Rules 2022.md
       - Student Handbook 2022.md
       - Home Based Learning.md
