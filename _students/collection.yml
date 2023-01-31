@@ -2,7 +2,6 @@ collections:
   students:
     output: true
     order:
-      - Class Timetable 2022.md
       - Booklist.md
       - Annual Health Screening 2021.md
       - School Uniform.md
