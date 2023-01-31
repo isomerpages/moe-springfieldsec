@@ -1,5 +1,4 @@
 collections:
   students:
     output: true
-    order:
-      - Assessment 2022/.keep
+    order: []
