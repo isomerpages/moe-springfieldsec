@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - CCA Programme/.keep
-      - CCA.md
       - Physical Sports/.keep
       - Physical Sports/Floorball (Girls).md
       - Physical Sports/Floorball (Boys).md
