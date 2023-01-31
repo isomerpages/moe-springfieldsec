@@ -2,7 +2,6 @@ collections:
   our-partners:
     output: true
     order:
-      - Alumni/Alumni.md
       - Alumni/Alumni Achievers.md
       - Alumni/Alumni Registration.md
       - Alumni/Staying Connected.md
