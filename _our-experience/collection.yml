@@ -2,7 +2,6 @@ collections:
   our-experience:
     output: true
     order:
-      - Global Education Programme.md
       - CCA.md
       - Physical Sports/.keep
       - Physical Sports/Floorball (Girls).md
@@ -26,6 +25,7 @@ collections:
       - Student Leadership/SPF Student Leadership Framework.md
       - Student Leadership/Student Executive Committee.md
       - Student Leadership/CCA Leaders.md
+      - Global Education Programme.md
       - 2019 Achievements.md
       - 2018 Achievements.md
       - 2017 Achievements.md
