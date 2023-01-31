@@ -1,5 +1,4 @@
 collections:
   our-partners:
     output: true
-    order:
-      - External Organisations.md
+    order: []
