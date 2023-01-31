@@ -5,4 +5,4 @@ description: ICT @ Springfield
 ---
 ### ICT @ Springfield
 
-Click *HERE* to be redirected to our ICT @ Springfield page. Alternatiely, you may follow this link www.
+Click [HERE](https://sites.google.com/view/ictspringfield) to be redirected to our ICT @ Springfield page. Alternatiely, you may follow this link https://sites.google.com/view/ictspringfield
