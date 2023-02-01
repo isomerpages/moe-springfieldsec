@@ -21,6 +21,4 @@ description: ""
 * [All Ears Form Builder](https://forms.moe.edu.sg/auth)
 *   [SPF Library OPAC](https://schoolibrary.moe.edu.sg/springfieldsec)
 *   [Sports Safety Resources](https://www.sportsingapore.gov.sg/sports-education/sports-safety/safety-resources-and-useful-links)
-
-*   [Student CCA Management](http://www.learnfusion.com/schools/springfield/) - site can't be reached
 *   [Travel Advisory Portal](http://www.internationalsos.com/MasterPortal/default.aspx?membnum=02AABC000031)
