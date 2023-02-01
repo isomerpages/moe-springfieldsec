@@ -9,6 +9,7 @@ description: ""
 * [HRP](https://www.hrp.gov.sg)
 * [MOE HR Portal](https://intranet.moe.gov.sg/hronline/Pages/Home.aspx)
 *  [iCon](https://icon.moe.edu.sg)
+*  [MIMS Portal](https://portal.mims.moe.gov.sg/)
 *  [MOE OPAL 2.0](https://idm.opal2.moe.edu.sg/)
 *  [MOE Intranet ](https://intranet.moe.gov.sg/Pages/Home.aspx)
 * [ MOE iEXAMS2](https://iexams.seab.gov.sg)
