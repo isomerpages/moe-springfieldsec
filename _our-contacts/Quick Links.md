@@ -18,7 +18,7 @@ description: ""
 * [ MOE iEXAMS2](https://iexams.seab.gov.sg)
 *   [IFAAS 2.0](https://idp.mims.moe.gov.sg/)
 *   [All Ears Form Builder](https://forms.moe.edu.sg/auth)
-*   [Lightning Warning System](http://www.weather.gov.sg/lightning/)
 *   [SPF Library OPAC](https://schoolibrary.moe.edu.sg/springfieldsec)
+*   [Lightning Warning System](http://www.weather.gov.sg/lightning/)
 *   [Sports Safety Resources](https://www.sportsingapore.gov.sg/sports-education/sports-safety/safety-resources-and-useful-links)
 *   [Travel Advisory Portal](http://www.internationalsos.com/MasterPortal/default.aspx?membnum=02AABC000031)
