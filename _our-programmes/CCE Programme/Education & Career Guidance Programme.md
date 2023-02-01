@@ -31,9 +31,10 @@ To discuss any of the following, please book appointment slots that are during y
 * Factors to consider in ECG planning
 * Any other ECG related Questions
 
+#### [Book an Appointment Here](https://www.booking.gov.sg/public/services/gYe4rm69/availability?spId=kej0Qm6Q&anonymous=true)
 
 
-
+[ECG Needs Survey](https://docs.google.com/forms/d/e/1FAIpQLSdR3xtwgHESjd4JxfKUws0ol-e9zAc9p8Vuhgh4VuRya25BrA/closedform) _(Please do not do this survey unless advised by your Teacher)_
 
 
 
