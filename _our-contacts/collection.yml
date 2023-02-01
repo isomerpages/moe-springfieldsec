@@ -3,11 +3,11 @@ collections:
     output: true
     order:
       - Contact Us.md
+      - Quick Links.md
       - Admin Matters/.keep
       - Admin Matters/Safety & Security Measures.md
       - Admin Matters/Homework Policy.md
       - Admin Matters/Fees Information.md
       - Admin Matters/School Suppliers.md
       - Admin Matters/Financial Assistance.md
-      - Quick Links.md
       - Vacancies for Canteen Stalls.md
