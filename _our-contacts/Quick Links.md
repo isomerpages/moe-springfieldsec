@@ -24,5 +24,4 @@ description: ""
 *   [Sports Safety Resources](https://www.sportsingapore.gov.sg/sports-education/sports-safety/safety-resources-and-useful-links)
 
 *   [Student CCA Management](http://www.learnfusion.com/schools/springfield/) - site can't be reached
-*   [TRAISI](https://traisi.moe.gov.sg/AD/login.asp) - site can't be reached
 *   [Travel Advisory Portal](http://www.internationalsos.com/MasterPortal/default.aspx?membnum=02AABC000031)
