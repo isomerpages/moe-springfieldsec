@@ -19,7 +19,6 @@ description: ""
 *   [IFAAS 2.0](https://idp.mims.moe.gov.sg/)
 *   [Lightning Warning System](http://www.weather.gov.sg/lightning/)
 * [All Ears Form Builder](https://forms.moe.edu.sg/auth)
-*   [School Bag](http://www.schoolbag.sg/)
 *   [SPF Library OPAC](https://schoolibrary.moe.edu.sg/springfieldsec)
 *   [Sports Safety Resources](https://www.sportsingapore.gov.sg/sports-education/sports-safety/safety-resources-and-useful-links)
 
