@@ -3,3 +3,6 @@ title: 2023 T1 Parents Letter
 permalink: /our-experience/permalink/
 description: ""
 ---
+# **2023 T1 Parents Letter**
+
+Please click [HERE](/files/2023%20T1%20Parents%20Letter.pdf) to view or downlad the Term 1 Parent letter. 
