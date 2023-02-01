@@ -14,6 +14,23 @@ The Education and Career Guidance (ECG) programme aims to equip Springfielders w
   
 _**If you wish to have a discussion on your ECG concerns, please click [HERE](https://www.booking.gov.sg/public/services/gYe4rm69/availability?spId=kej0Qm6Q&anonymous=true)**_
 
+
+Hello! I am **Ms Yang**, your **ECG Counsellor**.
+
+I am usually available every **Wednesday** at the **Library**. _The librarian will know where I am, if you can't find me._
+
+
+To discuss any of the following, please book appointment slots that are during your **Recess / Lunch Breaks / Free Periods** or** after your Curriculum Hours**.
+
+Raising self-awareness (VIPS, RIASEC, etc)
+Subject Combination (e.g. Sec 2 / JC)
+Post-Secondary options / pathways
+Preparation for different Admission Exercises, e.g. JIE, JAE, DSA-JC, EAE, etc
+Factors to consider in ECG planning
+Any other ECG related Questions
+
+
+
 ### Release of N Levels Examination Results 2019
 
 ![](/images/Grad-19-1.jpg)
