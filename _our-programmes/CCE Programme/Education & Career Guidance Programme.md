@@ -22,12 +22,18 @@ I am usually available every **Wednesday** at the **Library**. _The librarian wi
 
 To discuss any of the following, please book appointment slots that are during your **Recess / Lunch Breaks / Free Periods** or **after your Curriculum Hours**. 
 
-Raising self-awareness (VIPS, RIASEC, etc)
-Subject Combination (e.g. Sec 2 / JC)
-Post-Secondary options / pathways
-Preparation for different Admission Exercises, e.g. JIE, JAE, DSA-JC, EAE, etc
-Factors to consider in ECG planning
-Any other ECG related Questions
+
+
+* Raising self-awareness (VIPS, RIASEC, etc)
+* Subject Combination (e.g. Sec 2 / JC)
+* Post-Secondary options / pathways
+* Preparation for different Admission Exercises, e.g. JIE, JAE, DSA-JC, EAE, etc
+* Factors to consider in ECG planning
+* Any other ECG related Questions
+
+
+
+
 
 
 
