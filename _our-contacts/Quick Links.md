@@ -10,12 +10,12 @@ description: ""
 * [MOE HR Portal](https://intranet.moe.gov.sg/hronline/Pages/Home.aspx)
 *  [iCon](https://icon.moe.edu.sg)
 *  [MOE OPAL 2.0](https://idm.opal2.moe.edu.sg/)
+*  [MOE Intranet ](https://intranet.moe.gov.sg/Pages/Home.aspx)
 * [ MOE iEXAMS2](https://iexams.seab.gov.sg)
 *   [IFAAS 2.0](https://idp.mims.moe.gov.sg/)
 *   [Lightning Warning System](http://www.weather.gov.sg/lightning/)
 *   [MC Online Facility & Equipment Booking](https://www.mconline.sg/)
 *   [MIMS Portal](https://portal.mims.moe.gov.sg/)
-*   [MOE Intranet](https://intranet.moe.gov.sg/) - site can't be reached
 *   [MOE IDEAS Bank](https://ideas.moe.gov.sg/) - site can't be reached
 *   [MRL Portal](https://springfieldsec.spydus.com.sg/cgi-bin/spydus.exe/MSGTRN/OPAC/HOME)
 *   [Pac@Gov](https://pacgov.agd.gov.sg/ipac/portal/jsp/login/index1.jsp) - site can't be reached
