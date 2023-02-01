@@ -11,7 +11,7 @@ description: ""
 *  [iCon](https://icon.moe.edu.sg)
 *  [MOE OPAL 2.0](https://idm.opal2.moe.edu.sg/)
 * [ MOE iEXAMS2](https://iexams.seab.gov.sg)
-*   [IFAAS 2.0](https://idp.mims.moe.gov.sg/nidp/saml2/sso?SAMLRequest=hVLRUuIwFP2VTHxuE6rOaobi4DKsOCBd6TroW2zTErdJam5K5e83BWHYB%2FH1zDn33HPv6d98qAqthQVpdIx7IcVI6MzkUpcx%2FpOOgyuMwHGd88poEeONAHwz6ANXVc2GjVvpR%2FHeCHDID9LAcpBeuHKuZoS0bRu256GxJYkopYReE8%2FqKGf4k%2B%2FNvqD3CL3o6J5xYHe2MW6sZoaDBKa5EsBcxhbD2ZRFIWUcQFjnwxxL6tOa2hpnMlPtJR%2BXlH6rKGTlQe6cla%2BNE2zpRYcBIL8MtZxNF9lKKB5I3R02ExglnwvcSr07%2FCnv1x0J2F2aJkEyX6QYTUYxlnkwHa5psax%2FPF1b%2B%2FyQN7967u9d%2BUbn89800W%2Bz1f1jWr2rMUZP%2B49H3ccnAI2YbNdxHqLReUCjgPZSSll0yS6uXjAa%2BR9Lzd1W1WUDH07mdaikglAZEZZmHUJJtAdJd%2FWIABi86wrbWlg0NlZxdzpgh%2FgwxZbqC%2BKk2%2BDBwbLgHKJjQ8MVKUTeJ0dG%2B4Y%2B%2BFmTUWIqmW3QsKpM%2B9MK7nyRnW0EJoOd6v8qD%2F4B&RelayState=id-eXL5hImziYlQwiOLUulm86oMQQmiDeTtaCsmIBjD&SigAlg=http%3A%2F%2Fwww.w3.org%2F2000%2F09%2Fxmldsig%23rsa-sha1&Signature=Jvt7w9KqwamyHQRod7v2nbm%2B494XSSAiQS%2FkUtYlrHXUHVfAABzaIBtZtRRwbxi1wdveKLBp80ZGB9FC%2FuSo1PHmUDgjElpr3g2cu1YkHuUCRxJVJXtRb5MKVD%2FZe9Xv3apS4cTELryYwF8ivw5D6h9FTzQCG9XwP9tyexqwoM8%3D)
+*   [IFAAS 2.0](https://idp.mims.moe.gov.sg/)
 *   [Lightning Warning System](http://www.weather.gov.sg/lightning/)
 *   [MC Online Facility & Equipment Booking](https://www.mconline.sg/)
 *   [MIMS Portal](https://portal.mims.moe.gov.sg/)
