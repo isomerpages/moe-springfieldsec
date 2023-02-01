@@ -17,7 +17,7 @@ description: ""
 *   [IFAAS 2.0](https://idp.mims.moe.gov.sg/)
 *   [Lightning Warning System](http://www.weather.gov.sg/lightning/)
 *   [MRL Portal](https://springfieldsec.spydus.com.sg/cgi-bin/spydus.exe/MSGTRN/OPAC/HOME)
-*   [Pac@Gov](https://pacgov.agd.gov.sg/ipac/portal/jsp/login/index1.jsp) - site can't be reached
+
 *   [School Bag](http://www.schoolbag.sg/)
 *   [School Cockpit](https://schoolcockpit.moe.gov.sg/) - site forbidden
 *   [SPF Library OPAC](https://schoolibrary.moe.edu.sg/springfieldsec)
