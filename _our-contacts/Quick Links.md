@@ -18,7 +18,6 @@ description: ""
 * [ MOE iEXAMS2](https://iexams.seab.gov.sg)
 *   [IFAAS 2.0](https://idp.mims.moe.gov.sg/)
 *   [Lightning Warning System](http://www.weather.gov.sg/lightning/)
-*   [MRL Portal](https://springfieldsec.spydus.com.sg/cgi-bin/spydus.exe/MSGTRN/OPAC/HOME)
 
 *   [School Bag](http://www.schoolbag.sg/)
 *   [SPF Library OPAC](https://schoolibrary.moe.edu.sg/springfieldsec)
