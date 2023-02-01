@@ -20,7 +20,7 @@ Hello! I am **Ms Yang**, your **ECG Counsellor**.
 I am usually available every **Wednesday** at the **Library**. _The librarian will know where I am, if you can't find me._
 
 
-To discuss any of the following, please book appointment slots that are during your **Recess / Lunch Breaks / Free Periods** or** after your Curriculum Hours**.
+To discuss any of the following, please book appointment slots that are during your **Recess / Lunch Breaks / Free Periods** or **after your Curriculum Hours**. 
 
 Raising self-awareness (VIPS, RIASEC, etc)
 Subject Combination (e.g. Sec 2 / JC)
