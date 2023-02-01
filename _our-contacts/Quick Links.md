@@ -6,18 +6,18 @@ description: ""
 # **Quick Links**
 
 
-
+* [HRP](https://www.hrp.gov.sg)
+* [MOE HR Portal](https://intranet.moe.gov.sg/hronline/Pages/Home.aspx)
 *  [iCon](https://icon.moe.edu.sg)
+*  [MOE OPAL 2.0](https://idm.opal2.moe.edu.sg/)
 * [ MOE iEXAMS2](https://iexams.seab.gov.sg/sso/login?service=https%3A%2F%2Fiexams.seab.gov.sg%2Fsso%2Foauth2.0%2FcallbackAuthorize%3Fclient_id%3Diexams2-prod%26redirect_uri%3Dhttps%253A%252F%252Fiexams.seab.gov.sg%252Fiexams2%252Flogin%252Foauth2%252Fcode%252Fiexams2-prod%26response_type%3Dcode%26client_name%3DCasOAuthClient)
-*   [IFAAS2](https://ifaas2-idm.moe.gov.sg/oam/server/obrareq.cgi?encquery%3Dil9oLi3FDmIvJ%2B%2FP6cU90%2FpW8vCLQE15WuSeFclXSoYtrfYYCpMRNAldVzAi%2BSn5Ef3OcJNTzaLmYGwSfLjtfJCqQJyZrO7PZ%2BummmeGHvMS1cTBpU94hnAehg5M10hiT7MQIYxBshFu05n6iKMP0XlFEnfnZbGcrk5RulX%2BoiVCAw1Cl4Okar0I%2BYQ9IvjpsBAyGTHq6VfKxI9qbqQHbL0uroCpTumLP2GezzH8XLZz1%2F9xQSG3112PHad5Vad5%20agentid%3DMOEHOST%20ver%3D1%20crmethod%3D2&ECID-Context=1.0006lBKlP4U2nJmLSqo2yc0004Q3000HCh%3BkXjE) - site can't be reached
-*   [iMTL](https://imtl.moe.edu.sg/)
+*   [IFAAS 2.0](https://idp.mims.moe.gov.sg/nidp/saml2/sso?SAMLRequest=hVLRUuIwFP2VTHxuE6rOaobi4DKsOCBd6TroW2zTErdJam5K5e83BWHYB%2FH1zDn33HPv6d98qAqthQVpdIx7IcVI6MzkUpcx%2FpOOgyuMwHGd88poEeONAHwz6ANXVc2GjVvpR%2FHeCHDID9LAcpBeuHKuZoS0bRu256GxJYkopYReE8%2FqKGf4k%2B%2FNvqD3CL3o6J5xYHe2MW6sZoaDBKa5EsBcxhbD2ZRFIWUcQFjnwxxL6tOa2hpnMlPtJR%2BXlH6rKGTlQe6cla%2BNE2zpRYcBIL8MtZxNF9lKKB5I3R02ExglnwvcSr07%2FCnv1x0J2F2aJkEyX6QYTUYxlnkwHa5psax%2FPF1b%2B%2FyQN7967u9d%2BUbn89800W%2Bz1f1jWr2rMUZP%2B49H3ccnAI2YbNdxHqLReUCjgPZSSll0yS6uXjAa%2BR9Lzd1W1WUDH07mdaikglAZEZZmHUJJtAdJd%2FWIABi86wrbWlg0NlZxdzpgh%2FgwxZbqC%2BKk2%2BDBwbLgHKJjQ8MVKUTeJ0dG%2B4Y%2B%2BFmTUWIqmW3QsKpM%2B9MK7nyRnW0EJoOd6v8qD%2F4B&RelayState=id-eXL5hImziYlQwiOLUulm86oMQQmiDeTtaCsmIBjD&SigAlg=http%3A%2F%2Fwww.w3.org%2F2000%2F09%2Fxmldsig%23rsa-sha1&Signature=Jvt7w9KqwamyHQRod7v2nbm%2B494XSSAiQS%2FkUtYlrHXUHVfAABzaIBtZtRRwbxi1wdveKLBp80ZGB9FC%2FuSo1PHmUDgjElpr3g2cu1YkHuUCRxJVJXtRb5MKVD%2FZe9Xv3apS4cTELryYwF8ivw5D6h9FTzQCG9XwP9tyexqwoM8%3D)
 *   [Lightning Warning System](http://www.weather.gov.sg/lightning/)
 *   [MC Online Facility & Equipment Booking](https://www.mconline.sg/)
 *   [MIMS Portal](https://portal.mims.moe.gov.sg/)
 *   [MOE Intranet](https://intranet.moe.gov.sg/) - site can't be reached
 *   [MOE IDEAS Bank](https://ideas.moe.gov.sg/) - site can't be reached
 *   [MRL Portal](https://springfieldsec.spydus.com.sg/cgi-bin/spydus.exe/MSGTRN/OPAC/HOME)
-*   [OPAL 2.0](https://idm.opal2.moe.edu.sg/account/login?returnUrl=%2Fconnect%2Fauthorize%2Fcallback%3Fresponse_type%3Dcode%26client_id%3DOpal2WebApp%26state%3DgLnJjdvhqoTm8rYfvx3zuAKXIwWcyJaBmkn8Kdea8cHX-%26redirect_uri%3Dhttps%253A%252F%252Fwww.opal2.moe.edu.sg%252Fapp%252Findex.html%26scope%3Dcxprofile%2520openid%2520cxDomainInternalApi%26code_challenge%3DPZ2fBl6FjMSxAmmVIVvIWVShcR6vCi1u5CT0i6Grbs0%26code_challenge_method%3DS256%26nonce%3DgLnJjdvhqoTm8rYfvx3zuAKXIwWcyJaBmkn8Kdea8cHX-)
 *   [Pac@Gov](https://pacgov.agd.gov.sg/ipac/portal/jsp/login/index1.jsp) - site can't be reached
 *   [School Bag](http://www.schoolbag.sg/)
 *   [School Cockpit](https://schoolcockpit.moe.gov.sg/) - site forbidden
