@@ -20,6 +20,7 @@ description: ""
 *   [IFAAS 2.0](https://idp.mims.moe.gov.sg/)
 *   [All Ears Form Builder](https://forms.moe.edu.sg/auth)
 *   [SPF Library OPAC](https://schoolibrary.moe.edu.sg/springfieldsec)
+*   [School Bag](https://www.schoolbag.edu.sg/)
 *   [Lightning Warning System](http://www.weather.gov.sg/lightning/)
 *   [Sports Safety Resources](https://www.sportsingapore.gov.sg/sports-education/sports-safety/safety-resources-and-useful-links)
 *   [Travel Advisory Portal](http://www.internationalsos.com/MasterPortal/default.aspx?membnum=02AABC000031)
