@@ -8,7 +8,7 @@ description: ""
 
 * [HRP](https://www.hrp.gov.sg)
 * [MOE HR Portal](https://intranet.moe.gov.sg/hronline/Pages/Home.aspx)
-*  [iCon](https://icon.moe.edu.sg)
+*  [MOE iCon 2.0](https://icon.moe.edu.sg)
 *  [Resource Booking Service (RBS)](https://rbs.avero-tech.com/login.html)
 *  [Student Learning Space](https://learning.moe.edu.sg/)
 *  [MIMS Portal](https://portal.mims.moe.gov.sg/)
