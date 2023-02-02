@@ -6,4 +6,4 @@ third_nav_title: Sec 1 Posting 2023
 ---
 # **Parent Kit: Pri to Sec Transition**
 
-* [Primary to Secondary School Transition](/files/Resource%20Kit%20-%20Parent%20Kit%20-%20Primary%20to%20Secondary%20Transition%202023.pdf)
+* [Primary to Secondary School Transition]()
