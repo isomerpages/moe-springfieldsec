@@ -67,3 +67,60 @@ Booklist can be found HERE.
 •	The school term for 2023 will begin on Tuesday 3rd January 2023.
 
 •	You might want to refer to the following checklist in preparation for your child/ward’s First Day at School.
+
+![](/images/MTP3.png)
+
+•	All students will be engaged in the Start-it-Right Programme (SIR) for the first week of the school term. (See schedule below under SIR section).
+
+**G) Start-it-Right (SIR) & CCA Orientation Programme 2023**
+
+<u>Start-it-Right (SIR) Activities</u>
+
+The SIR is a unique programme designed and customised by the school to provide a holistic and purposeful transition for the Sec 1 cohort to secondary school. The students will undergo a series of hands-on, team-based, and interactive outdoor activities such as dragon boating and cycling as they learn to build positive bonds, develop good habits & routines and strengthen their personal competencies. The students also work closely with the Class Form Teacher to forge a class identity and establish positive peer relationships. 
+
+Parents/guardians are invited to school on 6th January (Friday), 5.15pm to 7.30pm as we round up the SIR programme with the Principal’s address and the campfire segment where your child/ward will come together as a class to exhibit their teamwork through performance.
+
+Please refer to a separate message sent via PG for the briefing to parents on the outdoor activities that your child/ward will be going through.
+
+<u>Co-Curricular Activities (CCA) Immersion Activities </u>
+
+CCA play an integral role in the holistic growth and character development of each student. It also serves as a platform for skills acquisition and nurturing of talents. Through CCA, students will contribute actively to the school in key aspects of student leadership, school representation and community-based service-learning activities. The CCA immersion activities will serve to provide an overview of the CCA programme in Springfield and enable the students to be self-directed, interest driven and informed with regard to their CCA selection & participation. 
+
+<u>SIR & CCA Immersion Schedule (3rd to 6th January 2023)</u>
+
+![](/images/MTP4.png)
+
+H)  Enrol Your Child For Annual School-based Health & Dental Services
+
+a.	The Health Promotion Board (HPB)’s School Health and Dental Services will be conducting its annual health screening, immunization, and dental services for your child. These services ensure the protection of your child’s health and early detection of health issues. We appreciate your partnership with HPB to give our children a healthier start in life. 
+ 
+b.	Your consent is needed to ensure your child receives these important health and dental services provided. You may access the Child Consent Portal via the link https://childconsent.hpb.gov.sg/.
+
+c.	Upon access to the Child Consent Portal, you will need to (1) provide consent for HPB to deliver health and dental services to your child, and (2) update your child’s medical condition(s).
+
+d.	HPB offers fully subsidized Human Papillomavirus (HPV) vaccinations to eligible Secondary 1 and 2 female students. HPV vaccinations are highly recommended for females 9-26 years old for protection against cervical cancer. Parental consent is required before HPV vaccination can be administered. 
+
+e.	HPB’s School Health Service only screens for specific conditions. For other medical conditions, please consult a doctor.
+
+f.	If you do not wish for your child to undergo HPB’s annual health screening in school, please write to HPB_SHC@hpb.gov.sg. 
+
+
+**Safe Management Measures: Exercising Social Responsibility**
+
+We would like to seek the cooperation of parents/guardians to impress upon your child/ward on the following matters with regard to exercising social responsibility: 
+
+1.	Staying away when unwell or if family/household members are unwell: students and staff should be reminded to remain at home if they are feeling unwell with any COVID symptoms (e.g. fever, runny nose, cough, loss of smell). 
+2.	Wipe Down Routines: All students will wipe down their desk areas and common/shared equipment each time they need to move to a different classroom/venue. 
+3.	Reinforcing good habits: Staff will remind students to continue washing their hands with soap and water regularly, with hand sanitisers topped up in learning spaces around the school, including classrooms, for staff and students to use. Parents/guardians can also remind their child/ward to continue to wash hands frequently at home, ensure good ventilation in the house, use serving spoons while during meal times.
+
+**Safe Management Measures: Visits to Schools by Parents/Guardians**
+1.	Students should be accompanied by at most one parent/guardian. 
+
+2.	Please note that visitors who are unwell will not be allowed to enter the school. We appreciate your patience and understanding to comply with the security checks.
+
+3.	Visitors are not required to be fully vaccinated or show valid PET result so long as their visits are transient in nature with no sustained interactions with students. This includes visitors for parent-teacher meetings.
+
+4.	To prevent over-crowding, parents should visit the school by appointment or during the stipulated operating hours of the school bookshop for the purchase of books and uniforms. 
+
+
+
