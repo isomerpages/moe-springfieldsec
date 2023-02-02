@@ -30,6 +30,17 @@ We look forward in partnering you in the holistic development of your child/ward
 •	Please refer to Annex A for the safe management measures put in place to ensure the safety of our staff and students in school.
  
 
-•	You may direct any feedback or query during office hours (8am to 5pm) on weekdays to the School General Office or to the Year Head/Lower Secondary, Mr Eddie Chong. The contact details are appended in the table below. 
+•	You may direct any feedback or query during office hours (8am to 5pm) on weekdays to the School General Office or to the Year Head/Lower Secondary, Mr Eddie Chong. The contact details are appen
+ded in the table below.
 
+![](/images/MTP1.png)
 
+**B) Students under MOE Financial Assistance Scheme (MOE FAS)**
+
+•	Kindly refer to the section on the Financial Assistance Scheme (FAS) of the school website. The link is as follows:
+ 
+https://springfieldsec.moe.edu.sg/about-us/admin-matters/financial-assistance
+
+•	All Parents / Students under the MOE FAS application process – Do not purchase any books or uniform before the receipt of the FAS confirmation letter.
+
+**C) Sale of Books and Uniform & PE Attire**
