@@ -38,7 +38,8 @@ Please refer to Annex A for the safe management measures put in place to ensure 
 
 •	Kindly refer to the section on the Financial Assistance Scheme (FAS) of the school website. The link is as follows:
 https://springfieldsec.moe.edu.sg/about-us/admin-matters/financial-assistance
-<br>•	All Parents / Students under the MOE FAS application process – Do not purchase any books or uniform before the receipt of the FAS confirmation letter.
+
+•	All Parents / Students under the MOE FAS application process – Do not purchase any books or uniform before the receipt of the FAS confirmation letter.
 
 **C) Sale of Books and Uniform & PE Attire**
 
@@ -55,12 +56,14 @@ Booklist can be found HERE.
 **E) School Administrative Matters**
 
 •	The school gate will close at 7.30am daily for flag raising. Vehicles will not be allowed access to the school after 7.30am. Parents may drop off your child at Block 892 carpark, which is located adjacent to the school.
-<br>•	Students who report to school after 7.30am are required to register at the Security Post.
-<br>•	For the safety and security of our students, parents/guardians will have to leave the school premises once you have dropped off your child/ward. In the event you would like to meet up with relevant school personnel, you are requested to make prior appointments. 
+
+•	Students who report to school after 7.30am are required to register at the Security Post.
+
+•	For the safety and security of our students, parents/guardians will have to leave the school premises once you have dropped off your child/ward. In the event you would like to meet up with relevant school personnel, you are requested to make prior appointments. 
 
 
 **F) First Day of School in 2023**
 
 •	The school term for 2023 will begin on Tuesday 3rd January 2023.
-<br>•	You might want to refer to the following checklist in preparation for your child/ward’s First Day at School.
 
+•	You might want to refer to the following checklist in preparation for your child/ward’s First Day at School.
