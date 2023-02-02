@@ -2,6 +2,7 @@ collections:
   kiv:
     output: true
     order:
+      - 2022 Secondary 1 Posting & Registration Information.md
       - External Organisations.md
       - Meet the Parents 2021.md
       - Springfield Step Challenge.md
