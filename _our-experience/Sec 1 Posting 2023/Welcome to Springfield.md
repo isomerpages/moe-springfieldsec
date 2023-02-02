@@ -18,4 +18,18 @@ You might be wondering what secondary life would be like for your child/ward and
 
 We look forward in partnering you in the holistic development of your child/ward.
 
+**A) Administrative Information for parents**
+
+•	Students and parents are not required to physically report to school on the next working day (22nd December 2022) following the release of S1 Posting Results. 
+
+•	The school will use the School Website (http://springfieldsec.moe.edu.sg) and Parents Gateway (PG) to communicate with parents from the afternoon of the S1 Posting Results Release date. 
+
+•	For parents who do not use PG, we will reach out to you via email separately.  
+•	Please refer to Springfield Secondary School Website for updates prior to the school term reopening. 
+
+•	Please refer to Annex A for the safe management measures put in place to ensure the safety of our staff and students in school.
+ 
+
+•	You may direct any feedback or query during office hours (8am to 5pm) on weekdays to the School General Office or to the Year Head/Lower Secondary, Mr Eddie Chong. The contact details are appended in the table below. 
+
 
