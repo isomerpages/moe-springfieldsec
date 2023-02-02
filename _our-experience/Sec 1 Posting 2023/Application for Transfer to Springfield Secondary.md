@@ -4,7 +4,6 @@ permalink: /parents/2022-s1-posting-n-registration/application-for-sec-1-transfe
 description: ""
 third_nav_title: Sec 1 Posting 2023
 ---
-
 ### Application for Transfer to Springfield Secondary School (Non-Medical Cases)
 
 Dear Parents & Students,  
@@ -17,12 +16,12 @@ Direct School Admission - Secondary (DSA-SEC) Students are expected to honour th
 
 **B**    **Application for School Transfer**
 
-Parents and Students may apply for (Non-Medical) transfer to Springfield Secondary School from 22 December 2021 (10am onwards) to 28 December 2021 (12 Noon).
+Parents and Students may apply for (Non-Medical) transfer to Springfield Secondary School from 21st December 2022 (10am onwards) to 28th December 2022 (12pm).
 
 To reduce the need for parents to make physical visits to the school, all applicants are to complete the online form [_**HERE**_](https://form.gov.sg/61bd9bb60a668900138e485e).
 
 **C**    **Results of Transfer Application**
 
-The school will inform you regarding the success of the application. The student should continue to report to the posted school on 4th January 2022.  
+The school will inform you regarding the success of the application. The student should continue to report to the posted school on 3rd January 2023.  
   
 _For further queries and assistance, you may contact the school's General Office at 6318 3053._
