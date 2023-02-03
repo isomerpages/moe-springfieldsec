@@ -267,8 +267,6 @@ Joy Chan – Chua Puay Yong</td>
       <td style="background-color:#DDEEE9;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Michelle Lee-Chew Pee Chern</td>
     </tr>
     <tr>
-      <td style="background-color:#ffffff;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Mr</td>
-      <td style="background-color:#ffffff;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Michel Lim Yi Han</td>
     </tr>
     <tr>
       <td style="background-color:#DDEEE9;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal" rowspan="2">2C (NA)</td>
