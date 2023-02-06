@@ -6,7 +6,6 @@ third_nav_title: NDLP
 ---
 # **National Digital Literacy Programme (NDLP)**
 
-_**\* Update - For more information on the NDLP & PLD Initiative Parents' Briefing held on 26 Jan 2022, please click [HERE](https://moe-springfieldsec-staging.netlify.app/programmes/ndlp/ndlp-n-pld-initiative-parents-briefing-26-jan-2022).**_
 
 <img src="/images/download.png" style="width:240px;height:240px;margin-left:15px;" align = "right">
  
