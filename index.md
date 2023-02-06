@@ -13,9 +13,9 @@ sections:
       button: Contact Us
       url: /contact-us/
       key_highlights:
-        - title: Home-Based Learning (HBL) - Friday, 22 July 2022
+        - title: Home-Based Learning (HBL) Schedule
           description: Read more
-          url: https://moe-springfieldsec-staging.netlify.app/programmes/home-based-learning
+          url: https://sites.google.com/view/ictspringfield/hbl
         - title: Parents Engagement - Secondary 2 Streaming, 15 July 2022
           description: Sec 3 Subject Combinations
           url: https://moe-springfieldsec-staging.netlify.app/parents/secondary-2/secondary-2-streaming-2022
