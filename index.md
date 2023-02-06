@@ -16,9 +16,9 @@ sections:
         - title: Home-Based Learning (HBL) Schedule
           description: Read more
           url: https://sites.google.com/view/ictspringfield/hbl
-        - title: Parents Engagement - Secondary 2 Streaming, 15 July 2022
-          description: Sec 3 Subject Combinations
-          url: https://moe-springfieldsec-staging.netlify.app/parents/secondary-2/secondary-2-streaming-2022
+        - title: "NDLP "
+          description: "Read More "
+          url: https://sites.google.com/view/ictspringfield/ndlp/parents-engagement-18-jan
         - title: ICT @ springfield
           description: Click here to access
           url: https://sites.google.com/view/ictspringfield
