@@ -2,6 +2,7 @@ collections:
   kiv:
     output: true
     order:
+      - Acceptable Use Policy.md
       - Student Device Information Kit.md
       - Staying Connected.md
       - Vacancies for Canteen Stalls.md
