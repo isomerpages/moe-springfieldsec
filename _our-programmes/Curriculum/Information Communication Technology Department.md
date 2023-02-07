@@ -4,7 +4,6 @@ permalink: /about-us/our-organisation/information-communication-technology-depar
 description: ""
 third_nav_title: Curriculum
 ---
-
 # **Information Communication Technology Department**
 
 ### Head of Department
@@ -21,10 +20,9 @@ Email: [ng_jenn_yang@moe.edu.sg_](mailto:ng_jenn_yang@moe.edu.sg)
 
 ### Technology Support:
 
-ICT Manager        
-Mr Neo Jun Kiat (Desktop Engineer)            
-Mr Anizar Bin Abdul Rahim (Desktop Engineer)
-
+ICT Associate: Mr Faiz
+<br>Desktop Engineer 1:  Mr Anizar 
+<br>Desktop Engineer 2: Mr Jun Kiat
   
 
 ### Department Goals/Objectives:
