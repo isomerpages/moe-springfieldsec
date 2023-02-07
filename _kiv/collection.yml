@@ -2,6 +2,7 @@ collections:
   kiv:
     output: true
     order:
+      - NDLP & PLD Initiative Parents' Briefing (18 Jan 2023).md
       - Device Management Application (DMA).md
       - Acceptable Use Policy.md
       - Student Device Information Kit.md
