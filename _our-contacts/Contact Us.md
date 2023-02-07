@@ -3,12 +3,14 @@ title: Contact Us
 permalink: /Contactus/
 description: ""
 ---
-
 # **Getting in touch with Springfield Secondary School**
   
+	
 ##### Address   
 30 Tampines Avenue 8<br>
 Singapore 529593
+
+![](/images/spf%20map.png)
 
   
 ##### Operating Hours  
