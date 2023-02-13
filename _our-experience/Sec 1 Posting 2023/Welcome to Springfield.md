@@ -48,6 +48,8 @@ Booklist can be found HERE.
 
 ![](/images/MTP2.png)
 
+For Books - [https://www.cascoedusupply.com.sg/](https://www.cascoedusupply.com.sg/) <br>For Uniforms - [https://www.myuniformshop.com.sg/](https://www.myuniformshop.com.sg/)
+
 **D) Student Administrative Matters**
 
 •	All students entering Secondary One in January 2023 will be issued with a new Secondary Level School Smart Card (SSC). While Secondary One students are waiting for their Secondary level SSCs to be ready, they can continue to use their Primary level SSCs for concessionary travel till end April 2023.  Students can still purchase the Bus Concession Pass (BCP) using their Primary level SSCs but they would need to purchase the BCP for Secondary School students.
