@@ -1,0 +1,32 @@
+collections:
+  our-experience:
+    output: true
+    order:
+      - CCA/.keep
+      - CCA/CCA.md
+      - CCA/Floorball (Girls).md
+      - CCA/Floorball (Boys).md
+      - CCA/Football.md
+      - CCA/Netball.md
+      - CCA/Outdoor Pursuits Club.md
+      - CCA/Taekwondo.md
+      - CCA/Boys' Brigade.md
+      - CCA/Girls' Brigade.md
+      - CCA/NCC (Land).md
+      - CCA/NPCC.md
+      - CCA/Band.md
+      - CCA/Dance.md
+      - CCA/Drama (English).md
+      - CCA/Guzheng Ensemble.md
+      - Start IT Right (SIR) Programme.md
+      - Student Leadership/.keep
+      - Student Leadership/SPF Student Leadership Framework.md
+      - Student Leadership/Student Executive Committee.md
+      - Student Leadership/CCA Leaders.md
+      - Global Education Programme.md
+      - Termly Letter.md
+      - Sec 1 Posting 2023/.keep
+      - Sec 1 Posting 2023/Welcome to Springfield.md
+      - "Sec 1 Posting 2023/Parent Kit: Pri to Sec Transition.md"
+      - Sec 1 Posting 2023/Application for Transfer to Springfield Secondary.md
+      - Secondary 2 Streaming 2022.md

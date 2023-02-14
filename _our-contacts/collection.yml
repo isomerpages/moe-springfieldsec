@@ -1,0 +1,10 @@
+collections:
+  our-contacts:
+    output: true
+    order:
+      - Contact Us.md
+      - Quick Links.md
+      - Admin Matters/.keep
+      - Admin Matters/Fees Information.md
+      - Admin Matters/School Suppliers.md
+      - Admin Matters/Financial Assistance.md
