@@ -33,7 +33,7 @@ third_nav_title: CCA
 4\.	CCA trials/auditions/interviews will take place on 9, 11, 16 and 18 January 2023.<br>
 5\.	CCA teachers will provide the trials/audition/interview results to HOD PE/CCA.
 6\.	HOD PE/CCA will send a PG for parents to discuss with their child/ward their CCA choices. <br>
-7\.	In the CCA option form, students are to rank 6 CCAs in order of preference. There must be at least 1 sport, 1 VPA and 1 UG CCA within the 6 choices. <br>
+7\.	In the CCA option form, students are to rank 6 CCAs in order of preference.<br> There must be at least 1 sport, 1 VPA and 1 UG CCA within the 6 choices. <br>
 8\.	HOD PE/CCA will allocate the CCAs based on student preference, trials result and vacancies available. <br>
 9\.	FTs will inform students of the result on Wednesday, 25 January 2023. Sec 1 students will join the CCA from 25 January onwards. Students are to bring their PE attire to school.<br>
 10\.	After immersing in the CCA allocated, students who wish to appeal must fill in a form, submit it to HOD PE/CCA during Term 1 Week 9 and wait for the appeal result. <br>
