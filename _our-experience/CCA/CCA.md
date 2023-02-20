@@ -31,7 +31,7 @@ third_nav_title: CCA
 2\.	HOD PE/CCA will send a PG to parents to discuss with their child/ward the CCAs they want to try out. The deadline for submission is 8 January, 12 p.m. <br>
 3\.	HOD PE/CCA will generate the CCAs that the students are to attend on 9 January and send them to Sec 1 FTs. Sec 1 FTs will inform the students of the CCAs that the students will be reporting to on the 9 January afternoon. Students will need to bring their PE attire to school.<br>
 4\.	CCA trials/auditions/interviews will take place on 9, 11, 16 and 18 January 2023.<br>
-5\.	CCA teachers will provide the trials/audition/interview results to HOD PE/CCA.
+5\.	CCA teachers will provide the trials/audition/interview results to HOD PE/CCA.<br>
 6\.	HOD PE/CCA will send a PG for parents to discuss with their child/ward their CCA choices. <br>
 7\.	In the CCA option form, students are to rank 6 CCAs in order of preference.<br> There must be at least 1 sport, 1 VPA and 1 UG CCA within the 6 choices. <br>
 8\.	HOD PE/CCA will allocate the CCAs based on student preference, trials result and vacancies available. <br>
