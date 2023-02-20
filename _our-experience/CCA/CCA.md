@@ -4,8 +4,6 @@ permalink: /cca/
 description: ""
 third_nav_title: CCA
 ---
-
-
 # **CCA**
 ### Aims of our CCA Programme
 
@@ -24,6 +22,8 @@ third_nav_title: CCA
   
 
 **CCA Attachment & Allocation Policy**
+
+![](/images/ccapic1.png)
 
 1\. After the CCA Engagement Sessions during the Start-It-Right Program, Students will indicate which CCA they wish to join.
 
