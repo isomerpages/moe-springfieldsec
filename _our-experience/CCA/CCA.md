@@ -4,8 +4,6 @@ permalink: /cca/
 description: ""
 third_nav_title: CCA
 ---
-
-
 # **CCA**
 ### Aims of our CCA Programme
 
@@ -25,23 +23,22 @@ third_nav_title: CCA
 
 **CCA Attachment & Allocation Policy**
 
-1\. After the CCA Engagement Sessions during the Start-It-Right Program, Students will indicate which CCA they wish to join.
+![](/images/ccapic1.png)
 
-2\. Following which, the student will attend the CCA Selection the following week. HOD PECCA will generate the name list based on CCAs and pass this list to the Classes and CCA Teachers. Form Teachers will assist to inform the students which CCA they have to attend.
+### CCA Selection Policy (Updated Jan 2023)
 
-3\. At the session, CCA Teacher will select and inform the students if they are in the CCA or not.
-
-4\. If the student is _**NOT selected**_, the CCA Teacher will then assist the student in choosing their next choice and update the teachers.
-
-5\. IIf the student _**is selected**_, he or she may attend CCA immediately. However, if they wish to still try out for our CCAs before making an informed decision, they are allowed to. However, please note that once they choose not to accept the offer, they might lose their spot.
-
-6\. If CCA Teachers would like to keep-in-view the student, he or she may do so but have to make a decision till end of the Week. This is to also allow the other students not selected from other CCAs to attend another CCA of their choice too.
-
-7\. Each CCA has a quota and once they reached their quota, they will not be able to recruit any more new members. Students are required to contribute to the CCA, work with their friends and learn new skills.
-
-8\. The above process is repeated for a whole month (31st January 2023) until students finalise their CCA. After which, they will be allocated a CCA.
-
-Please note that the CCA Schedule can be found at the links below. Please also note that Consent Forms will be given once the student has confirmed his or her CCA.
+1\.	After the CCA orientation (6 January 2023), students will indicate which CCAs they wish to attend the trials/auditions/interviews. <br>
+2\.	HOD PE/CCA will send a PG to parents to discuss with their child/ward the CCAs they want to try out. The deadline for submission is 8 January, 12 p.m. <br>
+3\.	HOD PE/CCA will generate the CCAs that the students are to attend on 9 January and send them to Sec 1 FTs. Sec 1 FTs will inform the students of the CCAs that the students will be reporting to on the 9 January afternoon. Students will need to bring their PE attire to school.<br>
+4\.	CCA trials/auditions/interviews will take place on 9, 11, 16 and 18 January 2023.<br>
+5\.	CCA teachers will provide the trials/audition/interview results to HOD PE/CCA.<br>
+6\.	HOD PE/CCA will send a PG for parents to discuss with their child/ward their CCA choices. <br>
+7\.	In the CCA option form, students are to rank 6 CCAs in order of preference.<br> There must be at least 1 sport, 1 VPA and 1 UG CCA within the 6 choices. <br>
+8\.	HOD PE/CCA will allocate the CCAs based on student preference, trials result and vacancies available. <br>
+9\.	FTs will inform students of the result on Wednesday, 25 January 2023. Sec 1 students will join the CCA from 25 January onwards. Students are to bring their PE attire to school.<br>
+10\.	After immersing in the CCA allocated, students who wish to appeal must fill in a form, submit it to HOD PE/CCA during Term 1 Week 9 and wait for the appeal result. <br>
+11\.	Students are to continue with the CCA during the Appeal Period. <br>
+12\.	Please refer to the links below for the CCA Schedule.
 
   
 
