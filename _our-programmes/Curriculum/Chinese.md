@@ -54,7 +54,7 @@ The Chinese unit aims to create a supporting environment, to nurture lifelong le
 ＊校内比赛 **Intra-school Competitions**  
 部门所主办过的校内比赛包括：
 
-<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><td style="background-color:#ffffff;border-color:#ffffff;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"> •	阅读竞赛<br><br> •	写作比赛<br><br> •	专题作业比赛<br><br> •	歌词创作比赛<br></td><td style="background-color:#ffffff;border-color:#ffffff;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"> •	诗歌创作比赛<br><br> •	拍写比赛 <br>•	中文输入比赛  <br> •	文化知识比赛 </td></tr></thead></table>
+<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><td style="background-color:#ffffff;border-color:#ffffff;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"> •	阅读竞赛<br><br> •	写作比赛<br><br> •	专题作业比赛<br><br> •	歌词创作比赛<br></td><td style="background-color:#ffffff;border-color:#ffffff;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"> •	诗歌创作比赛<br><br> •	拍写比赛 <br><br>•	中文输入比赛  <br><br> •	文化知识比赛 </td></tr></thead></table>
 
 ＊校外比赛 **Inter-school Competitions**       
 本校所参与的比赛包括：
