@@ -18,7 +18,7 @@ Email: [_ang\_sor\_cheng@moe.edu.sg_](mailto:ang_sor_cheng@moe.edu.sg)
 
 **Department Goals/ Objectives:**
 
-**愿景与目标**        
+**愿景与目标 **        
 泉原中学华文部门致力于为学生创造一个关爱激励的学习环境，培养学生对于中华文化及华文的热爱并成为好学习的终身学习者。在文化方面，我们肩负传承华族文化价值观的重任；在学术方面，我们因材施教，培养学生掌握听说读写的技能，以应付日后之需。
 
 **Vision and Goals**     
@@ -34,11 +34,11 @@ The Chinese unit aims to create a supporting environment, to nurture lifelong le
 
 **＊阅读计划Reading Programme**
 
-所谓书中自有黄金屋，阅读不但能提升学生的语文能力，也能提升学生的情绪智商。华文部希望通过阅读活动来培养学生对阅读的兴趣。阅读的成果包括书签、手工书、录音、专题作业等。本校也参与过国家图书馆举办的‘读吧！新加坡’创意阅读比赛并获得不错的成绩。
+所谓书中自有黄金屋，阅读不但能提升学生的语文能力，也能提升学生的情绪智商。华文部希望通过阅读活动来培养学生对阅读的兴趣。阅读的成果包括书签、手工书、电子书、录音、专题作业等。本校也参与过国家图书馆举办的‘读吧！新加坡’创意阅读比赛并获得不错的成绩。
 
 **＊母语双周及文化营Mother Tongue Fortnight and Cultural & Language Camp**
 
-为推广华族文化及华文的使用，华文部组织了一些系列的文化及语文活动。文化活动的项目包括书法、国画、茶艺、泥塑、面谱、篆刻、象棋等。语文活动的项目包括走进图书馆、小记者营、学习之旅、作家分享会、点歌寄意等。学生的杰出作品也将在校内展出。
+为推广华族文化及华文的使用，华文部组织了一些系列的文化及语文活动。文化活动的项目包括书法、国画、茶艺、泥塑、面谱、篆刻、象棋、武术等。语文活动的项目包括走进图书馆、小记者营、学习之旅、作家分享会、点歌寄意、戏剧等。学生的杰出作品也将在校内展出。
 
 **＊节日庆典Festive Celebrations**
 
@@ -54,7 +54,7 @@ The Chinese unit aims to create a supporting environment, to nurture lifelong le
 ＊校内比赛 **Intra-school Competitions**  
 部门所主办过的校内比赛包括：
 
-<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><td style="background-color:#ffffff;border-color:#ffffff;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"> • 阅读竞赛<br><br> • 写作比赛<br><br> • 专题作业比赛<br><br> • 歌词创作比赛<br></td><td style="background-color:#ffffff;border-color:#ffffff;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"> • 中文输入比赛<br><br> • 文化知识比赛<br> • 新年课室布置比赛<br></td></tr></thead></table>
+<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><td style="background-color:#ffffff;border-color:#ffffff;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"> •	阅读竞赛<br><br> •	写作比赛<br><br> •	专题作业比赛<br><br> •	歌词创作比赛<br></td><td style="background-color:#ffffff;border-color:#ffffff;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"> •	诗歌创作比赛<br><br> •	拍写比赛 <br>•	中文输入比赛  <br> •	文化知识比赛 </td></tr></thead></table>
 
 ＊校外比赛 **Inter-school Competitions**       
 本校所参与的比赛包括：
