@@ -59,7 +59,7 @@ The Chinese unit aims to create a supporting environment, to nurture lifelong le
 ＊校外比赛 **Inter-school Competitions**       
 本校所参与的比赛包括：
 
-<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><td style="background-color:#ffffff;border-color:#ffffff;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"> • 新蕾奖<br><br> • 青年奥运小记者比赛<br><br> • “VOX！新媒体新闻工作坊<br><br> • 读吧！新加坡’创意阅读比赛<br></td><td style="background-color:#ffffff;border-color:#ffffff;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"> • “地球村”青少年双语演讲大赛<br><br> • 全国中小学生华文文化常识比赛<br><br> • 中学、初级及理工学院中英文互译比赛<br></td></tr></thead></table>
+<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><td style="background-color:#ffffff;border-color:#ffffff;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"> • 新蕾奖<br><br> •	全国中学生微型小说创作比赛 	<br><br> •	全国高中初中华文诗歌创作比赛<br><br> •	全国中小学生课文朗读比赛<br></td><td style="background-color:#ffffff;border-color:#ffffff;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"> •	“地球村”青少年双语演讲大赛 <br><br> •	全国中小学生华文文化常识比赛<br><br>•	中学、初级及理工学院中英文互译比赛<br> <br>•	青年奥运小记者比赛 <br> <br>•	“ VOX！新媒体新闻工作坊 <br> <br>•	读吧！新加坡’创意阅读比赛 </td></tr></thead></table>
   
 	
 
