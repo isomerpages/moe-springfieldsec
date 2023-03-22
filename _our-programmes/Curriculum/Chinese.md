@@ -4,7 +4,6 @@ permalink: /about-us/our-organisation/chinese/
 description: ""
 third_nav_title: Curriculum
 ---
-
 # **Chinese**
 
 **Head of Department**     
@@ -15,7 +14,7 @@ Email: [_ang\_sor\_cheng@moe.edu.sg_](mailto:ang_sor_cheng@moe.edu.sg)
 
 ### Teachers:
 
-<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><td style="background-color:#FFF;border-color:#ffffff;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">翁素菁（部门主任）Mdm Ang Sor Cheng<br>熊晓东                 Mdm Xiong Xiaodong<br>曽慧敏                 Miss Chan Hui Min</td><td style="background-color:#FFF;border-color:#ffffff;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">张明蓉      Ms Chong Ming Yoong<br>张传彦      Mr Eddie Chong Suan Yan<br>林义华      Mdm Lin Yihua </td></tr></thead></table>
+<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><td style="background-color:#FFF;border-color:#ffffff;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">翁素菁（部门主任）Mdm Ang Sor Cheng<br>熊晓东                 Mdm Xiong Xiaodong<br>曽慧敏                 Miss Chan Hui Min<br>刘珏妤    Miss Law Jue Yu</td><td style="background-color:#FFF;border-color:#ffffff;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">张明蓉      Ms Chong Ming Yoong<br>张传彦      Mr Eddie Chong Suan Yan<br>林义华      Mdm Lin Yihua  </td></tr></thead></table>
 
 **Department Goals/ Objectives:**
 
