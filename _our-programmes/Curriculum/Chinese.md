@@ -123,6 +123,12 @@ The Chinese unit aims to create a supporting environment, to nurture lifelong le
 
 We have participated and achieved in National Competitions, such as Chinese Creative Writing Competition, Poetry Writing Competition, Recital Competition, Read! Singapore Creative Reading Competition, Global Village Children & Youths Bilingual Speech Competition, Chinese Language and Cultural competition and National Translation Competition.
 
+![](/images/MT1.jpg)
+
+![](/images/MT2.jpg)
+
+![](/images/MT3.jpg)
+
 ![](/images/CSUN2121.jpg)
 
 ![](/images/EGXU2073.jpg)
@@ -135,9 +141,13 @@ We have participated and achieved in National Competitions, such as Chinese Crea
 
 ![](/images/CL1.jpg)
 
-The intra-school competitions held include CNY Classroom Decoration Competition, Reading Competition, Writing Competition, Lyrics Writing Competition, Chinese Input Competition and Cultural Quiz.
+ 	 
 
-To promote the love of reading, the Chinese unit carries out the reading programme for all levels and streams.
+The intra-school competitions held include CNY Classroom Decoration Competition, Reading Competition, Writing Competition, Lyrics Writing Competition, Chinese Input Competition and Cultural Quiz.
+
+
+To promote the love of reading, the Chinese unit carries out the reading programme for all levels and streams.
+
 
 ![](/images/CL2.jpg)
 
