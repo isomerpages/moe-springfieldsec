@@ -24,7 +24,7 @@ The Springfield rock wall is an outstanding Tampines landmark that has captured 
 
   
 
-Secondary 1/2 pupils will be equipped with the basic knowledge, skills, and confidence in rockwall climbing; climbing, rope ascending and abseiling&nbsp;during&nbsp;**Lower Secondary Physical Education (PE) Programme**. They will be able to appreciate the rigours of the sport and also the intrinsic value of climbing. Given the opportunity to participate, pupils can be engaged in self-discovery and cultivation of values. Secondary 2 pupils will be given the opportunity to attain the Singapore National Climbing Standard Rockwall Climbing Certification Level I.
+In Springfield’s PE Programme, Lower Secondary students are equipped with the basic knowledge, skills, and confidence in rockwall climbing; climbing, rope ascending and abseiling. They will learn to appreciate the rigour of the sport and the intrinsic value of climbing. With the opportunity to participate, students can be engaged in self-discovery and cultivation of values. Secondary 2 students will also be given the opportunity to attain the Singapore National Climbing Standard Rockwall Climbing Certification Level I.
 
   
 
