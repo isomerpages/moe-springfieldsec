@@ -40,7 +40,7 @@ Participation in competitions such as the National School Games play a vital rol
 
 Springfield’s Taekwondo (TKD) Co-Curricular Activities (CCA) programme supports and reinforces the interests and abilities of students. Students are involved in various competitions, training camps, community involvement projects and leadership training. Grading assessment is also integrated into the CCA to promote rigour and professionalism. Aesthetics-based activities like Taekwondo Aerobics is included in the programme to provide students with exposure to a greater range of experiences and activities as well. The TKD CCA programme serves to inculcat values and imbue in students the desired outcomes of education.
 
-The TKD&nbsp;**CCA programme**&nbsp;will support and reinforce the interest and ability of pupils. There will be various competitions, training camps, community involvement projects and leadership training for pupils. The TKD CCA programme will serve to bring about strong values and the desired outcomes of education in our students.
+With the introduction of Taekwondo in the National School Games in 2009, Springfield Taekwondo was provided with greater scope for involvement and achievements. Participating students are given participation opportunities that range from team display to sparring categories. Participation in competitions help students to develop mental strength, focus and resilience. 
 
 
 ### Consolidated trend and major achievements
