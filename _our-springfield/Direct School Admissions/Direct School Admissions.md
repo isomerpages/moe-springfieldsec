@@ -32,10 +32,9 @@ In Springfield’s PE Programme, Lower Secondary students are equipped with the 
 
   
 
-This sport was introduced in 2007 in part due to the potential talent of Springfield students. Along with the passion and technical expertise of the teachers, the School was able to achieve significant results. The team is now known for their all-round skills, teamwork, and resilience. Students are also given opportunities to organize our very own inter-school floorball competition annually.
+This sport was introduced in Springfield in 2007 as many Springfielders had displayed talent and interest. With the passion and support from the teachers, the School was able to achieve significant results. The team is now known for their all-round skills, teamwork, and resilience. 
 
-Inter-school / organized competitions play a vital part in the long-term excellence and sustainability of the floorball. A key feature is&nbsp;**Springfield Blast!**&nbsp;\- an annual inter-school floorball competition organized by Springfield. Students are given leadership opportunities during the organization of this competition. This will be a platform for talent development and maturity, helping them in their holistic development.
-
+Participation in competitions such as the National School Games play a vital role in providing our students with opportunities to develop their technical skillsets and qualities such as leadership, teamwork and resilience. At Springfield, our floorball students also organize **Springfield Blast!**, - our very own an annual inter-school floorball competition. Through this platform, students develop other competencies such as organizational skills, and different aspects of leadership skills and teamwork, that complement the skills that they need in the court. Such holistic development grooms our students to be well-rounded individuals who are grounded in values. 
 
 **(c) Taekwondo**
 
