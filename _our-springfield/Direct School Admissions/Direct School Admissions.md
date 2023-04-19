@@ -20,7 +20,7 @@ Springfield's school vision is "**_Lifelong Learners, Exemplary Leaders_**". In 
 
 **(a)&nbsp;Rockwall Climbing**  
 
-The Springfield rock wall is an outstanding Tampines landmark that has captured the attention of many passing by. Built in 1995, it was one of the first outdoor rockwalls in a secondary school. Over the years, thousands of our students have learnt the basics of rockwall climbing through our Physical Education (PE) Programme, and many have excelled in the sport. Our climbers have always been recognized as the rugged and robust students in the school. Rockwall climbing develop mental strength and inculcate qualities such as integrity, resilience, and perseverance. 
+The Springfield rock wall is an outstanding Tampines landmark that has captured the attention of many passing by. Built in 1995, it was one of the first outdoor rockwalls in a secondary school. Over the years, thousands of our students have learnt the basics of rockwall climbing through our **Physical Education (PE) Programme**, and many have excelled in the sport. Our climbers have always been recognized as the rugged and robust students in the school. Rockwall climbing develop mental strength and inculcate qualities such as integrity, resilience, and perseverance. 
 
   
 
