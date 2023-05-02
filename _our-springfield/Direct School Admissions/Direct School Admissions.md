@@ -50,6 +50,13 @@ Students who are successfully admitted to the school via DSA are expected to hon
 <br>For more information on DSA-Sec, please refer to the MOE website at https://www.moe.gov.sg/dsa-sec
 
 
+##### **Reflections from Our Students**
+![](/images/javier.jpg)
+
+
+
+
+
 
 
 
