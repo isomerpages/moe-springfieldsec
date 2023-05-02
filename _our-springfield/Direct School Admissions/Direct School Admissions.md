@@ -99,6 +99,3 @@ _SITI KHADIJAH BTE MD YAACOB (2013-2016)
 I picked up the Floorball sport in primary school. Being a sporty person by nature, I also love to try out new things. Floorball wasn’t popular back then but I wanted to give it a try. I went for the trials and to my surprise, the sport was really fun and intense. I love how one moment you can be two goals down but the next moment, you’re two goals up and the tides can change at any given moment. After the trials, a strong drive and passion for Floorball started to develop within me. I was then selected to represent my primary school and when it was my time to graduate, I did not do well academically. So, I used Floorball to help me get into the secondary school I wanted through DSA. I was given the opportunity to lead as the Captain for my secondary school team. Floorball has shaped me into a better person with great leadership, good character and taught me that with hard work, resilience, teamwork and dedication, you can achieve your goals. I now continue my Floorball journey with my secondary school and external Floorball Club team.
 
 _NG KAI YANG (2019) - FLOORBALL BOYS’ CAPTAIN_
-
-
-
