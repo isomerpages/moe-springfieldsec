@@ -7,9 +7,50 @@ third_nav_title: Direct School Admissions
 # **Direct School Admissions**
   
 
-**1\. Direct School Admission (DSA) Exercise**
+#### **DSA Exercise 2023**
 
-The DSA-SEC Exercise was introduced by the Ministry of Education in 2004 to promote holistic education and provide students an opportunity to demonstrate a more diverse range of achievements and talents in seeking admission to a secondary school. Under this DSA-Sec Exercise, participating schools will be able to select Primary Six (P6) students for admission to Secondary One. The selection will be based on their achievements and talents before the Primary School Leaving Examination (PSLE) results are released.
+In Springfield, we nurture students to be lifelong learners and exemplary leaders. We invite Primary 6 students with sporting talent to join our school through the DSA Exercise.
+
+##### **SELECTION &amp; APPLICATION INFORMATION**
+
+**(A) SELECTION CRITERIA**
+
+1. Students who have:
+<br>•	achievements or exhibit potential in the following sports: Rockwall Climbing, Taekwondo and Floorball 
+<br>•	passionate in one of the following sports: Rockwall Climbing, Taekwondo and Floorball
+<br>•	good character and leadership skills / taken on leadership position in schools
+
+2. Applications for 2023 DSA-Secondary Exercise will open from 4th May 2023 and the selection process will be conducted at our school.
+
+For more information on the programmes, activities and/or opportunities that students can expect to participate in for Floorball, Rockwall Climbing and Taekwondo, please refer to our School’s CCA Website.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Click&nbsp;**_[HERE](https://www.moe.gov.sg/secondary/dsa)_**&nbsp;to find out more from the MOE website.  
 
