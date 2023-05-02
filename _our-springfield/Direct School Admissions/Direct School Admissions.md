@@ -24,19 +24,30 @@ In Springfield, we nurture students to be lifelong learners and exemplary leader
 
 For more information on the programmes, activities and/or opportunities that students can expect to participate in for Floorball, Rockwall Climbing and Taekwondo, please refer to our School’s CCA Website.
 
+![](/images/dsaselection1.PNG)
+
+![](/images/dsaselection2.PNG)
+
+![](/images/dsaselection3.PNG)
+
+_Please note that meeting all the criteria does not guarantee that the student will be shortlisted/ given an offer._
 
 
 
+**(B) APPLICATION PROCESS**
+
+Application can be made via the DSA-SEC Portal online, from 4 May 2023 (Thu), 9am to 31 May 2023 (Wed), 3pm. There is no cost involved in the application. For more details, please refer to MOE website – www.moe.gov.sg/dsa-sec. 
 
 
+**(B) IMPORTANT DATES TO NOTE**
 
 
+![](/images/dsaselection4.PNG)
 
 
-
-
-
-
+Students who are successfully admitted to the school via DSA are expected to honour their commitment to the school, and participate in the activities related to the talent that they are selected for throughout their time in the school.
+<br>Parents and students are encouraged to choose schools based on the student’s aptitudes and strengths, bearing in mind the schools’ academic and non-academic requirements, and the programmes available to develop the area of talent
+<br>For more information on DSA-Sec, please refer to the MOE website at https://www.moe.gov.sg/dsa-sec
 
 
 
