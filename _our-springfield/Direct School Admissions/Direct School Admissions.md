@@ -45,5 +45,3 @@ With the introduction of Taekwondo in the National School Games in 2009, Springf
 
 ### Consolidated trend and major achievements
 
-![](/images/dsa1update.PNG)
-![](/images/dsa2update.PNG)
