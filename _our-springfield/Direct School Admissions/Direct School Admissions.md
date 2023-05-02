@@ -53,6 +53,16 @@ Students who are successfully admitted to the school via DSA are expected to hon
 ##### **Reflections from Our Students**
 ![](/images/javier.jpg)
 
+I used to be in Wushu in Primary School but had confidence issues so I dropped out of the CCA. However, the past experiences with Martial Arts gave me an advantage in terms of flexibility.
+<br>In SFSS Taekwondo, I was completely new to the sport and did not achieve much in Sec 1, but through my peers and seniors, I had gained more confidence and started to work harder in Taekwondo, resulting in me improving tremendously.
+<br>I was offered a CCA Leader Role in Sec 2 which inspired me to achieve more. I then ran for CCA Captainship in Sec 3 with the encouragement from my Seniors and Teachers, and managed to win the honour of taking on the role of Captain of the CCA.
+<br>I had attained silver and bronze medals in Sec 1 and after putting in more effort to train and improve, I consistently won gold medals every year after.
+<br>Taekwondo boosted my confidence throughout the 4 years; I started with a White belt in Sec 1 and progressed to a Red Belt in Sec 4, and had become more disciplined, resilient and confident.
+
+_LOH JAVIER [SEC 4 COMPASSION] (2019) - CAPTAIN OF TAEKWONDO TEAM_
+
+
+
 
 
 
