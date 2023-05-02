@@ -61,58 +61,44 @@ I used to be in Wushu in Primary School but had confidence issues so I dropped o
 
 _LOH JAVIER [SEC 4 COMPASSION] (2019) - CAPTAIN OF TAEKWONDO TEAM_
 
+<br>
+
+Unlike most others, I was home-schooled up till PSLE growing up. Naturally, I was more reserved and soft-spoken than most of my peers and struggled with speaking in front of a group of people initially.
+
+![](/images/JENNA.jpg)
+
+
+In my time in Outdoor Pursuits Club (OPC), I was tried again and again, both physically and mentally. I was given many leadership opportunities such as being appointed as the Overall-In-Charge for a day in our Annual Let’s Rock Competition in Secondary 2 and the Climbing Master in the CCA for my Upper Secondary days. Through these experiences, I quickly built confidence and was eventually able to clearly delegate roles to my Juniors.
+<br>Rock Climbing has also made me one with greater mental tenacity and determination since in training, we fail more than we succeed. I’ve also learnt to deal with failures and setbacks as each time I fall, I have to pick myself up, reorganize my thoughts and give it another good go with the aim of coming back stronger. To me, winning is not all that important. More often than not, progress is more triumphant.
+<br>All these takeaways that I got from my time in OPC translated to my academics where self-discipline, resilience and determination were of great importance
+
+_JANNA TEE [SEC 4] (2016) - NATIONAL SCHOOLS BOULDERING CHAMPION_
+
+<br>
+
+![](/images/MARK.jpg)
+
+Back in primary school, I was really a rebellious child, always getting into unnecessary trouble with the other kids in school. Back at home, I would not listen to my parents and always disobeyed them. I started to change for the better when I was in secondary school due to my CCA, Outdoor Pursuits Club (OPC). I started taking up leadership roles to guide my other fellow classmates/ teammates. It was also at OPC that I fell in love with Rockwall Climbing.
+There, I learnt to be disciplined and focused. Why discipline and focus? Simply because it has kept me on track with what I have planned for myself. Success doesn’t come easy. So knowing that I have that clear goal and sticking to the plan has helped me stay the path when representing Springfield and finally, Singapore.
+<br>Besides that, I also learnt to believe in the process and myself. If you’re going to have doubts in yourself, you wouldn’t break new barriers. I am thankful to those who have helped me along the way. I always have them at the back of my head even though I don’t tell them how much I’ve appreciated their support and guidance! Without the values and lessons I’ve learnt until now, I wouldn’t become who I am today. Someone who ensures that he sticks to a plan or goal and does not get distracted by anyone or anything.
+
+_MARK CHAN [5B] (2017) - NATIONAL ATHLETE &amp; OLYMPIC HOPEFUL IN ROCKWALL CLIMBING_
+
+<br>
+
+Floorball has been my hobby since Primary 3. The fast-paced game encourages me to make decisions quickly and practice communication among my teammates in court. I was elected the Vice-Captain and did my best to lead by example. I am thankful for my Teachers-In-Charge, my Coach, and especially my Teammates for being a part of my Springfield floorball journey. My passion for Floorball has yet to fade. When I was an Nanyang Polytechnic pursuing a Diploma in Sport and Wellness Management, I continued to pursue my passion in Floorball by playing for U Sports Portege FC and for the Polytechnic. Certainly, the four years playing floorball has helped me in becoming someone who is more resilient to challenges, confident to stand out, and disciplined to juggle various responsibilities.
+
+_SITI KHADIJAH BTE MD YAACOB (2013-2016)
+<br>2013: NSG C Div 2ND PLACE
+<br>2015: NSG B Div 2ND PLACE_
 
 
 
+![]()
+
+I picked up the Floorball sport in primary school. Being a sporty person by nature, I also love to try out new things. Floorball wasn’t popular back then but I wanted to give it a try. I went for the trials and to my surprise, the sport was really fun and intense. I love how one moment you can be two goals down but the next moment, you’re two goals up and the tides can change at any given moment. After the trials, a strong drive and passion for Floorball started to develop within me. I was then selected to represent my primary school and when it was my time to graduate, I did not do well academically. So, I used Floorball to help me get into the secondary school I wanted through DSA. I was given the opportunity to lead as the Captain for my secondary school team. Floorball has shaped me into a better person with great leadership, good character and taught me that with hard work, resilience, teamwork and dedication, you can achieve your goals. I now continue my Floorball journey with my secondary school and external Floorball Club team.
+
+_NG KAI YANG (2019) - FLOORBALL BOYS’ CAPTAIN_
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-Click&nbsp;**_[HERE](https://www.moe.gov.sg/secondary/dsa)_**&nbsp;to find out more from the MOE website.  
-
- 
-**2\. School Vision**
-
-Springfield's school vision is "**_Lifelong Learners, Exemplary Leaders_**". In Springfield, we believe in providing our students with opportunities to develop their sporting talent and leadership, along with school representation. Our DSA talent areas of Rockwall climbing, Floorball and Taekwondo provide the platforms for our students to achieve these.
-
-**(a)&nbsp;Rockwall Climbing**  
-
-The Springfield rock wall is an outstanding Tampines landmark that has captured the attention of many passing by. Built in 1995, it was one of the first outdoor rockwalls in a secondary school. Over the years, thousands of our students have learnt the basics of rockwall climbing through our **Physical Education (PE) Programme**, and many have excelled in the sport. Our climbers have always been recognized as the rugged and robust students in the school. Rockwall climbing develop mental strength and inculcate qualities such as integrity, resilience, and perseverance. 
-
-  
-
-In Springfield’s PE Programme, Lower Secondary students are equipped with the basic knowledge, skills, and confidence in rockwall climbing; climbing, rope ascending and abseiling. They will learn to appreciate the rigour of the sport and the intrinsic value of climbing. With the opportunity to participate, students can be engaged in self-discovery and cultivation of values. Secondary 2 students will also be given the opportunity to attain the Singapore National Climbing Standard Rockwall Climbing Certification Level I.
-
-  
-
-**(b) Floorball**
-
-  
-
-This sport was introduced in Springfield in 2007 as many Springfielders had displayed talent and interest. With the passion and support from the teachers, the School was able to achieve significant results. The team is now known for their all-round skills, teamwork, and resilience. 
-
-Participation in competitions such as the National School Games play a vital role in providing our students with opportunities to develop their technical skillsets and qualities such as leadership, teamwork and resilience. At Springfield, our floorball students also organize **Springfield Blast!**, - our very own an annual inter-school floorball competition. Through this platform, students develop other competencies such as organizational skills, and different aspects of leadership skills and teamwork, that complement the skills that they need in the court. Such holistic development grooms our students to be well-rounded individuals who are grounded in values. 
-
-**(c) Taekwondo**
-
-Springfield’s Taekwondo (TKD) Co-Curricular Activities (CCA) programme supports and reinforces the interests and abilities of students. Students are involved in various competitions, training camps, community involvement projects and leadership training. Grading assessment is also integrated into the CCA to promote rigour and professionalism. Aesthetics-based activities like Taekwondo Aerobics is included in the programme to provide students with exposure to a greater range of experiences and activities as well. The TKD CCA programme serves to inculcat values and imbue in students the desired outcomes of education.
-
-With the introduction of Taekwondo in the National School Games in 2009, Springfield Taekwondo was provided with greater scope for involvement and achievements. Participating students are given participation opportunities that range from team display to sparring categories. Participation in competitions help students to develop mental strength, focus and resilience. 
-
-
-### Consolidated trend and major achievements
-
-![](/images/dsa_table_1.PNG)
-![](/images/dsa_table_2.PNG)
