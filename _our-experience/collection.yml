@@ -2,7 +2,6 @@ collections:
   our-experience:
     output: true
     order:
-      - Yearbook.md
       - CCA/.keep
       - CCA/CCA.md
       - CCA/Floorball (Girls).md
@@ -24,6 +23,7 @@ collections:
       - Student Leadership/SPF Student Leadership Framework.md
       - Student Leadership/Student Executive Committee.md
       - Student Leadership/CCA Leaders.md
+      - Yearbook.md
       - Global Education Programme.md
       - Termly Letter.md
       - Sec 1 Posting 2023/.keep
