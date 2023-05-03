@@ -100,4 +100,4 @@ I picked up the Floorball sport in primary school. Being a sporty person by natu
 
 _NG KAI YANG (2019) - FLOORBALL BOYS’ CAPTAIN_
 
-![]()
+![](/images/floorballkai.jpg)
