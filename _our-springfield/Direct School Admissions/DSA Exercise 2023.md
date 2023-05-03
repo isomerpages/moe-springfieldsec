@@ -67,8 +67,8 @@ Unlike most others, I was home-schooled up till PSLE growing up. Naturally, I wa
 ![](/images/JENNA.jpg)
 
 
-In my time in Outdoor Pursuits Club (OPC), I was tried again and again, both physically and mentally. I was given many leadership opportunities such as being appointed as the Overall-In-Charge for a day in our Annual Let’s Rock Competition in Secondary 2 and the Climbing Master in the CCA for my Upper Secondary days. Through these experiences, I quickly built confidence and was eventually able to clearly delegate roles to my Juniors.
-<br>Rock Climbing has also made me one with greater mental tenacity and determination since in training, we fail more than we succeed. I’ve also learnt to deal with failures and setbacks as each time I fall, I have to pick myself up, reorganize my thoughts and give it another good go with the aim of coming back stronger. To me, winning is not all that important. More often than not, progress is more triumphant.
+In my time in Outdoor Pursuits Club (OPC), I was tried again and again, both physically and mentally. I was given many leadership opportunities such as being appointed as the Overall-In-Charge for a day in our Annual Let’s Rock Competition in Secondary 2 and the Climbing Master in the CCA for my Upper Secondary days. Through these experiences, I quickly built confidence and was eventually able to clearly delegate roles to my Juniors. <br>
+<br>Rock Climbing has also made me one with greater mental tenacity and determination since in training, we fail more than we succeed. I’ve also learnt to deal with failures and setbacks as each time I fall, I have to pick myself up, reorganize my thoughts and give it another good go with the aim of coming back stronger. To me, winning is not all that important. More often than not, progress is more triumphant. <br>
 <br>All these takeaways that I got from my time in OPC translated to my academics where self-discipline, resilience and determination were of great importance
 
 _JANNA TEE [SEC 4] (2016) - NATIONAL SCHOOLS BOULDERING CHAMPION_
@@ -77,15 +77,15 @@ _JANNA TEE [SEC 4] (2016) - NATIONAL SCHOOLS BOULDERING CHAMPION_
 
 ![](/images/MARK.jpg)
 
-Back in primary school, I was really a rebellious child, always getting into unnecessary trouble with the other kids in school. Back at home, I would not listen to my parents and always disobeyed them. I started to change for the better when I was in secondary school due to my CCA, Outdoor Pursuits Club (OPC). I started taking up leadership roles to guide my other fellow classmates/ teammates. It was also at OPC that I fell in love with Rockwall Climbing.
-There, I learnt to be disciplined and focused. Why discipline and focus? Simply because it has kept me on track with what I have planned for myself. Success doesn’t come easy. So knowing that I have that clear goal and sticking to the plan has helped me stay the path when representing Springfield and finally, Singapore.
+Back in primary school, I was really a rebellious child, always getting into unnecessary trouble with the other kids in school. Back at home, I would not listen to my parents and always disobeyed them. I started to change for the better when I was in secondary school due to my CCA, Outdoor Pursuits Club (OPC). I started taking up leadership roles to guide my other fellow classmates/ teammates. It was also at OPC that I fell in love with Rockwall Climbing. <br>
+<br>There, I learnt to be disciplined and focused. Why discipline and focus? Simply because it has kept me on track with what I have planned for myself. Success doesn’t come easy. So knowing that I have that clear goal and sticking to the plan has helped me stay the path when representing Springfield and finally, Singapore. <br>
 <br>Besides that, I also learnt to believe in the process and myself. If you’re going to have doubts in yourself, you wouldn’t break new barriers. I am thankful to those who have helped me along the way. I always have them at the back of my head even though I don’t tell them how much I’ve appreciated their support and guidance! Without the values and lessons I’ve learnt until now, I wouldn’t become who I am today. Someone who ensures that he sticks to a plan or goal and does not get distracted by anyone or anything.
 
 _MARK CHAN [5B] (2017) - NATIONAL ATHLETE &amp; OLYMPIC HOPEFUL IN ROCKWALL CLIMBING_
 
 <br>
 
-Floorball has been my hobby since Primary 3. The fast-paced game encourages me to make decisions quickly and practice communication among my teammates in court. I was elected the Vice-Captain and did my best to lead by example. I am thankful for my Teachers-In-Charge, my Coach, and especially my Teammates for being a part of my Springfield floorball journey. My passion for Floorball has yet to fade. When I was an Nanyang Polytechnic pursuing a Diploma in Sport and Wellness Management, I continued to pursue my passion in Floorball by playing for U Sports Portege FC and for the Polytechnic. Certainly, the four years playing floorball has helped me in becoming someone who is more resilient to challenges, confident to stand out, and disciplined to juggle various responsibilities.
+Floorball has been my hobby since Primary 3. The fast-paced game encourages me to make decisions quickly and practice communication among my teammates in court. I was elected the Vice-Captain and did my best to lead by example. I am thankful for my Teachers-In-Charge, my Coach, and especially my Teammates for being a part of my Springfield floorball journey.  <br>My passion for Floorball has yet to fade. When I was an Nanyang Polytechnic pursuing a Diploma in Sport and Wellness Management, I continued to pursue my passion in Floorball by playing for U Sports Portege FC and for the Polytechnic. Certainly, the four years playing floorball has helped me in becoming someone who is more resilient to challenges, confident to stand out, and disciplined to juggle various responsibilities.
 
 _SITI KHADIJAH BTE MD YAACOB (2013-2016)
 <br>2013: NSG C Div 2ND PLACE
@@ -93,8 +93,11 @@ _SITI KHADIJAH BTE MD YAACOB (2013-2016)
 
 
 
-![]()
+![](/images/F404C84B.jpeg)
 
-I picked up the Floorball sport in primary school. Being a sporty person by nature, I also love to try out new things. Floorball wasn’t popular back then but I wanted to give it a try. I went for the trials and to my surprise, the sport was really fun and intense. I love how one moment you can be two goals down but the next moment, you’re two goals up and the tides can change at any given moment. After the trials, a strong drive and passion for Floorball started to develop within me. I was then selected to represent my primary school and when it was my time to graduate, I did not do well academically. So, I used Floorball to help me get into the secondary school I wanted through DSA. I was given the opportunity to lead as the Captain for my secondary school team. Floorball has shaped me into a better person with great leadership, good character and taught me that with hard work, resilience, teamwork and dedication, you can achieve your goals. I now continue my Floorball journey with my secondary school and external Floorball Club team.
+I picked up the Floorball sport in primary school. Being a sporty person by nature, I also love to try out new things. Floorball wasn’t popular back then but I wanted to give it a try. I went for the trials and to my surprise, the sport was really fun and intense. I love how one moment you can be two goals down but the next moment, you’re two goals up and the tides can change at any given moment.  <br> <br>After the trials, a strong drive and passion for Floorball started to develop within me. I was then selected to represent my primary school and when it was my time to graduate, I did not do well academically. So, I used Floorball to help me get into the secondary school I wanted through DSA. I was given the opportunity to lead as the Captain for my secondary school team.  <br> <br>Floorball has shaped me into a better person with great leadership, good character and taught me that with hard work, resilience, teamwork and dedication, you can achieve your goals. I now continue my Floorball journey with my secondary school and external Floorball Club team.
+
 
 _NG KAI YANG (2019) - FLOORBALL BOYS’ CAPTAIN_
+
+![]()
