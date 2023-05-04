@@ -1,6 +1,6 @@
 ---
 title: Yearbook
-permalink: /our-experience/permalink/
+permalink: /our-experience/yearbook/
 description: ""
 ---
 # **e-Yearbook**

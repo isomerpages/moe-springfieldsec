@@ -1,6 +1,6 @@
 ---
 title: Termly Letter
-permalink: /our-experience/permalink/
+permalink: /our-experience/termly-letter/
 description: ""
 ---
 # **2023 T1 Parents Letter**
