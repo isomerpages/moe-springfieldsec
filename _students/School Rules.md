@@ -5,4 +5,4 @@ description: ""
 ---
 ### School Rules 2023
 
-Please read and adhere to the [SCHOOL RULES]().
+Please read and adhere to the 
