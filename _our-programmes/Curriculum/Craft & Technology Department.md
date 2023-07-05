@@ -19,6 +19,18 @@ Email:&nbsp;[jeremy_wang_hsin_wei@moe.edu.sg](mailto:jeremy_wang_hsin_wei@moe.ed
 (Food Lab Assistant)
 </span></td></tr></tbody></table>
 
+### Department Vision:
+•	Inquisitive Learners, Creative Innovators
+
+### Department Mission:
+•	To develop learners with an appreciation for design, art and culture, who is creative and resourceful when solving problems.
+
+
+
+
+
+
+
 
 
 ### Department Goals:
