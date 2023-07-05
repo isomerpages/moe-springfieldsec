@@ -25,4 +25,10 @@ Email:&nbsp;[jeremy_wang_hsin_wei@moe.edu.sg](mailto:jeremy_wang_hsin_wei@moe.ed
 •	To develop learners with an appreciation for design, art and culture, who is creative and resourceful when solving problems.
 
 ![](/images/artimg1.png)
+
 ![](/images/artimg2.png)
+
+![](/images/dtimg1.png)
+
+![](/images/dtimg2.png)
+
