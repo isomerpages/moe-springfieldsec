@@ -3,24 +3,14 @@ title: Secondary 2 Streaming 2022
 permalink: /parents/secondary-2/secondary-2-streaming-2022/
 description: ""
 ---
-
-# **Secondary 2 Streaming 2022**
-
-### Secondary 3 Subject Combination 2023  
+# **Secondary 2 Streaming 2023**  
   
 Dear Parents,  
   
-Thank you for joining us in the Parents Engagement Webinar session on 15 July regarding Secondary 2 Streaming - Sec 3 Subject Combination Talk.  
-  
-Please see below the Secondary 3 Subject Combination offered in 2023.  
-  
-_\*Do note that the final subjects and subjects combinations offered can be subjected to change due to demand and availability of resources._
+We would like to invite you to join us for the Secondary 2 Streaming - Parent Engagement (Webinar) on **Friday, 28 July 2023 at 5pm**.
 
-**Sec 3 Express - Subject Combination 2023**     
-[S3 Subject Combination - EX.pdf](/files/S3%20Subject%20Combination%20-%20EX.pdf)
+During the engagement, we will be sharing information on the Secondary 2 streaming process and the Secondary 3 subject combinations offered in 2024.
 
-**Sec 3 Normal Academic - Subject Combination 2023**  
-[S3 Subject Combination - NA.pdf](/files/S3%20Subject%20Combination%20-%20NA.pdf)
+A PG message has been sent to the parents of Secondary 2 students. Please do click on the link provided in the PG message to register for the **online Webinar session**.
 
-**Sec 3 Normal Technical - Subject Combination 2023**  
-[S3 Subject Combination - NT.pdf](/files/S3%20Subject%20Combination%20-%20NT.pdf)
+Thank you.
