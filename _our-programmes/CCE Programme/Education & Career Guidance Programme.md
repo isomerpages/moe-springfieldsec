@@ -44,7 +44,7 @@ To discuss any of the following, please book appointment slots that <b>do NOT co
 <br>[•N-level Joint Intake Exercise (JIE) Booklet](https://www.ite.edu.sg/docs/default-source/admissions-docs/full-time/publications/admission-booklet/gce-n-admission-booklet-2023.pdf)
 <br>[•	Polytechnic Foundation Programme (PFP)](https://go.gov.sg/pfp)
 <br>[•	NAFA Foundation Programme (NFP)](https://go.gov.sg/applynafafp)
-<br>[•	Direct Entry Scheme to Polytechnic Programme (DPP)](https://go.gov.sg/dpp)
+<br>[•	Direct Entry Scheme to Polytechnic Programme (DPP)](https://go.gov.sg/higher-nitec-dpp)
 <br>[•ITE Traineeship Scheme](https://www.ite.edu.sg/admissions/traineeship): A formalised 'Earn-as-you-Learn' training arrangement
 <br>[•	Joint Polytechnic Admissions Exercise (JPAE)](https://jpae.polytechnic.edu.sg/): ITE Admissions to Poly
 
