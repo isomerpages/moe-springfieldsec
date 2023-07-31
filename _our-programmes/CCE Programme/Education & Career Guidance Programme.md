@@ -55,7 +55,14 @@ To discuss any of the following, please book appointment slots that <b>do NOT co
 <br>[•	Poly EAE FAQ](https://eae.polytechnic.edu.sg/eaeStudIns/menu.jsp?type=FAQs): Please read if you are considering EAE
 <br>[•	Direct School Admission - Junior Colleges](https://go.gov.sg/applyjcdsa)
 
-	
+
+
+<b>Work and Industry</b>
+<br>[•MyCareersFuture](https://go.gov.sg/careersfuture): A portal with career-related content
+<br>[•	Singapore Industry Landscape](https://go.gov.sg/industrylandscape-sec)
+<br>[•	Industry Transformation Maps (ITMs)](https://www.mti.gov.sg/ITMs/Overview): Roadmaps for the various industries in Singapore
+<br>[•	Skills Framework](https://www.skillsfuture.gov.sg/skills-framework): Information on career sectors, pathways, roles, skills, training, etc.
+
 	
 	
 
