@@ -49,7 +49,12 @@ To discuss any of the following, please book appointment slots that <b>do NOT co
 <br>[•	Joint Polytechnic Admissions Exercise (JPAE)](https://jpae.polytechnic.edu.sg/): ITE Admissions to Poly
 
 
-	
+<b>Aptitude-Based Admission (ABA) Exercises</b>
+<br>[•	ITE Early Admissions Exercise](https://go.gov.sg/applyeae)
+<br>[•	Poly Early Admissions Exercise](https://go.gov.sg/polyeae)
+<br>[•	Poly EAE FAQ](https://eae.polytechnic.edu.sg/eaeStudIns/menu.jsp?type=FAQs): Please read if you are considering EAE
+<br>[•	Direct School Admission - Junior Colleges](https://go.gov.sg/applyjcdsa)
+
 	
 	
 	
