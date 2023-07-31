@@ -74,7 +74,10 @@ To discuss any of the following, please book appointment slots that <b>do NOT co
 <br>[•	Where to After Secondary School?](https://youtu.be/ndDVlzT-z0g)
 <br>[•	Awards &amp; Scholarships](https://go.gov.sg/admissions-scholarships)
 
-	
+<b>Private Education</b>
+<br>[•	Committee for Private Education](https://go.gov.sg/pei)
+
+
 	
 
 #### Release of N Levels Examination Results 2019
