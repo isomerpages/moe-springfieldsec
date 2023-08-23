@@ -4,7 +4,7 @@ permalink: /about-us/principals-message/
 description: ""
 ---
 # **Principal's Message**
-<img src="/images/mschia_principal.jpg" style="width:300px;height:300px;margin-left:15px;" align="right">
+<img src="/images/principal_mschia.jpg" style="width:300px;height:300px;margin-left:15px;" align="right">
 
 Dear members of the Springfield community,
 
