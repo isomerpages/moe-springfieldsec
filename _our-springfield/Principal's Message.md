@@ -4,7 +4,7 @@ permalink: /about-us/principals-message/
 description: ""
 ---
 # **Principal's Message**
-<img src="/images/Principal photo.png" style="width:300px;height:400px;margin-left:15px;" align = "right">
+<img src="/images/mschia_principal.jpg" style="width:300px;height:300px;margin-left:15px;" align="right">
 
 Dear members of the Springfield community,
 
@@ -21,6 +21,6 @@ With the world rapidly changing, we live in challenging times. We need to prepar
 Wishing all a healthy and fulfilling 2023.
 
 
-_Ms Eleanor Chia_    
-_Principal_    
+_Ms Eleanor Chia_&nbsp;   
+_Principal_&nbsp;   
 _Springfield Secondary School_
