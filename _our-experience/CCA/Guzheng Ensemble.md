@@ -7,6 +7,7 @@ third_nav_title: CCA
 # **Guzheng Ensemble**
 
 ![](/images/guzheng2023_1.jpeg)
+<b>Watch the 2023 SYF Arts Presentation video [HERE](https://www.youtube.com/watch?v=56OfoAdGpUQ)
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/G3S4KU_0Z1I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
@@ -38,4 +39,4 @@ third_nav_title: CCA
 
 ![](/images/Upd_seniors%20back%20home%202020.jpg)
 
-![](/images/National%20Day%20Carnival%202019.jpg)
+![](/images/National%20Day%20Carnival%202019.jpg)</b>
