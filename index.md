@@ -13,11 +13,11 @@ sections:
       button: Contact Us
       url: /contact-us/
       key_highlights:
-        - title: Home-Based Learning (HBL) Schedule
-          description: Read more
-          url: https://sites.google.com/view/ictspringfield/hbl
-        - title: "NDLP "
-          description: "Read More "
+        - title: Caring Teacher Awards 2024
+          description: Nominate now
+          url: https://www.cta.nie.edu.sg/home
+        - title: NDLP
+          description: Read More
           url: https://sites.google.com/view/ictspringfield/ndlp/parents-engagement-18-jan
         - title: ICT @ springfield
           description: Click here to access
