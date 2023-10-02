@@ -28,6 +28,8 @@ third_nav_title: CCA
 
 ![](/images/taekwondo6.jpg)
 
+Watch the Taekwondo Team in action [HERE](https://youtu.be/TR1IYSbTH3k)
+
 ‘Tae’ means to kick or smash with the feet, ‘Kwon’ implies punching or destroying with the hands or fists and ‘Do’ means the art or the way. Hence, Taekwondo, a Korean phraseology, literally means the art of foot and hand fighting. <br><br>
 In Springfield members of the Taekwondo team train regularly to learn new skills and sharpen their techniques. Under the guidance of their coach, Coach Joyce Lim, Coach Pauline Lim and Coach Cheryl Ng, the members of the school Taekwondo team trained hard and took part in National Inter-School Championships and achieved very commendable success.<br><br>
 The Springfield Taekwondo team were elated as Kyorugi (sparring) resumes again for National School Games (NSG) 2023. The team managed to push through each training and continue to work hard for NSG. We are proud to come home with medals and trophies from the competition.<br><br>
