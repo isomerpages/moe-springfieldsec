@@ -6,8 +6,7 @@ third_nav_title: CCA
 ---
 # **Floorball (Boys)**
 
-![](/images/floorbalheaderpic.png)
-
+![](/images/floorballboys1.png)
 
 
 [Click Here to watch the Floorball (Boys) Showreel](https://youtu.be/_lvxEopR0gA)
