@@ -4,48 +4,76 @@ permalink: /about-us/our-organisation/mathematics-department/
 description: ""
 third_nav_title: Curriculum
 ---
-
 # **Mathematics Department**
 
 **Head of Department**  
 Mr Chng Chen Keong    
-Email: [chng_chen_keong@moe.edu.sg_](mailto:chng_chen_keong@moe.edu.sg)
+Email:&nbsp;[chng_chen_keong@moe.edu.sg_](mailto:chng_chen_keong@moe.edu.sg)
 
 **Level Head**     
 Mr Leung Yong Kang   
-Email: [leung_yong_kang@moe.edu.sg_](mailto:leung_yong_kang@moe.edu.sg)
-
-**Secondary 1 Coordinator**  
-Mr Phoa Zai Yong
-<br>Email: [phoa_zai_yong@moe.edu.sg_](mailto:phoa_zai_yong@moe.edu.sg)
-
-**Secondary 2 Coordinator**  
-Ms Macy Koh
-Email: [macy_koh_qi_yun@moe.edu.sg_](mailto:macy_koh_qi_yun@moe.edu.sg)
-
-**Secondary 3 Coordinator**  
-Ms Ng Zhao Ying
-Email: [ng_zhao_ying@moe.edu.sg_](mailto:ng_zhao_ying@moe.edu.sg)
-
-**Secondary 4 Coordinator**  
-Ms Alisya Yeo
-Email: [alisya_yeo@moe.edu.sg_](mailto:alisya_yeo@moe.edu.sg)
-
-
-
-
+Email:&nbsp;[leung_yong_kang@moe.edu.sg_](mailto:leung_yong_kang@moe.edu.sg)
 
 ### Department Goals/ Objectives:  
 
 * To develop students to be independent and critical thinkers    
 * To stimulate and sustain students' interest in learning Mathematics
 
+
+**Secondary 1 Coordinator**  
+Mr Ong Kang Sheng
+<br>Email:&nbsp;[ong_kang_sheng@moe.edu.sg_](mailto:ong_kang_sheng@moe.edu.sg)
+
+**Secondary 2 Coordinator**  
+Mr Leung Yong Kang
+Email:&nbsp;[leung_yong_kang@moe.edu.sg_](mailto:leung_yong_kang@moe.edu.sg)
+
+**Secondary 3 Coordinator**  
+Ms Ng Zhao Ying
+Email:&nbsp;[ng_zhao_ying@moe.edu.sg_](mailto:ng_zhao_ying@moe.edu.sg)
+
+**Secondary 4 Coordinator**  
+Ms Alisya Yeo
+Email:&nbsp;[alisya_yeo@moe.edu.sg_](mailto:alisya_yeo@moe.edu.sg)
+
+
 ### Department Programmes:
 
-[Watch our Mathematics Department Video Here](https://youtu.be/Yvq3I4hFBDE)
+Do click on the link [HERE](https://youtu.be/Yvq3I4hFBDE) to view the various programmes we had.
 
 
 #### Making Learning Relevant
+
+
+***Kite Design and Flying: Sec 3 (2022)***
+
+An interdisciplinary collaboration with the Science Department, we want the students to learn Mathematics and Science concepts through this activity. The students learnt about the forces acting on the kite and the properties of the shapes used for the kite.
+
+![](/images/kitefly1.jpg)
+
+
+#### Alternative assessments
+
+***Math Trail: Sec 1 (2023)***
+
+The Trail builds confidence in students’ ability to recall and use their knowledge gained from lessons. It also gave them authentic learning experiences through combining students’ understanding, experiences and reasoning. 
+
+![](/images/mathtrail1.jpg)
+
+
+***Statistics Learning Experience: Sec 2 (2022)***
+
+Statistics is a branch of Mathematics that deals with collection, organization, presentation, computation and interpretation of data. In the Mathematics syllabus, it is important for students to understand and be able to interpret given data. Thus this activity made the learning of Statistics alive.
+
+
+
+
+
+
+
+
+
+
 
 ***Learning Estimation through Supermarket Experience: Sec 1 (2021)***
 
@@ -69,7 +97,7 @@ An interdisciplinary collaboration with the Science Department, we want the stud
 ![](/images/maths3.png)
 
 
-#### Alternative assessments
+
 
 
 ***Math Trail: Sec 1 (2019)***
@@ -123,5 +151,3 @@ As we part of the Springfield’s 30th PEARL Anniversary events, students get to
 ![](/images/Maths9.png)
 
 Students also participated actively in the termly Mathematics Learning Day and have shown greater interest and understanding towards Mathematics and the application to Real World Context Practices.
-
-
