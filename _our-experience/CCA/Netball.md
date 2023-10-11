@@ -21,4 +21,4 @@ For many years, the Netball Girls have organized the annual Springfield Netball 
 
 ![](/images/C%20Division%20Netball%20Girls.jpeg)
 
-![](/images/Road%20to%20National%20School%20Games%202022.jpeg)
+![](/images/netballteam.jpeg)
