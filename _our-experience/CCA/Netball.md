@@ -8,9 +8,8 @@ third_nav_title: CCA
 
 ![](/images/Group%20Photo%201.jpeg)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oF5y9U7Mz9c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
-Watch the Springfield Netball Team in action [HERE](https://youtu.be/oF5y9U7Mz9c)
+Watch the Springfield Netball Team showreel [HERE](https://youtu.be/oF5y9U7Mz9c)
 
 The Netball girls are a closely knitted family that have gone through many activities and camps. Through the sport, the girls learn the importance of discipline, commitment, integrity and teamwork. As a netballer, the girls get to participate in a number of activities, competitions and camps which allow them to develop their leadership qualities, organizing skills, competitive spirit and improve their fitness level.
 
