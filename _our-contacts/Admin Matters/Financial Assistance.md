@@ -31,7 +31,7 @@ The objective of the MOE FAS is to provide financial assistance to Singaporean s
 
 5. You may also apply via e-FAS at https://go.gov.sg/moe-efas or scan the QR code below. 
 
-<img src="/images/efas.jpg" style="width:300px;height:300px;margin-left:15px;" align="right">
+<img src="/images/efas_qr.jpg" style="width:300px;height:300px;margin-left:15px;">
 
 
 
