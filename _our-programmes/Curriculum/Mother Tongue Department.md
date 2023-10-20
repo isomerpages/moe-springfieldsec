@@ -54,10 +54,8 @@ Bronze in 5th Chinese Recital Competition (Preliminary round) for individual and
 
 
 
+![](/images/mothertongue1.JPG)
 
+![](/images/mothertongue2.JPG)
 
-
-
-
-
-
+![](/images/mothertongue3.JPG)
