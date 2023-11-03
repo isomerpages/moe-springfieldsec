@@ -6,10 +6,15 @@ description: ""
 ---
 ### 2024 Booklist
 
-Dear Parents/Guardians of Springfielders, <br>
-Please click on the respective level &amp; stream of your child/ward class to view the booklist for year 2024. 
+Please click on the respective level &amp; stream to view the booklist for year 2024. 
 
 [Secondary 2 Exp](/files/sfss%20sec%202%20exp.PDF) <br>
 [Secondary 2 NA](/files/sfss%20sec%202%20na.PDF) <br>
 [Secondary 2 NT](/files/sfss%20sec%202%20nt.PDF) <br>
 [Secondary 3 Exp](/files/sfss%20sec%203%20e.PDF) <br>
+[Secondary 3 NA](/files/sfss%20sec%203%20na.PDF) <br>
+[Secondary 3 NT](/files/sfss%20sec%203%20nt.PDF) <br>
+[Secondary 4 Exp](/files/sfss%20sec%204%20e.PDF) <br>
+[Secondary 4 NA](/files/sfss%20sec%204%20na.PDF) <br>
+[Secondary 4 NT](/files/sfss%20sec%204%20nt.PDF) <br>
+[Secondary 5NA](/files/sfss%20sec%205%20na.PDF)
