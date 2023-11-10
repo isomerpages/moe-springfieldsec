@@ -21,7 +21,7 @@ sections:
         - title: ICT @ springfield
           description: Click here to access
           url: https://sites.google.com/view/ictspringfield
-      variant: image
+      variant: floating
   - infobar:
       title: School Corporate Video
       button: Click here to view the video
