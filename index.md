@@ -9,7 +9,7 @@ sections:
   - hero:
       title: Springfield Secondary School
       subtitle: Lifelong Learners, Exemplary Leaders
-      background: /images/0000newtestopenhouse.png
+      background: /images/0000test2final.png
       url: /contact-us/
       key_highlights:
         - title: Caring Teacher Awards 2024
