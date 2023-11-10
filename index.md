@@ -9,7 +9,7 @@ sections:
   - hero:
       title: Springfield Secondary School
       subtitle: Lifelong Learners, Exemplary Leaders
-      background: /images/0000testopenhouse2.jpeg
+      background: /images/0000newtestopenhouse.png
       url: /contact-us/
       key_highlights:
         - title: Caring Teacher Awards 2024
@@ -21,7 +21,7 @@ sections:
         - title: ICT @ springfield
           description: Click here to access
           url: https://sites.google.com/view/ictspringfield
-      variant: floating
+      variant: image
   - infobar:
       title: School Corporate Video
       button: Click here to view the video
