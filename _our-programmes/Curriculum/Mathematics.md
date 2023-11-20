@@ -3,6 +3,7 @@ title: Mathematics
 permalink: /about-us/our-organisation/mathematics-department/
 description: ""
 third_nav_title: Curriculum
+variant: markdown
 ---
 # **Mathematics Department**
 
@@ -30,11 +31,11 @@ Email:&nbsp;[leung_yong_kang@moe.edu.sg_](mailto:leung_yong_kang@moe.edu.sg)
 
 **Secondary 3 Coordinator**  
 Ms Ng Zhao Ying
-Email:&nbsp;[ng_zhao_ying@moe.edu.sg_](mailto:ng_zhao_ying@moe.edu.sg)
+Email:&nbsp;[macy_koh_qi_yun@moe.edu.sg_](mailto:macy_koh_qi_yun@moe.edu.sg)
 
 **Secondary 4 Coordinator**  
 Ms Alisya Yeo
-Email:&nbsp;[alisya_yeo@moe.edu.sg_](mailto:alisya_yeo@moe.edu.sg)
+Email:&nbsp;[ng_zhao_ying@moe.edu.sg_](mailto:ng_zhao_ying@moe.edu.sg)
 
 
 ### Department Programmes:
@@ -90,6 +91,3 @@ In Term 3, a remarkable collaboration between the <b>Mathematics and Science Dep
 ![](/images/mathtrail5.jpg)
 
 Watch the video [HERE](https://www.youtube.com/watch?v=XWawfR1T2zo)
-
-
-
