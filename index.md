@@ -9,7 +9,7 @@ sections:
   - hero:
       title: Springfield Secondary School
       subtitle: Lifelong Learners, Exemplary Leaders
-      background: /images/0000test3final.png
+      background: /images/for_SFSS_website_21_nov.png
       url: /contact-us/
       key_highlights:
         - title: Details of Open House
