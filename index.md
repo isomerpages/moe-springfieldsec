@@ -12,8 +12,8 @@ sections:
       background: /images/0000test3final.png
       url: /contact-us/
       key_highlights:
-        - title: Caring Teacher Awards 2024
-          description: Nominate now
+        - title: Details of Open House
+          description: Click Here
           url: https://www.cta.nie.edu.sg/home
         - title: NDLP
           description: Read More
