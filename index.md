@@ -14,7 +14,7 @@ sections:
       key_highlights:
         - title: Details of Open House
           description: Click Here
-          url: https://www.cta.nie.edu.sg/home
+          url: https://drive.google.com/file/d/1hX1R5_lBMh16DUBLBfwbEBaREMLqdBMT/view?usp=drive_link
         - title: NDLP
           description: Read More
           url: https://sites.google.com/view/ictspringfield/ndlp/parents-engagement-18-jan
