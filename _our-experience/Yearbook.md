@@ -2,8 +2,13 @@
 title: Yearbook
 permalink: /our-experience/yearbook/
 description: ""
+variant: markdown
 ---
 # **e-Yearbook**
+
+![](/images/IMG_9481.PNG)
+Click [HERE](https://sites.google.com/view/sfss2023memoriesinmotion) to view the **2023 e-Yearbook**
+
 
 ![](/images/yearbook_2022_2.jpeg)
 Click [HERE](https://sites.google.com/d/1JhODuId5bLt9C0PlzTFfMwvpzCn6KKr6/p/1xVVttNW3nSko_Fg-TKr2emOMVIUpuGAC/edit) to view the **2022 e-Yearbook**
