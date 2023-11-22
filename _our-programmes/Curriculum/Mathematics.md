@@ -30,11 +30,11 @@ Mr Leung Yong Kang
 Email:&nbsp;[leung_yong_kang@moe.edu.sg_](mailto:leung_yong_kang@moe.edu.sg)
 
 **Secondary 3 Coordinator**  
-Ms Ng Zhao Ying
+Ms Macy Koh<br>
 Email:&nbsp;[macy_koh_qi_yun@moe.edu.sg_](mailto:macy_koh_qi_yun@moe.edu.sg)
 
 **Secondary 4 Coordinator**  
-Ms Alisya Yeo
+Ms Ng Zhao Ying<br>
 Email:&nbsp;[ng_zhao_ying@moe.edu.sg_](mailto:ng_zhao_ying@moe.edu.sg)
 
 
