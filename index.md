@@ -14,7 +14,7 @@ sections:
       key_highlights:
         - title: Details of Open House
           description: Click Here
-          url: https://drive.google.com/file/d/1hX1R5_lBMh16DUBLBfwbEBaREMLqdBMT/view?usp=drive_link
+          url: https://drive.google.com/file/d/1iuYiap6WvM0QZfzOOE4SiGwIccjh1BrB/view?usp=sharing
         - title: NDLP
           description: Read More
           url: https://sites.google.com/view/ictspringfield/ndlp/parents-engagement-18-jan
@@ -25,7 +25,7 @@ sections:
   - infobar:
       title: Open House 2023
       id: infobar
-      button: "Principal's message "
+      button: Principal's message
       url: https://drive.google.com/file/d/1Z5dDWEunGs925x0kXmLtrlhwW1khuqWl/view?usp=sharing
   - infobar:
       title: School Corporate Video
