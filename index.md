@@ -23,6 +23,11 @@ sections:
           url: https://sites.google.com/view/ictspringfield
       variant: image
   - infobar:
+      title: Open House 2023
+      id: infobar
+      button: "Principal's message "
+      url: https://drive.google.com/file/d/1Z5dDWEunGs925x0kXmLtrlhwW1khuqWl/view?usp=sharing
+  - infobar:
       title: School Corporate Video
       button: Click here to view the video
       url: https://youtu.be/up-2lZHaOgc
