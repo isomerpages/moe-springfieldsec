@@ -9,7 +9,7 @@ sections:
   - hero:
       title: Springfield Secondary School
       subtitle: Lifelong Learners, Exemplary Leaders
-      background: /images/for_SFSS_website_21_nov.png
+      background: /images/SFSS.gif
       url: /contact-us/
       key_highlights:
         - title: Details of Open House
@@ -21,7 +21,8 @@ sections:
         - title: ICT @ springfield
           description: Click here to access
           url: https://sites.google.com/view/ictspringfield
-      variant: image
+      variant: center
+      button: Contact Us
   - infobar:
       title: Open House 2023
       id: infobar
