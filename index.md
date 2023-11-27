@@ -9,24 +9,20 @@ sections:
   - hero:
       title: Springfield Secondary School
       subtitle: Lifelong Learners, Exemplary Leaders
-      background: /images/for_SFSS_website_21_nov.png
+      background: /images/SFSS.gif
       url: /contact-us/
       key_highlights:
-        - title: Details of Open House
-          description: Click Here
-          url: https://drive.google.com/file/d/1iuYiap6WvM0QZfzOOE4SiGwIccjh1BrB/view?usp=sharing
+        - title: Caring teacher awards (cta)
+          description: Nominate Now
+          url: https://www.cta.nie.edu.sg/home
         - title: NDLP
           description: Read More
           url: https://sites.google.com/view/ictspringfield/ndlp/parents-engagement-18-jan
         - title: ICT @ springfield
           description: Click here to access
           url: https://sites.google.com/view/ictspringfield
-      variant: image
-  - infobar:
-      title: Open House 2023
-      id: infobar
-      button: Principal's message
-      url: https://drive.google.com/file/d/1Z5dDWEunGs925x0kXmLtrlhwW1khuqWl/view?usp=sharing
+      variant: center
+      button: Contact Us
   - infobar:
       title: School Corporate Video
       button: Click here to view the video
