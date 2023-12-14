@@ -3,6 +3,7 @@ title: Education & Career Guidance Programme
 permalink: /programmes/cce-programme/educational-n-career-guidance-programme/
 description: ""
 third_nav_title: CCE Programme
+variant: markdown
 ---
 # **Eduational &amp; Career Guidance Programme**
 
@@ -41,7 +42,7 @@ To discuss any of the following, please book appointment slots that <b>do NOT co
 <b>Common Admission Exercises</b>
 <br>[•Joint Admissions Exercise (JAE)](https://www.moe.gov.sg/post-secondary/admissions/jae)
 <br>[•Joint Intake Exercise (JIE)](https://www.moe.gov.sg/post-secondary/admissions/jie)
-<br>[•N-level Joint Intake Exercise (JIE) Booklet](https://www.ite.edu.sg/docs/default-source/admissions-docs/full-time/publications/admission-booklet/gce-n-admission-booklet-2023.pdf)
+<br>[•N-level Joint Intake Exercise (JIE) Booklet](https://www.ite.edu.sg/docs/default-source/admissions-docs/full-time/publications/admission-booklet/gce-n-admission-booklet-2024.pdf)
 <br>[•	Polytechnic Foundation Programme (PFP)](https://go.gov.sg/pfp)
 <br>[•	NAFA Foundation Programme (NFP)](https://go.gov.sg/applynafafp)
 <br>[•	Direct Entry Scheme to Polytechnic Programme (DPP)](https://go.gov.sg/higher-nitec-dpp)

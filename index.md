@@ -4,9 +4,7 @@ title: Springfield Secondary School
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
-notification: Our school’s telephone system is currently being upgraded, as such
-  our lines are disrupted at the moment. For any urgent matters, kindly email us
-  at springfields@moe.edu.sg
+notification: ""
 sections:
   - hero:
       title: Springfield Secondary School
