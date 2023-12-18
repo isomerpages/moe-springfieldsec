@@ -6,7 +6,7 @@ variant: markdown
 ---
 # **First Day of School Checklist &amp; Start-IT-Right Programme**
 
-### Start of New School Term - Tuesday, 2nd January 2024
+### Start of New School Term <br> Tuesday, 2nd January 2024
 
 
 
