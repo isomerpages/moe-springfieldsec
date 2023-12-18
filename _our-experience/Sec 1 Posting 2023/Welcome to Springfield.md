@@ -43,11 +43,6 @@ https://springfieldsec.moe.edu.sg/about-us/admin-matters/financial-assistance
 
 
 **C) Sale of Books and Uniform &amp; PE Attire**
-   
-	 
-	 
-	 
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 
   <table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:#F4F4F4;border-color:#ffffff;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding10px 5px;text-align:left;vertical-align:top;word-break:normal"><br><br><br><span style="background-color:transparent">20th - 25th Dec</span><br><br><span style="background-color:transparent"></span><br><br><br><br><br><span style="background-color:transparent"><br></span><br></th><th style="background-color:#F4F4F4;border-color:#ffffff;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><b>For Students not under Financial Assistance:</b><br><br><br><span style="background-color:transparent">Sec 1 students (non-FAS)  can place online orders from Wednesday, 20th December 2023 to Monday, 25th December 2023. </span><br><br><span style="background-color:transparent">•	For Books - <a href="https://www.sfss.cascoedusupply.com.sg/">sfss.cascoedusupply.com.sg </a> 
