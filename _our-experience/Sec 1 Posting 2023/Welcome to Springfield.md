@@ -76,28 +76,29 @@ https://springfieldsec.moe.edu.sg/about-us/admin-matters/financial-assistance
 
 •	You might want to refer to the following checklist in preparation for your child’s/ ward’s First Day at School.
 
-
-
+![](/images/SIR2024.png)
 
 •	All students will be engaged in the Start-it-Right Programme (SIR) for the first week of the school term. (See schedule below under SIR section).
 
-**G) Start-it-Right (SIR) &amp; CCA Orientation Programme 2023**
+**G) Start-it-Right (SIR) &amp; CCA Orientation Programme 2024**
 
 <u>Start-it-Right (SIR) Activities</u>
 
-The SIR is a unique programme designed and customised by the school to provide a holistic and purposeful transition for the Sec 1 cohort to secondary school. The students will undergo a series of hands-on, team-based, and interactive outdoor activities such as dragon boating and cycling as they learn to build positive bonds, develop good habits &amp; routines and strengthen their personal competencies. The students also work closely with the Class Form Teacher to forge a class identity and establish positive peer relationships. 
+The SIR is a unique programme designed and customised by the school to provide a holistic and purposeful transition for the Secondary 1 cohort to secondary school. The students will undergo a series of hands-on, team-based, and interactive outdoor activities such as dragon boating and amazing race as they build positive bonds, develop good habits &amp; routines and strengthen their personal competencies. The students also work closely with the Class Form Teachers to forge class identity and establish positive peer relationships. 
 
-Parents/guardians are invited to school on 6th January (Friday), 5.15pm to 7.30pm as we round up the SIR programme with the Principal’s address and the campfire segment where your child/ward will come together as a class to exhibit their teamwork through performance.
+Parents/ guardians are invited to school on 5th January (Friday), 4pm to 7.30pm as we round up the SIR programme with briefings on Full Subject-Based Banding (FSBB) and Personalised Digital Learning Programme (PDLP), the Principal’s address and the campfire segment where your child/ ward will come together as a class to exhibit their teamwork through performance.
 
-Please refer to a separate message sent via PG for the briefing to parents on the outdoor activities that your child/ward will be going through.
+Please refer to the separate message sent via PG for the briefing to parents/ guardians on the outdoor activities that your child/ ward will be going through.
+.
 
 <u>Co-Curricular Activities (CCA) Immersion Activities </u>
 
-CCA play an integral role in the holistic growth and character development of each student. It also serves as a platform for skills acquisition and nurturing of talents. Through CCA, students will contribute actively to the school in key aspects of student leadership, school representation and community-based service-learning activities. The CCA immersion activities will serve to provide an overview of the CCA programme in Springfield and enable the students to be self-directed, interest driven and informed with regard to their CCA selection &amp; participation. 
+CCA plays an integral role in the holistic growth and character development of each student. It also serves as a platform for skills acquisition and nurturing of talents. Through CCA, students will contribute actively to the school in key aspects of student leadership, school representation and community-based service-learning activities. The CCA immersion activities will serve to provide an overview of the CCA programme in Springfield and enable the students to be self-directed, interest driven and informed with regard to their CCA selection &amp; participation. 
 
-<u>SIR &amp; CCA Immersion Schedule (3rd to 6th January 2023)</u>
+<u>SIR &amp; CCA Immersion Schedule (2nd to 8th January 2024)</u>
 
-![](/images/MTP4.png)
+![](/images/SIRnImmersprog.png)
+
 
 H)  Enrol Your Child For Annual School-based Health &amp; Dental Services
 
