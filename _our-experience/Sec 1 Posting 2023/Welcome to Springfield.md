@@ -111,10 +111,6 @@ We would like to seek the cooperation of parents/ guardians to impress the follo
 
 
 **Safe Management Measures: Visits to Schools by Parents/Guardians**
-1.	Students should be accompanied by at most one parent/guardian. 
+- Please note that visitors who are unwell will not be allowed to enter the school. We appreciate your patience and understanding to comply with the security checks.
 
-2.	Please note that visitors who are unwell will not be allowed to enter the school. We appreciate your patience and understanding to comply with the security checks.
-
-3.	Visitors are not required to be fully vaccinated or show valid PET result so long as their visits are transient in nature with no sustained interactions with students. This includes visitors for parent-teacher meetings.
-
-4.	To prevent over-crowding, parents should visit the school by appointment or during the stipulated operating hours of the school bookshop for the purchase of books and uniforms.
+-	To prevent over-crowding, parents/ guardians should visit the school by appointment or during the stipulated operating hours of the school bookshop for the purchase of books and uniforms. 
