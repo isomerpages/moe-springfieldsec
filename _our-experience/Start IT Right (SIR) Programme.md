@@ -20,17 +20,17 @@ The SIR is a unique programme designed and customised to provide the students wi
 
 ### SIR &amp; CCA Immersion Schedule (4th to 7th Jan 2022)
 
-**Secondary 1**
-![](/images/sir1.png)
+##### Secondary 1
+![](/images/Sir_sec1.png)
 
 
-**Secondary 2**
-![](/images/sir2.png)
+##### Secondary 2
+![](/images/Sir_sec2.png)
 
 
-**Secondary 3**
-![](/images/sir3.png)
+##### Secondary 3
+![](/images/Sir_sec3.png)
 
 
- **Secondary 4/5**
- ![](/images/sir4.png)
+##### Secondary 4/5
+![](/images/Sir_sec45.png)
