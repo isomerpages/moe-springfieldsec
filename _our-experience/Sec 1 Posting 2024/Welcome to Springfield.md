@@ -70,7 +70,7 @@ https://springfieldsec.moe.edu.sg/about-us/admin-matters/financial-assistance
 
 
 
-**F) First Day of School in 2023**
+**F) First Day of School in 2024**
 
 •	The school term for 2024 will begin on Tuesday 2nd January 2024.
 
