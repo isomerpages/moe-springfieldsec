@@ -12,9 +12,9 @@ sections:
       background: /images/SFSS.gif
       url: /contact-us/
       key_highlights:
-        - title: Caring teacher awards (cta)
-          description: Nominate Now
-          url: https://www.cta.nie.edu.sg/home
+        - title: N Level Results Release 2023
+          description: View Administrative Slides
+          url: https://drive.google.com/file/d/1HjkzoUBYlWQeBCaMfVmNG2l2GDUd8x5Z/view?usp=drive_link
         - title: NDLP
           description: Read More
           url: https://sites.google.com/view/ictspringfield/ndlp/parents-engagement-18-jan
