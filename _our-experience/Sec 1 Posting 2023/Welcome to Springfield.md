@@ -3,47 +3,53 @@ title: Welcome to Springfield
 permalink: /our-experience/Sec-1-Posting-2023/permalink/
 description: ""
 third_nav_title: Sec 1 Posting 2023
+variant: markdown
 ---
-### **Meet-the-Parent Session, Friday 6 Jan 2023**
 
-[Meet the Parent Session, 6 Jan 2023](/files/School%20Website_Presentation%20Slides_S1%20Meet-The-Parents_6%20Jan%202023.pdf)
 
-**General Information for parents and students** 
+#### **General Information for parents and students** 
 
 Dear Parents/Guardians,
 
-A warm welcome to Springfield Secondary School! We would like to take the opportunity to congratulate your child/ward on arriving at yet another milestone in their life as they progress from primary to secondary school.
+A warm welcome to Springfield Secondary School! We would like to take the opportunity to congratulate your child/ ward on arriving at yet another milestone in their life as they progress from primary to secondary school.
 
-You might be wondering what secondary life would be like for your child/ward and about his/her transition and adjustment to the different environment and routines. To allay your concerns and address some of your queries regarding your child/ward’s transition to Secondary 1, we have curated the relevant information and resources in this letter, School Website and Parents’ Gateway Portal. 
+You might be wondering what secondary life would be like for your child/ ward and how  he/ she would transit and adjust to the different environment and routines. To allay your concerns and address your queries regarding your child’s/ ward’s transition to Secondary 1 in Springfield Secondary School, we have curated the relevant information and resources in this letter, School Website and Parents’ Gateway Portal. 
 
-We look forward in partnering you in the holistic development of your child/ward.
+We look forward to partnering you in the holistic development of your child/ ward.
 
-**A) Administrative Information for parents**
 
-•	Students and parents are not required to physically report to school on the next working day (22nd December 2022) following the release of S1 Posting Results. 
+A.	Administrative Information for parents/ guardians
 
-•	The school will use the School Website (http://springfieldsec.moe.edu.sg) and Parents Gateway (PG) to communicate with parents from the afternoon of the S1 Posting Results Release date. 
+•	Students and parents/ guardians are not required to physically report to school on the next working day (21st December 2023) following the release of S1 Posting Results. 
 
-•	For parents who do not use PG, we will reach out to you via email separately. 
+•	The school will use the School Website (http://springfieldsec.moe.edu.sg) and Parents Gateway (PG) to communicate with parents/ guardians from the afternoon of the S1 Posting Results release date. 
 
+•	For parents/ guardians who are not on board PG, we will reach out to you via email separately.  
 •	Please refer to Springfield Secondary School Website for updates prior to the school term reopening. 
 
-Please refer to Annex A for the safe management measures put in place to ensure the safety of our staff and students in school.
+•	Please refer to Annex A for the safe management measures put in place to ensure the safety of our staff and students in school.
 
-•	You may direct any feedback or query during office hours (8am to 5pm) on weekdays to the School General Office or to the Year Head/Lower Secondary, Mr Eddie Chong. The contact details are appended in the table below.
+•	You may direct any feedback or query during office hours (8am to 5pm on weekdays) to the school’s General Office or to the Year Head/ Lower Secondary, Mr Eddie Chong. The contact details are appended in the table below. 
+
 
 
 <table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:#DDEEE9;border-color:#343434;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Springfield Secondary School</th><th style="background-color:#DDEEE9;border-color:#343434;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Year Head (Lower Secondary)</th></tr></thead><tbody><tr><td style="background-color:#ffffff;border-color:#343434;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:normal;color:#000">General Office <br>6318 3053 <br> springfields@moe.edu.sg</span></td><td style="background-color:#ffffff;border-color:#343434;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:normal;color:#000">Mr Eddie Chong <br> 6318 3971 <br>chong_suan_yan_eddie@moe.edu.sg</span></td></tr></tbody></table>
 
+
 **B) Students under MOE Financial Assistance Scheme (MOE FAS)**
 
-•	Kindly refer to the section on the Financial Assistance Scheme (FAS) of the school website. The link is as follows:
+•	Kindly refer to the section on the Financial Assistance Scheme (FAS) in the school website. The link is as follows:
 https://springfieldsec.moe.edu.sg/about-us/admin-matters/financial-assistance
 
-•	All Parents / Students under the MOE FAS application process – Do not purchase any books or uniform before the receipt of the FAS confirmation letter.
+•	Students undergoing the MOE FAS application process should not purchase any books or uniforms until they receive the FAS confirmation letter.
 
-**C) Sale of Books and Uniform & PE Attire**
 
+**C) Sale of Books and Uniform &amp; PE Attire**
+   
+	 
+	 
+	 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 Booklist can be found HERE.
 
 ![](/images/MTP2.png)
@@ -75,11 +81,11 @@ For Books - [https://www.cascoedusupply.com.sg/](https://www.cascoedusupply.com.
 
 •	All students will be engaged in the Start-it-Right Programme (SIR) for the first week of the school term. (See schedule below under SIR section).
 
-**G) Start-it-Right (SIR) & CCA Orientation Programme 2023**
+**G) Start-it-Right (SIR) &amp; CCA Orientation Programme 2023**
 
 <u>Start-it-Right (SIR) Activities</u>
 
-The SIR is a unique programme designed and customised by the school to provide a holistic and purposeful transition for the Sec 1 cohort to secondary school. The students will undergo a series of hands-on, team-based, and interactive outdoor activities such as dragon boating and cycling as they learn to build positive bonds, develop good habits & routines and strengthen their personal competencies. The students also work closely with the Class Form Teacher to forge a class identity and establish positive peer relationships. 
+The SIR is a unique programme designed and customised by the school to provide a holistic and purposeful transition for the Sec 1 cohort to secondary school. The students will undergo a series of hands-on, team-based, and interactive outdoor activities such as dragon boating and cycling as they learn to build positive bonds, develop good habits &amp; routines and strengthen their personal competencies. The students also work closely with the Class Form Teacher to forge a class identity and establish positive peer relationships. 
 
 Parents/guardians are invited to school on 6th January (Friday), 5.15pm to 7.30pm as we round up the SIR programme with the Principal’s address and the campfire segment where your child/ward will come together as a class to exhibit their teamwork through performance.
 
@@ -87,13 +93,13 @@ Please refer to a separate message sent via PG for the briefing to parents on th
 
 <u>Co-Curricular Activities (CCA) Immersion Activities </u>
 
-CCA play an integral role in the holistic growth and character development of each student. It also serves as a platform for skills acquisition and nurturing of talents. Through CCA, students will contribute actively to the school in key aspects of student leadership, school representation and community-based service-learning activities. The CCA immersion activities will serve to provide an overview of the CCA programme in Springfield and enable the students to be self-directed, interest driven and informed with regard to their CCA selection & participation. 
+CCA play an integral role in the holistic growth and character development of each student. It also serves as a platform for skills acquisition and nurturing of talents. Through CCA, students will contribute actively to the school in key aspects of student leadership, school representation and community-based service-learning activities. The CCA immersion activities will serve to provide an overview of the CCA programme in Springfield and enable the students to be self-directed, interest driven and informed with regard to their CCA selection &amp; participation. 
 
-<u>SIR & CCA Immersion Schedule (3rd to 6th January 2023)</u>
+<u>SIR &amp; CCA Immersion Schedule (3rd to 6th January 2023)</u>
 
 ![](/images/MTP4.png)
 
-H)  Enrol Your Child For Annual School-based Health & Dental Services
+H)  Enrol Your Child For Annual School-based Health &amp; Dental Services
 
 a.	The Health Promotion Board (HPB)’s School Health and Dental Services will be conducting its annual health screening, immunization, and dental services for your child. These services ensure the protection of your child’s health and early detection of health issues. We appreciate your partnership with HPB to give our children a healthier start in life. 
  
