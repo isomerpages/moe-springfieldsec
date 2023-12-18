@@ -100,28 +100,15 @@ CCA plays an integral role in the holistic growth and character development of e
 ![](/images/SIRnImmersprog.png)
 
 
-H)  Enrol Your Child For Annual School-based Health &amp; Dental Services
-
-a.	The Health Promotion Board (HPB)’s School Health and Dental Services will be conducting its annual health screening, immunization, and dental services for your child. These services ensure the protection of your child’s health and early detection of health issues. We appreciate your partnership with HPB to give our children a healthier start in life. 
- 
-b.	Your consent is needed to ensure your child receives these important health and dental services provided. You may access the Child Consent Portal via the link https://childconsent.hpb.gov.sg/.
-
-c.	Upon access to the Child Consent Portal, you will need to (1) provide consent for HPB to deliver health and dental services to your child, and (2) update your child’s medical condition(s).
-
-d.	HPB offers fully subsidized Human Papillomavirus (HPV) vaccinations to eligible Secondary 1 and 2 female students. HPV vaccinations are highly recommended for females 9-26 years old for protection against cervical cancer. Parental consent is required before HPV vaccination can be administered. 
-
-e.	HPB’s School Health Service only screens for specific conditions. For other medical conditions, please consult a doctor.
-
-f.	If you do not wish for your child to undergo HPB’s annual health screening in school, please write to HPB_SHC@hpb.gov.sg. 
 
 
 **Safe Management Measures: Exercising Social Responsibility**
 
-We would like to seek the cooperation of parents/guardians to impress upon your child/ward on the following matters with regard to exercising social responsibility: 
+We would like to seek the cooperation of parents/ guardians to impress the following matters upon your child/ ward with regard to exercising social responsibility: 
 
-1.	Staying away when unwell or if family/household members are unwell: students and staff should be reminded to remain at home if they are feeling unwell with any COVID symptoms (e.g. fever, runny nose, cough, loss of smell). 
-2.	Wipe Down Routines: All students will wipe down their desk areas and common/shared equipment each time they need to move to a different classroom/venue. 
-3.	Reinforcing good habits: Staff will remind students to continue washing their hands with soap and water regularly, with hand sanitisers topped up in learning spaces around the school, including classrooms, for staff and students to use. Parents/guardians can also remind their child/ward to continue to wash hands frequently at home, ensure good ventilation in the house, use serving spoons while during meal times.
+- <b>Stay away when unwell or if family/ household members are unwell</b>: students and staff should be reminded to remain at home if they are feeling unwell with any flu-like symptoms (e.g. fever, runny nose, cough). 
+- <b>Reinforcing good habits</b>: Staff will remind students to continue washing their hands with soap and water regularly, with hand sanitisers topped up in learning spaces around the school, including classrooms, for staff and students to use. Parents/ guardians can also remind their child/ ward to continue to wash hands frequently at home, ensure good ventilation in the house, use serving spoons during meal times.
+
 
 **Safe Management Measures: Visits to Schools by Parents/Guardians**
 1.	Students should be accompanied by at most one parent/guardian. 
