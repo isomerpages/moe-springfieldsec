@@ -18,7 +18,6 @@ First Day of school checklist on Tuesday 2nd January 2024
 
 The SIR is a unique programme designed and customised to provide the students with a holistic and purposeful embarkation for the new academic year. It will cover major components of academic learning, information technology engagement, positive classroom culture and personal, emotional &amp; social well-being. The students will undergo a series of hands-on, team-based and interactive activities as they learn to build positive bonds, develop good habits &amp; routines and strengthen their personal competencies. The students will work closely with the Class Form Teachers to forge a class identity, set daily norms and establish positive peer relationships. For the Sec 1 cohort, the outdoor learning activities will also be incorporated in the SIR to support the students moving into a new learning environment. 
 
-### SIR &amp; CCA Immersion Schedule (4th to 7th Jan 2022)
 
 ##### Secondary 1
 ![](/images/Sir_sec1.png)
