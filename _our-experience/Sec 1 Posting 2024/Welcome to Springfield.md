@@ -16,13 +16,14 @@ You might be wondering what secondary life would be like for your child/ ward an
 We look forward to partnering you in the holistic development of your child/ ward.
 
 
-A.	Administrative Information for parents/ guardians
+**A.	Administrative Information for parents/ guardians**
 
 •	Students and parents/ guardians are not required to physically report to school on the next working day (21st December 2023) following the release of S1 Posting Results. 
 
 •	The school will use the School Website (http://springfieldsec.moe.edu.sg) and Parents Gateway (PG) to communicate with parents/ guardians from the afternoon of the S1 Posting Results release date. 
 
 •	For parents/ guardians who are not on board PG, we will reach out to you via email separately.  
+
 •	Please refer to Springfield Secondary School Website for updates prior to the school term reopening. 
 
 •	Please refer to Annex A for the safe management measures put in place to ensure the safety of our staff and students in school.
