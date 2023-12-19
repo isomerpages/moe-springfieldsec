@@ -87,7 +87,7 @@ https://springfieldsec.moe.edu.sg/about-us/admin-matters/financial-assistance
 
 The SIR is a unique programme designed and customised by the school to provide a holistic and purposeful transition for the Secondary 1 cohort to secondary school. The students will undergo a series of hands-on, team-based, and interactive outdoor activities such as dragon boating and amazing race as they build positive bonds, develop good habits &amp; routines and strengthen their personal competencies. The students also work closely with the Class Form Teachers to forge class identity and establish positive peer relationships. 
 
-Parents/ guardians are invited to school on 5th January (Friday), 4pm to 7.30pm as we round up the SIR programme with briefings on Full Subject-Based Banding (FSBB) and Personalised Digital Learning Programme (PDLP), the Principal’s address and the campfire segment where your child/ ward will come together as a class to exhibit their teamwork through performance.
+Parents/ guardians are invited to school on <b>5th January (Friday), 4pm to 7.30pm </b>as we round up the SIR programme with briefings on Full Subject-Based Banding (FSBB) and Personalised Digital Learning Programme (PDLP), the Principal’s address and the campfire segment where your child/ ward will come together as a class to exhibit their teamwork through performance.
 
 Please refer to the separate message sent via PG for the briefing to parents/ guardians on the outdoor activities that your child/ ward will be going through.
 .
@@ -101,7 +101,8 @@ CCA plays an integral role in the holistic growth and character development of e
 ![](/images/SIRnImmersprog.png)
 
 
-
+<br>
+<b><u>Annex A</u></b>
 
 **Safe Management Measures: Exercising Social Responsibility**
 
