@@ -16,13 +16,14 @@ You might be wondering what secondary life would be like for your child/ ward an
 We look forward to partnering you in the holistic development of your child/ ward.
 
 
-A.	Administrative Information for parents/ guardians
+**A.	Administrative Information for parents/ guardians**
 
 •	Students and parents/ guardians are not required to physically report to school on the next working day (21st December 2023) following the release of S1 Posting Results. 
 
 •	The school will use the School Website (http://springfieldsec.moe.edu.sg) and Parents Gateway (PG) to communicate with parents/ guardians from the afternoon of the S1 Posting Results release date. 
 
 •	For parents/ guardians who are not on board PG, we will reach out to you via email separately.  
+
 •	Please refer to Springfield Secondary School Website for updates prior to the school term reopening. 
 
 •	Please refer to Annex A for the safe management measures put in place to ensure the safety of our staff and students in school.
@@ -45,9 +46,9 @@ https://springfieldsec.moe.edu.sg/about-us/admin-matters/financial-assistance
 **C) Sale of Books and Uniform &amp; PE Attire**
 
 
-  <table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:#F4F4F4;border-color:#ffffff;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding10px 5px;text-align:left;vertical-align:top;word-break:normal"><br><br><br><span style="background-color:transparent">20th - 25th Dec</span><br><br><span style="background-color:transparent"></span><br><br><br><br><br><span style="background-color:transparent"><br></span><br></th><th style="background-color:#F4F4F4;border-color:#ffffff;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><b>For Students not under Financial Assistance:</b><br><br><br><span style="background-color:transparent">Sec 1 students (non-FAS)  can place online orders from Wednesday, 20th December 2023 to Monday, 25th December 2023. </span><br><br><span style="background-color:transparent">•	For Books - <a href="https://www.sfss.cascoedusupply.com.sg/">sfss.cascoedusupply.com.sg </a> 
+  <table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:#F4F4F4;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding10px 5px;text-align:left;vertical-align:top;word-break:normal"><br><br><br><span style="background-color:transparent">20th - 25th Dec</span><br><br><span style="background-color:transparent"></span><br><br><br><br><br><span style="background-color:transparent"><br></span><br></th><th style="background-color:#F4F4F4;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><b>For Students not under Financial Assistance:</b><br><br><br><span style="background-color:transparent">Sec 1 students (non-FAS)  can place online orders from Wednesday, 20th December 2023 to Monday, 25th December 2023. </span><br><br><span style="background-color:transparent">•	For Books - <a href="https://www.sfss.cascoedusupply.com.sg/">sfss.cascoedusupply.com.sg </a> 
 (Create new account and register child data, education level choose Springfield Secondary 1 G1/G2/G3 &gt; Click Purchase Textbook &gt; select child’s name &gt; wait for booklist to load)
- </span><br><br><span style="background-color:transparent"><br>For Unifroms -  <a href="https://www.myuniformshop.com.sg/">www.myuniformshop.com.sg </a> <br>Please refer to the step by step guide <br>  <a href="https://www.myuniformshop.com.sg/buying-guide">https://www.myuniformshop.com.sg/buying-guide </a> <br><br>Note: <br>•	Please refer to the stipulated dates / times below for walk-in purchase and self-collection in school. </span></th></tr></thead><tbody><tr><td style="background-color:#F4F4F4;border-color:#ffffff;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><br><br><br>21st Dec<br><br></td><td style="background-color:#F4F4F4;border-color:#ffffff;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><b> For Students under Financial Assistance</b><br><br><br><u>New Applicants</u><br>Download FAS application form from school website <br> <a href="https://springfieldsec.moe.edu.sg/about-us/admin-matters/financial-assistance">https://springfieldsec.moe.edu.sg/about-us/admin-matters/financial-assistance  </a> <br> and submit the completed application form at the school’s General Office with all the required supporting documents. </td></tr></tbody></table>
+ </span><br><br><span style="background-color:transparent"><br>For Unifroms -  <a href="https://www.myuniformshop.com.sg/">www.myuniformshop.com.sg </a> <br>Please refer to the step by step guide <br>  <a href="https://www.myuniformshop.com.sg/buying-guide">https://www.myuniformshop.com.sg/buying-guide </a> <br><br>Note: <br>•	Please refer to the stipulated dates / times below for walk-in purchase and self-collection in school. </span></th></tr></thead><tbody><tr><td style="background-color:#F4F4F4;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><br><br><br>21st Dec<br><br></td><td style="background-color:#F4F4F4;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><b> For Students under Financial Assistance</b><br><br><br><u>New Applicants</u><br>Download FAS application form from school website <br> <a href="https://springfieldsec.moe.edu.sg/about-us/admin-matters/financial-assistance">https://springfieldsec.moe.edu.sg/about-us/admin-matters/financial-assistance  </a> <br> and submit the completed application form at the school’s General Office with all the required supporting documents. </td></tr></tbody></table>
 
 
 ![](/images/SIR0.png)
@@ -86,7 +87,7 @@ https://springfieldsec.moe.edu.sg/about-us/admin-matters/financial-assistance
 
 The SIR is a unique programme designed and customised by the school to provide a holistic and purposeful transition for the Secondary 1 cohort to secondary school. The students will undergo a series of hands-on, team-based, and interactive outdoor activities such as dragon boating and amazing race as they build positive bonds, develop good habits &amp; routines and strengthen their personal competencies. The students also work closely with the Class Form Teachers to forge class identity and establish positive peer relationships. 
 
-Parents/ guardians are invited to school on 5th January (Friday), 4pm to 7.30pm as we round up the SIR programme with briefings on Full Subject-Based Banding (FSBB) and Personalised Digital Learning Programme (PDLP), the Principal’s address and the campfire segment where your child/ ward will come together as a class to exhibit their teamwork through performance.
+Parents/ guardians are invited to school on <b>5th January (Friday), 4pm to 7.30pm </b>as we round up the SIR programme with briefings on Full Subject-Based Banding (FSBB) and Personalised Digital Learning Programme (PDLP), the Principal’s address and the campfire segment where your child/ ward will come together as a class to exhibit their teamwork through performance.
 
 Please refer to the separate message sent via PG for the briefing to parents/ guardians on the outdoor activities that your child/ ward will be going through.
 .
@@ -100,7 +101,8 @@ CCA plays an integral role in the holistic growth and character development of e
 ![](/images/SIRnImmersprog.png)
 
 
-
+<br>
+<b><u>Annex A</u></b>
 
 **Safe Management Measures: Exercising Social Responsibility**
 
