@@ -98,7 +98,7 @@ CCA plays an integral role in the holistic growth and character development of e
 
 <u>SIR &amp; CCA Immersion Schedule (2nd to 8th January 2024)</u>
 
-![](/images/SIRnImmersprog.png)
+![](/images/sec1posting.png)
 
 
 <br>
