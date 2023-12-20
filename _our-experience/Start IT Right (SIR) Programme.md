@@ -20,7 +20,7 @@ The SIR is a unique programme designed and customised to provide the students wi
 
 
 ##### Secondary 1
-![](/images/sir_sec1_edited.png)
+![](/images/sirprog_sec1.png)
 
 
 ##### Secondary 2
