@@ -8,6 +8,7 @@ description: ""
 
 Please click on the respective level &amp; stream to view the booklist for year 2024. 
 
+[Secondary 1](/files/Springfield_Sec_Sch__SFSS__Booklist_2024___FINAL_S1.pdf)<br>
 [Secondary 2 Exp](/files/sfss%20sec%202%20exp.PDF) <br>
 [Secondary 2 NA](/files/sfss%20sec%202%20na.PDF) <br>
 [Secondary 2 NT](/files/sfss%20sec%202%20nt.PDF) <br>
