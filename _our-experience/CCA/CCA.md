@@ -26,7 +26,7 @@ variant: markdown
 
 ![](/images/ccapic1.png)
 
-### CCA Selection Policy (Updated Jan 2023)
+### CCA Selection Policy (Updated January 2024)
 
 1\.	After the CCA orientation (6 January 2023), students will indicate which CCAs they wish to attend the trials/auditions/interviews. <br>
 2\.	HOD PE/CCA will send a PG to parents to discuss with their child/ward the CCAs they want to try out. The deadline for submission is 8 January, 12 p.m. <br>
