@@ -326,7 +326,7 @@ variant: markdown
     </tr>
     <tr>
       <td style="background-color:#ffffff;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Shastria Manogaran (NIE Trainee)</td>
-      <td style="background-color:#ffffff;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">shastria_manogaran@moe.edu.sg
+      <td style="background-color:#ffffff;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
 </td>
     </tr>
     <tr>
@@ -352,13 +352,13 @@ variant: markdown
 </td>
     </tr>
 		    <tr>
-      <td style="background-color:#ffffff;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Daniel Neo Chong Shern</td>
-      <td style="background-color:#ffffff;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">daniel_neo_chong_shern@moe.edu.sg
+      <td style="background-color:#ffffff;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Tan Bee Yong</td>
+      <td style="background-color:#ffffff;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">tan_bee_yong@moe.edu.sg
 </td>
     </tr>
     <tr>
-      <td style="background-color:#ffffff;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Shastria Manogaran (NIE Trainee)</td>
-      <td style="background-color:#ffffff;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">shastria_manogaran@moe.edu.sg
+      <td style="background-color:#ffffff;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Nur Fadhlin Sakina (NIE Trainee)</td>
+      <td style="background-color:#ffffff;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
 </td>
     </tr>
     <tr>
