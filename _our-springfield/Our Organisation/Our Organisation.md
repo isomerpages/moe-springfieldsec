@@ -422,14 +422,19 @@ variant: markdown
 </td>
     </tr>
     <tr>
-      <td style="background-color:#DDEEE9;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal" rowspan="2">4B (NA)</td>
-      <td style="background-color:#DDEEE9;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Ms Ng Zhao Ying</td>
-      <td style="background-color:#DDEEE9;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">ng_zhao_ying@moe.edu.sg
+      <td style="background-color:#DDEEE9;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal" rowspan="3">4B </td>
+      <td style="background-color:#DDEEE9;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Siti Nuruljannah Bte Sukamar</td>
+      <td style="background-color:#DDEEE9;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">siti_nuruljannah_bte_sukamar@moe.edu.sg
 </td>
     </tr>
     <tr>
-      <td style="background-color:#DDEEE9;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Mr Koh Di Sheng Alwyn</td>
-      <td style="background-color:#DDEEE9;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">koh_di_sheng_alwyn@moe.edu.sg
+      <td style="background-color:#DDEEE9;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Chan Hui Min</td>
+      <td style="background-color:#DDEEE9;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">chan_hui_min@moe.edu.sg
+</td>
+    </tr>
+		<tr>
+      <td style="background-color:#DDEEE9;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Shermin Chee</td>
+      <td style="background-color:#DDEEE9;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">shermin_chee@moe.edu.sg
 </td>
     </tr>
     <tr>
