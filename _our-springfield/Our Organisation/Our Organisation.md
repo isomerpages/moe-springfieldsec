@@ -476,14 +476,14 @@ variant: markdown
 </td>
     </tr>
     <tr>
-      <td style="background-color:#ffffff;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal" rowspan="2">4E (EX)</td>
-      <td style="background-color:#ffffff;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Mr Sng Kai Ming Joel</td>
-      <td style="background-color:#ffffff;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">sng_kai_ming_joel@moe.edu.sg
+      <td style="background-color:#DDEEE9;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal" rowspan="2">4F</td>
+      <td style="background-color:#DDEEE9;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Siti Zubaidah Bte Arshad</td>
+      <td style="background-color:#DDEEE9;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">siti_zubaidah_arshad@moe.edu.sg
 </td>
     </tr>
     <tr>
-      <td style="background-color:#DDEEE9;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Miss Lee Si Min Celynn</td>
-      <td style="background-color:#DDEEE9;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">lee_si_min_celynn@moe.edu.sg
+      <td style="background-color:#DDEEE9;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Chue Bing Hao, Edwin</td>
+      <td style="background-color:#DDEEE9;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">chue_bing_hao_edwin@moe.edu.sg
 </td>
     </tr>
     <tr>
