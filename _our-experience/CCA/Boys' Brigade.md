@@ -3,6 +3,7 @@ title: Boys' Brigade
 permalink: /cca/uniformed-groups/boys-brigade/
 description: ""
 third_nav_title: CCA
+variant: markdown
 ---
 # **Boys' Brigade**
 
