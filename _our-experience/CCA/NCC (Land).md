@@ -3,6 +3,7 @@ title: NCC (Land)
 permalink: /cca/uniformed-groups/ncc-land/
 description: ""
 third_nav_title: CCA
+variant: markdown
 ---
 # **NCC (Land)**
 
@@ -15,7 +16,7 @@ third_nav_title: CCA
 <table style="border-collapse:collapse;border-spacing:0" class="tg">
   <thead>
     <tr>
-      <th style="background-color:#F4F4F4;border-color:#ffffff;border-style:solid;border-width:1px;color:#323232;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:inherit;font-style:inherit;background-color:transparent">NCC Vision & Mission:</span><br>
+      <th style="background-color:#F4F4F4;border-color:#ffffff;border-style:solid;border-width:1px;color:#323232;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:inherit;font-style:inherit;background-color:transparent">NCC Vision &amp; Mission:</span><br>
       <br>
       <br></th>
       <th style="background-color:#F4F4F4;border-color:#ffffff;border-style:solid;border-width:1px;color:#323232;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:normal;font-style:inherit;color:#323232;background-color:#F4F4F4">The National Cadet Corps is a world-class organization that nurtures responsible, resilient and resourceful cadets to become successful citizens. The NCC's mission is to develop resourceful, responsible, resilient, loyal leaders and team players through fun and challenging military related activities.</span></th>
@@ -30,9 +31,9 @@ third_nav_title: CCA
     </tr>
     <tr>
       <td style="background-color:#F4F4F4;border-color:#ffffff;border-style:solid;border-width:1px;color:#484848;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="font-weight:inherit;font-style:inherit;background-color:transparent">Teacher-in-charge:</span></td>
-      <td style="background-color:#F4F4F4;border-color:#ffffff;border-style:solid;border-width:1px;color:#484848;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:inherit;font-style:inherit;background-color:#F4F4F4">Mr Muhammad Zaki Samsudi (CO)</span><br>
-      <span style="font-weight:inherit;font-style:inherit;background-color:#F4F4F4">Mr Gemmon Wah (TO)</span><br>
-      <span style="font-weight:inherit;font-style:inherit;background-color:#F4F4F4">Mr Loh Chean Meng</span><br></td>
+      <td style="background-color:#F4F4F4;border-color:#ffffff;border-style:solid;border-width:1px;color:#484848;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:inherit;font-style:inherit;background-color:#F4F4F4">Mr Muhammad Zaki Samsudi (IC)</span><br>
+      <span style="font-weight:inherit;font-style:inherit;background-color:#F4F4F4">Mr Gemmon Wah (2IC)</span><br>
+      <span style="font-weight:inherit;font-style:inherit;background-color:#F4F4F4">Mr Noel Loh </span><br></td>
     </tr>
     <tr>
       <td style="background-color:#DDEEE9;border-color:#ffffff;border-style:solid;border-width:1px;color:#484848;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="font-weight:bold;font-style:inherit;background-color:#DDEEE9">Cadet Leftenants</span><br></td>
