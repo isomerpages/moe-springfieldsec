@@ -4,7 +4,7 @@ permalink: /our-springfield/permalink/
 variant: markdown
 description: ""
 ---
-## Home School Partnership 
+# **Home School Partnership**
 
 Dear Parents / Guardians,
 
@@ -12,4 +12,4 @@ Springfield Secondary School is committed to build a positive partnership with p
 
 In order to have better home-school partnership, we hope the following guidelines provide greater clarity on how we can work hand-in-hand to help our students have ownership over their learning, develop a sense of purpose and success in life.  
  
-1.	To instill personal 
+1.	To instill personal
