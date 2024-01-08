@@ -20,7 +20,9 @@ In order to have better home-school partnership, we hope the following guideline
 <br>•	School Email: springfields@moe.edu.sg
 <br>•	Specific Teacher’s Email that can be found at: https://www.springfieldsec.moe.edu.sg/about-us/our-organisation/
 
-Teachers will generally be contactable during the timings stipulated below:
+You may also check with your child’s/ward’s teacher on the best way to contact him/her.
+
+3. Teachers will generally be contactable during the timings stipulated below:
 
 
 <table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:#F4F4F4;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">During School Term</th><th style="background-color:#F4F4F4;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-style:normal;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="color:black"></span><span style="color:black"></span><span style="color:black">During School Holidays</span></th></tr></thead><tbody><tr><td style="background-color:#DDEEE9;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Weekdays 7.00 am to 5.30 pm, excluding public holidays.
