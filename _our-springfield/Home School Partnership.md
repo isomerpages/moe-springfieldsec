@@ -30,4 +30,8 @@ You may also check with your child’s/ward’s teacher on the best way to conta
 *Teachers are provided protected time during school holidays for them to rest and recharge. Please refrain from contacting them during the holidays unless it is for vital &amp; urgent matters concerning the student.<span style="color:#1F497D"></span><span style="color:#1F497D"></span></td></tr><tr><td style="border-color:#ffffff;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"></td></tr></tbody></table>
 
 
-You may also check with your child’s/ward’s teacher on the best way to contact him/her.
+4. The school will endeavour to respond to your inquiry within a day or two for straightforward matters. Queries that require checking or further investigation may take longer (3- 5 working days). We would appreciate your understanding that there may be a delay should the teacher be away or on leave.  
+<br><br>
+5.  Appointments to meet with teachers should preferably be made at least three days in advance during the school term. Parents may call the General Office, email the school, or contact the teacher directly to make the appointment.  
+<br><br>
+6. The school looks forward to a productive partnership with parents.  Nevertheless, it is important to know that all Civil Servants are protected under the Protection from Harassment Act (PoHA); and the school reserves the right not to engage with individuals who are disrespectful, rude or abusive to our staff. For details, please refer to https://sso.agc.gov.sg/Act/PHA2014.
