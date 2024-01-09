@@ -7,6 +7,9 @@ variant: markdown
 ---
 #### **General Information for parents and students** 
 
+
+[Meet-The-Parent Consolidated Slides_5 January 2024](https://drive.google.com/file/d/1nIwM0U_mqffZXEAsf7Vl4DDNu6NIhfrF/view?usp=drive_link)
+
 Dear Parents/Guardians,
 
 A warm welcome to Springfield Secondary School! We would like to take the opportunity to congratulate your child/ ward on arriving at yet another milestone in their life as they progress from primary to secondary school.
@@ -14,6 +17,7 @@ A warm welcome to Springfield Secondary School! We would like to take the opport
 You might be wondering what secondary life would be like for your child/ ward and how  he/ she would transit and adjust to the different environment and routines. To allay your concerns and address your queries regarding your child’s/ ward’s transition to Secondary 1 in Springfield Secondary School, we have curated the relevant information and resources in this letter, School Website and Parents’ Gateway Portal. 
 
 We look forward to partnering you in the holistic development of your child/ ward.
+
 
 
 **A.	Administrative Information for parents/ guardians**
