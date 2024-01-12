@@ -3,14 +3,14 @@ title: National Digital Literacy Programme (NDLP)
 permalink: /programmes/NDLP/
 description: ""
 third_nav_title: National Digital Literacy Prog
+variant: markdown
 ---
-
 # **National Digital Literacy Programme (NDLP)**
 
 
-<img src="/images/download.png" style="width:240px;height:240px;margin-left:15px;" align = "right">
+<img src="/images/download.png" style="width:240px;height:240px;margin-left:15px;" align="right">
  
-The National Digital Literacy Programme was launched in March 2020 and is intended to equip all Secondary Students with digital literacies across the 4 components: Find, Think, Apply and Create. 
+The National Digital Literacy Programme was launched in March 2020 and is intended to equip all Secondary Students with digital literacies across the 4 components: Find, Think, Apply and Create.&nbsp;
 
 Through the NDLP, students will own personal learning devices (PLD) that will enable them to learn effectively through ICT mediated activities. The device will be used to facilitate an environment that encourages personalised learning. Support will be given to ensure that no child is denied of this opportunity. Singapore Citizen students can use their Edusave Account to pay for the PLD.
 
@@ -18,29 +18,29 @@ Springfield Secondary is scheduled for Phase 1 implementation and the non-gradua
 
 ### Intended Outcome
 
-There are **3** intended outcomes of the 1:1 personalized learning environment. 
+There are&nbsp;**3**&nbsp;intended outcomes of the 1:1 personalized learning environment.&nbsp;
 
 The use of the personal learning devices for teaching and learning will
 
-_1)    Support the development of digital literacies, where students will learn digital skills such as gathering and evaluating information online, interacting with the online community, and creating digital products._
+_1)&nbsp; &nbsp; Support the development of digital literacies, where students will learn digital skills such as gathering and evaluating information online, interacting with the online community, and creating digital products._
 
-_2)    Support self-directed and collaborative learning, where students can access digital resources on their own to acquire knowledge about a topic of their interest beyond the curriculum. They can also share and build on one another's ideas, and refine their own understanding._
+_2)&nbsp; &nbsp; Support self-directed and collaborative learning, where students can access digital resources on their own to acquire knowledge about a topic of their interest beyond the curriculum. They can also share and build on one another's ideas, and refine their own understanding._
 
-_3)    Enhance Teaching & Learning. 1:1 learning environment allows teachers and students to harness technology for greater effectiveness in teaching. For example, instructions, activities and feedback for each student could be more tailored and relevant to students' learning needs._
+_3)&nbsp; &nbsp; Enhance Teaching &amp; Learning. 1:1 learning environment allows teachers and students to harness technology for greater effectiveness in teaching. For example, instructions, activities and feedback for each student could be more tailored and relevant to students' learning needs._
 
-For information on the parents' engagement on NDLP, you may click [**_HERE_**](/files/NDLP%20-%20Briefing%20for%20Parents%20Website_Updated1.pdf) to download the slides.
+For information on the parents' engagement on NDLP, you may click&nbsp;[**_HERE_**](/files/NDLP%20-%20Briefing%20for%20Parents%20Website_Updated1.pdf)&nbsp;to download the slides.
 
 ### Springfield Digital Learning Vision
 
 ![](/images/Digital%20Learning%20Vision.png)
 
-At Springfield Secondary School, your child will be using PLD for active learning in all subjects, including the conduct, completion & submission of authentic learning/inquiry tasks that require research, digital creation and collaborative learning.
+At Springfield Secondary School, your child will be using PLD for active learning in all subjects, including the conduct, completion &amp; submission of authentic learning/inquiry tasks that require research, digital creation and collaborative learning.
 
 The students will also be embarking on a series of self-paced New Media Literacies lessons on the Student Learning Space (SLS), with facilitated discussions on cyber wellness, key digital skills and literacies by teachers.
 
-![](/images/PLD.png)
+![](/images/PDLP_2024.jpeg)
 
-The device that the students will be purchasing is intended for Teaching & Learning purposes, and device affordability for all students is one of the considerations.
+The device that the students will be purchasing is intended for Teaching &amp; Learning purposes, and device affordability for all students is one of the considerations.
 
 The cost of the device bundle can be paid using your child's Edusave account, after setting aside provision for payment of second-tier miscellaneous fees.
 
