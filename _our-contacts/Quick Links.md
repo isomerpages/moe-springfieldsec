@@ -2,6 +2,7 @@
 title: Quick Links
 permalink: /others/quick-links/
 description: ""
+variant: markdown
 ---
 # **Quick Links**
 
@@ -11,6 +12,7 @@ description: ""
 *  [MOE iCon 2.0](https://icon.moe.edu.sg)
 *  [Student Learning Space](https://learning.moe.edu.sg/)
 *  [Resource Booking Service (RBS)](https://rbs.avero-tech.com/login.html)
+*  [CDL @ SFSS](https://sites.google.com/moe.edu.sg/cdlsfss/home)
 *  [MIMS Portal](https://portal.mims.moe.gov.sg/)
 *  [MOE School Cockpit](https://schoolcockpit.moe.gov.sg)
 *  [MOE Parents Gateway](https://pg.moe.edu.sg/)
