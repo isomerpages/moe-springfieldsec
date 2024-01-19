@@ -50,11 +50,6 @@ b. Character and Citizenship Education (CCE)
   
 7\. Through the Sexuality Education lessons, secondary students will have the opportunity to develop a positive self-esteem, develop their character, and expand their understanding and repertoire of skills to deal with various issues related to sexuality, which are of prime concern at this age. 
 
-<b><u>eTeens Programme: </u></b>
-
-8\. eTeens is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, to provide Secondary 3 students with accurate information on STIs, HIV and protection from a health perspective. eTeens is conducted in two segments – a mass talk segment and a classroom-based programme. The desired outcome of the eTeens programme is that students are empowered to make wise, informed and sensible decisions.
-
-9\. Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family, and the importance of responsible decision-making and seeking help. Abstinence and upholding family values are the key messages. 
 
 **At Springfield Secondary School, the following Sexuality Education lessons will be taught in 2024:**
 
