@@ -7,6 +7,7 @@ variant: markdown
 ---
 # **MOE SEXUALITY EDUCATION IN SCHOOLS**
 
+
 1\. Sexuality Education (SEd) in schools aims to enable students to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships with others, including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters. SEd is premised on the importance of the family as the basic unit of society. This means encouraging healthy, heterosexual marriages and stable nuclear family units with extended family support. The teaching and learning of SEd is based on respect for the values and beliefs of the different ethnic and religious communities in Singapore on sexuality issues.
 
   
@@ -42,7 +43,7 @@ b. Character and Citizenship Education (CCE)
 
   
 
-**Sexuality Education Lessons:**&nbsp;
+<u>**Sexuality Education Lessons:**&nbsp;</u>
 
 6\. The values and attitudes of our youth towards sexuality are increasingly shaped by their peers, exposure to the media, popular culture and the internet. Adolescence is a complex stage in life as the adolescent attempts to find his/her own identity and often struggles with new social relationships. The period of middle adolescence (generally from 15 – 17 years old) can be a turbulent period for adolescents. The gap between physical and emotional/cognitive maturity may result in a tendency to act on impulse, experiment with various activities (including sexual activities), sometimes without understanding the unpleasant consequences that may arise from such experimentation. The need for peer acceptance can be overwhelmingly strong and hinder one’s ability to act responsibly.  Given the pressures faced by the middle adolescent from within themselves and from peers, it is important to build a strong sense of self-worth, personal conviction and an understanding of the possible consequences of sexual behaviour. 
 
@@ -74,15 +75,17 @@ b. Character and Citizenship Education (CCE)
 [SED 2024 for Secondary 5](/files/SEC_5_2024_SEXUALITY_EDUCATION_LESSONS.pdf)
 
 
-<b><u>eTeens Programme: </u></b>
+<b><u><i>eTeens</i> Programme: </u></b>
 
-8\. eTeens is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, to provide Secondary 3 students with accurate information on STIs, HIV and protection from a health perspective. eTeens is conducted in two segments – a mass talk segment and a classroom-based programme. The desired outcome of the eTeens programme is that students are empowered to make wise, informed and sensible decisions.
+8\. <i>eTeens</i> is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, to provide Secondary 3 students with accurate information on STIs, HIV and protection from a health perspective. <i>eTeens</i> is conducted in two segments – a mass talk segment and a classroom-based programme. The desired outcome of the <i>eTeens</i> programme is that students are empowered to make wise, informed and sensible decisions.
 
 9\. Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family, and the importance of responsible decision-making and seeking help. Abstinence and upholding family values are the key messages. 
 
-**At Springfield Secondary School, the eTeens programme will be implemented as follows in 2024:**
+**At Springfield Secondary School, the <i>eTeens</i> programme will be implemented as follows in 2024:**
 
 ![](/images/sexed1.png)
+
+<b>INFORMATION FOR PARENTS</b>
 
 10\. Parents may opt their children out of the Sexuality Education lessons, eTeens and/or supplementary sexuality education programmes by MOE-approved external providers. 
 
