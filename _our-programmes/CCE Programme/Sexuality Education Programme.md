@@ -49,8 +49,13 @@ b. Character and Citizenship Education (CCE)
   
 7\. Through the Sexuality Education lessons, secondary students will have the opportunity to develop a positive self-esteem, develop their character, and expand their understanding and repertoire of skills to deal with various issues related to sexuality, which are of prime concern at this age. 
 
-**At Springfield Secondary School, the following lessons from the Sexuality Education Programme will be taught in&nbsp;2023:**
+<b><u>eTeens Programme: </u></b>
 
+8\. eTeens is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, to provide Secondary 3 students with accurate information on STIs, HIV and protection from a health perspective. eTeens is conducted in two segments – a mass talk segment and a classroom-based programme. The desired outcome of the eTeens programme is that students are empowered to make wise, informed and sensible decisions.
+
+9\. Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family, and the importance of responsible decision-making and seeking help. Abstinence and upholding family values are the key messages. 
+
+**At Springfield Secondary School, the following Sexuality Education lessons will be taught in 2024:**
 
 
 #### **SECONDARY 1**  
@@ -70,24 +75,20 @@ b. Character and Citizenship Education (CCE)
 [SED for Secondary 5.pdf](/files/SED%202023_Sec%205.pdf)
 
 
+<b><u>eTeens Programme: </u></b>
 
-**_eTeens_&nbsp;Programme:**
+8\. eTeens is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, to provide Secondary 3 students with accurate information on STIs, HIV and protection from a health perspective. eTeens is conducted in two segments – a mass talk segment and a classroom-based programme. The desired outcome of the eTeens programme is that students are empowered to make wise, informed and sensible decisions.
 
-8.&nbsp;_eTeens_&nbsp;is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, for Secondary 3 students to provide them with accurate information on STIs, HIV and protection from a health perspective.&nbsp;_eTeens_&nbsp;is conducted in two segments – a mass talk segment and a classroom-based programme.
+9\. Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family, and the importance of responsible decision-making and seeking help. Abstinence and upholding family values are the key messages. 
 
-9\. Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family. Abstinence and upholding family values are the key messages.&nbsp;The desired outcome of the&nbsp;_eTeens_&nbsp;programme is that students are empowered to make wise, informed and sensible decisions.
+**At Springfield Secondary School, the eTeens programme will be implemented as follows in 2024:**
 
+![](/images/sexed1.png)
 
-**At Springfield Secondary School, the&nbsp;_eTeens_&nbsp;programme will be implemented as follows in&nbsp;2022:**
+10\. Parents may opt their children out of the Sexuality Education lessons, eTeens and/or supplementary sexuality education programmes by MOE-approved external providers. 
 
-<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:#C5E0B3;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Topics/Lessons</th><th style="background-color:#C5E0B3;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Programme Learning Objectives</th><th style="background-color:#C5E0B3;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Time Period<br>(e.g. Term 3 Week 9)</th></tr></thead><tbody><tr><td style="background-color:#ffffff;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Mass Talk by HPB appointed vendor </td><td style="background-color:#ffffff;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Awareness of the different STIs and HIV/AIDS<br><br>Modes of transmission<br><br>Modes of protection, specifically on how the condom is used<br><br>Consequences and impact of STIs/HIV</td><td style="background-color:#ffffff;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Term 3 Week 3<br></td></tr><tr><td style="background-color:#DDEEE9;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Classroom-based Lesson</td><td style="background-color:#DDEEE9;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Learn to negotiate their way out of a risky situation by applying skills of assertiveness and responsible decision-making</td><td style="background-color:#DDEEE9;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Term 3 Week 3<br></td></tr></tbody></table>
+11\. Parents who wish to opt their children out of the <b>Sexuality Education lessons</b> need to complete an opt-out form. This form will be communicated to parents at the start of the year and is also downloadable [here](https://form.gov.sg/65aa02682f3ebe0011998918). The completed form is to be submitted by 07/02/2024. 
 
-### Information for Parents
+12\. Parents who wish to opt their children out of the <b>eTeens programme</b> need to complete an opt-out form. This form will be communicated to parents at the start of the year and is also downloadable [here](https://form.gov.sg/65aa08644bfb580012c95076).  The completed form is to be submitted by 04/03/2024.
 
-10\. Parents may opt their children out of the Sexuality Education lessons, eTeens and/or supplementary sexuality education programmes by MOE-approved external providers.  
-
-&nbsp;11\. Parents who wish to opt their children out of the&nbsp;**Sexuality Education lessons**&nbsp;need&nbsp;to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable&nbsp;[HERE](https://form.gov.sg/63bf8d3cd9fa4500127653be). The completed form is to be submitted by 20/01/2023.  
- 
-&nbsp;12\. Parents who wish to opt their children out of the&nbsp;**eTeens programme**&nbsp;need&nbsp;to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [HERE](https://form.gov.sg/63bf8ce419e9eb0012edd780). The completed form is to be submitted by 20/02/2022.  
- 
-&nbsp;13\. Parents can contact the School at 6318 3053, or email to&nbsp;[_springfields@moe.edu.sg_](mailto:springfields@moe.edu.sg)&nbsp;for discussion or to seek clarification about the school’s sexuality education programme.
+13\. Parents can contact the school at <u>Tel: 6318 3053 or email: springfields@moe.edu.sg </u> for discussion or to seek clarification about the school’s Sexuality Education programme.
