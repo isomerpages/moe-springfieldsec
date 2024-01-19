@@ -59,20 +59,19 @@ b. Character and Citizenship Education (CCE)
 
 
 #### **SECONDARY 1**  
-
-[SED 2023 for Secondary 1.pdf](/files/SED%202023_Sec%201.pdf)
+[SED 2024 for Secondary 1](/files/SEC_1_2024_SEXUALITY_EDUCATION_LESSONS.pdf)
 
 #### **SECONDARY 2**&nbsp;
-[SED 2023 for Secondary 2.pdf](/files/SED%202023_Sec%202.pdf)
+[SED 2024 for Secondary 2](/files/SEC_2_2024_SEXUALITY_EDUCATION_LESSONS.pdf)
 
 #### **SECONDARY 3**&nbsp;
-[SED 2023 for Secondary 3.pdf](/files/SED%202023_Sec%203.pdf)
+[SED 2024 for Secondary 3](/files/SEC_3_2024_SEXUALITY_EDUCATION_LESSONS.pdf)
 
 #### **SECONDARY 4**&nbsp;
-[SED 2023 for Secondary 4.pdf](/files/SED%202023_Sec%204.pdf)
+[SED 2024 for Secondary 4](/files/SEC_4_2024_SEXUALITY_EDUCATION_LESSONS.pdf)
 
 #### **SECONDARY 5**&nbsp;
-[SED for Secondary 5.pdf](/files/SED%202023_Sec%205.pdf)
+[SED 2024 for Secondary 5](/files/SEC_5_2024_SEXUALITY_EDUCATION_LESSONS.pdf)
 
 
 <b><u>eTeens Programme: </u></b>
