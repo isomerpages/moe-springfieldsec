@@ -23,6 +23,13 @@ sections:
           url: https://sites.google.com/view/ictspringfield
       variant: center
       button: Contact Us
+  - infopic:
+      title: Springfield Wins Gold at Project E.C.O.
+      id: infopic
+      button: READ MORE
+      url: /our-springfield/project-eco/
+      image: /images/IMG_1534.JPG
+      alt: Image alt text
   - infobar:
       title: School Corporate Video
       button: Click here to view the video
