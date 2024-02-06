@@ -1,6 +1,6 @@
 ---
 title: Project ECO 2023
-permalink: /our-springfield/project-eco/
+permalink: /our-experience/project-eco/
 variant: markdown
 description: ""
 ---

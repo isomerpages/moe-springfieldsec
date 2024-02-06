@@ -27,7 +27,7 @@ sections:
       title: Springfield Wins Gold at Project E.C.O.
       id: infopic
       button: READ MORE
-      url: /our-springfield/project-eco/
+      url: /our-experience/project-eco/
       image: /images/IMG_1534.JPG
       alt: Image alt text
   - infobar:
