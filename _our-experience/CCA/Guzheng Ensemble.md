@@ -7,6 +7,8 @@ variant: markdown
 ---
 # **Guzheng Ensemble**
 
+![](/images/GuzhengCNY.jpeg)**2024 ECAAC Reunion Lunch Celebration**
+
 ![](/images/guzheng2023_1.jpeg)
 **Watch the 2023 SYF Arts Presentation video** [HERE](https://www.youtube.com/watch?v=56OfoAdGpUQ)
 
