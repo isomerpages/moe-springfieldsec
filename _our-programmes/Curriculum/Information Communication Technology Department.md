@@ -45,7 +45,7 @@ Transformative Teaching and Learning Experiences
 In alignment with the National Digital Literacy Programme's (NDLP) aim to strengthen students' digital literacy in order for them to be future-ready, the Springfield ICT Department has developed and ran programmes which allows students to acquire digital skills across four components, i.e. "**_Find, Think, Apply, Create_**".
 
 ![](/images/ICT.jpg)
-Click [**_HERE_**](https://moe-springfieldsec-staging.netlify.app/programmes/ndlp) to learn more about the National Digital Literacy Programme (NDLP)
+Click [**_HERE_**](/programmes/ndlp) to learn more about the National Digital Literacy Programme (NDLP)
 
 ### New Media Literacy Programme
 
