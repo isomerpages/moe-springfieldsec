@@ -1,0 +1,6 @@
+collections:
+  students:
+    output: true
+    order:
+      - ICT @ Springfield.md
+      - School Rules.md
