@@ -3,6 +3,7 @@ title: DSA Exercise 2023
 permalink: /about-us/direct-school-admissions/dsa-exercise-2023/
 description: ""
 third_nav_title: Direct School Admissions
+variant: markdown
 ---
 # **DSA Exercise 2023**
 
@@ -60,6 +61,8 @@ I used to be in Wushu in Primary School but had confidence issues so I dropped o
 
 _LOH JAVIER [SEC 4 COMPASSION] (2019) - CAPTAIN OF TAEKWONDO TEAM_
 
+----------------------------------------------
+
 <br>
 
 Unlike most others, I was home-schooled up till PSLE growing up. Naturally, I was more reserved and soft-spoken than most of my peers and struggled with speaking in front of a group of people initially.
@@ -73,15 +76,19 @@ In my time in Outdoor Pursuits Club (OPC), I was tried again and again, both phy
 
 _JANNA TEE [SEC 4] (2016) - NATIONAL SCHOOLS BOULDERING CHAMPION_
 
-<br>
+---------------------------------------------------
 
 ![](/images/MARK.jpg)
+
+
 
 Back in primary school, I was really a rebellious child, always getting into unnecessary trouble with the other kids in school. Back at home, I would not listen to my parents and always disobeyed them. I started to change for the better when I was in secondary school due to my CCA, Outdoor Pursuits Club (OPC). I started taking up leadership roles to guide my other fellow classmates/ teammates. It was also at OPC that I fell in love with Rockwall Climbing. <br>
 <br>There, I learnt to be disciplined and focused. Why discipline and focus? Simply because it has kept me on track with what I have planned for myself. Success doesn’t come easy. So knowing that I have that clear goal and sticking to the plan has helped me stay the path when representing Springfield and finally, Singapore. <br>
 <br>Besides that, I also learnt to believe in the process and myself. If you’re going to have doubts in yourself, you wouldn’t break new barriers. I am thankful to those who have helped me along the way. I always have them at the back of my head even though I don’t tell them how much I’ve appreciated their support and guidance! Without the values and lessons I’ve learnt until now, I wouldn’t become who I am today. Someone who ensures that he sticks to a plan or goal and does not get distracted by anyone or anything.
 
 _MARK CHAN [5B] (2017) - NATIONAL ATHLETE &amp; OLYMPIC HOPEFUL IN ROCKWALL CLIMBING_
+
+---------------------------------------------------
 
 <br>
 
@@ -95,9 +102,16 @@ _SITI KHADIJAH BTE MD YAACOB (2013-2016)
 
 ![](/images/F404C84B.jpeg)
 
-I picked up the Floorball sport in primary school. Being a sporty person by nature, I also love to try out new things. Floorball wasn’t popular back then but I wanted to give it a try. I went for the trials and to my surprise, the sport was really fun and intense. I love how one moment you can be two goals down but the next moment, you’re two goals up and the tides can change at any given moment.  <br> <br>After the trials, a strong drive and passion for Floorball started to develop within me. I was then selected to represent my primary school and when it was my time to graduate, I did not do well academically. So, I used Floorball to help me get into the secondary school I wanted through DSA. I was given the opportunity to lead as the Captain for my secondary school team.  <br> <br>Floorball has shaped me into a better person with great leadership, good character and taught me that with hard work, resilience, teamwork and dedication, you can achieve your goals. I now continue my Floorball journey with my secondary school and external Floorball Club team.
+------------------------------------------
 
 
-_NG KAI YANG (2019) - FLOORBALL BOYS’ CAPTAIN_
+I found out about floorball during my primary school time. Floorball was not a popular choice back then, but I still wanted to join as I wanted to follow the footsteps of my brother. I went for the trials and ironically to me, the sport was fun and intense. I loved how fast paced and intense the game is. It really caught my eye.
 
-![](/images/floorballkai.jpg)
+After the trials, a strong passion for floorball started to develop within me as I knew that this was something that I liked. I was then selected to represent my primary school. When it was my time to graduate from my primary school, I lost passion in floorball due to the pandemic and a year of not being able to play. I joined Springfield Secondary School after discovering the school has floorball as a CCA. When I was offered to lead their floorball boys' team in Secondary Two, I straight away took up the chance.
+
+Throughout my journey in both primary and secondary school, floorball has been instrumental in shaping my character. It instilled in me the values of leadership, resilience, and teamwork, proving that with dedication and effort, one can surpass expectations. Despite the obstacles that may arise, I remain committed to continuing my floorball journey with my secondary school team.
+
+
+_Muhammad Hazim Bin Muhammad Rizal (2024)  - FLOORBALL BOYS’ CAPTAIN_
+
+![](/images/DSAboys1.jpg)
