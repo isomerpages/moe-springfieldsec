@@ -63,7 +63,6 @@ _LOH JAVIER [SEC 4 COMPASSION] (2019) - CAPTAIN OF TAEKWONDO TEAM_
 
 ----------------------------------------------
 
-<br>
 
 Unlike most others, I was home-schooled up till PSLE growing up. Naturally, I was more reserved and soft-spoken than most of my peers and struggled with speaking in front of a group of people initially.
 
@@ -91,13 +90,11 @@ _MARK CHAN [5B] (2017) - NATIONAL ATHLETE &amp; OLYMPIC HOPEFUL IN ROCKWALL CLIM
 ---------------------------------------------------
 
 
-
 Floorball has been my hobby since Primary 3. The fast-paced game encourages me to make decisions quickly and practice communication among my teammates in court. I was elected the Vice-Captain and did my best to lead by example. I am thankful for my Teachers-In-Charge, my Coach, and especially my Teammates for being a part of my Springfield floorball journey.  <br>My passion for Floorball has yet to fade. When I was an Nanyang Polytechnic pursuing a Diploma in Sport and Wellness Management, I continued to pursue my passion in Floorball by playing for U Sports Portege FC and for the Polytechnic. Certainly, the four years playing floorball has helped me in becoming someone who is more resilient to challenges, confident to stand out, and disciplined to juggle various responsibilities.
 
 _SITI KHADIJAH BTE MD YAACOB (2013-2016)
 <br>2013: NSG C Div 2ND PLACE
 <br>2015: NSG B Div 2ND PLACE_
-
 
 
 ![](/images/F404C84B.jpeg)
