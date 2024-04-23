@@ -34,20 +34,6 @@ _Please note that meeting all the criteria does not guarantee that the student w
 
 
 
-**(B) APPLICATION PROCESS**
-
-Application can be made via the DSA-SEC Portal online, from 4 May 2023 (Thu), 9am to 31 May 2023 (Wed), 3pm. There is no cost involved in the application. For more details, please refer to MOE website – www.moe.gov.sg/dsa-sec. 
-
-
-**(C) IMPORTANT DATES TO NOTE**
-
-
-![](/images/dsaapplication.PNG)
-
-
-Students who are successfully admitted to the school via DSA are expected to honour their commitment to the school, and participate in the activities related to the talent that they are selected for throughout their time in the school.
-<br>Parents and students are encouraged to choose schools based on the student’s aptitudes and strengths, bearing in mind the schools’ academic and non-academic requirements, and the programmes available to develop the area of talent
-<br>For more information on DSA-Sec, please refer to the MOE website at https://www.moe.gov.sg/dsa-sec
 
 
 ##### **Reflections from Our Students**
