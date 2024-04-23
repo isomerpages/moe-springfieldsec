@@ -1,13 +1,13 @@
 ---
-title: DSA Exercise 2023
-permalink: /about-us/direct-school-admissions/dsa-exercise-2023/
+title: DSA Exercise 2024
+permalink: /about-us/direct-school-admission/dsa-exercise-2024/
 description: ""
-third_nav_title: Direct School Admissions
+third_nav_title: Direct School Admission
 variant: markdown
 ---
-# **DSA Exercise 2023**
+# **DSA Exercise 2024**
 
-#### **DSA Exercise 2023**
+#### **DSA Exercise 2024**
 
 In Springfield, we nurture students to be lifelong learners and exemplary leaders. We invite Primary 6 students with sporting talent to join our school through the DSA Exercise.
 
@@ -16,13 +16,13 @@ In Springfield, we nurture students to be lifelong learners and exemplary leader
 **(A) SELECTION CRITERIA**
 
 1. Students who have:
-<br>•	achievements or exhibit potential in the following sports: Rockwall Climbing, Taekwondo and Floorball 
-<br>•	passionate in one of the following sports: Rockwall Climbing, Taekwondo and Floorball
-<br>•	good character and leadership skills / taken on leadership position in schools
+<br>•	achievements or exhibit potential in the following areas: Rockwall Climbing, Taekwondo, Floorball and STEM
+<br>•	passionate in one of the following areas: Rockwall Climbing, Taekwondo, Floorball and STEM
+<br>•good character and leadership skills / taken on leadership position in schools
 
-2. Applications for 2023 DSA-Secondary Exercise will open from 4th May 2023 and the selection process will be conducted at our school.
+2. Applications for 2024 DSA-Secondary Exercise will open from 7th May 2024 and the selection process will be conducted at our school.
 
-For more information on the programmes, activities and/or opportunities that students can expect to participate in for Floorball, Rockwall Climbing and Taekwondo, please refer to our School’s CCA Website.
+For more information on the programmes, activities and/or opportunities that students can expect to participate in for Floorball, Rockwall Climbing, Taekwondo and STEM, please refer to the school website.
 
 ![](/images/dsaselection1.PNG)
 
@@ -34,20 +34,6 @@ _Please note that meeting all the criteria does not guarantee that the student w
 
 
 
-**(B) APPLICATION PROCESS**
-
-Application can be made via the DSA-SEC Portal online, from 4 May 2023 (Thu), 9am to 31 May 2023 (Wed), 3pm. There is no cost involved in the application. For more details, please refer to MOE website – www.moe.gov.sg/dsa-sec. 
-
-
-**(C) IMPORTANT DATES TO NOTE**
-
-
-![](/images/dsaapplication.PNG)
-
-
-Students who are successfully admitted to the school via DSA are expected to honour their commitment to the school, and participate in the activities related to the talent that they are selected for throughout their time in the school.
-<br>Parents and students are encouraged to choose schools based on the student’s aptitudes and strengths, bearing in mind the schools’ academic and non-academic requirements, and the programmes available to develop the area of talent
-<br>For more information on DSA-Sec, please refer to the MOE website at https://www.moe.gov.sg/dsa-sec
 
 
 ##### **Reflections from Our Students**
