@@ -105,7 +105,7 @@ STEM and further their passion and skillsets through learning journeys, work
 attachments and internships to STEM-related organisations for opportunities to apply
 their knowledge and gain greater awareness of the range of STEM-related job
 opportunities and industries. They will also be able to join our EcoSTEM Club CCA, and
-participate in national STEM research programmes and competitions with mentorship
+participate in STEM research programmes and national competitions with mentorship
 from our teachers and Pathfinders in relevant STEM-related organisations and
 agencies.
 
