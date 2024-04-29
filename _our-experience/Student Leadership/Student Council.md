@@ -15,12 +15,11 @@ our school's vision of "Lifelong Learners, Exemplary Leaders."
 ![](/images/studentcouncil1.jpg)
 
 
-##### Teachers-in-charge
-\. 1.	Ms Judith Ho (Sec 4 and EXCOs)<br>
-\. 2.	Mr Lim Yu Jie/Miss Fadhlin (Sec 3) <br>
-\. 3.	Mr Joel Sng (Sec 2) <br>
-\. 4.	Ms Ng Zhao Ying (Sec 1)
-
+##### Teachers-in-charge #####
+-	Ms Judith Ho (Sec 4 and EXCOs)
+-	Mr Lim Yu Jie/Miss Fadhlin (Sec 3)
+-	Mr Joel Sng (Sec 2)
+-	Ms Ng Zhao Ying (Sec 1)
 
 ##### Executive Committee (EXCO) 2024/2025
 President: Muhammad Hazril Oh Bin Mohamed Yazid <br>
@@ -38,25 +37,37 @@ Vellina Sathiaseelan
 ![](/images/studentcouncil3.jpg)
 
 
+##### Championing Character and Leadership
+The Student Council (SC) is dedicated to fostering a community where character and leadership flourish. We strive to cultivate an environment where every student can reach their fullest potential, empowering them to embrace challenges, learn continuously, and lead with integrity in both their academic pursuits and personal endeavors.
 
 
+##### Empowering Student Representatives
+The SC comprises students selected by a panel of teachers who identifies the most qualified candidates to serve on the SC. These individuals demonstrate not only academic excellence but also strong leadership qualities, integrity, and a genuine commitment to serving their peers and the school community. Together, we organize and manage school events and activities, fostering a vibrant school culture and enhancing student welfare.
+
+Some of the activities that the SC have planned are:
 
 
+**Student Council Camp 2024**
+![](/images/studentcouncil4_jpg.png)
 
-<table class="tg" style="border-collapse:collapse;border-spacing:0"><thead><tr><th style="background-color:#ffffff;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Teachers-In-Charge</th><th style="background-color:#ffffff;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Events / Activities for 2020</th></tr></thead><tbody><tr><td style="background-color:#DDEEE9;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"> <br> <br>Ms Nurhuda Osman (IC)<br>Ms Judith Ho Shu Ling (2IC)<br>Mr Mohamed Farhan Bin Abdul Latiff</td><td style="background-color:#DDEEE9;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Secondary 1 Orientation Programme<br>Campaigning for safe distancing measures<br>Presidential Elections<br>SEC Investiture<br>Teachers’ Day Celebrations<br>Day-to-Day Management of School Processes</td></tr></tbody></table>
 
-**Training Schedule**
+**Friendship Day 2024**
+![](/images/studentcouncil5_jpg.png)
 
-<table class="tg" style="border-collapse:collapse;border-spacing:0"><thead><tr><th style="background-color:#ffffff;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Day</th><th style="background-color:#ffffff;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Time</th><th style="background-color:#ffffff;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Venue</th></tr></thead><tbody><tr><td rowspan="2" style="background-color:#DDEEE9;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Odd Fridays <br></td><td style="background-color:#DDEEE9;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">2.30PM - 4PM<br></td><td style="background-color:#DDEEE9;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Classroom<br>(Springfield Secondary School)</td></tr></tbody></table>
+**Student Leaders’ Investiture 2024**
+![](/images/studentcouncil6_jpg.png)
 
-The Student Executive Committee (SEC) is the voice of students in academic and administrative matters in Springfield. We are the channel through which student concerns are brought to the attention of the staff and school leaders of Springfield. It is essential that we hear the concerns of all students and we welcome any suggestions and feedback that you wish to make!
 
-The SEC strongly believes in nurturing Character for a better future and aligns itself to the School's Vision, "Lifelong Learners, Exemplary Leaders". As the highest Student representative body in Springfield, the SEC consists of members hand picked by the School, mandated to organize and manage School Events and Activities to promote a healthy School Culture and improve the Students' General Welfare.
+**Rice to the Occasion (RTTO) in collaboration with Temasek Junior College** <br>
+Rice to the Occasion is an annual event organized by Temasek Junior College, Bedok Youth Network and South East CDC. This year, Springfield Student Councillors initiated the collaboration and applied their leadership skills and knowledge that they have learned. They displayed confidence and empathy in their interaction with the various stakeholders and seniors. The interaction with the seniors is a key component of the service learning event that embodies the spirit of community service and fosters meaningful connections between the Student Councillors and the wider community. 
 
-The SEC is currently made up of Students holding key positions in their respective CCAs as well as Students who have good academic and leadership potential and it is through this platform that we hope the Strong Leadership values can eventually be cascaded through all CCAs.
+![](/images/studentcouncil7_jpg.png)
 
-![](/images/Student%20leaders1.png)
+**Teachers' Day 2023**
+![](/images/studentcouncil8_jpg.png)
 
-![](/images/SEC3.jpg)
+**Leading by Example**<br>
+As the apex of student representation within our school community, the Student Council (SC) embodies a commitment to upholding and exemplifying the highest standards of leadership. The SC aims to serve as role models, demonstrating integrity, empathy, and accountability in all our endeavors. 
+By fostering a culture of mentorship and collaboration, the SC seeks to create a legacy of leadership excellence that transcends individual terms of office. Together, we are committed to nurturing a new generation of exemplary leaders who will continue to uphold the school's values, inspire and empower our fellow students to become exemplary leaders in their own right.
 
-![](/images/SEC4.jpg)
+
