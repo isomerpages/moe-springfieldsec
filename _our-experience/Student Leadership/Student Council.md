@@ -22,8 +22,26 @@ our school's vision of "Lifelong Learners, Exemplary Leaders."
 \. 4.	Ms Ng Zhao Ying (Sec 1)
 
 
+##### Executive Committee (EXCO) 2024/2025
+President: Muhammad Hazril Oh Bin Mohamed Yazid <br>
+Vice President (Head Manpower): Ng Zi Xuan Nicole <br>
+Vice President (Head Publicity): Vinoth Kumar Hashini
 
-![](/images/SEC%202018%20(3)%20(1).jpg)
+![](/images/studentcouncil2_jpg.png)
+
+##### Events Overall In-charge: 
+Muhammad Irfan Bin Muhammad Ismadi <br>
+Muhammad Eldrick Sum Hong Xiang <br>
+Mohamed Haziq Bin Mohamed Idzlan <br>
+Vellina Sathiaseelan
+
+![](/images/studentcouncil3.jpg)
+
+
+
+
+
+
 
 <table class="tg" style="border-collapse:collapse;border-spacing:0"><thead><tr><th style="background-color:#ffffff;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Teachers-In-Charge</th><th style="background-color:#ffffff;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Events / Activities for 2020</th></tr></thead><tbody><tr><td style="background-color:#DDEEE9;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"> <br> <br>Ms Nurhuda Osman (IC)<br>Ms Judith Ho Shu Ling (2IC)<br>Mr Mohamed Farhan Bin Abdul Latiff</td><td style="background-color:#DDEEE9;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Secondary 1 Orientation Programme<br>Campaigning for safe distancing measures<br>Presidential Elections<br>SEC Investiture<br>Teachers’ Day Celebrations<br>Day-to-Day Management of School Processes</td></tr></tbody></table>
 
