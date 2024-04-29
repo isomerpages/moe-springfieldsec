@@ -69,5 +69,3 @@ Rice to the Occasion is an annual event organized by Temasek Junior College, Bed
 **Leading by Example**<br>
 As the apex of student representation within our school community, the Student Council (SC) embodies a commitment to upholding and exemplifying the highest standards of leadership. The SC aims to serve as role models, demonstrating integrity, empathy, and accountability in all our endeavors. 
 By fostering a culture of mentorship and collaboration, the SC seeks to create a legacy of leadership excellence that transcends individual terms of office. Together, we are committed to nurturing a new generation of exemplary leaders who will continue to uphold the school's values, inspire and empower our fellow students to become exemplary leaders in their own right.
-
-
