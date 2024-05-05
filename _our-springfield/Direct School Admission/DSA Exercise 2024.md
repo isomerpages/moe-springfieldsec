@@ -16,13 +16,13 @@ In Springfield, we nurture students to be lifelong learners and exemplary leader
 **(A) SELECTION CRITERIA**
 
 1. Students who have:
-<br>•	achievements or exhibit potential in the following areas: Rockwall Climbing, Taekwondo, Floorball and STEM
-<br>•	passionate in one of the following areas: Rockwall Climbing, Taekwondo, Floorball and STEM
+<br>•	achievements or exhibit potential in the following areas: **Rockwall Climbing, Taekwondo, Floorball and STEM**
+<br>•	passionate in one of the following areas: **Rockwall Climbing, Taekwondo, Floorball and STEM**
 <br>•good character and leadership skills / taken on leadership position in schools
 
-2. Applications for 2024 DSA-Secondary Exercise will open from 7th May 2024 and the selection process will be conducted at our school.
+2. Applications for 2024 DSA-Secondary Exercise will open from **7th May 2024** and the selection process will be conducted at our school.
 
-For more information on the programmes, activities and/or opportunities that students can expect to participate in for Floorball, Rockwall Climbing, Taekwondo and STEM, please refer to the school website.
+For more information on the programmes, activities and/or opportunities that students can expect to participate in for Floorball, Rockwall Climbing, Taekwondo and STEM, please refer to our School's CCA website.
 
 ![](/images/dsaselection1.PNG)
 
