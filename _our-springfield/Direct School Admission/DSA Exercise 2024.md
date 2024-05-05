@@ -32,7 +32,16 @@ For more information on the programmes, activities and/or opportunities that stu
 
 _Please note that meeting all the criteria does not guarantee that the student will be shortlisted/ given an offer. Applicants who do not have prior experience may also apply. The school will assess applicants based on the selection criteria, which may include assessing the potential of the applicants._
 
+**(B) APPLICATION PROCESS**
 
+Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of charge and will be open from 7 May 2024, 11am to 3 June 2024, 3pm. For more details, please refer to MOE website - www.moe.gov.sg/dsa-sec  
+
+Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the schools’ academic and non-academic requirements, and the programmes available to develop the area of talent.
+
+**(C) IMPORTANT DATES TO NOTE
+**
+
+Students who are successfully admitted to the school via DSA are expected to honour their commitment to the school, and participate in the activities related to the talent they are selected for from year 1-4.
 
 
 
