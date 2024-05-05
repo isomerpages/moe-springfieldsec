@@ -30,7 +30,7 @@ For more information on the programmes, activities and/or opportunities that stu
 
 ![](/images/dsaselection3.PNG)
 
-_Please note that meeting all the criteria does not guarantee that the student will be shortlisted/ given an offer._
+_Please note that meeting all the criteria does not guarantee that the student will be shortlisted/ given an offer. Applicants who do not have prior experience may also apply. The school will assess applicants based on the selection criteria, which may include assessing the potential of the applicants._
 
 
 
