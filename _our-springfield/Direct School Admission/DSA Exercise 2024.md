@@ -24,11 +24,13 @@ In Springfield, we nurture students to be lifelong learners and exemplary leader
 
 For more information on the programmes, activities and/or opportunities that students can expect to participate in for Floorball, Rockwall Climbing, Taekwondo and STEM, please refer to our School's CCA website.
 
-![](/images/dsaselection1.PNG)
+![](/images/DSA___floorball.png)
 
-![](/images/dsaselection2.PNG)
+![](/images/DSA___Rockwall.png)
 
-![](/images/dsaselection3.PNG)
+![](/images/DSA___Taekwondo.png)
+
+![](/images/DSA___Stem.png)
 
 _Please note that meeting all the criteria does not guarantee that the student will be shortlisted/ given an offer. Applicants who do not have prior experience may also apply. The school will assess applicants based on the selection criteria, which may include assessing the potential of the applicants._
 
@@ -39,6 +41,12 @@ Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The 
 Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the schools’ academic and non-academic requirements, and the programmes available to develop the area of talent.
 
 **(C) IMPORTANT DATES TO NOTE**
+
+<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:#ffffff;border-color:#333333;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">DSA Exercise </th><th style="background-color:#ffffff;border-color:#333333;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Time Frame <br></th></tr></thead><tbody><tr><td style="background-color:#DDEEE9;border-color:#333333;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Start of DSA Application <br><br> • Application can be made via <a href="https://go.gov.sg/apply-dsa-sec /">https://go.gov.sg/apply-dsa-sec </a><br></td><td style="background-color:#DDEEE9;border-color:#333333;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:bold"></span><span style="font-weight:bold"></span><span style="font-weight:normal">7 May 2024, 11am <br>(Tuesday) <br>to 3 June 2024, 3pm <br>(Monday)
+</span></td></tr><tr><td style="background-color:#ffffff;border-color:#333333;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">• Shortlisted applicants will be invited through a letter for a sports trial and/or interview <br><br> • Shortlisted applicants will be advised on the date and time as well as attire for the tests</td><td style="background-color:#ffffff;border-color:#333333;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Between 24 June 2024 <br> to 9 Sept 2024
+<br></td></tr><tr><td style="background-color:#DDEEE9;border-color:#333333;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">• All applicants will receive letters on the outcome of their applications<br></td><td style="background-color:#DDEEE9;border-color:#333333;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Between 10 Sept 2024 <br>to 12 Sept 2024
+</td></tr><tr><td style="background-color:#ffffff;border-color:#333333;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">• PSLE Result Release<br></td><td style="background-color:#ffffff;border-color:#333333;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Late November
+  </td></tr></tbody></table>
 
 Students who are successfully admitted to the school via DSA are expected to honour their commitment to the school, and participate in the activities related to the talent they are selected for from year 1-4.
 
