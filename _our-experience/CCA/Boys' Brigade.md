@@ -16,7 +16,7 @@ variant: markdown
 <table style="border-collapse:collapse;border-spacing:0" class="tg">
   <thead>
     <tr>
-      <th style="background-color:#F4F4F4;border-color:#ffffff;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:bold;background-color:transparent">CCA General Info:</span><br>
+      <th style="background-color:#F4F4F4;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:bold;background-color:transparent">CCA General Info:</span><br>
       <br>
       <span style="font-weight:bold;background-color:transparent">1. Brief introduction</span><br>
       <br>
@@ -33,7 +33,7 @@ variant: markdown
       <br>
       <span style="font-weight:bold;background-color:transparent">4. The benefits of joining the CCA</span><br>
       <br></th>
-      <th style="background-color:#F4F4F4;border-color:#ffffff;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><br>
+      <th style="background-color:#F4F4F4;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><br>
       <span style="background-color:transparent"><br>
       1.	The Boys’ Brigade is an international movement with companies in more than 60 countries. Founded by Sir William A Smith in 1883, it is the pioneer of uniformed youth organisations. In Singapore, the BB is recognised by the Ministry of Education as an approved CCA in Schools and it is registered as a charity under the Charities Act 1982 (Registration No. 0067). Springfield Secondary Boys’ Brigade is also known as the 23rd Singapore Company. </span><br>
       <br>
@@ -57,26 +57,26 @@ variant: markdown
   </thead>
   <tbody>
     <tr>
-      <td style="background-color:#DDEEE9;border-color:#ffffff;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">CCA Schedule:<br></td>
-      <td style="background-color:#DDEEE9;border-color:#ffffff;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Day: Monday / Wednesday<br>
+      <td style="background-color:#DDEEE9;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">CCA Schedule:<br></td>
+      <td style="background-color:#DDEEE9;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Day: Monday / Wednesday<br>
       Time: 2.45PM - 5.30PM<br>
       Venue: Classroom (Springfield Secondary School)</td>
     </tr>
     <tr>
-      <td style="background-color:#F4F4F4;border-color:#ffffff;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Teacher in-charge:</td>
-      <td style="background-color:#F4F4F4;border-color:#ffffff;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">• Mr Jeremiah Loke (IC)<br>
+      <td style="background-color:#F4F4F4;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Teacher in-charge:</td>
+      <td style="background-color:#F4F4F4;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">• Mr Jeremiah Loke (IC)<br>
       • Mr Tan Yik Zhen (2IC)<br>
       • Mr Daniel Neo Chong Shern</td>
     </tr>
     <tr>
-      <td style="background-color:#DDEEE9;border-color:#ffffff;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Coaches / Trainers<br></td>
-      <td style="background-color:#DDEEE9;border-color:#ffffff;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">• Mr David Chew (Captain)<br>
+      <td style="background-color:#DDEEE9;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Coaches / Trainers<br></td>
+      <td style="background-color:#DDEEE9;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">• Mr David Chew (Captain)<br>
       • Mr Marcus Khoo<br>
       • Mr Ong Bangshi<br></td>
     </tr>
     <tr>
-      <td style="background-color:#F4F4F4;border-color:#ffffff;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">List of annual programs/events</td>
-      <td style="background-color:#F4F4F4;border-color:#ffffff;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="background-color:transparent">1. March Camp</span><br>
+      <td style="background-color:#F4F4F4;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">List of annual programs/events</td>
+      <td style="background-color:#F4F4F4;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="background-color:transparent">1. March Camp</span><br>
       <br>
       <span style="background-color:transparent">2. June Camp</span><br>
       <br>
@@ -94,8 +94,8 @@ variant: markdown
       <span style="background-color:transparent">8. BB Character Quest</span></td>
     </tr>
     <tr>
-      <td style="background-color:#DDEEE9;border-color:#ffffff;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Achievements:<br></td>
-      <td style="background-color:#DDEEE9;border-color:#ffffff;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">2019 JM Fraser Award for Excellence - TBA<br>
+      <td style="background-color:#DDEEE9;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Achievements:<br></td>
+      <td style="background-color:#DDEEE9;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">2019 JM Fraser Award for Excellence - TBA<br>
       2019 BB Week - GOLD<br>
       2019 BB Blaze - SILVER<br>
       2018 JM Fraser Award for Excellence - BRONZE<br>
@@ -106,8 +106,8 @@ variant: markdown
       2017 BB Blaze - GOLD</td>
     </tr>
     <tr>
-      <td style="background-color:#F4F4F4;border-color:#ffffff;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">External links:<br></td>
-      <td style="background-color:#F4F4F4;border-color:#ffffff;border-style:solid;border-width:1px;color:#00F;font-family:Arial, sans-serif;font-size:14px;font-style:italic;overflow:hidden;padding:10px 5px;text-align:left;text-decoration:underline;vertical-align:top;word-break:normal">
+      <td style="background-color:#F4F4F4;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">External links:<br></td>
+      <td style="background-color:#F4F4F4;border-color:#000000;border-style:solid;border-width:1px;color:#00F;font-family:Arial, sans-serif;font-size:14px;font-style:italic;overflow:hidden;padding:10px 5px;text-align:left;text-decoration:underline;vertical-align:top;word-break:normal">
         <a href="http://www.bb.org.sg/">http://www.bb.org.sg</a>
       </td>
     </tr>
