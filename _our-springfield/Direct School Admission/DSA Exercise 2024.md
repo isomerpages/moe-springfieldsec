@@ -24,11 +24,13 @@ In Springfield, we nurture students to be lifelong learners and exemplary leader
 
 For more information on the programmes, activities and/or opportunities that students can expect to participate in for Floorball, Rockwall Climbing, Taekwondo and STEM, please refer to our School's CCA website.
 
-![](/images/dsaselection1.PNG)
+![](/images/DSA___floorball.png)
 
-![](/images/dsaselection2.PNG)
+![](/images/DSA___Rockwall.png)
 
-![](/images/dsaselection3.PNG)
+![](/images/DSA___Taekwondo.png)
+
+![](/images/DSA___Stem.png)
 
 _Please note that meeting all the criteria does not guarantee that the student will be shortlisted/ given an offer. Applicants who do not have prior experience may also apply. The school will assess applicants based on the selection criteria, which may include assessing the potential of the applicants._
 
