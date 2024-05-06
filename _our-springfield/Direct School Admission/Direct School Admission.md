@@ -83,6 +83,9 @@ Participating students are given participation opportunities that range from tea
 to sparring categories. Participation in competitions help students to develop mental
 strength, focus and resilience.
 
+![](/images/dsa_achievement1.png)
+![](/images/dsa_achievement2.png)
+
 **(d) STEM**
 
 Springfield’s Science, Technology, Engineering and Mathematics (STEM) programme
@@ -111,5 +114,3 @@ agencies.
 
 ### Consolidated trend and major achievements
 
-![](/images/dsa_table_1.PNG)
-![](/images/dsa_table_2.PNG)
