@@ -83,8 +83,10 @@ Participating students are given participation opportunities that range from tea
 to sparring categories. Participation in competitions help students to develop mental
 strength, focus and resilience.
 
-![](/images/dsa_achievement1.png)
-![](/images/dsa_achievement2.png)
+### Consolidated trend and major achievements
+
+![](/images/dsa_achievement3.png)
+![](/images/dsa_achievement4.png)
 
 **(d) STEM**
 
@@ -111,6 +113,4 @@ opportunities and industries. They will also be able to join our EcoSTEM Club CC
 participate in STEM research programmes and national competitions with mentorship
 from our teachers and Pathfinders in relevant STEM-related organisations and
 agencies.
-
-### Consolidated trend and major achievements
 
