@@ -115,6 +115,12 @@ from our teachers and Pathfinders in relevant STEM-related organisations and
 agencies.
 
 
+For more information on STEM-ALP, click on this link:
+[https://www.springfieldsec.moe.edu.sg/programmes/applied-learning-programme-alp/](https://www.springfieldsec.moe.edu.sg/programmes/applied-learning-programme-alp/)
+
+For more information on EcoSTEM Club CCA, click on this link:
+[https://www.springfieldsec.moe.edu.sg/cca/clubs-n-societies/ecostem-club/](https://www.springfieldsec.moe.edu.sg/cca/clubs-n-societies/ecostem-club/)
+
 #### Achievements
 
 **Science Research Programme**
