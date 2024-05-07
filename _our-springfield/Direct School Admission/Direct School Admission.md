@@ -119,3 +119,6 @@ agencies.
 
 **Science Research Programme**
 ![](/images/stem_acheivement1.png)
+
+**STEM Competitions**
+![](/images/stem_acheivement2.png)
