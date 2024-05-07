@@ -3,30 +3,29 @@ title: Science Department
 permalink: /about-us/our-organisation/science-department/
 description: ""
 third_nav_title: Curriculum
+variant: markdown
 ---
-
 # **Science Department**
 
 **Head of Department**  
 Mrs Norain Johari    
-Email: [norain_anuar@moe.edu.sg_](mailto:norain_anuar@moe.edu.sg)
+Email:&nbsp;[norain_anuar@moe.edu.sg_](mailto:norain_anuar@moe.edu.sg)
 
-**Subject Head**    
-	(**Lower Secondary Scinece**)(**Acting**)<br>
+**Level Head**    
 Miss Lim Hui Leng    
-Email: [lim_hui_leng_b@moe.edu.sg](mailto:lim_hui_leng_b@moe.edu.sg)
+Email:&nbsp;[lim_hui_leng_b@moe.edu.sg](mailto:lim_hui_leng_b@moe.edu.sg)
 
 **Physics Coordinator**    
-Mr Koh Di Sheng Alwyn   
-Email: [koh_di_sheng_alwyn@moe.edu.sg](mailto:koh_di_sheng_alwyn@moe.edu.sg)
+Mrs Tan Bee Yong   
+Email:&nbsp;[tan_bee_yong_a@moe.edu.sg](mailto:tan_bee_yong_a@moe.edu.sg)
 
 **Chemistry Coordinator**    
 Ms Ho  Shu Ling Judith   
-Email: [ho_shu_ling_judith@moe.edu.sg](mailto:ho_shu_ling_judith@moe.edu.sg)
+Email:&nbsp;[ho_shu_ling_judith@moe.edu.sg](mailto:ho_shu_ling_judith@moe.edu.sg)
 
-**Science(NT) Coordinator**    
-Mdm Tan Bee Yong  
-Email: [tan_bee_yong_a@moe.edu.sg](mailto:tan_bee_yong_a@moe.edu.sg)
+**Biology Coordinator**    
+Ms Lee Si Min Celynn<br>
+Email:&nbsp;[lee_si_min_celynn@moe.edu.sg](mailto:lee_si_min_celynn@moe.edu.sg)
 
 
 ### Department Goals/Objectives:
