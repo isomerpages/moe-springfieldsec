@@ -90,29 +90,11 @@ strength, focus and resilience.
 
 **(d) STEM**
 
-Springfield’s Science, Technology, Engineering and Mathematics (STEM) programme
-focuses on **STEMpowering lifelong learners and exemplary leaders with
-STEMpathy**. Through problem-based learning and authentic STEM experiences, we
-aim to ignite curiosity and enable our students to appreciate the relevance of their
-learning beyond the classroom. We develop our students to make connections and
-apply their creativity, communicate effectively and work collaboratively, and actively
-contribute to the community and society, so as to make a positive difference to the lives
-of others.
+Springfield’s Science, Technology, Engineering and Mathematics (STEM) programme focuses on **STEMpowering lifelong learners and exemplary leaders with STEMpathy**. Through problem-based learning and authentic STEM experiences, we aim to ignite curiosity and enable our students to appreciate the relevance of their learning beyond the classroom. We develop our students to make connections and apply their creativity, communicate effectively and work collaboratively, and actively contribute to the community and society, so as to make a positive difference to the lives of others. 
 
-At Springfield, we **inspire** the interest in STEM in all students through our Applied
-Learning Programme, which is focused on food sustainability and health, as well as a
-STEM integrated IP Curriculum and transdisciplinary, real-world STEM-related projects.
-Students subsequently **aspire** to deepen their interest and gain further exposure via in-
-house programmes like STEMania, and national programmes lie STEM Playground.
+At Springfield, we **inspire** the interest in STEM in all students through our Applied Learning Programme, which is focused on Health and Food Science, as well as a STEM integrated IP Curriculum and transdisciplinary, real-world STEM-related projects. Students subsequently **aspire** to deepen their interest and gain further exposure via in-house programmes like STEMania, and national programmes like STEM Playground. 
 
-Students who apply through DSA will be given opportunities to **excel** in the area of
-STEM and further their passion and skillsets through learning journeys, work
-attachments and internships to STEM-related organisations for opportunities to apply
-their knowledge and gain greater awareness of the range of STEM-related job
-opportunities and industries. They will also be able to join our EcoSTEM Club CCA, and
-participate in STEM research programmes and national competitions with mentorship
-from our teachers and Pathfinders in relevant STEM-related organisations and
-agencies.
+Students who apply through DSA will be given opportunities to **excel** in the area of STEM and further their passion and skillsets through learning journeys, work attachments and internships to STEM-related organisations for opportunities to apply their knowledge and gain greater awareness of the range of STEM-related job opportunities and industries. They will also be able to join  our EcoSTEM Club CCA, and participate in STEM research programmes and national competitions with mentorship from our teachers and Pathfinders in relevant STEM-related organisations and agencies.  
 
 
 For more information on STEM-ALP, click on this link:
