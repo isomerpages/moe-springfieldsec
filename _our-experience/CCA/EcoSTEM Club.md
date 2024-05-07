@@ -9,13 +9,12 @@ third_nav_title: CCA
 ![](/images/stem1.jpg)
 
 
-VIDEO HERE
+
 
 #### EcoSTEM Activites
 
 **EcoSTEM students managing Bio-Digestor**
 ![](/images/stem2.jpg)
-
 
 **Learning Journey to Tampines Sustainability Facility organised by Otolith Enrichment**
 ![](/images/stem12.png)
