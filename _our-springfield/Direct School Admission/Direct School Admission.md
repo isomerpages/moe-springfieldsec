@@ -114,3 +114,8 @@ participate in STEM research programmes and national competitions with mentorshi
 from our teachers and Pathfinders in relevant STEM-related organisations and
 agencies.
 
+
+#### Achievements
+
+**Science Research Programme**
+![](/images/stem_acheivement1.png)
