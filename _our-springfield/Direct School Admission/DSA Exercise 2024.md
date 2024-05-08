@@ -65,17 +65,15 @@ _LOH JAVIER [SEC 4 COMPASSION] (2019) - CAPTAIN OF TAEKWONDO TEAM_
 
 ----------------------------------------------
 
+![](/images/OPC_reflection.jpg)
 
-Unlike most others, I was home-schooled up till PSLE growing up. Naturally, I was more reserved and soft-spoken than most of my peers and struggled with speaking in front of a group of people initially.
+I was never the most hardworking or smartest person in the room but Outdoor Pursuits Club, OPC was my motivation to try and become the best version of myself. I joined Springfield with the sole purpose of joining OPC as I heard the teachers and coaches are very supportive and the members are very committed and motivated. I had been climbing for a while but I never had a team backing me during competitions. OPC is a team in which everyone is supported regardless of strength or skill. We celebrate highs together and work through lows. 
 
-![](/images/JENNA.jpg)
+Through my experience in OPC, I have reignited my passion for climbing and now am in Victoria Junior College representing the school at local competitions. OPC has grown my resilience, compassion and responsibility. While in the CCA, I was appointed climbing master. I had to help coach the team when our coach was not around and had to encourage the team during competitions. 
 
+Thanks to OPC, I've grown to thrive for excellence not only in my sport but in my studies and all other aspects of my life.
 
-In my time in Outdoor Pursuits Club (OPC), I was tried again and again, both physically and mentally. I was given many leadership opportunities such as being appointed as the Overall-In-Charge for a day in our Annual Let’s Rock Competition in Secondary 2 and the Climbing Master in the CCA for my Upper Secondary days. Through these experiences, I quickly built confidence and was eventually able to clearly delegate roles to my Juniors. <br>
-<br>Rock Climbing has also made me one with greater mental tenacity and determination since in training, we fail more than we succeed. I’ve also learnt to deal with failures and setbacks as each time I fall, I have to pick myself up, reorganize my thoughts and give it another good go with the aim of coming back stronger. To me, winning is not all that important. More often than not, progress is more triumphant. <br>
-<br>All these takeaways that I got from my time in OPC translated to my academics where self-discipline, resilience and determination were of great importance
-
-_JANNA TEE [SEC 4] (2016) - NATIONAL SCHOOLS BOULDERING CHAMPION_
+_Amanda Chan (2023)_
 
 ---------------------------------------------------
 
