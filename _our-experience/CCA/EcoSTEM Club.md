@@ -35,6 +35,7 @@ Watch the [Eco STEM Publicity Video](https://www.youtube.com/embed/H9YFHd372DQ) 
 
 **Launching of Drone during School Awards’ Day**
 ![](/images/stem14.png)
+<br>
 
 <table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:#ffffff;border-color:#333333;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Brief Introduction: </th><th style="background-color:#ffffff;border-color:#333333;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">The EcoSTEM Club is a trailblazing CCA started in 2024 to nurture future ready innovators for a sustainable future. <br><br>
 Members of the EcoSTEM Club will be empowered to learn and apply STEM (Science, Technology, Engineering, Mathematics) knowledge and skills to solve environmental sustainability issues. As Environmental Stewards, members will be groomed to be student leaders to promote environmental awareness and habits within the school, their home and community.
