@@ -8,7 +8,7 @@ third_nav_title: CCA
 # **EcoSTEM Club**
 ![](/images/stem1.jpg)
 
-
+Watch the [Eco STEM Publicity Video](https://www.youtube.com/embed/H9YFHd372DQ) here
 
 
 #### EcoSTEM Activites
