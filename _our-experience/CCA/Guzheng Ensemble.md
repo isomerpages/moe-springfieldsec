@@ -21,6 +21,9 @@ variant: markdown
 
 <br>
 
+**SEP - Inline Skating**
+![](/images/guzhengpic5.jpg)
+
 **SYF 2023**
 ![](/images/guzheng2023_2.jpeg)
 
