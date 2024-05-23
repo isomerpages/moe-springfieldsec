@@ -24,6 +24,16 @@ sections:
       variant: center
       button: Contact Us
   - infopic:
+      title: Taekwondo (TKD) Triumphs Again!
+      id: infopic
+      description: Our heartiest congratulations to our TKD team for clinching two
+        divisional titles - 3rd place for B Div Boys & 2nd place for B Div
+        Girls. Good job TKD team!🌟⭐️
+      button: Read more
+      url: /taekwondo-tkd-triumphs-again/
+      image: /images/TKDaward2.jpg
+      alt: Image alt text
+  - infopic:
       title: Springfield Wins Gold at Project E.C.O.
       id: infopic
       button: READ MORE
