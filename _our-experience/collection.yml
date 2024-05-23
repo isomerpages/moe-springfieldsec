@@ -2,7 +2,6 @@ collections:
   our-experience:
     output: true
     order:
-      - Taekwondo (TKD) Triumphs Again.md
       - CCA/.keep
       - CCA/CCA.md
       - CCA/Floorball (Girls).md
@@ -30,6 +29,7 @@ collections:
       - Yearbook.md
       - Termly Letter.md
       - Project ECO 2023.md
+      - Taekwondo (TKD) Triumphs Again.md
       - Sec 1 Posting 2024/.keep
       - Sec 1 Posting 2024/Welcome to Springfield.md
       - "Sec 1 Posting 2024/Parent Kit: Pri to Sec Transition.md"
