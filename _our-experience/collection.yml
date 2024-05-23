@@ -2,6 +2,7 @@ collections:
   our-experience:
     output: true
     order:
+      - Taekwondo (TKD) Triumphs Again.md
       - CCA/.keep
       - CCA/CCA.md
       - CCA/Floorball (Girls).md
