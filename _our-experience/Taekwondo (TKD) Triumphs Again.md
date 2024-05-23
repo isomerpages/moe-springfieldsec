@@ -22,4 +22,4 @@ Training sessions were a testament to their perseverance. Students pushed themse
 
 The **team spirit** was undeniable, as students cheered each other on and celebrated individual victories knowing they contributed to the collective goal. This combined effort culminated in their well-deserved podium finishes at the National School Games, a display of their unwavering commitment and the culmination of countless hours of practice.
 
-Once again, heartiest congratulations to our TKD team!
+Once again, heartiest congratulations to our TKD team! 🌟⭐️
