@@ -25,13 +25,12 @@ sections:
       button: Contact Us
   - infopic:
       title: Taekwondo (TKD) Triumphs Again!
-      subtitle: Add an image and text
       id: infopic
       description: Our heartiest congratulations to our TKD team for clinching two
         divisional titles - 3rd place for B Div Boys & 2nd place for B Div
         Girls. Good job TKD team!🌟⭐️
       button: Read more
-      url: /our-experience/project-eco/
+      url: /taekwondo-tkd-triumphs-again/
       image: /images/TKDaward2.jpg
       alt: Image alt text
   - infopic:
