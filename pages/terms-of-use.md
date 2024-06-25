@@ -12,7 +12,7 @@ Thank you for visiting Springfield Secondary School website. By accessing and us
 <br>3. This Web Site is maintained by Springfield Secondary School. It is owned by Springfield Secondary School.
 <br>4. The materials located on this Web Site including the information and software programs (the Contents), are protected by copyright, trademark and other forms of proprietary rights. All rights, title and interest in the Contents are owned by, licensed to or controlled by Springfield Secondary School. 
 <br>**Privacy Policy**
-<br>5. Click [here](springfieldsec.moe.edu.sg/privacy) to review this Web Site Privacy Statement. 
+<br>5. Click [here](springfieldsec.moe.edu.sg/privacy/) to review this Web Site Privacy Statement. 
 <br>**Restrictions on Use of Materials**
 <br>6. Except as otherwise provided, the Contents of this Web Site shall not be reproduced, republished, uploaded, posted, transmitted or otherwise distributed in any way, without the prior written permission of Springfield Secondary School.  To use any parts of the contents of this Site, the user must seek permission in writing, stating the contents for use; intent of use; manner of use; time frame of use and identity of the user. MOE reserves the right to refuse permission without declaring reason(s); and/or if information submitted by user is deemed insufficient. 
 <br>7. Modification of any of the Contents or use of the Contents for any other purpose will be a violation of Springfield Secondary School’s copyright and other intellectual property rights. Graphics and images on this Web Site are protected by copyright and may not be reproduced or appropriated in any manner without written permission of Springfield Secondary School.
