@@ -3,34 +3,30 @@ title: Alumni
 permalink: /partners/Alumni/
 description: ""
 third_nav_title: Alumni
+variant: markdown
 ---
-
-
 # **Alumni**
   
-To all Springfield Alumni.  
+**Dear Springfield Alumni,**
   
 You have graduated from Springfield.  
   
-We believe that the 4 or 5 years journey has been a fruitful experience and has helped shape your character, values and individual pursuits.  
-  
-We value the relationship with our alumni and would like to continuously add value to this ongoing relationship. We encourage you to stay connected with us.  
-  
-There are many ways to stay connected with Springfield and with your former teachers & classmates. Do refer to this page regularly for updates and information. We will also contact all those who have registered and are on our mailing list.  
+Congratulations on your graduation from Springfield!
 
- **_A._** **_Involvement in School Events_**  
-Re-live, Re-kindle and Re-connect with Springfield from some of the exciting school events with us – Sports Day, Teacher’s Day Celebrations, CCA Orientation, Speech Day, camps etc  
+We believe your journey of 4 or 5 years at Springfield has enriched your character, values, and personal growth. We cherish our relationship with our alumni and aim to continuously enhance this bond. We encourage you to stay connected with us through various avenues.
 
- **_B. Contribution to School Programmes_**  
-Some of the most significant and heartfelt ways of giving back to your alma mater is to share your expertise, resources, and experiences with the younger generation of Springfielders. You can certainly play a key role through CCAs, school academic programmes, cohort camps, assembly sharing and Values-in-Action (VIA) and community projects 
+**Ways to Stay Connected:**
 
- **_C._** **_Sharing of success stories & experiences_**  
-It is heart-warming to see many of our Alumni excelling in their area of pursuits and many have shared about the difference that the school has made towards their success.  
+**A. Involvement in School Events**
+<br>Relive and reconnect with Springfield through our exciting school events such as Sports Day, Teacher’s Day Celebrations, CCA Orientation, Awards Day, and camps.
 
- **_D._** **_Network / Reunion sessions & Interest Group_**  
-Do share with us various ideas on how we can enhance the school-alumni partnership. It can simply be a get-together session in school or a bonding session with your former teachers.  
- For feedback & inquiries, kindly contact the following staff.  
-  
-**Mr Wong Ting Hsin**   
-Year Head (Lower Secondary)  
-_wong\_ting\_hsin@moe.edu.sg_
+**B. Contribution to School Programmes**
+<br>Give back to your alma mater by sharing your expertise, resources, and experiences with the current generation of Springfielders. You can contribute through CCAs, academic programmes, cohort camps, sharing at assemblies, Values-in-Action (VIA), and community projects.
+
+**C. Sharing of Success Stories &amp; Experiences**
+<br>We celebrate your achievements! Share your success stories and experiences with us. Your journey can inspire current students and strengthen the Springfield community.
+
+**D. Network/Reunion Sessions &amp; Interest Groups**
+<br>Join us for networking sessions and reunions with your former teachers and classmates. We value your ideas on how to further enhance our school-alumni partnership.
+
+For feedback and inquiries, please contact the following Partnership Committee members:
