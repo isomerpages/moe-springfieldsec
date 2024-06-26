@@ -36,7 +36,8 @@ For feedback and inquiries, please contact the following Partnership Committee m
 
 
 To get connected and officially be part of SFSS Alumni, do register by scanning the QR code below:
-or by clicking [here](https://form.gov.sg/659f51b4f5e91e0011ea9104).
+or by clicking [here](https://form.gov.sg/659f51b4f5e91e0011ea9104). We look forward to staying connected with you and hearing about your post-Springfield adventures!
 
 <img src="/images/QRalumni.png" style="width:150px;height:150px;margin-left:15px;" align="left">
+
 
