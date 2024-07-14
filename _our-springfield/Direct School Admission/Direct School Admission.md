@@ -85,8 +85,8 @@ strength, focus and resilience.
 
 ### Consolidated trend and major achievements
 
-![](/images/dsa_achievement3.png)
-![](/images/dsa_achievement4.png)
+![](/images/DSAachievement1.png)
+![](/images/DSAachievement2.png)
 
 **(d) STEM**
 
