@@ -54,7 +54,7 @@ healthy relationships guidance and more.</p>
 <p>Ministry of Social and Family Development (MSF)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="http://app.msf.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">http://app.msf.gov.sg/</a>
+<p><a href="https://www.msf.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">https://www.msf.gov.sg/</a>
 </p>
 </td>
 </tr>
@@ -63,7 +63,7 @@ healthy relationships guidance and more.</p>
 <p>REACH</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="http://reachforstudents.com/" rel="noopener noreferrer nofollow" target="_blank">http://reachforstudents.com/</a>
+<p><a href="https://www.reach.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">http://reach.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -72,7 +72,7 @@ healthy relationships guidance and more.</p>
 <p>Family Justice Courts</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.familyjusticecourts.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">https://www.familyjusticecourts.gov.sg/</a>
+<p><a href="https://www.judiciary.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">https://www.judiciary.gov.sg/</a>
 </p>
 </td>
 </tr>
@@ -81,7 +81,7 @@ healthy relationships guidance and more.</p>
 <p>Samaritans of Singapore (S.O.S)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.familyjusticecourts.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">https://www.familyjusticecourts.gov.sg/</a>
+<p><a href="https://www.sos.org.sg/our-services/" rel="noopener noreferrer nofollow" target="_blank">https://www.sos.org.sg/our-services/</a>
 </p>
 </td>
 </tr>
@@ -90,7 +90,7 @@ healthy relationships guidance and more.</p>
 <p>North East Community Development Centre</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://cdc.org.sg/NorthEast" rel="noopener noreferrer nofollow" target="_blank">https://cdc.org.sg/NorthEast</a>
+<p><a href="https://northeast.cdc.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">https://northeast.cdc.gov.sg/</a>
 </p>
 </td>
 </tr>
