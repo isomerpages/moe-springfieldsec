@@ -19,7 +19,9 @@ students, for them to be responsible, resilient and resourceful, hence
 leading them towards personal wellbeing in the aspect of cognitive, social,
 emotional, physical and mental.</p>
 <h3>Who are the counsellors?</h3>
-<p>Ms Charlotte Tan</p>
+<img src="/images/miss_charlotte_tan_xueting.jpg" style="width:150px;height:200px;margin-left:1px;" align="">
+<br>Ms Charlotte Tan
+
 <h3>Counselling Hours</h3>
 <p>Mondays to Fridays (During School hours)
 <br>7.30am - 2.20pm <strong>Strictly By Appointment Only*</strong>
