@@ -14,10 +14,10 @@ friends, family, or your form teachers can make you feel better – but many
 times you need the guidance and help of the school experienced professional
 counsellors.</p>
 <h3>Vision Statement</h3>
-<p>"Our purpose is to provide an environment that stimulates growth in the
+<p>Our purpose is to provide an environment that stimulates growth in the
 students, for them to be responsible, resilient and resourceful, hence
 leading them towards personal wellbeing in the aspect of cognitive, social,
-emotional, physical and mental."</p>
+emotional, physical and mental.</p>
 <h3>Who are the counsellors?</h3>
 <p>Ms Charlotte Tan</p>
 <h3>Counselling Hours</h3>
