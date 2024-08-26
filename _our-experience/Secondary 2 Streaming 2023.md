@@ -2,15 +2,14 @@
 title: Secondary 2 Streaming 2023
 permalink: /parents/secondary-2/secondary-2-streaming-2023/
 description: ""
+variant: markdown
 ---
-# **Secondary 2 Streaming 2023**  
-  
+# **Secondary 2 Streaming 2024**  
 Dear Parents,  
   
-We would like to invite you to join us for the Secondary 2 Streaming - Parent Engagement (Webinar) on **Friday, 28 July 2023 at 5pm**.
+Thank you for joining us for the Secondary 2 Streaming - Parent Engagement (Webinar) on **Friday, 16 August 2024**.
 
-During the engagement, we will be sharing information on the Secondary 2 streaming process and the Secondary 3 subject combinations offered in 2024.
+For more information on streaming, please visit our student site by clicking [here](https://sites.google.com/view/ictspringfield/students/secondary-2-streaming-subject-combination-selection-exercise?authuser=0).
 
-A PG message has been sent to the parents of Secondary 2 students. Please do click on the link provided in the PG message to register for the **online Webinar session**.
 
 Thank you.
