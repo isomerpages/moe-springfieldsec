@@ -1148,7 +1148,7 @@ variant: tiptap
 <p>Bryan Tan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>bryan_tan_fan_jun@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
