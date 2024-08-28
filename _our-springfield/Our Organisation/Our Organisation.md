@@ -88,7 +88,7 @@ variant: tiptap
 <p>School Staff Development</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SSD - Covering</p>
+<p>SSD</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr</p>
@@ -492,7 +492,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>AYH - Acting</p>
+<p>AYH</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms</p>
