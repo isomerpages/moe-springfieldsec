@@ -157,8 +157,8 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>TSO</p>
+<td rowspan="2" colspan="1">
+<p>STEM Instructor</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SCI</p>
@@ -167,21 +167,18 @@ variant: tiptap
 <p>Miss</p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Nursyakirah</p>
+<p>Afifah</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>TSO</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>SCI</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Miss</p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Nur Badriyah Bte Rezlan</p>
+<p>Nurul Nisryna</p>
 </td>
 </tr>
 <tr>
