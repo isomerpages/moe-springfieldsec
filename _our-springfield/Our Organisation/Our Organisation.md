@@ -1328,7 +1328,7 @@ variant: tiptap
 <p>Mr</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Shashi</p>
+<p>Shashi Kumar</p>
 </td>
 </tr>
 <tr>
