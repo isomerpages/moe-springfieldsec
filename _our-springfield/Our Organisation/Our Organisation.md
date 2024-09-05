@@ -351,23 +351,6 @@ variant: tiptap
 <p>ng_choon_hwee@moe.edu.sg</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>STEM</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SH - Acting</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Lim Yu Jie</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>lim_yu_jie@moe.edu.sg</p>
-</td>
-</tr>
 </tbody>
 </table>
 <h3>Student Development Team</h3>
