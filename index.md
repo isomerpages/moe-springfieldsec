@@ -32,6 +32,7 @@ sections:
       button: READ MORE
       url: /football-feats-unlocked/
       alt: Image alt text
+      image: /images/Footballpic1.jpg
   - infopic:
       title: Taekwondo (TKD) Triumphs Again!
       id: infopic
