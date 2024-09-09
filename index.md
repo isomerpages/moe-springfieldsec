@@ -24,11 +24,11 @@ sections:
       variant: center
       button: Contact Us
   - infopic:
-      title: Football Feats Unlocked!
+      title: Taekwondo (TKD) Triumphs Again!
       id: infopic
-      description: Congrats to our football team for securing 3rd runner-up in League
-        2! 🎉🏆 Big thanks to the players for their hard work—here's to more
-        victories ahead! ⚽
+      description: Our heartiest congratulations to our TKD team for clinching two
+        divisional titles - 3rd place for B Div Boys & 2nd place for B Div
+        Girls. Good job TKD team!🌟⭐️
       button: Read more
       url: /football-feats-unlocked/
       image: /images/TKDaward2.jpg
