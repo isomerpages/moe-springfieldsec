@@ -551,14 +551,6 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Siti Nurhusna Bte Shikh Abdullah</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -571,6 +563,14 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>chew_pee_chern@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Tan Cijun Eudora</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>tan_cijun_eudora@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -639,17 +639,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>law_jue_yu@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
@@ -1300,7 +1289,7 @@ variant: tiptap
 <p>Mr</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Muhd Faiz</p>
+<p>Md Faiz</p>
 </td>
 </tr>
 <tr>
