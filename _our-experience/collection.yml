@@ -2,7 +2,6 @@ collections:
   our-experience:
     output: true
     order:
-      - Football Feats Unlocked!.md
       - CCA/.keep
       - CCA/CCA.md
       - CCA/Floorball (Girls).md
@@ -36,3 +35,4 @@ collections:
       - Sec 1 Posting 2024/Application for Transfer to Springfield Secondary.md
       - Secondary 2 Streaming 2024.md
       - Taekwondo (TKD) Triumphs Again.md
+      - Football Feats Unlocked!.md
