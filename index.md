@@ -24,20 +24,13 @@ sections:
       variant: center
       button: Contact Us
   - infopic:
-      title: Infopic
-      subtitle: Add an image and text
-      id: infopic
-      description: Infopic description
-      button: Button Text
-      alt: Image alt text
-  - infopic:
       title: Football Feats Unlocked!
       id: infopic
       description: Congrats to our football team for securing 3rd runner-up in League
         2! 🎉🏆 Big thanks to the players for their hard work—here's to more
         victories ahead! ⚽
       button: Read more
-      url: /taekwondo-tkd-triumphs-again/
+      url: /football-feats-unlocked/
       image: /images/TKDaward2.jpg
       alt: Image alt text
   - infopic:
