@@ -24,11 +24,18 @@ sections:
       variant: center
       button: Contact Us
   - infopic:
-      title: Taekwondo (TKD) Triumphs Again!
+      title: Infopic
+      subtitle: Add an image and text
       id: infopic
-      description: Our heartiest congratulations to our TKD team for clinching two
-        divisional titles - 3rd place for B Div Boys & 2nd place for B Div
-        Girls. Good job TKD team!🌟⭐️
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
+  - infopic:
+      title: Football Feats Unlocked!
+      id: infopic
+      description: Congrats to our football team for securing 3rd runner-up in League
+        2! 🎉🏆 Big thanks to the players for their hard work—here's to more
+        victories ahead! ⚽
       button: Read more
       url: /taekwondo-tkd-triumphs-again/
       image: /images/TKDaward2.jpg
