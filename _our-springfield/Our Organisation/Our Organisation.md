@@ -1164,7 +1164,7 @@ variant: tiptap
 <p>Ms Charlotte Tan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>chartlotte_tan_xueting_a@moe.edu.sg</p>
+<p>charlotte_tan_xueting_a@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
