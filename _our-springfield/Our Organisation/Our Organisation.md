@@ -736,18 +736,10 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="2" colspan="1">
 <p><strong>2D</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Lim Kim Mong</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>lim_kim_mong@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p>Xiong Xiaodong</p>
 </td>
@@ -830,7 +822,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="2" colspan="1">
 <p><strong>3B</strong>
 </p>
 </td>
@@ -839,14 +831,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>muhammad_zaki_samsudi@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Koh Xuan Ning Rachel</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>koh_xuan_ning_rachel@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
