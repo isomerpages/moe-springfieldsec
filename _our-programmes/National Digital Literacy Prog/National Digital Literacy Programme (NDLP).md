@@ -67,7 +67,6 @@ To support you in keeping your child safe online, you may refer to these resourc
 To support you in keeping your child safe online, you may refer to these resources:
 
 *   [_go.gov.sg/moe-cyber-wellness_](https://go.gov.sg/moe-cyber-wellness)
-*   [_https://beta.moe.gov.sg/programmes/cyber-wellness_](https://beta.moe.gov.sg/programmes/cyber-wellness)
 *   [_go.gov.sg/better-internet-sg_](https://go.gov.sg/better-internet-sg)
 *   [_sure.nlb.gov.sg_](http://sure.nlb.gov.sg/)
 *   [_help123.sg_](http://help123.sg/)
