@@ -22,7 +22,7 @@ variant: markdown
 * [MOE iEXAMS2](https://iexams.seab.gov.sg)
 * [MIMS Portal](https://portal.mims.moe.gov.sg/)
 * [MOE Intranet](https://intranet.moe.gov.sg/) (Requires VPN/SSOE2 Network)
-* [MOE OPAL 2.0](https://idm.opal2.moe.edu.sg/)
+* [OPAL 2.0](https://idm.opal2.moe.edu.sg/)
 * [Parents Gateway](https://pg.moe.edu.sg/)
 * [Resource Booking Service (RBS)](https://rbs.avero-tech.com/login.html)
 * [School Cockpit](https://schoolcockpit.moe.gov.sg)
