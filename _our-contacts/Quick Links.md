@@ -7,6 +7,7 @@ variant: markdown
 # **Quick Links**
 
 #### Students / Parents
+* [ICT @ Springfield](https://sites.google.com/view/ictspringfield)
 *  [Student Learning Space](https://learning.moe.edu.sg/)
 *  [MOE iCon 2.0](https://icon.moe.edu.sg)
 *  [MIMS Portal](https://portal.mims.moe.gov.sg/)
