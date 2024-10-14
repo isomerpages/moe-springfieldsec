@@ -29,12 +29,11 @@ The objective of the MOE FAS is to provide financial assistance to Singaporean s
 
 4. Please submit the Application form with&nbsp;**_ALL_**&nbsp;the supporting documents at the earliest convenience so that the School is able to process it soonest.
 
-5. You may also apply via e-FAS at https://go.gov.sg/moe-efas or scan the QR code below. 
+5. You may also apply via e-FAS at [https://go.gov.sg/moe-efas ](https://go.gov.sg/moe-efas ) or scan the QR code below. 
 
 <img src="/images/QR_2025.png" style="width:300px;height:300px;margin-left:15px;">
 
 
 
 *Primary 6 students can apply for MOE FAS at their primary school for Secondary 1 next year.
-For more information, please visit MOE website at
-https://www.moe.gov.sg/financial-matters/financial-assistance
+For more information, please visit MOE website at [https://www.moe.gov.sg/financial-matters/financial-assistance](https://www.moe.gov.sg/financial-matters/financial-assistance)
