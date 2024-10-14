@@ -32,11 +32,6 @@ variant: markdown
 * [SPF Library OPAC](https://schoolibrary.moe.edu.sg/springfieldsec)
 * [Sports Safety Resources](https://www.sportsingapore.gov.sg/sports-education/sports-safety/safety-resources-and-useful-links)
 * [Lightning Warning System](http://www.weather.gov.sg/lightning/)
-
-
-
-
-
-
-
 *   [Travel Advisory Portal](http://www.internationalsos.com/MasterPortal/default.aspx?membnum=02AABC000031)
+*   [https://go.gov.sg (Link Shorterner &amp; QR Generator)](https://go.gov.sg/#/)
+*   [for.edu.sg (Link Shorterner &amp; QR Generator)](https://for.edu.sg/#/)
