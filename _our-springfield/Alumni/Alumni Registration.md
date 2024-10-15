@@ -3,9 +3,8 @@ title: Alumni Registration
 permalink: /partners/alumni/alumni-registration/
 description: ""
 third_nav_title: Alumni
+variant: markdown
 ---
-
-
 # **Alumni Registration**
 
-Please click [here](https://forms.cwp.sg/springfieldsec/FormAPIEO) to subscribe for Alumni Updates.
+Please click [HERE](https://form.gov.sg/659f51b4f5e91e0011ea9104) to register or subscribe for Alumni Updates.
