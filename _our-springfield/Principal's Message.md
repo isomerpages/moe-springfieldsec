@@ -2,24 +2,28 @@
 title: Principal's Message
 permalink: /about-us/principals-message/
 description: ""
+variant: markdown
 ---
 # **Principal's Message**
 <img src="/images/principal_mschia.jpg" style="width:300px;height:300px;margin-left:15px;" align="right">
 
-Dear members of the Springfield community,
+Welcome to Springfield Secondary School!
 
-It is my honor to welcome all new students and staff to Springfield, and to welcome everyone else back to school for the new academic year!
+At Springfield, we believe in nurturing flexibility and resilience, and growth and development in every student who walks through our gates – these are the qualities that our name, "Springfield" represent. 
 
-Despite having just joined the school, I have experienced a warm welcome from the Springfield community – students, staff, parents, Alumni and the School Advisory Committee. I am excited to connect further with the different stakeholder groups to hear perspectives, understand needs and work together towards desired goals. United, we can make a positive difference and help our students reach their full potential.
+In a world that is rapidly evolving, we recognize the challenges our students will face, and we aim to equip them with the skills and mindset needed to flourish as <b>Lifelong Learners and Exemplary Leaders</b>. Our guiding values, <b>Graciousness, Responsibility, Resilience, Integrity, and Diligence (GR2ID)</b>, are the foundation upon which we build our school community.
 
-In taking over the school, I stand on the shoulders of giants. I thank Mrs Mabel Leong, and the various Principals before her, for developing Springfield to what it is today. 30 years ago, the name “Springfield” was chosen to represent flexibility and resilience, as well as growth and development. Indeed, grow and develop with flexibility and resilience was what we did. Last year, Springfield celebrated its 30th School Anniversary, and there are many achievements that we can be proud of. Our Springfielders have done us proud in academics, co-curricular activities (Sports, Performing Arts and Uniformed Groups) and most importantly, in character and life skills development. We will continue to develop our students as **Lifelong Learners** and **Exemplary Leaders**, who are grounded in our **GR2ID school values of Graciousness, Responsibility, Resilience, Integrity and Diligence**. By standing on the shoulders of giants, I have gained a vantage point, and hope to continue the good work to build upon what has been established.      
+First and foremost, we believe that Social Emotional Competencies form the bedrock of personal and academic success. At Springfield, our school-based Student Development (SD) Curriculum is designed to complement the Ministry of Education’s Character and Citizenship Education (CCE) curriculum, while incorporating positive psychology principles and student-centered learning experiences. The SD Curriculum also places emphasis on digital literacy skills, aligning them with key Social Emotional Learning (SEL) competencies such as self-management and relationship-building. In an increasingly complex world, we strive to prepare our students to be adaptable and resilient, to respect differences, embrace diversity, and cultivate discerning yet trusting relationships.
 
-With the COVID-19 situation an endemic one, many of the school’s activities may resume to “pre-Covid” norms. This presents more opportunities for students and stakeholders to pursue their passions and interests, connect face-to-face, and benefit from the “human touch” or experiential learning. However, COVID-19 has also opened our eyes to the affordances of technology, which we will continue to harness where beneficial. We will continue to enhance our students’ engagement and learning via the National Digital Literacy Programme, where all students will own a personalised learning device, and develop self-directed learning with home-based learning. 
+Beyond this, we aim to ignite a passion for learning in our students by fostering curiosity, critical, adaptive and inventive thinking, and self-directedness. These qualities are essential building blocks for lifelong learning. Our Applied Learning Programme (ALP), based in STEM education, focuses on the areas of <b>Health and Food Science</b>, and offers students opportunities to engage in problem-based learning and authentic, real-world experiences. This is further enhanced by our school’s wider STEM curriculum, which provides platforms such as research projects, STEM competitions, and enrichment activities to deepen students’ engagement.
 
-With the world rapidly changing, we live in challenging times. We need to prepare our charges to be adaptable and resilient, to be able to respect differences and embrace diversity, to be discerning yet build trusting relationships. Every individual has the power to change the world for the better, starting with ourselves. Hence, I call out to all Springfielders, students and staff alike, to join me in living out our school motto of **‘Better Self for Better Tomorrow’**. 
+Under the Learning for Life Programme (LLP), which emphasizes <b>Community Youth Leadership</b>, we equip students with civic, global and cross-cultural literacies and leadership skills, to enable them to contribute to the community and beyond.  
 
-Wishing all a healthy and fulfilling 2023.
+Our ALP and LLP work hand in hand to develop <b>"STEMpowering" lifelong learners and exemplary leaders with STEMpathy</b> – an integration of STEM knowledge with empathy and compassion for the community.
 
+At Springfield, we firmly believe that each individual has the potential to change the world for the better, starting with themselves. It is my sincere hope that all Springfielders – students and staff alike – will join me in living out our school motto, <b>“Better Self for Better Tomorrow,”</b> as we work together to shape a brighter future.
+
+Thank you for visiting our website, and I invite you to browse the website (and Instagram page @ [https://www.instagram.com/sfss_spectrum/](https://www.instagram.com/sfss_spectrum/)) to learn more about our programmes and achievements as we continue this exciting journey of growth and learning.
 
 _Ms Eleanor Chia_&nbsp;   
 _Principal_&nbsp;   
