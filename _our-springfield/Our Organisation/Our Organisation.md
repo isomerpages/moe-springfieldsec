@@ -594,18 +594,10 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="2" colspan="1">
 <p><strong>1C</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Ng Zhao Ying (SH/CCA - Acting)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ng_zhao_ying@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p>Loke Jun Li Jeremiah</p>
 </td>
