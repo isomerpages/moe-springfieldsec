@@ -1,6 +1,6 @@
 ---
 title: 2025 Booklist & Uniform
-permalink: /our-experience/permalink/
+permalink: /our-experience/booklistuniform/
 variant: markdown
 description: ""
 ---
