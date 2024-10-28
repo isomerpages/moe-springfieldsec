@@ -5,13 +5,32 @@ variant: markdown
 description: ""
 third_nav_title: CCA
 ---
-# **EcoSTEM Club**
+# **Eco-STEM**
+
 ![](/images/stem1.jpg)
+
 
 Watch the [Eco STEM Publicity Video](https://www.youtube.com/embed/H9YFHd372DQ) here
 
 
 #### EcoSTEM Activites
+
+**Eco STEM Team Bonding Activities**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TABVbXYyUek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+
+![](/images/ecobonding.png)
+
+**AI Workshop - Microbits**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DX5lNbUrYFs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+
+![](/images/e13ca196_623e_4d26_8532_3220fa07f61b.jpg)
+
+**School Hydrophonics System**
+![](/images/eco2.png)
+![](/images/eco3.png)
+
+**EcoSTEM Seedlings Day**
+![](/images/eco4.png)
 
 **EcoSTEM students managing Bio-Digestor**
 ![](/images/stem2.jpg)
