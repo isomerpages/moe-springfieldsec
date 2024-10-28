@@ -24,6 +24,14 @@ sections:
       variant: center
       button: Contact Us
   - infopic:
+      title: OPEN HOUSE 2024
+      subtitle: Join us at our
+      id: infopic
+      description: Fun-filled day of learning & discovery—our Open House invites you
+        to dive into hands-on science experiments, creative art workshops, and
+        interactive tech demos.
+      image: /images/2024_Open_House___MOTD__800_x_580_px_.jpg
+  - infopic:
       title: Football Feats Unlocked!
       id: infopic
       description: Congrats to our football team for securing 3rd runner-up in League
