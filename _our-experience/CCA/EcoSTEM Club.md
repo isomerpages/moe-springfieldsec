@@ -8,10 +8,21 @@ third_nav_title: CCA
 # **EcoSTEM Club**
 ![](/images/stem1.jpg)
 
+
 Watch the [Eco STEM Publicity Video](https://www.youtube.com/embed/H9YFHd372DQ) here
 
 
 #### EcoSTEM Activites
+
+**Eco STEM Team Bonding Activities**
+![](/images/ecobonding.png)
+
+**AI Workshop - Microbits**
+![](/images/e13ca196_623e_4d26_8532_3220fa07f61b.jpg)
+
+**School Hydrophonics System**
+![](/images/eco3.png)
+
 
 **EcoSTEM students managing Bio-Digestor**
 ![](/images/stem2.jpg)
