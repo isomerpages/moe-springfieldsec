@@ -31,6 +31,7 @@ sections:
         to dive into hands-on science experiments, creative art workshops, and
         interactive tech demos.
       image: /images/2024_Open_House___MOTD__800_x_580_px_.jpg
+      alt: Image alt text
   - infopic:
       title: Football Feats Unlocked!
       id: infopic
