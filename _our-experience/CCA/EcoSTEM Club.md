@@ -21,8 +21,11 @@ Watch the [Eco STEM Publicity Video](https://www.youtube.com/embed/H9YFHd372DQ) 
 ![](/images/e13ca196_623e_4d26_8532_3220fa07f61b.jpg)
 
 **School Hydrophonics System**
+![](/images/eco2.png)
 ![](/images/eco3.png)
 
+**EcoSTEM Seedlings Day**
+![](/images/eco4.png)
 
 **EcoSTEM students managing Bio-Digestor**
 ![](/images/stem2.jpg)
