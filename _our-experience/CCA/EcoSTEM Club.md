@@ -5,9 +5,7 @@ variant: markdown
 description: ""
 third_nav_title: CCA
 ---
-
-![](/images/eco_LOG.jpg)
-
+# **Eco-STEM**
 
 ![](/images/stem1.jpg)
 
