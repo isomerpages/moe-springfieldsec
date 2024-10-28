@@ -15,6 +15,8 @@ Watch the [Eco STEM Publicity Video](https://www.youtube.com/embed/H9YFHd372DQ) 
 #### EcoSTEM Activites
 
 **Eco STEM Team Bonding Activities**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TABVbXYyUek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+
 ![](/images/ecobonding.png)
 
 **AI Workshop - Microbits**
