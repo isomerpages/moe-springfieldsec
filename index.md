@@ -32,6 +32,8 @@ sections:
         interactive tech demos.
       image: /images/2024_Open_House___MOTD__800_x_580_px_.jpg
       alt: Image alt text
+      button: click here to register
+      url: https://docs.google.com/forms/d/e/1FAIpQLSfOtt-YBlyKTpfKAMaj65n2RmUYM7fvDKSqYC7nklnwvtvblA/viewform?usp=pp_url
   - infopic:
       title: Football Feats Unlocked!
       id: infopic
