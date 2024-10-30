@@ -37,7 +37,8 @@ third_nav_title: Our Organisation
 <p>Ms Siti Nurhusna Bte Shikh Abdullah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>siti_nurhusna_shikh_abdullah@moe.edu.sg</p>
+<p><a href="mailto:siti_nurhusna_shikh_abdullah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">siti_nurhusna_shikh_abdullah@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -45,7 +46,8 @@ third_nav_title: Our Organisation
 <p>Mdm Michelle Lee-Chew Pee Chern</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>chew_pee_chern@moe.edu.sg</p>
+<p><a href="mailto:chew_pee_chern@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chew_pee_chern@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -53,7 +55,8 @@ third_nav_title: Our Organisation
 <p>Ms Tan Cijun Eudora</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>tan_cijun_eudora@moe.edu.sg</p>
+<p><a href="mailto:tan_cijun_eudora@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_cijun_eudora@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -65,7 +68,8 @@ third_nav_title: Our Organisation
 <p>Mr Gemonn Wah Kok Siong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>gemonn_wah_kok_siong@moe.edu.sg</p>
+<p><a href="mailto:gemonn_wah_kok_siong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">gemonn_wah_kok_siong@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -73,7 +77,8 @@ third_nav_title: Our Organisation
 <p>Ms Lee Si Min Celynn</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>lee_si_min_celynn@moe.edu.sg</p>
+<p><a href="mailto:lee_si_min_celynn@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_si_min_celynn@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -85,7 +90,8 @@ third_nav_title: Our Organisation
 <p>MR Loke Jun Li Jeremiah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>loke_jun_li_jeremiah@moe.edu.sg</p>
+<p><a href="mailto:loke_jun_li_jeremiah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">loke_jun_li_jeremiah@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -93,7 +99,8 @@ third_nav_title: Our Organisation
 <p>Miss Lim Shanrui Joanne</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>lim_shanrui_joanne@moe.edu.sg</p>
+<p><a href="mailto:lim_shanrui_joanne@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_shanrui_joanne@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -105,7 +112,8 @@ third_nav_title: Our Organisation
 <p>Mdm Jacobs Suzanne Irene</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>jacobs_suzanne_irene@moe.edu.sg</p>
+<p><a href="mailto:jacobs_suzanne_irene@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jacobs_suzanne_irene@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -113,7 +121,8 @@ third_nav_title: Our Organisation
 <p>Miss Law Jue Yu</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>law_jue_yu@moe.edu.sg</p>
+<p><a href="mailto:law_jue_yu@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">law_jue_yu@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
@@ -149,7 +158,8 @@ third_nav_title: Our Organisation
 <p>Miss Siti Nur'Aliah Binte Ghazali</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>siti_nuraliah_ghazali@moe.edu.sg</p>
+<p><a href="mailto:siti_nuraliah_ghazali@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">siti_nuraliah_ghazali@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -157,7 +167,8 @@ third_nav_title: Our Organisation
 <p>Ms Syarifah Hafizah Binte Syed</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>syarifah_hafizah_syed@moe.edu.sg</p>
+<p><a href="mailto:syarifah_hafizah_syed@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">syarifah_hafizah_syed@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -165,7 +176,8 @@ third_nav_title: Our Organisation
 <p>Mr Gregory Chua</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>gregory_chua_lemin@moe.edu.sg</p>
+<p><a href="mailto:gregory_chua_lemin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">gregory_chua_lemin@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -177,7 +189,8 @@ third_nav_title: Our Organisation
 <p>Mr Ong Kang Sheng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ong_kang_sheng@moe.edu.sg</p>
+<p><a href="mailto:ong_kang_sheng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ong_kang_sheng@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -185,7 +198,8 @@ third_nav_title: Our Organisation
 <p>Mr Loh Chean Meng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>loh_chean_meng@moe.edu.sg</p>
+<p><a href="mailto:loh_chean_meng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">loh_chean_meng@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -197,7 +211,8 @@ third_nav_title: Our Organisation
 <p>Mdm Nurhayati Binte Abdul Ghafoor</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>nurhayati_abdul_ghafoor@moe.edu.sg</p>
+<p><a href="mailto:nurhayati_abdul_ghafoor@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nurhayati_abdul_ghafoor@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -205,7 +220,8 @@ third_nav_title: Our Organisation
 <p>MR Yong Jing Jun</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>yong_jing_jun@moe.edu.sg</p>
+<p><a href="mailto:yong_jing_jun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yong_jing_jun@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -217,7 +233,8 @@ third_nav_title: Our Organisation
 <p>Mdm Xiong Xiaodong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>xiong_xiaodong@moe.edu.sg</p>
+<p><a href="mailto:xiong_xiaodong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">xiong_xiaodong@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -225,7 +242,8 @@ third_nav_title: Our Organisation
 <p>Mr Ahmad Zaini Bin Yusof</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ahmad_zaini_yusof@moe.edu.sg</p>
+<p><a href="mailto:ahmad_zaini_yusof@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ahmad_zaini_yusof@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -237,7 +255,8 @@ third_nav_title: Our Organisation
 <p>Mdm Joy Chan - Chua Puay Yong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>chua_puay_yong_joy@moe.edu.sg</p>
+<p><a href="mailto:chua_puay_yong_joy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chua_puay_yong_joy@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
