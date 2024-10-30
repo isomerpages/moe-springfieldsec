@@ -24,7 +24,7 @@ third_nav_title: Our Organisation
 </p>
 </th>
 <th rowspan="1" colspan="1">
-<p><strong> Email Address</strong>
+<p><strong>Email Address</strong>
 </p>
 </th>
 </tr>
