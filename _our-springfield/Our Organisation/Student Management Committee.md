@@ -32,7 +32,7 @@ third_nav_title: Our Organisation
 <p>Ms Eleanor Chia</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>springfields@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -43,7 +43,7 @@ third_nav_title: Our Organisation
 <p>Mdm Yehidaah Beevi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>springfields@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -54,7 +54,7 @@ third_nav_title: Our Organisation
 <p>Mr Wu Che Vun Steven</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>springfields@moe.edu.sg</p>
 </td>
 </tr>
 </tbody>
