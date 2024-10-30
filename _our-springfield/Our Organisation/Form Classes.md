@@ -251,5 +251,158 @@ third_nav_title: Our Organisation
 </tbody>
 </table>
 <h3>Secondary 3</h3>
-<p></p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="3">
+<p><strong>SECONDARY 3</strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Class</strong>
+</p>
+</td>
+<td rowspan="1" colspan="2">
+<p><strong>Name / Email Address</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p><strong>3A</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Nurhuda Osman</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>nurhuda_osman@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Daniel Neo Chong Shern</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>daniel_neo_chong_shern@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p><strong>3B</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Muhammad Zaki B Samsudi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>muhammad_zaki_samsudi@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Pek Chee Siong Andy</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>pek_chee_siong_andy@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p><strong>3C</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sng Kai Ming Joel</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>sng_kai_ming_joel@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Tan Bee Yong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>tan_bee_yong@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3" colspan="1">
+<p><strong>3D</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teo Wee Meng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>teo_wee_meng@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ita Pranatih Binte Pratojanuri</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ita_pranatih_pratojanuri@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Nur Fadhlin Sakina</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>nur_fadhlin_sakina_ismail@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p><strong>3E</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chew Yin Chia</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>chew_yin_chia@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Koh Xin Yi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>koh_xin_yi@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p><strong>3F</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tan Yik Zhen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>tan_yik_zhen@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ang Hui Wen Grace</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ang_hui_wen_grace@moe.edu.sg</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h3>Secondary 4</h3>
 <p></p>
