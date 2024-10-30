@@ -19,12 +19,9 @@ third_nav_title: Our Organisation
 <p><strong>Designation</strong>
 </p>
 </th>
-<th rowspan="1" colspan="1">
-<p><strong>Name</strong>
+<th rowspan="1" colspan="2">
+<p><strong>Name / Email Address</strong>
 </p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
 </th>
 </tr>
 <tr>
