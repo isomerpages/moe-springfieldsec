@@ -75,7 +75,7 @@ third_nav_title: Our Organisation
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Designation / Department</p>
+<p>Designation | Department</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>Name</p>
