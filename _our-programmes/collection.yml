@@ -2,7 +2,6 @@ collections:
   our-programmes:
     output: true
     order:
-      - Open House 2024.md
       - Curriculum/.keep
       - Curriculum/English Language & Literature Department.md
       - Curriculum/Mathematics.md
@@ -23,3 +22,4 @@ collections:
       - National Digital Literacy Prog/.keep
       - National Digital Literacy Prog/National Digital Literacy Programme
         (NDLP).md
+      - Open House 2024.md
