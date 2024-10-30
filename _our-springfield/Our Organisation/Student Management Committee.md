@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Our Organisation
 ---
-<h1><strong>Our Organisation</strong></h1>
+<h1><strong>Student Management Committee</strong></h1>
 <h3>School Leaders</h3>
 <table style="minWidth: 75px">
 <colgroup>
