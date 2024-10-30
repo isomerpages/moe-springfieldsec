@@ -269,8 +269,12 @@ third_nav_title: Our Organisation
 <p><strong>Class</strong>
 </p>
 </td>
-<td rowspan="1" colspan="2">
-<p><strong>Name / Email Address</strong>
+<td rowspan="1" colspan="1">
+<p><strong>Name </strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Email Address</strong>
 </p>
 </td>
 </tr>
