@@ -5,11 +5,10 @@ description: ""
 third_nav_title: Our Organisation
 variant: tiptap
 ---
-<h2><strong>Executive Administrative Staff</strong></h2>
-<table style="minWidth: 125px">
+<h2><strong>School Administration Team</strong></h2>
+<h3>Executive &amp; Administrative Staff (EAS)</h3>
+<table style="minWidth: 75px">
 <colgroup>
-<col>
-<col>
 <col>
 <col>
 <col>
@@ -17,39 +16,23 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p><strong>Department</strong>
-</p>
-</th>
-<th rowspan="1" colspan="1">
 <p><strong>Appointment</strong>
 </p>
 </th>
-<th rowspan="1" colspan="3">
+<th rowspan="1" colspan="2">
 <p><strong>Name / Email Address</strong>
 </p>
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="5">
-<p><strong>Admin</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="6" colspan="1">
-<p>General Admin</p>
-</td>
 <td rowspan="1" colspan="1">
 <p>AM 1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm</p>
+<p>Mdm Mimi Hidayati Bte Ismail</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mimi Hidayati Bte Ismail</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><em>mimi_hidayati_ismail@moe.edu.sg</em>
+<p><a href="mailto:mimi_hidayati_ismail@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mimi_hidayati_ismail@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -58,13 +41,34 @@ variant: tiptap
 <p>AM 2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm</p>
+<p>Mdm Shamala Balakrishnan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Shamala Balakrishnan</p>
+<p><a href="mailto:shamala_balakrishnan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">shamala_balakrishnan@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>OM 1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>shamala_balakrishnan@moe.edu.sg</em>
+<p>Mdm Eileen Gway Chong Ling</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:eileen_gway_chong_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">eileen_gway_chong_ling@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>OM 2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr K Chandran</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:k_chandran@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">k_chandran@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -73,13 +77,10 @@ variant: tiptap
 <p>AE 1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms</p>
+<p>Ms Siti Aishah Bte Ramli</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Siti Aishah Bte Ramli</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><em>siti_aishah_ramli@moe.edu.sg</em>
+<p><a href="mailto:siti_aishah_ramli@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">siti_aishah_ramli@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -88,13 +89,10 @@ variant: tiptap
 <p>AE 2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm</p>
+<p>Mdm Chan Siew Yin Irene</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Chan Siew Yin Irene</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><em>chan_siew_yin@moe.edu.sg</em>
+<p><a href="mailto:chan_siew_yin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chan_siew_yin@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -103,13 +101,10 @@ variant: tiptap
 <p>CSO 1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm</p>
+<p>Mdm Lim Siew Bee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Lim Siew Bee</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><em>lim_siew_bee@moe.edu.sg</em>
+<p><a href="mailto:lim_siew_bee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_siew_bee@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -118,25 +113,40 @@ variant: tiptap
 <p>CSO 2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm</p>
+<p>Mdm Salmiah Jaapar</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Salmiah Jaapar</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><em>salmiah_jaapar_a@moe.edu.sg</em>
+<p><a href="mailto:salmiah_jaapar_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">salmiah_jaapar_a@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>TSO</p>
+<p>ICT M</p>
 </td>
+<td rowspan="1" colspan="1">
+<p>Mr Kolanjanati Shashi Kumar</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:kolanjanati_shashi_kumar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kolanjanati_shashi_kumar@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ICT A</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Faiz</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:muhammad_faiz_mohamed_yusoff_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">muhammad_faiz_mohamed_yusoff_a@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p>D&amp;T</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>Hajis Bin Jaafar</p>
@@ -144,27 +154,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>TSO</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>D&amp;T</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>Abdul Aziz Bin Haji Ismail</p>
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
-<p>STEM Instructor</p>
-</td>
 <td rowspan="1" colspan="1">
 <p>SCI</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Miss</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>Afifah</p>
@@ -174,22 +172,13 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>SCI</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Miss</p>
-</td>
 <td rowspan="1" colspan="2">
 <p>Nurul Nisryna</p>
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
-<p>ICT</p>
-</td>
 <td rowspan="1" colspan="1">
 <p>ICTA</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Muhd Faiz</p>
@@ -204,9 +193,6 @@ variant: tiptap
 <p>ICTM</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Shashi Kumar</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -214,14 +200,8 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="7" colspan="1">
-<p>Operations</p>
-</td>
 <td rowspan="1" colspan="1">
 <p>OM 1</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Eileen Gway Chong Ling</p>
@@ -236,9 +216,6 @@ variant: tiptap
 <p>OM 2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>K Chandran</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -250,9 +227,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>OSO</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Mrs</p>
-</td>
 <td rowspan="1" colspan="2">
 <p>Catherine Tan</p>
 </td>
@@ -260,9 +234,6 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>OSO</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>Shila D/O Muthusamy</p>
@@ -272,9 +243,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>OSO</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Mdm</p>
-</td>
 <td rowspan="1" colspan="2">
 <p>Suaedah Bte Sairi</p>
 </td>
@@ -283,9 +251,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>OSO</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Mdm</p>
-</td>
 <td rowspan="1" colspan="2">
 <p>Sumnah Bte Subadah</p>
 </td>
@@ -293,9 +258,6 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>OSO</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>Sazali Bin Mohamed</p>
