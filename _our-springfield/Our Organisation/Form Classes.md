@@ -281,7 +281,8 @@ third_nav_title: Our Organisation
 <p>Ms Nurhuda Osman</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>nurhuda_osman@moe.edu.sg</p>
+<p><a href="mailto:nurhuda_osman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nurhuda_osman@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -289,7 +290,8 @@ third_nav_title: Our Organisation
 <p>Mr Daniel Neo Chong Shern</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>daniel_neo_chong_shern@moe.edu.sg</p>
+<p><a href="mailto:daniel_neo_chong_shern@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">daniel_neo_chong_shern@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -301,7 +303,8 @@ third_nav_title: Our Organisation
 <p>Mr Muhammad Zaki B Samsudi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>muhammad_zaki_samsudi@moe.edu.sg</p>
+<p><a href="mailto:muhammad_zaki_samsudi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">muhammad_zaki_samsudi@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -309,7 +312,8 @@ third_nav_title: Our Organisation
 <p>Mr Pek Chee Siong Andy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>pek_chee_siong_andy@moe.edu.sg</p>
+<p><a href="mailto:pek_chee_siong_andy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">pek_chee_siong_andy@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -321,7 +325,8 @@ third_nav_title: Our Organisation
 <p>Mr Sng Kai Ming Joel</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>sng_kai_ming_joel@moe.edu.sg</p>
+<p><a href="mailto:sng_kai_ming_joel@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sng_kai_ming_joel@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -329,7 +334,8 @@ third_nav_title: Our Organisation
 <p>Mdm Tan Bee Yong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>tan_bee_yong@moe.edu.sg</p>
+<p><a href="mailto:tan_bee_yong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_bee_yong@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -341,7 +347,8 @@ third_nav_title: Our Organisation
 <p>Mr Teo Wee Meng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>teo_wee_meng@moe.edu.sg</p>
+<p><a href="mailto:teo_wee_meng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teo_wee_meng@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -349,7 +356,8 @@ third_nav_title: Our Organisation
 <p>Mdm Ita Pranatih Binte Pratojanuri</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ita_pranatih_pratojanuri@moe.edu.sg</p>
+<p><a href="mailto:ita_pranatih_pratojanuri@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ita_pranatih_pratojanuri@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
