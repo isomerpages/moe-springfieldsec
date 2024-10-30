@@ -270,7 +270,7 @@ third_nav_title: Our Organisation
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Name </strong>
+<p><strong>Name</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
