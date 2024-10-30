@@ -408,5 +408,189 @@ third_nav_title: Our Organisation
 </tr>
 </tbody>
 </table>
-<h3>Secondary 4</h3>
+<h3>Secondary 4 &amp; 5</h3>
+<p></p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="3">
+<p><strong>SECONDARY 4</strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Class</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Name </strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Email Address</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p><strong>4A</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Zaleela Binte Zakariah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:zaleela_zakariah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zaleela_zakariah@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Razinah Binti Muhamad</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:razinah_muhamad@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">razinah_muhamad@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p><strong>4B</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Siti Nuruljannah Bte Sukamar</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>siti_nuruljannah_bte_sukamar@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chan Hui Min</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>chan_hui_min@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p><strong>4C</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Faridah Bte Ahmad</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>faridah_ahmad@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Lin Yihua</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>lin_yihua@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p><strong>4D</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Cheo Swee Lian Maureen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>maureen_cheo@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Nurisha Hameed</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>nurisha_hamid@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>4E</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Izzah Hazirah Binte Azmi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>izzah_hazirah_azmi@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p><strong>4F</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Siti Zubaidah Bte Arshad</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>siti_zubaidah_arshad@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chue Bing Hao, Edwin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>chue_bing_hao_edwin@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p><strong>4G</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ho Shu Ling, Judith</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ho_shu_ling_judith@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Metha Pang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>metha_pang_hui_shan@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p><strong>5A</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chong Ming Yoong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>choong_ming_yoong@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Bryan Tan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>bryan_tan_fan_jun@moe.edu.sg</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
