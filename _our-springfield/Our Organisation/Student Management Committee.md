@@ -230,7 +230,7 @@ third_nav_title: Our Organisation
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Year Head (Upper Sec)</p>
+<p>Year Head (Upper Secondary)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Miss Tan Chna Huang</p>
@@ -242,7 +242,7 @@ third_nav_title: Our Organisation
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Year Head (Lower Sec)</p>
+<p>Year Head (Lower Secondary)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Eddie Chong Suan Yan</p>
@@ -349,7 +349,7 @@ third_nav_title: Our Organisation
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Assistant Year Head | Upper Secondary</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
