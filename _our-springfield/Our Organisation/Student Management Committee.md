@@ -472,8 +472,9 @@ third_nav_title: Our Organisation
 <p>Mr Teo Wee Meng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>
-<br>teo_wee_meng@moe.edu.sg</p>
+<p><a href="mailto:teo_wee_meng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teo_wee_meng@moe.edu.sg</a>
+<br>
+</p>
 </td>
 </tr>
 </tbody>
