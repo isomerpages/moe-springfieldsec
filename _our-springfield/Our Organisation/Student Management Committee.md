@@ -72,7 +72,7 @@ third_nav_title: Our Organisation
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Department</p>
+<p>Designation / Department</p>
 </th>
 <th rowspan="1" colspan="2">
 <p>Name / Email Address</p>
@@ -80,7 +80,7 @@ third_nav_title: Our Organisation
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mathematics</p>
+<p>HOD | Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Chng Chen Keong</p>
@@ -92,7 +92,7 @@ third_nav_title: Our Organisation
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Science</p>
+<p>HOD | Science</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Norain Bte Anuar (Mrs Johari)</p>
@@ -104,7 +104,7 @@ third_nav_title: Our Organisation
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>English</p>
+<p>HOD | English</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Muhammad Hafiz Bin Salleh</p>
@@ -116,7 +116,7 @@ third_nav_title: Our Organisation
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mother Tongue</p>
+<p>HOD | Mother Tongue</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Ang Sor Cheng</p>
@@ -128,7 +128,7 @@ third_nav_title: Our Organisation
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Information and Communications Technology (ICT)</p>
+<p>HOD | Information and Communications Technology (ICT)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Ng Jenn Yang</p>
@@ -140,7 +140,7 @@ third_nav_title: Our Organisation
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Humanities</p>
+<p>HOD | Humanities</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Miss Azeanni Binte Yasni</p>
@@ -152,7 +152,7 @@ third_nav_title: Our Organisation
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Craft &amp; Technology (C&amp;T)</p>
+<p>HOD | Craft &amp; Technology (C&amp;T)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Ida Rahayu Binte Ismail</p>
@@ -164,7 +164,7 @@ third_nav_title: Our Organisation
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Physical Education (PE) / Co-Curricular Activities (CCA)</p>
+<p>HOD | Physical Education (PE) / Co-Curricular Activities (CCA)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Marcus Lau Kok Hiong</p>
@@ -176,7 +176,7 @@ third_nav_title: Our Organisation
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Student Development</p>
+<p>HOD | Student Development</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Alex Goh Wui Huat</p>
@@ -188,7 +188,7 @@ third_nav_title: Our Organisation
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Student Management</p>
+<p>HOD | Student Management</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Nirav Desai</p>
@@ -200,7 +200,7 @@ third_nav_title: Our Organisation
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Educational Support</p>
+<p>HOD | Educational Support</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Rabiyah Bte Ismail</p>
@@ -212,7 +212,7 @@ third_nav_title: Our Organisation
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>School Staff Development (SSD)</p>
+<p>HOD | School Staff Development (SSD)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Leung Yong Kang</p>
@@ -250,8 +250,9 @@ third_nav_title: Our Organisation
 </table>
 <p></p>
 <h3>Subject Heads / Level Heads (SH/LH)</h3>
-<table style="minWidth: 75px">
+<table style="minWidth: 100px">
 <colgroup>
+<col>
 <col>
 <col>
 <col>
@@ -267,6 +268,9 @@ third_nav_title: Our Organisation
 <th rowspan="1" colspan="1">
 <p></p>
 </th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -278,8 +282,14 @@ third_nav_title: Our Organisation
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
