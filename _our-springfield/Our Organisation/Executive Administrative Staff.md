@@ -74,25 +74,25 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>AE 1</p>
+<p>ICT M</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Siti Aishah Bte Ramli</p>
+<p>Mr Kolanjanati Shashi Kumar</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:siti_aishah_ramli@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">siti_aishah_ramli@moe.edu.sg</a>
+<p><a href="mailto:kolanjanati_shashi_kumar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kolanjanati_shashi_kumar@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>AE 2</p>
+<p>ICT A</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Chan Siew Yin Irene</p>
+<p>Mr Faiz</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chan_siew_yin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chan_siew_yin@moe.edu.sg</a>
+<p><a href="mailto:muhammad_faiz_mohamed_yusoff_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">muhammad_faiz_mohamed_yusoff_a@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -178,25 +178,26 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>ICTA</p>
+<p>AE 1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Muhd Faiz</p>
+<p>Ms Siti Aishah Bte Ramli</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>muhammad_faiz_mohamed_yusoff_a@moe.edu.sg</em>
+<p><a href="mailto:siti_aishah_ramli@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">siti_aishah_ramli@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>ICTM</p>
+<p>AE 2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Shashi Kumar</p>
+<p>Mdm Chan Siew Yin Irene</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>kolanjanati_shashi_kumar@moe.edu.sg</p>
+<p><a href="mailto:chan_siew_yin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chan_siew_yin@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
