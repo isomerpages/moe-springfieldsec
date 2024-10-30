@@ -259,12 +259,6 @@ third_nav_title: Our Organisation
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="3">
-<p><strong>SECONDARY 3</strong>
-</p>
-</th>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p><strong>Class</strong>
 </p>
@@ -352,7 +346,7 @@ third_nav_title: Our Organisation
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ita Pranatih Binte Pratojanuri</p>
+<p>Mdm Ita Pranatih Binte Pratojanuri</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>ita_pranatih_pratojanuri@moe.edu.sg</p>
@@ -363,7 +357,8 @@ third_nav_title: Our Organisation
 <p>Nur Fadhlin Sakina</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>nur_fadhlin_sakina_ismail@moe.edu.sg</p>
+<p><a href="mailto:nur_fadhlin_sakina_ismail@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_fadhlin_sakina_ismail@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -375,7 +370,8 @@ third_nav_title: Our Organisation
 <p>Chew Yin Chia</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>chew_yin_chia@moe.edu.sg</p>
+<p><a href="mailto:chew_yin_chia@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chew_yin_chia@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -383,7 +379,8 @@ third_nav_title: Our Organisation
 <p>Koh Xin Yi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>koh_xin_yi@moe.edu.sg</p>
+<p><a href="mailto:koh_xin_yi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">koh_xin_yi@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -395,7 +392,8 @@ third_nav_title: Our Organisation
 <p>Tan Yik Zhen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>tan_yik_zhen@moe.edu.sg</p>
+<p><a href="mailto:tan_yik_zhen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_yik_zhen@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -403,7 +401,8 @@ third_nav_title: Our Organisation
 <p>Ang Hui Wen Grace</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ang_hui_wen_grace@moe.edu.sg</p>
+<p><a href="mailto:ang_hui_wen_grace@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ang_hui_wen_grace@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
