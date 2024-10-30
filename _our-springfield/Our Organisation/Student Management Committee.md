@@ -19,9 +19,12 @@ third_nav_title: Our Organisation
 <p><strong>Designation</strong>
 </p>
 </th>
-<th rowspan="1" colspan="2">
-<p><strong>Name / Email Address</strong>
+<th rowspan="1" colspan="1">
+<p><strong>Name </strong>
 </p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Email Address</p>
 </th>
 </tr>
 <tr>
@@ -74,8 +77,11 @@ third_nav_title: Our Organisation
 <th rowspan="1" colspan="1">
 <p>Designation / Department</p>
 </th>
-<th rowspan="1" colspan="2">
-<p>Name / Email Address</p>
+<th rowspan="1" colspan="1">
+<p>Name</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Email Address</p>
 </th>
 </tr>
 <tr>
