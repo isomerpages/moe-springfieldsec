@@ -39,7 +39,7 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Student Manager</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Yonatan Ng Yu Zhe</p>
@@ -51,7 +51,7 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Student Manager</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Yeo Yi Lin, Verine</p>
