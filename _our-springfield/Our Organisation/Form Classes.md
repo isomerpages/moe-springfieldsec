@@ -418,12 +418,6 @@ third_nav_title: Our Organisation
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="3">
-<p><strong>SECONDARY 4</strong>
-</p>
-</th>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p><strong>Class</strong>
 </p>
@@ -468,7 +462,8 @@ third_nav_title: Our Organisation
 <p>Siti Nuruljannah Bte Sukamar</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>siti_nuruljannah_bte_sukamar@moe.edu.sg</p>
+<p><a href="mailto:siti_nuruljannah_bte_sukamar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">siti_nuruljannah_bte_sukamar@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -476,7 +471,8 @@ third_nav_title: Our Organisation
 <p>Chan Hui Min</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>chan_hui_min@moe.edu.sg</p>
+<p><a href="mailto:chan_hui_min@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chan_hui_min@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -488,7 +484,8 @@ third_nav_title: Our Organisation
 <p>Faridah Bte Ahmad</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>faridah_ahmad@moe.edu.sg</p>
+<p><a href="mailto:faridah_ahmad@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">faridah_ahmad@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -496,7 +493,8 @@ third_nav_title: Our Organisation
 <p>Lin Yihua</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>lin_yihua@moe.edu.sg</p>
+<p><a href="mailto:lin_yihua@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lin_yihua@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -508,7 +506,8 @@ third_nav_title: Our Organisation
 <p>Cheo Swee Lian Maureen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>maureen_cheo@moe.edu.sg</p>
+<p><a href="mailto:maureen_cheo@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">maureen_cheo@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -516,7 +515,8 @@ third_nav_title: Our Organisation
 <p>Nurisha Hameed</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>nurisha_hamid@moe.edu.sg</p>
+<p><a href="mailto:nurisha_hamid@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nurisha_hamid@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -528,7 +528,8 @@ third_nav_title: Our Organisation
 <p>Izzah Hazirah Binte Azmi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>izzah_hazirah_azmi@moe.edu.sg</p>
+<p><a href="mailto:izzah_hazirah_azmi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">izzah_hazirah_azmi@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
