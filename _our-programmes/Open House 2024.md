@@ -6,6 +6,6 @@ description: ""
 ---
 # **Open House 2024**
 
-![](/images/openHouse1.jpg)
+![](/images/openhouse2.jpg)
 
 [CLICK HERE TO REGISTER](https://docs.google.com/forms/d/e/1FAIpQLSfOtt-YBlyKTpfKAMaj65n2RmUYM7fvDKSqYC7nklnwvtvblA/viewform)
