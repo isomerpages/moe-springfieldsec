@@ -143,10 +143,11 @@ third_nav_title: Our Organisation
 <p>Humanities</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Miss Azeanni Binte Yasni</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:azeanni_yasni@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">azeanni_yasni@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -154,10 +155,11 @@ third_nav_title: Our Organisation
 <p>Craft &amp; Technology (C&amp;T)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Ida Rahayu Binte Ismail</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:ida_rahayu_ismail@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ida_rahayu_ismail@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -165,10 +167,11 @@ third_nav_title: Our Organisation
 <p>Physical Education (PE) / Co-Curricular Activities (CCA)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Marcus Lau Kok Hiong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:lau_kok_hiong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lau_kok_hiong@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -176,10 +179,11 @@ third_nav_title: Our Organisation
 <p>Student Development</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Alex Goh Wui Huat</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:goh_wui_huat@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">goh_wui_huat@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -187,10 +191,11 @@ third_nav_title: Our Organisation
 <p>Student Management</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Nirav Desai</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:nirav_m_desai@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nirav_m_desai@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
