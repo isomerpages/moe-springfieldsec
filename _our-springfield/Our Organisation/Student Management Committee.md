@@ -20,7 +20,7 @@ third_nav_title: Our Organisation
 </p>
 </th>
 <th rowspan="1" colspan="1">
-<p><strong>Name </strong>
+<p><strong>Name</strong>
 </p>
 </th>
 <th rowspan="1" colspan="1">
@@ -300,46 +300,51 @@ third_nav_title: Our Organisation
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>SH | EdTech</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Ng Choon Hwee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:ng_choon_hwee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_choon_hwee@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>SH | Character &amp; Citizenship (CCE)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Zhang Lisa</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:zhang_lisa@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zhang_lisa@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>LH | English</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Pay Cai Yun (Angelia)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>
+<br><a href="mailto:pay_cai_yun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">pay_cai_yun@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>LH | Science</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Miss Lim Hui Leng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lim_hui_leng_b@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_hui_leng_b@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
