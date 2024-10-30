@@ -397,4 +397,85 @@ third_nav_title: Our Organisation
 </tr>
 </tbody>
 </table>
+<h3>Teacher Leaders</h3>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Designation / Department</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Name</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Email Address</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Master Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dr Li Dongmei</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:li_dong_mei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">li_dong_mei@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Senior Teacher | English</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Siti Zubaidah Binte Arshad</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:siti_zubaidah_arshad@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">siti_zubaidah_arshad@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Senior Teacher | Social Studies</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Zaleela Binte Zakariah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:zaleela_zakariah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zaleela_zakariah@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Senior Teacher | Mother Tongue</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Nurisha Bte Hamid</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:nurisha_hamid@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nurisha_hamid@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Senior Teacher | Physical Education</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Teo Wee Meng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>
+<br>teo_wee_meng@moe.edu.sg</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
