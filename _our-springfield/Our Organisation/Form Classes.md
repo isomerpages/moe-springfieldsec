@@ -429,7 +429,7 @@ third_nav_title: Our Organisation
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Name </strong>
+<p><strong>Name</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -520,7 +520,7 @@ third_nav_title: Our Organisation
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p><strong>4E</strong>
 </p>
 </td>
@@ -532,6 +532,15 @@ third_nav_title: Our Organisation
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p>Miss Shashtriya Manogaran</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:shastriya_manogaran@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">shastriya_manogaran@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
 <td rowspan="2" colspan="1">
 <p><strong>4F</strong>
 </p>
@@ -540,7 +549,8 @@ third_nav_title: Our Organisation
 <p>Siti Zubaidah Bte Arshad</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>siti_zubaidah_arshad@moe.edu.sg</p>
+<p><a href="mailto:siti_zubaidah_arshad@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">siti_zubaidah_arshad@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -548,7 +558,8 @@ third_nav_title: Our Organisation
 <p>Chue Bing Hao, Edwin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>chue_bing_hao_edwin@moe.edu.sg</p>
+<p><a href="mailto:chue_bing_hao_edwin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chue_bing_hao_edwin@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -560,7 +571,8 @@ third_nav_title: Our Organisation
 <p>Ho Shu Ling, Judith</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ho_shu_ling_judith@moe.edu.sg</p>
+<p><a href="mailto:ho_shu_ling_judith@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ho_shu_ling_judith@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -568,7 +580,8 @@ third_nav_title: Our Organisation
 <p>Metha Pang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>metha_pang_hui_shan@moe.edu.sg</p>
+<p><a href="mailto:metha_pang_hui_shan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">metha_pang_hui_shan@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -580,7 +593,8 @@ third_nav_title: Our Organisation
 <p>Chong Ming Yoong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>choong_ming_yoong@moe.edu.sg</p>
+<p><a href="mailto:chong_ming_yoong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chong_ming_yong@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -588,7 +602,8 @@ third_nav_title: Our Organisation
 <p>Bryan Tan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>bryan_tan_fan_jun@moe.edu.sg</p>
+<p><a href="mailto:bryan_tan_fan_jun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">bryan_tan_fan_jun@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
