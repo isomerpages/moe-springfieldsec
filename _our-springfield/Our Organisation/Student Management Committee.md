@@ -250,9 +250,8 @@ third_nav_title: Our Organisation
 </table>
 <p></p>
 <h3>Subject Heads / Level Heads (SH/LH)</h3>
-<table style="minWidth: 100px">
+<table style="minWidth: 75px">
 <colgroup>
-<col>
 <col>
 <col>
 <col>
@@ -260,17 +259,38 @@ third_nav_title: Our Organisation
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p>
+<p>Designation / Department</p>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
+<p>Name</p>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
+<p>Email Address</p>
 </th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SH | Design &amp; Technology (D&amp;T)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Jeremy Wang Hsin-Wei</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:jeremy_wang_hsin-wei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jeremy_wang_hsin-wei@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SH | Geography</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Jenny Goh Jia Yee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:goh_jia_yee_jenny@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">goh_jia_yee_jenny@moe.edu.sg</a>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -282,6 +302,14 @@ third_nav_title: Our Organisation
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
@@ -290,6 +318,113 @@ third_nav_title: Our Organisation
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
