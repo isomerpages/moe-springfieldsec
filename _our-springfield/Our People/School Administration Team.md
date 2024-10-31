@@ -122,30 +122,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>ICT M</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Kolanjanati Shashi Kumar</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:kolanjanati_shashi_kumar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kolanjanati_shashi_kumar@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>ICT A</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Faiz</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:muhammad_faiz_mohamed_yusoff_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">muhammad_faiz_mohamed_yusoff_a@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>CSO 1</p>
 </td>
 <td rowspan="1" colspan="1">
