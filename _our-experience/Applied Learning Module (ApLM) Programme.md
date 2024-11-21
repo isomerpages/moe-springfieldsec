@@ -22,7 +22,7 @@ iii. Learning for life
 <br>Through ‘Learning by doing’ and ‘Learning about the real world’, students will  appreciate  the  complexities  of  reality  and  experience  the  need  to imagine possibilities, take risks, try something new or different, and learn from challenges and setbacks when things do not work according to plan or theory. These are attitudes and dispositions which they can continue to apply as lifelong learners.
 
 
-<u>**Student-in-Action**</u>
+<b><u>Student-in-Action</u></b>
 ![](/images/aplm1.png)
 
 ![](/images/aplm2.png)
@@ -33,7 +33,7 @@ iii. Learning for life
 
 ![](/images/aplm5.png)
 
-<u>**Student's 2024 ApLM Works**</u>
+<b><u>Student's 2024 ApLM Works</u></b>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xM44vA-fBUk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 <br>
