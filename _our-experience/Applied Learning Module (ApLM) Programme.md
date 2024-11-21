@@ -35,4 +35,11 @@ iii. Learning for life
 
 <u>**Student's 2024 ApLM Works**</u>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/[xM44vA-fBUk](https://youtu.be/xM44vA-fBUk)" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xM44vA-fBUk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/t9L_9tkwct0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU8m6DkWYK4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wENh4I9H0C4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+
