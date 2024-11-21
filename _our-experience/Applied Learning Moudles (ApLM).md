@@ -19,4 +19,18 @@ description: ""
 <br>Providing students with rich opportunities to acquire and apply knowledge and skills in real-world contexts helps to deepen their learning. This also allows them to see the relevance of their learning, which aids in developing motivation and a sense of purpose in our students.
 
 iii. Learning for life
-<br>Through ‘Learning by doing’ and ‘Learning about the real world’, students will  appreciate  the  complexities  of  reality  and  experience  the  need  to imagine possibilities, take risks, try something new or different, and learn from challenges and setbacks when things do not work according to plan or theory. These are attitudes and dispositions which they can continue to apply as lifelong learners.  
+<br>Through ‘Learning by doing’ and ‘Learning about the real world’, students will  appreciate  the  complexities  of  reality  and  experience  the  need  to imagine possibilities, take risks, try something new or different, and learn from challenges and setbacks when things do not work according to plan or theory. These are attitudes and dispositions which they can continue to apply as lifelong learners.
+
+
+<u>**Student-in-Action**</u>
+![](/images/aplm1.png)
+
+![](/images/aplm2.png)
+
+![](/images/aplm3.png)
+
+![](/images/aplm4.png)
+
+![](/images/aplm5.png)
+
+<u>**Student's 2024 ApLM Works**</u>
