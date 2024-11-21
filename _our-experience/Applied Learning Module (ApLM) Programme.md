@@ -43,3 +43,4 @@ iii. Learning for life
 <br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wENh4I9H0C4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
+[We are Springfielders 3.pdf](/files/We_are_Springfielders_3.pdf)
