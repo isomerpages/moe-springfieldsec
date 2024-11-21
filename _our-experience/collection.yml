@@ -2,7 +2,6 @@ collections:
   our-experience:
     output: true
     order:
-      - Applied Learning Moudles (ApLM).md
       - CCA/.keep
       - CCA/CCA.md
       - CCA/Floorball (Girls).md
@@ -27,6 +26,7 @@ collections:
       - Student Leadership/Student Council.md
       - Student Leadership/CCA Leaders.md
       - Global Education Programme.md
+      - Applied Learning Moudles (ApLM).md
       - Yearbook.md
       - Termly Letter.md
       - Project ECO 2023.md
