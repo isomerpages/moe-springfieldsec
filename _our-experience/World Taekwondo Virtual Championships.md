@@ -17,6 +17,12 @@ The discipline was featured in the 2023 Olympic Esports Series and will also be 
 
 In line with our Springfield Value of Resilience, Javier displayed hardwork and positive attitude in preparing for this competition. It was not an easy journey as he suffered an injury during the National Schools Games this year. We look forward to seeing him in action in upcoming competitions and do Springfield proud!
 
+You may find more information in the 2 news article below:
+
+[https://www.straitstimes.com/sport/virtual-drive-to-boost-taekwondo-participation](https://www.straitstimes.com/sport/virtual-drive-to-boost-taekwondo-participation)
+
+[https://www.zaobao.com.sg/news/sports/story20241116-5357108?utm_source=telegram&amp;utm_medium=social](https://www.zaobao.com.sg/news/sports/story20241116-5357108?utm_source=telegram&amp;utm_medium=social)
+
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/N8x3z80FoqA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
