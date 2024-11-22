@@ -19,3 +19,7 @@ In line with our Springfield Value of Resilience, Javier displayed hardwork and 
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/N8x3z80FoqA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+
+![](/images/tkd2.jpg)
+
+![](/images/tkd3.png)
