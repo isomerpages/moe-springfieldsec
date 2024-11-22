@@ -42,6 +42,7 @@ sections:
       button: read more
       image: /images/tkd1.jpg
       alt: Image alt text
+      url: /world-taekwondo-virtual-championships/
   - infopic:
       title: Football Feats Unlocked!
       id: infopic
