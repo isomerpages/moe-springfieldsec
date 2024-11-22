@@ -15,7 +15,7 @@ On the first day of competition, Singapore’s Javis Yap from Springfield Second
 
 The discipline was featured in the 2023 Olympic Esports Series and will also be showcased at Paris 2024, ahead of the first Olympic Esports Games in 2025.
 
-In line with our Springfield Value of Resilience, Javier displayed hardwork and positive attitude in preparing for this competition. It was not an easy journey as he suffered an injury during the National Schools Games this year. We look forward to seeing him in action in upcoming competitions and do Springfield proud!
+In line with our Springfield Value of Resilience, Javis displayed hardwork and positive attitude in preparing for this competition. It was not an easy journey as he suffered an injury during the National Schools Games this year. We look forward to seeing him in action in upcoming competitions and do Springfield proud!
 
 You may find more information in the 2 news article below:
 
