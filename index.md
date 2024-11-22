@@ -35,6 +35,14 @@ sections:
       button: FIND OUT MORE
       url: /open-house-2024/
   - infopic:
+      title: World Taekwondo Virtual Championships
+      id: infopic
+      description: Javis from 3A secured first place in the Junior Mixed category! 🏆
+        He’s also proudly featured on the event poster! 🎉
+      button: read more
+      image: /images/tkd1.jpg
+      alt: Image alt text
+  - infopic:
       title: Football Feats Unlocked!
       id: infopic
       description: Congrats to our football team for securing 3rd runner-up in League
