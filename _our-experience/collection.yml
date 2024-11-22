@@ -2,7 +2,6 @@ collections:
   our-experience:
     output: true
     order:
-      - World Taekwondo Virtual Championships.md
       - CCA/.keep
       - CCA/CCA.md
       - CCA/Floorball (Girls).md
@@ -38,3 +37,4 @@ collections:
       - Secondary 2 Streaming 2024.md
       - Taekwondo (TKD) Triumphs Again.md
       - Football Feats Unlocked!.md
+      - World Taekwondo Virtual Championships.md
