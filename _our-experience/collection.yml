@@ -2,6 +2,7 @@ collections:
   our-experience:
     output: true
     order:
+      - World Taekwondo Virtual Championships.md
       - CCA/.keep
       - CCA/CCA.md
       - CCA/Floorball (Girls).md
