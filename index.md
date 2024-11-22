@@ -40,7 +40,6 @@ sections:
       description: Javis from 3A secured first place in the Junior Mixed category! 🏆
         He’s also proudly featured on the event poster! 🎉
       button: read more
-      url: ""
       image: /images/tkd1.jpg
       alt: Image alt text
   - infopic:
