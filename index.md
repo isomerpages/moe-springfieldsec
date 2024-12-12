@@ -24,17 +24,6 @@ sections:
       variant: center
       button: Contact Us
   - infopic:
-      title: OPEN HOUSE 2024
-      subtitle: Join us at our
-      id: infopic
-      description: Fun-filled day of learning & discovery—our Open House invites you
-        to dive into hands-on science experiments, creative art workshops, and
-        interactive tech demos.
-      image: /images/2024_Open_House___MOTD__800_x_580_px_.jpg
-      alt: Image alt text
-      button: FIND OUT MORE
-      url: /open-house-2024/
-  - infopic:
       title: World Taekwondo Virtual Championships
       id: infopic
       description: Javis from 3A secured first place in the Junior Mixed category! 🏆
