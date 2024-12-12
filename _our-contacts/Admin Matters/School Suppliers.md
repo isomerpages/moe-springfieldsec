@@ -76,7 +76,7 @@ variant: tiptap
 <p>Website:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="www.casco.com.sg" rel="noopener noreferrer nofollow" target="_blank">http://cascoedusupply.com.sg</a>
+<p><a href="http://cascoedusupply.com.sg" rel="noopener noreferrer nofollow" target="_blank">http://cascoedusupply.com.sg</a>
 </p>
 </td>
 </tr>
