@@ -40,13 +40,14 @@ To discuss any of the following, please book appointment slots that <b>do NOT co
 
 	
 <b>Common Admission Exercises</b>
-<br>[•Joint Admissions Exercise (JAE)](https://www.moe.gov.sg/post-secondary/admissions/jae)
-<br>[•Joint Intake Exercise (JIE)](https://www.moe.gov.sg/post-secondary/admissions/jie)
-<br>[•N-level Joint Intake Exercise (JIE) Booklet](https://www.ite.edu.sg/docs/default-source/admissions-docs/full-time/publications/admission-booklet/gce-n-admission-booklet-2024.pdf)
-<br>[•	Polytechnic Foundation Programme (PFP)](https://go.gov.sg/pfp)
+<br>[• Joint Admissions Exercise (JAE)](https://www.moe.gov.sg/post-secondary/admissions/jae)
+<br>[• Joint Intake Exercise (JIE)](https://www.moe.gov.sg/post-secondary/admissions/jie)
+<br>[• ITE Admission &amp; Course Information Brochure ](go.gov.sg/jie-booklet)
+<br>[• Polytechnic Foundation Programme (PFP)](https://go.gov.sg/pfp)
 <br>[•	NAFA Foundation Programme (NFP)](https://go.gov.sg/applynafafp)
 <br>[•	Direct Entry Scheme to Polytechnic Programme (DPP)](https://go.gov.sg/higher-nitec-dpp)
-<br>[•ITE Traineeship Scheme](https://www.ite.edu.sg/courses/traineeship-courses): A formalised 'Earn-as-you-Learn' training arrangement
+<br>[• DPP Course Mapping](for.edu.sg/dpp-poly-mapping)
+<br>[• ITE Traineeship Scheme](https://www.ite.edu.sg/courses/traineeship-courses): A formalised 'Earn-as-you-Learn' training arrangement
 <br>[•	Joint Polytechnic Admissions Exercise (JPAE)](https://jpae.polytechnic.edu.sg/): ITE Admissions to Poly
 
 
@@ -59,7 +60,7 @@ To discuss any of the following, please book appointment slots that <b>do NOT co
 
 
 <b>Work and Industry</b>
-<br>[•MyCareersFuture](https://go.gov.sg/careersfuture): A portal with career-related content
+<br>[• MyCareersFuture](https://go.gov.sg/careersfuture): A portal with career-related content
 <br>[•	Singapore Industry Landscape](https://go.gov.sg/industrylandscape-sec)
 <br>[•	Industry Transformation Maps (ITMs)](https://www.mti.gov.sg/ITMs/Overview): Roadmaps for the various industries in Singapore
 <br>[•	Skills Framework](https://www.skillsfuture.gov.sg/skills-framework): Information on career sectors, pathways, roles, skills, training, etc.
