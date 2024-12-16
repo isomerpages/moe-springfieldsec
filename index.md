@@ -26,8 +26,7 @@ sections:
   - infopic:
       title: N Level Results Release 2024
       id: infopic
-      description: Administrative Briefing
-      button: Read more
+      button: Administrative Briefing
       url: /football-feats-unlocked/
       image: /images/n_pic.png
   - infopic:
