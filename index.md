@@ -24,6 +24,13 @@ sections:
       variant: center
       button: Contact Us
   - infopic:
+      title: N Level Results Release 2024
+      id: infopic
+      button: Administrative Briefing
+      url: /n-level-results-release-2024/
+      image: /images/n_pic.png
+      alt: Image alt text
+  - infopic:
       title: World Taekwondo Virtual Championships
       id: infopic
       description: Javis from 3A secured first place in the Junior Mixed category! 🏆
