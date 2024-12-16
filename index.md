@@ -12,9 +12,9 @@ sections:
       background: /images/SFSS.gif
       url: /contact-us/
       key_highlights:
-        - title: O Level Results Release 2023
-          description: View Administrative Slides
-          url: https://drive.google.com/file/d/11zsAR9_nKdUZWPaJ-jwTHXpl6-JDj20e/view?usp=sharing
+        - title: ITE Admission & Course Information Brochure
+          description: View Booklet
+          url: https://go.gov.sg/jie-booklet
         - title: NDLP
           description: Read More
           url: https://sites.google.com/view/ictspringfield/ndlp/parents-engagement-18-jan
