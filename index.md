@@ -29,6 +29,7 @@ sections:
       button: Administrative Briefing
       url: /n-level-results-release-2024/
       image: /images/n_pic.png
+      alt: Image alt text
   - infopic:
       title: World Taekwondo Virtual Championships
       id: infopic
