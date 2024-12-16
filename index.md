@@ -27,7 +27,7 @@ sections:
       title: N Level Results Release 2024
       id: infopic
       button: Administrative Briefing
-      url: /football-feats-unlocked/
+      url: /n-level-results-release-2024/
       image: /images/n_pic.png
   - infopic:
       title: World Taekwondo Virtual Championships
