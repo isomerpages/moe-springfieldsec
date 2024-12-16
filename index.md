@@ -14,7 +14,7 @@ sections:
       key_highlights:
         - title: N Level Result Release 2024
           description: Read More
-          url: ""
+          url: /n-level-results-release-2024/
         - title: NDLP
           description: Read More
           url: https://sites.google.com/view/ictspringfield/ndlp/parents-engagement-18-jan
