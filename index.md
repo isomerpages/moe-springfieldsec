@@ -24,6 +24,13 @@ sections:
       variant: center
       button: Contact Us
   - infopic:
+      title: N Level Results Release 2024
+      id: infopic
+      description: Administrative Briefing
+      button: Read more
+      url: /football-feats-unlocked/
+      image: /images/n_pic.png
+  - infopic:
       title: World Taekwondo Virtual Championships
       id: infopic
       description: Javis from 3A secured first place in the Junior Mixed category! 🏆
