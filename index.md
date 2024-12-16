@@ -12,9 +12,9 @@ sections:
       background: /images/SFSS.gif
       url: /contact-us/
       key_highlights:
-        - title: ITE Admission & Course Information Brochure
-          description: View Booklet
-          url: https://go.gov.sg/jie-booklet
+        - title: N Level Result Release 2024
+          description: Read More
+          url: ""
         - title: NDLP
           description: Read More
           url: https://sites.google.com/view/ictspringfield/ndlp/parents-engagement-18-jan
