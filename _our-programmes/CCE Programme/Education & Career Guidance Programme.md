@@ -26,16 +26,16 @@ To discuss any of the following, please book appointment slots that <b>do NOT co
 
 
  <b>ECG Resources</b>
-<br>[•Full Subject-Based Banding (Full SBB)](https://go.gov.sg/moe-fsbb)
-<br>[•MySkillsFuture (Secondary School)](https://go.gov.sg/mysfsec)
-<br>[•ECG Calendar of Events](https://www.myskillsfuture.gov.sg/content/student/en/secondary/education-guide/events.html)
-<br>[•On My Way by National Youth Council](https://www.nyc.gov.sg/omw/)
+<br>[• Full Subject-Based Banding (Full SBB)](https://go.gov.sg/moe-fsbb)
+<br>[• MySkillsFuture (Secondary School)](https://go.gov.sg/mysfsec)
+<br>[• ECG Calendar of Events](https://www.myskillsfuture.gov.sg/content/student/en/secondary/education-guide/events.html)
+<br>[• On My Way by National Youth Council](https://www.nyc.gov.sg/omw/)
 <br>[•	Advisory](https://advisory.sg/)
 
 <b>Course &amp; Curriculum Information</b>
-<br>[•List of all ITE Courses](https://www.ite.edu.sg/courses/full-time-courses)
-<br>[•ITE Prospectus](https://www.ite.edu.sg/admissions/prospectus): Information on ITE courses, including Traineeship
-<br>[•	CourseFinder](https://go.gov.sg/coursefinder): Explore courses based on aggregate type, score, type of institute and area of interest
+<br>[• List of all ITE Courses](https://www.ite.edu.sg/courses/full-time-courses)
+<br>[• ITE Prospectus](https://www.ite.edu.sg/admissions/prospectus): Information on ITE courses, including Traineeship
+<br>[• CourseFinder](https://go.gov.sg/coursefinder): Explore courses based on aggregate type, score, type of institute and area of interest
 <br>[•	International Baccalaureate® (IB) Diploma Programme (DP) curriculum](https://www.ibo.org/programmes/diploma-programme/curriculum/)
 
 	
