@@ -42,11 +42,11 @@ To discuss any of the following, please book appointment slots that <b>do NOT co
 <b>Common Admission Exercises</b>
 <br>[• Joint Admissions Exercise (JAE)](https://www.moe.gov.sg/post-secondary/admissions/jae)
 <br>[• Joint Intake Exercise (JIE)](https://www.moe.gov.sg/post-secondary/admissions/jie)
-<br>[• ITE Admission &amp; Course Information Brochure ](go.gov.sg/jie-booklet)
+<br>[• ITE Admission &amp; Course Information Brochure ](https://go.gov.sg/jie-booklet)
 <br>[• Polytechnic Foundation Programme (PFP)](https://go.gov.sg/pfp)
 <br>[•	NAFA Foundation Programme (NFP)](https://go.gov.sg/applynafafp)
 <br>[•	Direct Entry Scheme to Polytechnic Programme (DPP)](https://go.gov.sg/higher-nitec-dpp)
-<br>[• DPP Course Mapping](for.edu.sg/dpp-poly-mapping)
+<br>[• DPP Course Mapping](https://for.edu.sg/dpp-poly-mapping)
 <br>[• ITE Traineeship Scheme](https://www.ite.edu.sg/courses/traineeship-courses): A formalised 'Earn-as-you-Learn' training arrangement
 <br>[•	Joint Polytechnic Admissions Exercise (JPAE)](https://jpae.polytechnic.edu.sg/): ITE Admissions to Poly
 
