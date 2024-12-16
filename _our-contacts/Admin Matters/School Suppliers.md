@@ -67,7 +67,7 @@ variant: tiptap
 <p>Email:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:cascoedu@gmail.com" rel="noopener noreferrer nofollow" target="_blank">order@cascoedusupply.com.sg</a>
+<p><a href="mailto:order@cascoedusupply.com.sg" rel="noopener noreferrer nofollow" target="_blank">order@cascoedusupply.com.sg</a>
 </p>
 </td>
 </tr>
@@ -76,7 +76,7 @@ variant: tiptap
 <p>Website:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="www.casco.com.sg" rel="noopener noreferrer nofollow" target="_blank">www.cascoedusupply.com.sg</a>
+<p><a href="http://cascoedusupply.com.sg" rel="noopener noreferrer nofollow" target="_blank">http://cascoedusupply.com.sg</a>
 </p>
 </td>
 </tr>

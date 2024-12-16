@@ -12,9 +12,9 @@ sections:
       background: /images/SFSS.gif
       url: /contact-us/
       key_highlights:
-        - title: O Level Results Release 2023
-          description: View Administrative Slides
-          url: https://drive.google.com/file/d/11zsAR9_nKdUZWPaJ-jwTHXpl6-JDj20e/view?usp=sharing
+        - title: ITE Admission & Course Information Brochure
+          description: View Booklet
+          url: https://go.gov.sg/jie-booklet
         - title: NDLP
           description: Read More
           url: https://sites.google.com/view/ictspringfield/ndlp/parents-engagement-18-jan
@@ -23,17 +23,6 @@ sections:
           url: https://sites.google.com/view/ictspringfield
       variant: center
       button: Contact Us
-  - infopic:
-      title: OPEN HOUSE 2024
-      subtitle: Join us at our
-      id: infopic
-      description: Fun-filled day of learning & discovery—our Open House invites you
-        to dive into hands-on science experiments, creative art workshops, and
-        interactive tech demos.
-      image: /images/2024_Open_House___MOTD__800_x_580_px_.jpg
-      alt: Image alt text
-      button: FIND OUT MORE
-      url: /open-house-2024/
   - infopic:
       title: World Taekwondo Virtual Championships
       id: infopic
