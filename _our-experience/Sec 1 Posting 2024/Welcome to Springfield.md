@@ -53,24 +53,24 @@ https://springfieldsec.moe.edu.sg/about-us/admin-matters/financial-assistance
 (Create new account and register child data, education level and choose Springfield Secondary 1 G1/G2/G3 &gt; Click Purchase Textbook &gt; Wait for booklist to load)
  </span><br><br><span style="background-color:transparent"><br>For Unifroms - refer to  <a href="https://www.myuniformshop.com.sg/">www.myuniformshop.com.sg </a> <br></span></th></tr></thead><tbody><tr><td style="background-color:#F4F4F4;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><br><br><br>19th Dec<br><br></td><td style="background-color:#F4F4F4;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><b> For Students under Financial Assistance</b><br><br><br><u>New Applicants</u><br>Download FAS application form from school website <br> <a href="https://springfieldsec.moe.edu.sg/about-us/admin-matters/financial-assistance">https://springfieldsec.moe.edu.sg/about-us/admin-matters/financial-assistance  </a> <br> and submit the completed application form at the school’s General Office with all the required supporting documents. </td></tr></tbody></table>
 
-
-![](/images/SIR0.png)
+![](/images/operatingtime.png)
 
 
 **D) Student Administrative Matters**
 
-•	All students entering Secondary One in January 2024 will be issued with a new Secondary Level School Smart Card (SSC). While Secondary One students are waiting for their Secondary level SSCs to be ready, they can continue to use their Primary level SSCs for concessionary travel till end April 2024. Students can still purchase the Monthly Concession Pass using their Primary level SSCs but they would need to purchase for Secondary School students fare.
+•	All students entering Secondary One in January 2025 will be issued with a new Secondary Level School Smart Card (SSC). While waiting for their Secondary level SSCs to be ready, Secondary One students can continue to use their Primary level SSCs for concessionary travel till end April 2025. Students can still purchase the Monthly Concession Pass using their Primary level SSCs, but they would need to pay  the Secondary School students’ fare.
 
-•	Photograph taking in Springfield’s school uniform will be arranged for all students in January 2024. Please do not take your own photographs for submission to the school. 
+•	Photograph taking in Springfield’s school uniform will be arr•	Photograph taking in Springfield’s school uniform would be arranged for all students in January 2025. As such, students need not take their own photographs for submission to the school. anged for all students in January 2024. Please do not take your own photographs for submission to the school. 
 
 
 **E) School Administrative Matters**
 
-•	The school gate will close at 7.30am daily for flag raising. Vehicles will not be allowed access to the school after 7.30am. Parents/ Guardians may drop off your child/ ward at Block 892 carpark, which is located adjacent to the school.
+•	The school gate will close at 7.30am daily for flag raising. Vehicles will not be allowed access to the school after 7.30am. Parents/ Guardians may drop off your child/ ward at public carparks, located adjacent to the school.
 
 •	Students who report to school after 7.30am are required to register at the Security Post.
 
-•	For the safety and security of our students, parents/ guardians will have to leave the school premises once you have dropped off your child/ ward. In the event you would like to meet up with relevant school personnel, you are requested to make prior appointments. 
+
+•	For the safety and security of our students, parents/ guardians will have to leave the school premises once you have dropped off your child/ ward. If you would like to   meet up with relevant school personnel, you are requested to make prior appointments.  
 
 
 
