@@ -9,7 +9,7 @@ variant: markdown
 
 [Meet-The-Parent Consolidated Slides_5 January 2024](https://drive.google.com/file/d/1nN1nd3-NiM_PUNksfEpb2nIabPDhlkW3/view?usp=drive_link)
 
-Dear Parents/Guardians,
+Dear Parents/ Guardians,
 
 A warm welcome to Springfield Secondary School! We would like to take the opportunity to congratulate your child/ ward on arriving at yet another milestone in their life as they progress from primary to secondary school.
 
@@ -21,9 +21,9 @@ We look forward to partnering you in the holistic development of your child/ war
 
 **A.	Administrative Information for parents/ guardians**
 
-•	Students and parents/ guardians are not required to physically report to school on the next working day (21st December 2023) following the release of S1 Posting Results. 
+•	Students and parents/ guardians are not required to physically report to school on the next working day (19th December 2024) following the release of S1 Posting Results. 
 
-•	The school will use the School Website (http://springfieldsec.moe.edu.sg) and Parents Gateway (PG) to communicate with parents/ guardians from the afternoon of the S1 Posting Results release date. 
+•		The school will use the School Website (https://www.springfieldsec.moe.edu.sg/our-experience/Sec-1-Posting-2025)  and Parents Gateway (PG) to communicate with parents/ guardians from the afternoon of the S1 Posting Results release date. 
 
 •	For parents/ guardians who are not on board PG, we will reach out to you via email separately.  
 
