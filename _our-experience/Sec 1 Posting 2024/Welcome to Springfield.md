@@ -7,7 +7,6 @@ variant: markdown
 ---
 #### **General Information for parents and students** 
 
-[Meet-The-Parent Consolidated Slides_5 January 2024](https://drive.google.com/file/d/1nN1nd3-NiM_PUNksfEpb2nIabPDhlkW3/view?usp=drive_link)
 
 Dear Parents/ Guardians,
 
@@ -60,7 +59,7 @@ https://springfieldsec.moe.edu.sg/about-us/admin-matters/financial-assistance
 
 •	All students entering Secondary One in January 2025 will be issued with a new Secondary Level School Smart Card (SSC). While waiting for their Secondary level SSCs to be ready, Secondary One students can continue to use their Primary level SSCs for concessionary travel till end April 2025. Students can still purchase the Monthly Concession Pass using their Primary level SSCs, but they would need to pay  the Secondary School students’ fare.
 
-•	Photograph taking in Springfield’s school uniform will be arr•	Photograph taking in Springfield’s school uniform would be arranged for all students in January 2025. As such, students need not take their own photographs for submission to the school. anged for all students in January 2024. Please do not take your own photographs for submission to the school. 
+•	Photograph taking in Springfield’s school uniform would be arranged for all students in January 2025. As such, students need not take their own photographs for submission to the school. 
 
 
 **E) School Administrative Matters**
