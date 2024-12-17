@@ -23,19 +23,19 @@ We look forward to partnering you in the holistic development of your child/ war
 
 •	Students and parents/ guardians are not required to physically report to school on the next working day (19th December 2024) following the release of S1 Posting Results. 
 
-•		The school will use the School Website (https://www.springfieldsec.moe.edu.sg/our-experience/Sec-1-Posting-2025)  and Parents Gateway (PG) to communicate with parents/ guardians from the afternoon of the S1 Posting Results release date. 
+•		The school will use the School Website (https://www.springfieldsec.moe.edu.sg/our-experience/sec-1-posting-2025)  and Parents Gateway (PG) to communicate with parents/ guardians from the afternoon of the S1 Posting Results release date. 
 
 •	For parents/ guardians who are not on board PG, we will reach out to you via email separately.  
 
-•	Please refer to Springfield Secondary School Website for updates prior to the school term reopening. 
+•	Please refer to the Springfield Secondary School Website for updates prior to the school term reopening. 
 
 •	Please refer to Annex A for the safe management measures put in place to ensure the safety of our staff and students in school.
 
-•	You may direct any feedback or query during office hours (8am to 5pm on weekdays) to the school’s General Office or to the Year Head/ Lower Secondary, Mr Eddie Chong. The contact details are appended in the table below. 
+•	You may direct any feedback or query during office hours (8am to 5pm on weekdays) to the school’s General Office or to the Year Head/ Lower Secondary, Mr Eddie Chong or Assistant Year Head/ Lower Secondary, Ms Alisya Yeo. The contact details are appended in the table below. 
 
 
 
-<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:#DDEEE9;border-color:#343434;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Springfield Secondary School</th><th style="background-color:#DDEEE9;border-color:#343434;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Year Head (Lower Secondary)</th></tr></thead><tbody><tr><td style="background-color:#ffffff;border-color:#343434;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:normal;color:#000">General Office <br>6318 3053 <br> springfields@moe.edu.sg</span></td><td style="background-color:#ffffff;border-color:#343434;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:normal;color:#000">Mr Eddie Chong <br> 6318 3971 <br>chong_suan_yan_eddie@moe.edu.sg</span></td></tr></tbody></table>
+<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:#DDEEE9;border-color:#343434;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Springfield Secondary School</th><th style="background-color:#DDEEE9;border-color:#343434;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Year Head (Lower Secondary)</th></tr></thead><tbody><tr><td style="background-color:#ffffff;border-color:#343434;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:normal;color:#000">General Office <br>6318 3053 <br> springfields@moe.edu.sg</span></td><td style="background-color:#ffffff;border-color:#343434;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:normal;color:#000">Mr Eddie Chong <br> 6318 3971 <br>chong_suan_yan_eddie@moe.edu.sg <br> <br>Ms Alisya Yeo <br>6318 3933<br>alisya_yeo@moe.edu.sg</span></td></tr></tbody></table>
 
 
 **B) Students under MOE Financial Assistance Scheme (MOE FAS)**
