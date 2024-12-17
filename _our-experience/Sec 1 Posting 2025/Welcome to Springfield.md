@@ -40,7 +40,7 @@ We look forward to partnering you in the holistic development of your child/ war
 **B) Students under MOE Financial Assistance Scheme (MOE FAS)**
 
 •	Kindly refer to the section on the Financial Assistance Scheme (FAS) in the school website. The link is as follows:
-https://springfieldsec.moe.edu.sg/about-us/admin-matters/financial-assistance
+[https://springfieldsec.moe.edu.sg/about-us/admin-matters/financial-assistance](https://springfieldsec.moe.edu.sg/about-us/admin-matters/financial-assistance)
 
 •	Students undergoing the MOE FAS application process should not purchase any books or uniforms until they receive the FAS confirmation letter.
 
