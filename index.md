@@ -24,6 +24,14 @@ sections:
       variant: center
       button: Contact Us
   - infopic:
+      title: Secondary 1 Posting 2025
+      id: infopic
+      description: General information for parents and students.
+      button: Read more
+      url: our-experience/sec-1-posting-2025/
+      image: /images/s1posting.png
+      alt: Image alt text
+  - infopic:
       title: N Level Results Release 2024
       id: infopic
       button: Administrative Briefing
