@@ -15,14 +15,22 @@ sections:
         - title: N Level Result Release 2024
           description: Read More
           url: https://www.springfieldsec.moe.edu.sg/n-level-results-release-2024/
-        - title: NDLP
+        - title: Secondary 1 Posting 2025
           description: Read More
-          url: https://sites.google.com/view/ictspringfield/ndlp/parents-engagement-18-jan
+          url: https://www.springfieldsec.moe.edu.sg/our-experience/sec-1-posting-2025/
         - title: ICT @ springfield
           description: Click here to access
           url: https://sites.google.com/view/ictspringfield
       variant: center
       button: Contact Us
+  - infopic:
+      title: Secondary 1 Posting 2025
+      id: infopic
+      description: General information for parents and students.
+      button: Read more
+      url: our-experience/sec-1-posting-2025/
+      image: /images/s1posting.png
+      alt: Image alt text
   - infopic:
       title: N Level Results Release 2024
       id: infopic
