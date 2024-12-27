@@ -267,7 +267,7 @@ third_nav_title: Our People
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="2" colspan="1">
 <p><strong>2A</strong>
 </p>
 </td>
@@ -281,18 +281,10 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Tan Cijun Eudora</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Gregory Chua</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:gregory_chua_lemin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">gregory_chua_lemin@moe.edu.sg</a>
+<p><a href="mailto:tan_cijun_eudora@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_cijun_eudora@moe.edu.sg</a>
 </p>
 </td>
 </tr>
