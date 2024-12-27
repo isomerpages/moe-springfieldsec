@@ -26,7 +26,8 @@ variant: markdown
 
 ![](/images/ccapic1.png)
 
-### CCA Selection Policy (Updated January 2024)
+### CCA Selection Policy 
+<i>(Updated 27 December 2024)</i>
 
 
 
