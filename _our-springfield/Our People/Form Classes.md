@@ -495,19 +495,19 @@ third_nav_title: Our People
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Chew Yin Chia Murphy</p>
+<p>Mdm Lin Yihua</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chew_yin_chia@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chew_yin_chia@moe.edu.sg</a>
+<p><a href="mailto:lin_yihua@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lin_yihua@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Miss Koh Xin Yi</p>
+<p>Mr Jeremy Wang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:koh_xin_yi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">koh_xin_yi@moe.edu.sg</a>
+<p><a href="mailto:jeremy_wang_hsin-wei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jeremy_wang_hsin-wei@moe.edu.sg</a>
 </p>
 </td>
 </tr>
