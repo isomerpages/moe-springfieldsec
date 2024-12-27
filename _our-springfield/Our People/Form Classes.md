@@ -116,7 +116,8 @@ third_nav_title: Our People
 <p>Ms Ng Zhao Ying (SH)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:ng_zhao_ying@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_zhao_ying@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
