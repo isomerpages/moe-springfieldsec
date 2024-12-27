@@ -482,10 +482,10 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Miss Nur Fadhlin Sakina</p>
+<p>Ms Pay Cai Yun Angelia</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nur_fadhlin_sakina_ismail@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_fadhlin_sakina_ismail@moe.edu.sg</a>
+<p><a href="mailto:pay_cai_yun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">pay_cai_yun@moe.edu.sg</a>
 </p>
 </td>
 </tr>
