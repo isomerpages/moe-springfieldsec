@@ -399,32 +399,40 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Daniel Neo Chong Shern</p>
+<p>Mr Ahmad Zaini</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:daniel_neo_chong_shern@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">daniel_neo_chong_shern@moe.edu.sg</a>
+<p><a href="mailto:ahmad_zaini_yusof@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ahmad_zaini_yusof@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p><strong>3B</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Muhammad Zaki B Samsudi</p>
+<p>Ms Ho Shu Ling, Judith</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:muhammad_zaki_samsudi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">muhammad_zaki_samsudi@moe.edu.sg</a>
+<p><a href="mailto:ho_shu_ling_judith@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ho_shu_ling_judith@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Pek Chee Siong Andy</p>
+<p>Mr Firuz</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:pek_chee_siong_andy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">pek_chee_siong_andy@moe.edu.sg</a>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Miss Siti Nur'Aliah Binte Ghazali</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:siti_nuraliah_ghazali@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">siti_nuraliah_ghazali@moe.edu.sg</a>
 </p>
 </td>
 </tr>
