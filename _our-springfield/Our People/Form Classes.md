@@ -482,7 +482,7 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Pay Cai Yun Angelia</p>
+<p>Ms Pay Cai Yun Angelia (SH)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:pay_cai_yun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">pay_cai_yun@moe.edu.sg</a>
