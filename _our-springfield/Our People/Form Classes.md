@@ -670,19 +670,19 @@ third_nav_title: Our People
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Izzah Hazirah Binte Azmi</p>
+<p>Mr Chew Yin Chia Murphy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:izzah_hazirah_azmi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">izzah_hazirah_azmi@moe.edu.sg</a>
+<p><a href="mailto:chew_yin_chia@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chew_yin_chia@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Miss Shashtriya Manogaran</p>
+<p>Miss Koh Xin Yi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:shastriya_manogaran@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">shastriya_manogaran@moe.edu.sg</a>
+<p><a href="mailto:koh_xin_yi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">koh_xin_yi@moe.edu.sg</a>
 </p>
 </td>
 </tr>
