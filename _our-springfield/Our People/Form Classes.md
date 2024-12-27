@@ -651,16 +651,16 @@ third_nav_title: Our People
 <p>Mr Teo Wee Meng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:maureen_cheo@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">maureen_cheo@moe.edu.sg</a>
+<p><a href="mailto:teo_wee_meng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teo_wee_meng@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Nurisha Hameed</p>
+<p>Miss Nur Fadhlin Sakina</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nurisha_hamid@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nurisha_hamid@moe.edu.sg</a>
+<p><a href="mailto:nur_fadhlin_sakina_ismail@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_fadhlin_sakina_ismail@moe.edu.sg</a>
 </p>
 </td>
 </tr>
