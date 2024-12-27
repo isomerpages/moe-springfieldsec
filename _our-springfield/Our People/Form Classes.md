@@ -442,10 +442,10 @@ third_nav_title: Our People
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Sng Kai Ming Joel</p>
+<p>Mdm Joy Chan - Chua Puay Yong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:sng_kai_ming_joel@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sng_kai_ming_joel@moe.edu.sg</a>
+<p><a href="mailto:chua_puay_yong_joy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chua_puay_yong_joy@moe.edu.sg</a>
 </p>
 </td>
 </tr>
