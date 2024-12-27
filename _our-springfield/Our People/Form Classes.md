@@ -169,7 +169,8 @@ third_nav_title: Our People
 <p>Mr Ng Choon Hwee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:ng_choon_hwee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_choon_hwee@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -178,10 +179,11 @@ third_nav_title: Our People
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Metha Pang</p>
+<p>Miss Metha Pang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:metha_pang_hui_shan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">metha_pang_hui_shan@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -189,7 +191,8 @@ third_nav_title: Our People
 <p>Mr Loh Chean Meng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:loh_chean_meng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">loh_chean_meng@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
