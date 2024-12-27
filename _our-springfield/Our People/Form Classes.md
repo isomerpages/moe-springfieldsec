@@ -272,10 +272,10 @@ third_nav_title: Our People
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Siti Nur'Aliah Binte Ghazali</p>
+<p>Mdm Michelle Lee-Chew Pee Chern</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:siti_nuraliah_ghazali@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">siti_nuraliah_ghazali@moe.edu.sg</a>
+<p><a href="mailto:chew_pee_chern@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chew_pee_chern@moe.edu.sg</a>
 </p>
 </td>
 </tr>
