@@ -8,12 +8,12 @@ variant: markdown
 
 ###   Our Vision
 
-Future-Ready Learners with a Caring Heart and the Confidence to Lead
+<b>Future-Ready Learners with a Caring Heart and the Confidence to Lead</b>
   
 
 ### Our Mission
 
-Nurturing Springfielders to grow, care &amp; lead
+<b>Nurturing Springfielders to grow, care &amp; lead</b>
 
 ### Our Values - STRIDE
 
