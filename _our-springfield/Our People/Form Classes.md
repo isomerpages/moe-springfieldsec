@@ -517,10 +517,10 @@ third_nav_title: Our People
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Tan Yik Zhen</p>
+<p>Mr Ong Kang Sheng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_yik_zhen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_yik_zhen@moe.edu.sg</a>
+<p><a href="mailto:ong_kang_sheng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ong_kang_sheng@moe.edu.sg</a>
 </p>
 </td>
 </tr>
