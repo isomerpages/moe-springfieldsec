@@ -235,7 +235,8 @@ third_nav_title: Our People
 <p>Ms Hui Leng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:lim_hui_leng_b@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_hui_leng_b@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
