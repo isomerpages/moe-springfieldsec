@@ -143,10 +143,11 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Lisa Zhang</p>
+<p>Ms Zhang Lisa</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:zhang_lisa@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zhang_lisa@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -316,19 +317,19 @@ third_nav_title: Our People
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Nurhayati Binte Abdul Ghafoor</p>
+<p>Mr Loke Jun Li Jeremiah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nurhayati_abdul_ghafoor@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nurhayati_abdul_ghafoor@moe.edu.sg</a>
+<p><a href="mailto:loke_jun_li_jeremiah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">loke_jun_li_jeremiah@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>MR Yong Jing Jun</p>
+<p>Miss Lim Shanrui Joanne</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:yong_jing_jun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yong_jing_jun@moe.edu.sg</a>
+<p><a href="mailto:lim_shanrui_joanne@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_shanrui_joanne@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -338,40 +339,19 @@ third_nav_title: Our People
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Jacobs Suzanne Irene</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Ahmad Zaini Bin Yusof</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:ahmad_zaini_yusof@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ahmad_zaini_yusof@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="2" colspan="1">
-<p><strong>2E</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Joy Chan - Chua Puay Yong</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:chua_puay_yong_joy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chua_puay_yong_joy@moe.edu.sg</a>
+<p><a href="mailto:jacobs_suzanne_irene@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jacobs_suzanne_irene@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Nor Hazimah Binte Mohd Hanafi</p>
+<p>Miss Chong Ming Yoong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nor_hazimah_mohd_hanafi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nor_hazimah_mohd_hanafi@moe.edu.sg</a>
+<p><a href="mailto:chong_ming_yoong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chong_ming_yoong@moe.edu.sg</a>
 </p>
 </td>
 </tr>
