@@ -512,7 +512,7 @@ third_nav_title: Our People
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p><strong>3F</strong>
 </p>
 </td>
@@ -526,10 +526,19 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Miss Ang Hui Wen Grace</p>
+<p>Mdm Nurhayati Binte Abdul Ghafoor</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ang_hui_wen_grace@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ang_hui_wen_grace@moe.edu.sg</a>
+<p><a href="mailto:nurhayati_abdul_ghafoor@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nurhayati_abdul_ghafoor@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Chan Hui Min</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chan_hui_min@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chan_hui_min@moe.edu.sg</a>
 </p>
 </td>
 </tr>
