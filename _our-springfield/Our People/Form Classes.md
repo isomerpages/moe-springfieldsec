@@ -95,7 +95,8 @@ third_nav_title: Our People
 <p>Mr Nicholas Tan Aum Yeow (SH)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:nicholas_tan_aum_yeow@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nicholas_tan_aum_yeow@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -517,7 +518,7 @@ third_nav_title: Our People
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Ong Kang Sheng</p>
+<p>Mr Ong Kang Sheng (SH)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ong_kang_sheng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ong_kang_sheng@moe.edu.sg</a>
@@ -573,41 +574,50 @@ third_nav_title: Our People
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Zaleela Binte Zakariah</p>
+<p>Ms Nurhuda Osman</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:zaleela_zakariah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zaleela_zakariah@moe.edu.sg</a>
+<p><a href="mailto:nurhuda_osman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nurhuda_osman@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Razinah Binti Muhamad</p>
+<p>Mr Daniel Neo Chong Shern</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:razinah_muhamad@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">razinah_muhamad@moe.edu.sg</a>
+<p><a href="mailto:daniel_neo_chong_shern@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">daniel_neo_chong_shern@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p><strong>4B</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Muhammad Zaki B Samsudi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:muhammad_zaki_samsudi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">muhammad_zaki_samsudi@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Chan Hui Min</p>
+<p>Mdm Nor Hazimah Binte Mohd Hanafi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chan_hui_min@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chan_hui_min@moe.edu.sg</a>
+<p><a href="mailto:nor_hazimah_mohd_hanafi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nor_hazimah_mohd_hanafi@moe.edu.sg</a>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Bernard Khoo</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -616,19 +626,19 @@ third_nav_title: Our People
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Faridah Bte Ahmad</p>
+<p>Mdm Tan Bee Yong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:faridah_ahmad@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">faridah_ahmad@moe.edu.sg</a>
+<p><a href="mailto:tan_bee_yong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_bee_yong@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Lin Yihua</p>
+<p>Mr Sng Kai Ming, Joel</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lin_yihua@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lin_yihua@moe.edu.sg</a>
+<p><a href="mailto:sng_kai_ming_joel@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sng_kai_ming_joel@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -638,7 +648,7 @@ third_nav_title: Our People
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Cheo Swee Lian Maureen</p>
+<p>Mr Teo Wee Meng</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:maureen_cheo@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">maureen_cheo@moe.edu.sg</a>
