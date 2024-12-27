@@ -451,10 +451,10 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Tan Bee Yong</p>
+<p>Mdm Nurisha Hameed (ST)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_bee_yong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_bee_yong@moe.edu.sg</a>
+<p><a href="mailto:nurisha_hamid@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nurisha_hamid@moe.edu.sg</a>
 </p>
 </td>
 </tr>
