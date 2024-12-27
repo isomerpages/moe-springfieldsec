@@ -176,7 +176,7 @@ third_nav_title: Our People
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Metha Pang</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -184,7 +184,7 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Loh Chean Meng</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -196,10 +196,11 @@ third_nav_title: Our People
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Siti Nuruljannah Bte Sukamar</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:siti_nuruljannah_bte_sukamar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">siti_nuruljannah_bte_sukamar@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -599,11 +600,10 @@ third_nav_title: Our People
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Siti Nuruljannah Bte Sukamar</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:siti_nuruljannah_bte_sukamar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">siti_nuruljannah_bte_sukamar@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
