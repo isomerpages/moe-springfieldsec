@@ -294,19 +294,19 @@ third_nav_title: Our People
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Ong Kang Sheng</p>
+<p>Mr Gemonn Wah Kok Siong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ong_kang_sheng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ong_kang_sheng@moe.edu.sg</a>
+<p><a href="mailto:gemonn_wah_kok_siong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">gemonn_wah_kok_siong@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Loh Chean Meng</p>
+<p>Ms Lee Si Min Celynn</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:loh_chean_meng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">loh_chean_meng@moe.edu.sg</a>
+<p><a href="mailto:lee_si_min_celynn@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_si_min_celynn@moe.edu.sg</a>
 </p>
 </td>
 </tr>
