@@ -464,10 +464,10 @@ third_nav_title: Our People
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Teo Wee Meng</p>
+<p>Mr Yong Jing Jun</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:teo_wee_meng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teo_wee_meng@moe.edu.sg</a>
+<p><a href="mailto:yong_jing_jun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yong_jing_jun@moe.edu.sg</a>
 </p>
 </td>
 </tr>
