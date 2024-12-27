@@ -390,10 +390,10 @@ third_nav_title: Our People
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Nurhuda Osman</p>
+<p>Mdm Siti Zubaidah Bte Arshad</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nurhuda_osman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nurhuda_osman@moe.edu.sg</a>
+<p><a href="mailto:siti_zubaidah_arshad@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">siti_zubaidah_arshad@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -665,11 +665,10 @@ third_nav_title: Our People
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Siti Zubaidah Bte Arshad</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:siti_zubaidah_arshad@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">siti_zubaidah_arshad@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
