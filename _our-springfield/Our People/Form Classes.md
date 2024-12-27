@@ -692,18 +692,19 @@ third_nav_title: Our People
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Tan Yik Zhen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:tan_yik_zhen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_yik_zhen@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Chue Bing Hao, Edwin</p>
+<p>Miss Ang Hui Wen Grace</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chue_bing_hao_edwin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chue_bing_hao_edwin@moe.edu.sg</a>
+<p><a href="mailto:ang_hui_wen_grace@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ang_hui_wen_grace@moe.edu.sg</a>
 </p>
 </td>
 </tr>
