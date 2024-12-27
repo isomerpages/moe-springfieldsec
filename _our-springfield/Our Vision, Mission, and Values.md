@@ -2,17 +2,18 @@
 title: Our Vision, Mission, and Values
 permalink: /about-us/our-vision-mission-and-values/
 description: ""
+variant: markdown
 ---
-# **Our Vision, Mission, and Values**
+# **Our Vision, Mission,&nbsp;and Values**
 
 ###   Our Vision
 
-Lifelong Learners, Exemplary Leaders.  
+Future-Ready Learners with a Caring Heart and the Confidence to Lead
   
 
 ### Our Mission
 
-To nurture youth with a passion for learning, shape leaders of character and develop useful citizens through a comprehensive education.
+Nurturing Springfielders to grow, care &amp; lead
 
 ### Our Values - GR<sub>2</sub>ID
 
