@@ -422,10 +422,11 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Firuz</p>
+<p>Mr Mohmmad</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:mohammad_firuz_mustapha@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mohammad_firuz_mustapha@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
