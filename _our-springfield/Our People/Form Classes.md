@@ -205,18 +205,20 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Syarifah Hafizah Binte Syed</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:syarifah_hafizah_syed@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">syarifah_hafizah_syed@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Ita Pranatih Binte Pratojanuri</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:ita_pranatih_pratojanuri@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ita_pranatih_pratojanuri@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -225,7 +227,7 @@ third_nav_title: Our People
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Hui Leng</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -233,10 +235,11 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Xiong Xiaodong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:xiong_xiaodong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">xiong_xiaodong@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
@@ -278,11 +281,10 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Syarifah Hafizah Binte Syed</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:syarifah_hafizah_syed@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">syarifah_hafizah_syed@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -344,11 +346,10 @@ third_nav_title: Our People
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Xiong Xiaodong</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:xiong_xiaodong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">xiong_xiaodong@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
