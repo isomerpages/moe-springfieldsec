@@ -16,4 +16,3 @@ Future-Ready Learners with a Caring Heart and the Confidence to Lead
 Nurturing Springfielders to grow, care &amp; lead
 
 ### Our Values - STRIDE - Service, Tenacity, Respect, Integrity, Diligence, Empathy
-
