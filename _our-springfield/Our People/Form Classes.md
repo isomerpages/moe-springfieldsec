@@ -709,46 +709,15 @@ third_nav_title: Our People
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
-<p><strong>4G</strong>
-</p>
-</td>
 <td rowspan="1" colspan="1">
-<p>Ms Ho Shu Ling, Judith</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:ho_shu_ling_judith@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ho_shu_ling_judith@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Miss Metha Pang</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:metha_pang_hui_shan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">metha_pang_hui_shan@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="2" colspan="1">
 <p><strong>5A</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Chong Ming Yoong</p>
+<p>Mdm Faridah Bte Ahmad</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chong_ming_yoong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chong_ming_yong@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Bryan Tan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:bryan_tan_fan_jun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">bryan_tan_fan_jun@moe.edu.sg</a>
+<p><a href="mailto:faridah_ahmad@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">faridah_ahmad@moe.edu.sg</a>
 </p>
 </td>
 </tr>
