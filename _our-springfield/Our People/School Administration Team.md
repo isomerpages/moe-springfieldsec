@@ -26,7 +26,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>AM 1</p>
+<p>Administrative Manager 1</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Mimi Hidayati Bte Ismail</p>
@@ -38,7 +38,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>AM 2</p>
+<p>Administrative Manager 2</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Shamala Balakrishnan</p>
@@ -50,7 +50,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>OM 1</p>
+<p>Operation Manager 1</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Eileen Gway Chong Ling</p>
@@ -62,7 +62,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>OM 2</p>
+<p>Operation Manager 2</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr K Chandran</p>
@@ -74,7 +74,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>ICT M</p>
+<p>ICT Manager</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Kolanjanati Shashi Kumar</p>
@@ -86,7 +86,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>ICT A</p>
+<p>ICT Associate</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Faiz</p>
@@ -98,7 +98,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>AE 1</p>
+<p>Administrative Executive 1</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Siti Aishah Bte Ramli</p>
@@ -110,7 +110,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>AE 2</p>
+<p>Administrative Executive 2</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Chan Siew Yin Irene</p>
