@@ -78,6 +78,18 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>School Counsellor</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Miss Khoo Shi Min Samantha</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="khoo_shi_min@moe.edu.sg" rel="noopener nofollow" target="_blank">khoo_shi_min@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Student Welfare Officer</p>
 </td>
 <td rowspan="1" colspan="1">
