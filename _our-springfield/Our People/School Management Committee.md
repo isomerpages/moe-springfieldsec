@@ -324,6 +324,18 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>SH | Partnership</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Nicholas Tan Aum Yeow</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:nicholas_tan_aum_yeow@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nicholas_tan_aum_yeow@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>LH | English</p>
 </td>
 <td rowspan="1" colspan="1">
