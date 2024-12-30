@@ -288,7 +288,7 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH | Geography</p>
+<p>SH | Innovation &amp; Sustainability</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Jenny Goh Jia Yee</p>
@@ -319,6 +319,18 @@ third_nav_title: Our People
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:zhang_lisa@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zhang_lisa@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SH | Partnership</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Nicholas Tan Aum Yeow</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:nicholas_tan_aum_yeow@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nicholas_tan_aum_yeow@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -461,19 +473,6 @@ third_nav_title: Our People
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:nurisha_hamid@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nurisha_hamid@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Senior Teacher | Physical Education</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Teo Wee Meng</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:teo_wee_meng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teo_wee_meng@moe.edu.sg</a>
-<br>
 </p>
 </td>
 </tr>
