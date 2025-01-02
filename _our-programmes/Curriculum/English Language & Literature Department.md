@@ -3,20 +3,20 @@ title: English Language & Literature Department
 permalink: /about-us/our-organisation/english-language-n-literature-department/
 description: ""
 third_nav_title: Curriculum
+variant: markdown
 ---
-
-# **English Language & Literature Department**
+# **English Language &amp; Literature Department**
 
 **Head of Department**  
 Mr Muhammad Hafiz Bin Salleh    
-Email: [_muhammad\_hafiz\_salleh@moe.edu.sg_](mailto:muhammad_hafiz_salleh@moe.edu.sg)
+Email:&nbsp;[_muhammad\_hafiz\_salleh@moe.edu.sg_](mailto:muhammad_hafiz_salleh@moe.edu.sg)
 
 **Senior Teacher**  
 Mdm Siti Zubaidah Bte Arshad   
-Email: [_siti_zubaidah_arshad@moe.edu.sg_](mailto:siti_zubaidah_arshad@moe.edu.sg)
+Email:&nbsp;[_siti_zubaidah_arshad@moe.edu.sg_](mailto:siti_zubaidah_arshad@moe.edu.sg)
 
 
-**Normal Technical (NT) Coordinator & Year Head (Upper Sec)**
+**Normal Technical (NT) Coordinator &amp; Year Head (Upper Sec)**
 <br>Miss Tan Chna Huang
 
 
@@ -35,7 +35,7 @@ Email: [_siti_zubaidah_arshad@moe.edu.sg_](mailto:siti_zubaidah_arshad@moe.edu.
 * To develop a reading culture
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wmkgetyPFg4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wmkgetyPFg4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 #### English Literature
 The study of Literature centres on literary response – the negotiation of meaning between readers and texts. This Literary Response Framework represents how teachers will design learning experiences that encourage students to respond to texts in a holistic manner. The Framework is shaped like an eye to emphasise how responding to Literature empowers students to read texts and the world in different ways and with discernment. 
@@ -59,7 +59,7 @@ The various layers of this framework are as follows, starting from the centre to
 -	Prose: How We Live Now by Yu-Mei Balasingamchow
 -	Drama: Boom by Jean Tay  
 
-### Curriculum & Assessments:
+### Curriculum &amp; Assessments:
 •	Based on MOE English Language Syllabus 2020 (applicable for cohort 2020 onwards)
 <br>•	Based on MOE English Literature Syllabus 2019 (applicable for cohort 2019 onwards) 
 
@@ -100,9 +100,9 @@ Read for Books is a charity book drive with the intention of raising awareness o
 
 **The Queen's Royal Commonwealth Essay Competition 2020**  
   
-Each year, aspiring young writers are asked to submit their pieces in response to a theme. Recent themes have included _A Connected Commonwealth (2019)_ _Towards a Common Future (2018)_ _A Commonwealth for Peace (2017)_ and _'An Inclusive Commonwealth' (2016)_; drawing out innovative ideas for positive change and encouraging entrants to consider new perspectives. The theme is rooted in Commonwealth values, providing an interesting introduction to the network and allowing young people to explore their own connection to the Commonwealth, whilst fostering an empathetic and open-minded world view.  
+Each year, aspiring young writers are asked to submit their pieces in response to a theme. Recent themes have included&nbsp;_A Connected Commonwealth (2019)_&nbsp;_Towards a Common Future (2018)_&nbsp;_A Commonwealth for Peace (2017)_&nbsp;and&nbsp;_'An Inclusive Commonwealth' (2016)_; drawing out innovative ideas for positive change and encouraging entrants to consider new perspectives. The theme is rooted in Commonwealth values, providing an interesting introduction to the network and allowing young people to explore their own connection to the Commonwealth, whilst fostering an empathetic and open-minded world view.  
   
-For 2020 competition, the theme was _**'Climate Action and the Commonwealth'**_.  
+For 2020 competition, the theme was&nbsp;_**'Climate Action and the Commonwealth'**_.  
 Springfield Secondary participated once again in this competition and we are pleased to announce the following results.
 
 <table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:#ffffff;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;text-decoration:underline;vertical-align:top;word-break:normal"><span style="color:black">Name of Student</span></th><th style="background-color:#ffffff;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;text-decoration:underline;vertical-align:top;word-break:normal"><span style="color:black">Type of Award</span></th></tr></thead><tbody><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="color:black">BRYAN WONG WEN HAW</span></td><td style="background-color:#DDEEE9;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="color:black">Gold Award</span></td></tr><tr><td style="background-color:#ffffff;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="color:black">SIMILAN SIRIPHONGPANICH</span></td><td style="background-color:#ffffff;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="color:black">Gold Award</span></td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="color:black">AYESHA ADANA BINTE AHMAD YANI</span></td><td style="background-color:#DDEEE9;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="color:black">Bronze Award</span></td></tr><tr><td style="background-color:#ffffff;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="color:black">MUHAMMAD SHAFIQ BIN ABDUL FATTAAH</span></td><td style="background-color:#ffffff;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="color:black">Bronze Award</span></td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="color:black">PEH LE REN RAYNE</span></td><td style="background-color:#DDEEE9;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="color:black">Bronze Award</span></td></tr><tr><td style="background-color:#ffffff;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="color:black">BRYAN AARON MARCELINO ULANIMO</span></td><td style="background-color:#ffffff;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="color:black">Bronze Award</span></td></tr></tbody></table>
@@ -121,7 +121,7 @@ Our upper secondary Literature students worked in teams of 4 and engaged in a de
 ![](/images/National%20Schools%20Literature%20Festival.jpg)
 
 **Literature Learning Journey to Singapore's Civic District (Lower Sec)**     
-As part of bringing Literature to life, the secondary 2 cohort went to watch a play based on the short story that they are reading, '_The Mistake_' by local writer Cyril Wong. Apart from that, the students also walked along the Singapore River to put themselves in the stories that they read in their Literature text, _Balik Kampung 2A_.
+As part of bringing Literature to life, the secondary 2 cohort went to watch a play based on the short story that they are reading, '_The Mistake_' by local writer Cyril Wong. Apart from that, the students also walked along the Singapore River to put themselves in the stories that they read in their Literature text,&nbsp;_Balik Kampung 2A_.
 
 ![](/images/Lower%20Sec%20LJ%20to%20Civic%20District.jpg)
 
