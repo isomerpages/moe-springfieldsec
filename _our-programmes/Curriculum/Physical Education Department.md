@@ -3,30 +3,14 @@ title: Physical Education Department
 permalink: /about-us/our-organisation/physical-education-department/
 description: ""
 third_nav_title: Curriculum
+variant: markdown
 ---
-
 # **Physical Education Department**
 
 **Head of Department**  
 Mr Marcus Lau Kok Hiong  
 Email: [lau_kok_hiong@moe.edu.sg_](mailto:lau_kok_hiong@moe.edu.sg)  
 
- 
-
-**Head of Department (Student Development)**    
-Mr Alex Goh Wui Huat     
-Email: [goh_wui_huat@moe.edu.sg_](mailto:goh_wui_huat@moe.edu.sg)  
-
-**Head of Department (Student Management)**  
-Mr Nirav Desai  
-Email: [nirav_m_desai@moe.edu.sg_](mailto:nirav_m_desai@moe.edu.sg)  
-
-**Senior Teacher**  
-Mr Teo Wee Meng  
-  
-
-**Teacher**    
-Mr Yonatan Ng Yu Zhe
 
 ### Introduction
 
@@ -57,4 +41,4 @@ Upper Secondary pupils focus on game concepts of various sports to gain skills a
 
 ### Assessment
 
-Students are assessed on game concepts of various sports ranging from territorial to net barrier games. Furthermore, there is a component on positive traits as physical education lessons are the best platform for character development. 
+Students are assessed on game concepts of various sports ranging from territorial to net barrier games. Furthermore, there is a component on positive traits as physical education lessons are the best platform for character development.
