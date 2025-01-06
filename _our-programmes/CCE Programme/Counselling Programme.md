@@ -19,11 +19,17 @@ students, for them to be responsible, resilient and resourceful, hence
 leading them towards personal wellbeing in the aspect of cognitive, social,
 emotional, physical and mental.</p>
 <h3>Who are the counsellors?</h3>
-<img src="/images/miss_charlotte_tan_xueting.jpg" style="width:150px;height:200px;margin-left:1px;" align="">
-<br>Ms Charlotte Tan
 
-<img src="/images/Samanthacounsel.jpg" style="width:150px;height:200px;margin-left:1px;" align="">
-<br>Mrs Khoo Shi Min Samantha
+<div style="display: flex; gap: 20px; align-items: center;">
+  <div style="text-align: center;">
+    <img alt="Ms Charlotte Tan" src="/images/miss_charlotte_tan_xueting.jpg" style="width:150px;height:200px;">
+    <br>Ms Charlotte Tan
+  </div>
+  <div style="text-align: center;">
+    <img alt="Mrs Khoo Shi Min Samantha" src="/images/Samanthacounsel.jpg" style="width:150px;height:200px;">
+    <br>Mrs Khoo Shi Min Samantha
+  </div>
+</div>
 
 
 <h3>Counselling Hours</h3>
