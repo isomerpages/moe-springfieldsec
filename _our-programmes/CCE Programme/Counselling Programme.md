@@ -22,6 +22,10 @@ emotional, physical and mental.</p>
 <img src="/images/miss_charlotte_tan_xueting.jpg" style="width:150px;height:200px;margin-left:1px;" align="">
 <br>Ms Charlotte Tan
 
+<img src="/images/Samanthacounsel.jpg" style="width:150px;height:200px;margin-left:1px;" align="">
+<br>Mrs Khoo Shi Min Samantha
+
+
 <h3>Counselling Hours</h3>
 <p>Mondays to Fridays (During School hours)
 <br>7.30am - 2.20pm <strong>Strictly By Appointment Only*</strong>

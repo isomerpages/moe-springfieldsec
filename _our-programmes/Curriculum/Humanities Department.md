@@ -3,36 +3,18 @@ title: Humanities Department
 permalink: /about-us/our-organisation/humanities-department/
 description: ""
 third_nav_title: Curriculum
+variant: markdown
 ---
-
 # **Humanities Department**
 
 **Head of Department**  
 Miss Azeanni Binte Yasni    
-Email: _[azeanni\_yasni@moe.edu.sg](mailto:azeanni_yasni@moe.edu.sg)_
+Email:&nbsp;_[azeanni\_yasni@moe.edu.sg](mailto:azeanni_yasni@moe.edu.sg)_
 
+**Senior Teacher | Social Studies**  
+Mdm Zaleela Binte Zakariah<br>
+Email:&nbsp;_[zaleela\_zakariah@moe.edu.sg](mailto:zaleela_zakariah@moe.edu.sg)_
 
-### Teachers:  
-  
-**Social Studies**   
-Mdm Zaleela Zakariah    
-Mrs Suzanne Gomes    
-Ms Ng Zhao Ying   
-Miss Shermin Chee
-<br>Mr Gemmon Wah
-
-**History**   
-Mrs Joy Moreira  (SH/History) 
-<br>Mr Fabian Lim    
-Mr Tan Yik Zhen
-
-**Geography**   
-Mrs Jenny Yoong-Goh Jia Yee (SH/Geography)
-<br>Ms Verine Yeo    
-Mr Joel Sng    
-Ms Nor Hazimah Mohd Hanafi    
-Miss Rachel Koh    
-Mr Jeremiah Loke    
 
 
 ### Department Goals / Objectives:
@@ -91,7 +73,7 @@ By taking part in competitions such as the NUS Challenge, our Geography students
 And finally, through the research of Singapore’s traditional foods, games and folklore, students of History learnt about the different cultures of our people as part of Racial Harmony Day.
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QDBAJEo5Qus" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QDBAJEo5Qus" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 
 ### Historical Scene Investigation (HSI) Challenge 2022
@@ -110,7 +92,7 @@ The team from 2E, comprising Hao Chenyi, Tay Gabriela, Tan Shermaine, and Nurul 
 
 ![](/images/HSI%20challenge%20team%20photo.jpg)
 
-2E History enthusiasts, Nur Adiibah, Dinie Erina, Anis Farhany and Riesya Qusyairah, did Springfield proud by clinching a **GOLD** Award in the Historical Scene Investigation (HSI) Challenge 2020 organized by the National Library Board (NLB) and CPDD Humanities Branch.  
+2E History enthusiasts, Nur Adiibah, Dinie Erina, Anis Farhany and Riesya Qusyairah, did Springfield proud by clinching a&nbsp;**GOLD**&nbsp;Award in the Historical Scene Investigation (HSI) Challenge 2020 organized by the National Library Board (NLB) and CPDD Humanities Branch.  
   
 In response to the historical inquiry question: '_What public health-related incident or movement did Singapore experience in the period from 1900 to 2000? Compare and Contrast the challenges faced and the ways they were overcome by the people in the past to the present day_', the team produced a poster on "_Tuberculosis in Singapore (1945 - 1979)_".
 

@@ -15,18 +15,6 @@ Email:&nbsp;[norain_anuar@moe.edu.sg_](mailto:norain_anuar@moe.edu.sg)
 Miss Lim Hui Leng    
 Email:&nbsp;[lim_hui_leng_b@moe.edu.sg](mailto:lim_hui_leng_b@moe.edu.sg)
 
-**Physics Coordinator**    
-Mrs Tan Bee Yong   
-Email:&nbsp;[tan_bee_yong_a@moe.edu.sg](mailto:tan_bee_yong_a@moe.edu.sg)
-
-**Chemistry Coordinator**    
-Ms Ho  Shu Ling Judith   
-Email:&nbsp;[ho_shu_ling_judith@moe.edu.sg](mailto:ho_shu_ling_judith@moe.edu.sg)
-
-**Biology Coordinator**    
-Ms Lee Si Min Celynn<br>
-Email:&nbsp;[lee_si_min_celynn@moe.edu.sg](mailto:lee_si_min_celynn@moe.edu.sg)
-
 
 ### Department Goals/Objectives:
 
