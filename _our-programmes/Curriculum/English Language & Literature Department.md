@@ -21,8 +21,6 @@ Mdm Siti Zubaidah Bte Arshad
 Email:&nbsp;[_siti_zubaidah_arshad@moe.edu.sg_](mailto:siti_zubaidah_arshad@moe.edu.sg)
 
 
-**Normal Technical (NT) Coordinator &amp; Year Head (Upper Sec)**
-<br>Miss Tan Chna Huang
 
 
 
