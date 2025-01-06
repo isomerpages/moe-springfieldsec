@@ -361,6 +361,18 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>LH | Mathematics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Ong Kang Sheng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ong_kang_sheng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ong_kang_sheng@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Assistant Year Head | Upper Secondary</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -397,13 +409,13 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>LH | Mathematics (Ag)</p>
+<p>SH | 21 CC (Ag)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Ong Kang Sheng</p>
+<p>Mr Gemonn Wah Kok Siong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ong_kang_sheng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ong_kang_sheng@moe.edu.sg</a>
+<p><a href="mailto:gemonn_wah_kok_siong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>gemonn_wah_kok_siong</u>@moe.edu.sg</a>
 </p>
 </td>
 </tr>

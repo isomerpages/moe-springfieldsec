@@ -9,7 +9,7 @@ variant: markdown
 
 
 **Head of Department**  
-Ms Ida Rahayu Binte Ismail
+Ms Ida Rahayu Binte Ismail<br>
 Email:&nbsp;[ida_rahayu_ismail@moe.edu.sg_](mailto:ida_rahayu_ismail@moe.edu.sg)
 
 **Subject Head | Design &amp; Technology (D&amp;T)** 
