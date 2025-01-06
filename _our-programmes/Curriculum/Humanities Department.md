@@ -11,6 +11,9 @@ variant: markdown
 Miss Azeanni Binte Yasni    
 Email:&nbsp;_[azeanni\_yasni@moe.edu.sg](mailto:azeanni_yasni@moe.edu.sg)_
 
+**Senior Teacher**  
+Mdm Zaleela Binte Zakariah<br>
+Email:&nbsp;_[zaleela\_zakariah@moe.edu.sg](mailto:zaleela_zakariah@moe.edu.sg)_
 
 
 
