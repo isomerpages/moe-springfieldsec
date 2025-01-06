@@ -12,7 +12,7 @@ variant: markdown
 Ms Ida Rahayu Binte Ismail
 Email:&nbsp;[ida_rahayu_ismail@moe.edu.sg_](mailto:ida_rahayu_ismail@moe.edu.sg)
 
-**Subject Head | Design &amp; Technology (D&amp;T) ** 
+**Subject Head | Design &amp; Technology (D&amp;T)** 
 <br>Mr Jeremy Wang Hsin-Wei<br>
 Email:&nbsp;[jeremy_wang_hsin-wei@moe.edu.sg_](mailto:jeremy_wang_hsin-wei@moe.edu.sg)
 
