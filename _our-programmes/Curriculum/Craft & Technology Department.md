@@ -7,9 +7,10 @@ variant: markdown
 ---
 # **Craft &amp; Technology Department**
 
-### Head of Department
-Ms Ida Rahayu Binte Ismail     
-Email:&nbsp;[ida_rahayu_ismail@moe.edu.sg](mailto:ida_rahayu_ismail@moe.edu.sg)_
+
+**Head of Department**  
+Ms Ida Rahayu Binte Ismail
+Email:&nbsp;[ida_rahayu_ismail@moe.edu.sg_](mailto:ida_rahayu_ismail@moe.edu.sg)
 
 ### Subject Head
 
