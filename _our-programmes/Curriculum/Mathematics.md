@@ -12,8 +12,8 @@ Mr Chng Chen Keong
 Email:&nbsp;[chng_chen_keong@moe.edu.sg_](mailto:chng_chen_keong@moe.edu.sg)
 
 **Level Head**     
-Mr Leung Yong Kang   
-Email:&nbsp;[leung_yong_kang@moe.edu.sg_](mailto:leung_yong_kang@moe.edu.sg)
+Mr Ong Kang Sheng  
+Email:&nbsp;[ong_kang_sheng@moe.edu.sg_](mailto:ong_kang_sheng@moe.edu.sg)
 
 ### Department Goals/ Objectives:  
 
