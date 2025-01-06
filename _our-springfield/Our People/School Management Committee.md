@@ -409,7 +409,7 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH | Emerging 21st Century Competencies (Ag)</p>
+<p>SH | 21 CC (Ag)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Gemonn Wah Kok Siong</p>
