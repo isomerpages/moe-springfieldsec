@@ -22,7 +22,7 @@ emotional, physical and mental.</p>
 <img src="/images/miss_charlotte_tan_xueting.jpg" style="width:150px;height:200px;margin-left:1px;" align="">
 <br>Ms Charlotte Tan
 
-<img src="/images/123.jpg" style="width:150px;height:200px;margin-left:1px;" align="">
+<img src="/images/Samanthacounsel.jpg" style="width:150px;height:200px;margin-left:1px;" align="">
 <br>Mrs Khoo Shi Min Samantha
 
 
