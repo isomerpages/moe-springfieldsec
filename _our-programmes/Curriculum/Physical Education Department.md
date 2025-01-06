@@ -11,7 +11,6 @@ variant: markdown
 Mr Marcus Lau Kok Hiong  
 Email: [lau_kok_hiong@moe.edu.sg_](mailto:lau_kok_hiong@moe.edu.sg)  
 
-
 ### Introduction
 
 Physical well-being has far-reaching and universal implications for today’s day and age. It is a balance between physical activities and sound health practices. It encapsulates the foundations of Science and Arts. It underpins our lifestyles choices and our ability to maintain wellness in every possible dimension of our lives. Like most good things we know of in life, physical well-being is easier said than done – there is a vast difference between knowing it and actually doing it. In Springfield, we are committed to not just taking the first step towards this goal but making quantum leaps toward unleashing the true potential of our existence. We invite you to join us on this journey.
