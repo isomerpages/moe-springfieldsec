@@ -11,6 +11,11 @@ variant: markdown
 Mdm Ang Sor Cheng  
 Email:&nbsp;[ang_sor_cheng@moe.edu.sg](mailto:ang_sor_cheng@moe.edu.sg)
 
+**Senior Teacher**    
+Mdm Nurisha Bte Hamid
+Email:&nbsp;[nurisha_hamid@moe.edu.sg](mailto:nurisha_hamid@moe.edu.sg)
+
+
 
 ### Curriculum &amp; Assessments:
 
