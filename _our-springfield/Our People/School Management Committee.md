@@ -397,7 +397,7 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH | Co-Curricular Activites (CCA) (Ag)</p>
+<p>SH | Student Leadership (Ag)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Ng Zhao Ying</p>
