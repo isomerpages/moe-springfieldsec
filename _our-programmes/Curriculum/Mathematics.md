@@ -21,21 +21,6 @@ Email:&nbsp;[ong_kang_sheng@moe.edu.sg_](mailto:ong_kang_sheng@moe.edu.sg)
 * To stimulate and sustain students' interest in learning Mathematics
 
 
-**Secondary 1 Coordinator**  
-Mr Ong Kang Sheng
-<br>Email:&nbsp;[ong_kang_sheng@moe.edu.sg_](mailto:ong_kang_sheng@moe.edu.sg)
-
-**Secondary 2 Coordinator**  
-Mr Leung Yong Kang
-Email:&nbsp;[leung_yong_kang@moe.edu.sg_](mailto:leung_yong_kang@moe.edu.sg)
-
-**Secondary 3 Coordinator**  
-Ms Macy Koh<br>
-Email:&nbsp;[macy_koh_qi_yun@moe.edu.sg_](mailto:macy_koh_qi_yun@moe.edu.sg)
-
-**Secondary 4 Coordinator**  
-Ms Ng Zhao Ying<br>
-Email:&nbsp;[ng_zhao_ying@moe.edu.sg_](mailto:ng_zhao_ying@moe.edu.sg)
 
 
 ### Department Programmes:
