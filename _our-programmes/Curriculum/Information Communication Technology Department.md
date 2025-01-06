@@ -3,27 +3,15 @@ title: Information Communication Technology Department
 permalink: /about-us/our-organisation/information-communication-technology-department/
 description: ""
 third_nav_title: Curriculum
+variant: markdown
 ---
 # **Information Communication Technology Department**
 
 ### Head of Department
 
 Mr Ng Jenn Yang     
-Email: [ng_jenn_yang@moe.edu.sg_](mailto:ng_jenn_yang@moe.edu.sg)
+Email:&nbsp;[ng_jenn_yang@moe.edu.sg_](mailto:ng_jenn_yang@moe.edu.sg)
 
-
-### Coordinators:  
-
-**Computing :** Mr Ng Jenn Yang    
-**Computer Applications (CPA) :** Mr Lim Kim Mong
-
-
-### Technology Support:
-
-ICT Associate: Mr Faiz
-<br>Desktop Engineer 1:  Mr Anizar 
-<br>Desktop Engineer 2: Mr Jun Kiat
-  
 
 ### Department Goals/Objectives:
 
@@ -31,11 +19,11 @@ ICT Associate: Mr Faiz
 
 Transformative Teaching and Learning Experiences
 
-- To enhance Teaching & Learning
+- To enhance Teaching &amp; Learning
 - To support Self-directed and Collaborative Learning
 - To support the development of Digital Literacies
 
-### Curriculum & Assessments:
+### Curriculum &amp; Assessments:
 
 *   Computing (O Level - 7155)  
 *   Computer Applications (N Level -7018)
@@ -45,21 +33,21 @@ Transformative Teaching and Learning Experiences
 In alignment with the National Digital Literacy Programme's (NDLP) aim to strengthen students' digital literacy in order for them to be future-ready, the Springfield ICT Department has developed and ran programmes which allows students to acquire digital skills across four components, i.e. "**_Find, Think, Apply, Create_**".
 
 ![](/images/ICT.jpg)
-Click [**_HERE_**](/programmes/ndlp) to learn more about the National Digital Literacy Programme (NDLP)
+Click&nbsp;[**_HERE_**](/programmes/ndlp)&nbsp;to learn more about the National Digital Literacy Programme (NDLP)
 
 ### New Media Literacy Programme
 
-<img src="/images/ict4.png" style="width:200px;height:200px;margin-left:15px;" align = "right">
+<img src="/images/ict4.png" style="width:200px;height:200px;margin-left:15px;" align="right">
 
-To support the Personalised Learning Environment, students will access self-paced 
+To support the Personalised Learning Environment, students will access self-paced&nbsp;
 
-SLS lessons on New Media Literacy and attend engagement sessions to develop their dispositions, knowledge and skills to thrive in the digital environment.
+SLS lessons on&nbsp;New Media Literacy and attend engagement sessions to develop their dispositions, knowledge and skills to thrive in the digital environment.
 
 The New Media Literacy programme aims to equip students with the competencies to Curate, Create, Connect information in the digital networked environment and to Apply the productivity skills to operate devices and software effectively.
 
 ### Lower Secondary Coding Programme
 
-<img src="/images/ict5.png" style="width:200px;height:280px;margin-left:15px;" align = "right">
+<img src="/images/ict5.png" style="width:200px;height:280px;margin-left:15px;" align="right">
 
 In Springfield, the Lower Secondary students will attend a series of coding lessons to develop them computational thinking skills and seed their interest for the one of the most important languages of the future, i.e. programming.
 
@@ -81,6 +69,6 @@ The Springfield Cyber Wellness programme focuses on equipping students with an u
 
 ### Competitions
 
-*   Annual CPA Animation & Game Making Competition
+*   Annual CPA Animation &amp; Game Making Competition
 *   National Infocomm Competition by IMDA
 *   East Zone Hackathon
