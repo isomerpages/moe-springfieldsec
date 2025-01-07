@@ -11,7 +11,7 @@ locations:
     operating_hours:
       - days: Mon - Fri
         time: 6.30am - 6.30pm
-        description: "Bus: 8,23, 69, 293 & 118 (from Punggol Temp Int) | Nearest MRT:
+        description: "Bus: 8,23, 69, 293 & 118 (from Punggol Temp Int) || Nearest MRT:
           Tampines West, Tampines, Pasir Ris"
     maps_link: https://goo.gl/maps/SrtBm8dDX5cFagnx8
     title: Address
