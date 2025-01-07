@@ -70,9 +70,9 @@ The programme offered by the EcoSTEM Club includes:<br><br>
 <br></td></tr><tr><td style="background-color:#DDEEE9;border-color:#333333;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">CCA Schedule:<br></td><td style="background-color:#DDEEE9;border-color:#333333;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Day: Monday &amp; Wednesday 
 <br>Time: 2.30PM – 5.30PM
 <br>Venue: Classroom 19, EcoHub (Canteen), Science Labs
-</td></tr><tr><td style="background-color:#ffffff;border-color:#333333;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Teachers-in-charge:<br></td><td style="background-color:#ffffff;border-color:#333333;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">• Mr Lim Yu Jie (Overall IC)
-<br>• Ms Jenny Goh Jia Yee (2IC)
-<br>• Mdm Tan Bee Yong
+</td></tr><tr><td style="background-color:#ffffff;border-color:#333333;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Teachers-in-charge:<br></td><td style="background-color:#ffffff;border-color:#333333;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">• Mrs Jenny Goh Jia Yee (Advisor)
+<br>• Mdm Tan Bee Yong (IC)
+<br>• Mdm Michelle Chew (2IC)
   </td></tr><tr><td style="background-color:#DDEEE9;border-color:#333333;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Annual programs/events<br></td><td style="background-color:#DDEEE9;border-color:#333333;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">1. CCA Orientation, Bonding Sessions &amp; Camps
 <br>2. Learning Journeys
 <br>3. Values-in-Action (VIA) Project

@@ -65,8 +65,7 @@ variant: markdown
     <tr>
       <td style="background-color:#F4F4F4;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Teacher in-charge:</td>
       <td style="background-color:#F4F4F4;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">• Mr Jeremiah Loke (IC)<br>
-      • Mr Tan Yik Zhen (2IC)<br>
-      • Mr Daniel Neo Chong Shern</td>
+      • Mr Daniel Neo Chong Shern (2IC)</td>
     </tr>
     <tr>
       <td style="background-color:#DDEEE9;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Coaches / Trainers<br></td>

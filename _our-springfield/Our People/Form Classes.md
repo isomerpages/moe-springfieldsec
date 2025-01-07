@@ -145,7 +145,7 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Zhang Lisa</p>
+<p>Ms Zhang Lisa (SH)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:zhang_lisa@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zhang_lisa@moe.edu.sg</a>
@@ -167,7 +167,7 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Ng Choon Hwee</p>
+<p>Mr Ng Choon Hwee (SH)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ng_choon_hwee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_choon_hwee@moe.edu.sg</a>
@@ -233,7 +233,7 @@ third_nav_title: Our People
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Hui Leng</p>
+<p>Miss Lim Hui Leng (LH)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lim_hui_leng_b@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_hui_leng_b@moe.edu.sg</a>
@@ -301,7 +301,7 @@ third_nav_title: Our People
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Gemonn Wah Kok Siong</p>
+<p>Mr Gemonn Wah Kok Siong (SH)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:gemonn_wah_kok_siong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">gemonn_wah_kok_siong@moe.edu.sg</a>
@@ -400,7 +400,7 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Ahmad Zaini</p>
+<p>Mr Ahmad Zaini Bin Yusof</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ahmad_zaini_yusof@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ahmad_zaini_yusof@moe.edu.sg</a>
@@ -422,7 +422,7 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Mohmmad</p>
+<p>Mr Mohmmad Firuz Mustapha</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:mohammad_firuz_mustapha@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mohammad_firuz_mustapha@moe.edu.sg</a>
@@ -484,7 +484,7 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Pay Cai Yun Angelia (SH)</p>
+<p>Ms Pay Cai Yun Angelia (LH)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:pay_cai_yun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">pay_cai_yun@moe.edu.sg</a>
@@ -506,7 +506,7 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Jeremy Wang</p>
+<p>Mr Jeremy Wang (SH)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:jeremy_wang_hsin-wei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jeremy_wang_hsin-wei@moe.edu.sg</a>
@@ -575,7 +575,7 @@ third_nav_title: Our People
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Nurhuda Osman</p>
+<p>Ms Nurhuda Binte Osman</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:nurhuda_osman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nurhuda_osman@moe.edu.sg</a>
@@ -618,7 +618,8 @@ third_nav_title: Our People
 <p>Mr Bernard Khoo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:khoo_ghee_hock_bernard@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">khoo_ghee_hock_bernard@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
