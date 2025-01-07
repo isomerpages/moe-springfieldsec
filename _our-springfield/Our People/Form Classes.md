@@ -145,7 +145,7 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Zhang Lisa</p>
+<p>Ms Zhang Lisa (SH)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:zhang_lisa@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zhang_lisa@moe.edu.sg</a>
