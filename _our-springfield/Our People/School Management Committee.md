@@ -194,18 +194,6 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD | Student Management</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Nirav Desai</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:nirav_m_desai@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nirav_m_desai@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>HOD | Educational Support</p>
 </td>
 <td rowspan="1" colspan="1">
