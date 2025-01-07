@@ -575,7 +575,7 @@ third_nav_title: Our People
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Nurhuda Osman</p>
+<p>Ms Nurhuda Binte Osman</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:nurhuda_osman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nurhuda_osman@moe.edu.sg</a>
