@@ -618,7 +618,8 @@ third_nav_title: Our People
 <p>Mr Bernard Khoo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:khoo_ghee_hock_bernard@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">khoo_ghee_hock_bernard@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
