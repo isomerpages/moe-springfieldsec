@@ -31,9 +31,9 @@ variant: markdown
     </tr>
     <tr>
       <td style="background-color:#F4F4F4;border-color:#000000;border-style:solid;border-width:1px;color:#484848;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="font-weight:inherit;font-style:inherit;background-color:transparent">Teacher-in-charge:</span></td>
-      <td style="background-color:#F4F4F4;border-color:#000000;border-style:solid;border-width:1px;color:#484848;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:inherit;font-style:inherit;background-color:#F4F4F4">Mr Muhammad Zaki Samsudi (IC)</span><br>
-      <span style="font-weight:inherit;font-style:inherit;background-color:#F4F4F4">Mr Gemmon Wah (2IC)</span><br>
-      <span style="font-weight:inherit;font-style:inherit;background-color:#F4F4F4">Mr Noel Loh </span><br></td>
+      <td style="background-color:#F4F4F4;border-color:#000000;border-style:solid;border-width:1px;color:#484848;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:inherit;font-style:inherit;background-color:#F4F4F4">Mr Muhammad Zaki Samsudi (IC/Coordinator)</span><br>
+      <span style="font-weight:inherit;font-style:inherit;background-color:#F4F4F4">Mr Gemmon Wah Kok Siong (2IC)</span><br>
+      <span style="font-weight:inherit;font-style:inherit;background-color:#F4F4F4">Mr Bernard Khoo </span><br></td>
     </tr>
     <tr>
       <td style="background-color:#DDEEE9;border-color:#000000;border-style:solid;border-width:1px;color:#484848;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="font-weight:bold;font-style:inherit;background-color:#DDEEE9">Cadet Leftenants</span><br></td>
