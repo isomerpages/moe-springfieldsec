@@ -167,7 +167,7 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Ng Choon Hwee</p>
+<p>Mr Ng Choon Hwee (SH)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ng_choon_hwee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_choon_hwee@moe.edu.sg</a>
