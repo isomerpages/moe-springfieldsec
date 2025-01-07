@@ -233,7 +233,7 @@ third_nav_title: Our People
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Hui Leng</p>
+<p>Misss Lim Hui Leng</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lim_hui_leng_b@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_hui_leng_b@moe.edu.sg</a>
@@ -400,7 +400,7 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Ahmad Zaini</p>
+<p>Mr Ahmad Zaini Bin Yusof</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ahmad_zaini_yusof@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ahmad_zaini_yusof@moe.edu.sg</a>
@@ -422,7 +422,7 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Mohmmad</p>
+<p>Mr Mohmmad Firuz Mustapha</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:mohammad_firuz_mustapha@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mohammad_firuz_mustapha@moe.edu.sg</a>
