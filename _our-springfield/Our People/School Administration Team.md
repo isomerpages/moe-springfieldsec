@@ -26,7 +26,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Administrative Manager 1</p>
+<p>Administration Manager 1</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Mimi Hidayati Bte Ismail</p>
@@ -38,7 +38,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Administrative Manager 2</p>
+<p>Administration Manager 2</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Shamala Balakrishnan</p>
@@ -50,7 +50,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Operation Manager 1</p>
+<p>Operations Manager 1</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Eileen Gway Chong Ling</p>
@@ -62,7 +62,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Operation Manager 2</p>
+<p>Operations Manager 2</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr K Chandran</p>
@@ -122,7 +122,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>CSO 1</p>
+<p>Corporate Support Officer 1</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Lim Siew Bee</p>
@@ -134,7 +134,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>CSO 2</p>
+<p>Corporate Support Officer 2</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Salmiah Jaapar</p>
@@ -146,21 +146,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>STEM Instructor 1</p>
+<p>STEM Instructor 1 (Workshop)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Hajis Bin Jaafar</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>STEM Instructor 2</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Abdul Aziz Bin Haji Ismail</p>
+<p>Mr Hajis Bin Jaafar</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -168,21 +157,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>STEM Instructor 3</p>
+<p>STEM Instructor 2 (Workshop)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Afifah Binte Abdul Rahman</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>STEM Instructor 4</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Nurul Nisryna Binti Khairil Idham</p>
+<p>Mr Abdul Aziz Bin Haji Ismail</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -190,42 +168,64 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>OSO 1</p>
+<p>STEM Instructor 3 (Laboratory)</p>
 </td>
-<td rowspan="1" colspan="2">
-<p>Catherine Tan</p>
+<td rowspan="1" colspan="1">
+<p>Ms Afifah Binte Abdul Rahman</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>OSO 2</p>
+<p>STEM Instructor 4 (Laboratory)</p>
 </td>
-<td rowspan="1" colspan="2">
-<p>Shila D/O Muthusamy</p>
+<td rowspan="1" colspan="1">
+<p>Miss Nurul Nisryna Binti Khairil Idham</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>OSO 3</p>
+<p>Operations Support Officer 1</p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Suaedah Bte Sairi</p>
+<p>Mdm Catherine Tan</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>OSO 4</p>
+<p>Operations Support Officer 2</p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Sumnah Bte Subadah</p>
+<p>Mdm Shila D/O Muthusamy</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>OSO 5</p>
+<p>Operations Support Officer 3</p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Sazali Bin Mohamed</p>
+<p>Mdm Suaedah Bte Sairi</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Operations Support Officer 4</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>Mdm Sumnah Bte Subadah</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Operations Support Officer 5</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>Mr Sazali Bin Mohamed</p>
 </td>
 </tr>
 </tbody>
