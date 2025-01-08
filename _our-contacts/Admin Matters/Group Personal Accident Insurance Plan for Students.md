@@ -18,5 +18,5 @@ With effect from 2022, all parents/guardians are to submit their claims electron
 ##### GPA Information
 Information on claims, frequently asked questions (FAQs) and other details pertaining to the GPA Insurance Plan for Students can be found on NTUC Income’s website: [https://www.income.com.sg/studentgpa](https://www.income.com.sg/studentgpa).
 
-##### GPA Product Fact Sheet 2024
-[Product Fact Sheet 2024](/files/Product_Fact_Sheet__Year_2024_May__Revised.pdf)
+##### GPA Product Fact Sheet 2025
+[Product Fact Sheet 2025](/files/Product_Fact_Sheet__Year_2025_.pdf)
