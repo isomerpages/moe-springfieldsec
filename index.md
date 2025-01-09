@@ -15,7 +15,7 @@ sections:
         - title: N Level Result Release 2024
           description: Read More
           url: https://www.springfieldsec.moe.edu.sg/n-level-results-release-2024/
-        - title: Secondary 1 Posting 2025
+        - title: Sec 1 Meet-the-parents
           description: Read More
           url: https://www.springfieldsec.moe.edu.sg/our-experience/sec-1-posting-2025/
         - title: ICT @ springfield
