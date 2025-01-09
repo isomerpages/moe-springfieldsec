@@ -31,6 +31,7 @@ sections:
       button: read more
       url: https://www.springfieldsec.moe.edu.sg/our-experience/sec-1-meet-the-parents/
       alt: Image alt text
+      image: /images/mtp1.png
   - infopic:
       title: Secondary 1 Posting 2025
       id: infopic
