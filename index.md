@@ -24,6 +24,14 @@ sections:
       variant: center
       button: Contact Us
   - infopic:
+      title: Secondary 1 Meet-the-Parents
+      id: infopic
+      description: Dear parents,  please click on the link below to access the
+        information shared during the Meet-the-Parents session.
+      button: read more
+      url: https://www.springfieldsec.moe.edu.sg/our-experience/sec-1-meet-the-parents/
+      alt: Image alt text
+  - infopic:
       title: Secondary 1 Posting 2025
       id: infopic
       description: General information for parents and students.
