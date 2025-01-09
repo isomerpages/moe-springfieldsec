@@ -29,7 +29,7 @@ sections:
       description: Dear parents,  please click on the link below to access the
         information shared during the Meet-the-Parents session.
       button: read more
-      url: https://www.springfieldsec.moe.edu.sg/our-experience/sec-1-meet-the-parents/
+      url: https://springfieldsec.moe.edu.sg/sec-1-meet-the-parents/
       alt: Image alt text
       image: /images/mtp1.png
   - infopic:
