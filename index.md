@@ -15,14 +15,23 @@ sections:
         - title: N Level Result Release 2024
           description: Read More
           url: https://www.springfieldsec.moe.edu.sg/n-level-results-release-2024/
-        - title: Secondary 1 Posting 2025
+        - title: Sec 1 Meet-the-parents
           description: Read More
-          url: https://www.springfieldsec.moe.edu.sg/our-experience/sec-1-posting-2025/
+          url: https://springfieldsec.moe.edu.sg/sec-1-meet-the-parents/
         - title: ICT @ springfield
           description: Click here to access
           url: https://sites.google.com/view/ictspringfield
       variant: center
       button: Contact Us
+  - infopic:
+      title: Secondary 1 Meet-the-Parents
+      id: infopic
+      description: Dear parents,  please click on the link below to access the
+        information shared during the Meet-the-Parents session.
+      button: read more
+      url: https://springfieldsec.moe.edu.sg/sec-1-meet-the-parents/
+      alt: Image alt text
+      image: /images/mtp1.png
   - infopic:
       title: Secondary 1 Posting 2025
       id: infopic
