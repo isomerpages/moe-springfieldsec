@@ -24,6 +24,13 @@ sections:
       variant: center
       button: Contact Us
   - infopic:
+      title: O Level Results Release 2024
+      id: infopic
+      description: Infopic description
+      button: Administrative Briefing
+      url: www.google.com
+      alt: Image alt text
+  - infopic:
       title: Secondary 1 Meet-the-Parents
       id: infopic
       description: Dear parents,  please click on the link below to access the
