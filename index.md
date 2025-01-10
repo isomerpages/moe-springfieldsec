@@ -26,10 +26,10 @@ sections:
   - infopic:
       title: O Level Results Release 2024
       id: infopic
-      description: Infopic description
       button: Administrative Briefing
-      url: www.google.com
+      url: /o-level-results-release-2024/
       alt: Image alt text
+      image: /images/olevel2024.png
   - infopic:
       title: Secondary 1 Meet-the-Parents
       id: infopic
