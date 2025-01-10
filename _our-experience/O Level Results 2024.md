@@ -8,6 +8,5 @@ description: ""
 
 
 Dear Students and Parents of Springfield Secondary School,
-O Level examinations. Please find the administrative deck of slides attached below.
+O Level examinations. Please find the administrative deck of slides attached below.  
 
-(/files/For_Website__2024_Release_of_N_Level_Results.pdf)
