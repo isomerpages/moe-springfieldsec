@@ -12,9 +12,9 @@ sections:
       background: /images/SFSS.gif
       url: /contact-us/
       key_highlights:
-        - title: N Level Result Release 2024
+        - title: O Level Result Release 2024
           description: Read More
-          url: https://www.springfieldsec.moe.edu.sg/n-level-results-release-2024/
+          url: https://www.springfieldsec.moe.edu.sg/o-level-results-release-2024/
         - title: Sec 1 Meet-the-parents
           description: Read More
           url: https://springfieldsec.moe.edu.sg/sec-1-meet-the-parents/
@@ -23,6 +23,13 @@ sections:
           url: https://sites.google.com/view/ictspringfield
       variant: center
       button: Contact Us
+  - infopic:
+      title: O Level Results Release 2024
+      id: infopic
+      button: Administrative Briefing
+      url: /o-level-results-release-2024/
+      alt: Image alt text
+      image: /images/olevel2024.png
   - infopic:
       title: Secondary 1 Meet-the-Parents
       id: infopic
