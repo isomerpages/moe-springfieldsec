@@ -8,7 +8,7 @@ variant: markdown
 # **CCA**
 ### Aims of our CCA Programme
 
-![](/images/CCA1.jpg)
+![](/images/ccavalues.png)
 
 *  Our programme aims to give a more complete and balanced education. It teaches our pupil through informal instruction, the values of sharing, teamwork co-operation, friendship and other qualities which are essential in character-building for the sake of self and nation-building. 
     
