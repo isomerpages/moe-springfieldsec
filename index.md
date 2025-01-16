@@ -8,9 +8,7 @@ notification: ""
 sections:
   - hero:
       title: Springfield Secondary School
-      subtitle: Lifelong Learners, Exemplary Leaders
-      background: /images/SFSS.gif
-      url: /contact-us/
+      background: /images/schoolbg.jpg
       key_highlights:
         - title: O Level Result Release 2024
           description: Read More
@@ -22,7 +20,6 @@ sections:
           description: Click here to access
           url: https://sites.google.com/view/ictspringfield
       variant: center
-      button: Contact Us
   - infopic:
       title: O Level Results Release 2024
       id: infopic
