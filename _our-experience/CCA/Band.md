@@ -22,6 +22,16 @@ To inspire confident, compassionate musicians who lead with integrity and a love
 3.	<b>Collaboration and Discipline:</b> Cultivate teamwork and a disciplined approach to music making, fostering an inclusive and cohesive band culture.
 4.	<b>Leadership Development:</b> Develop leadership skills by providing students with opportunities to take on responsibilities and peer mentoring.
 
+#### Outcomes ####
+
+1.	Students will achieve musical proficiency and confidence in both individual and ensemble performances.
+2.	The band will develop future leaders, enhancing students’ organizational and communication skills.
+3.	The band will contribute to school and community events, developing talents and promoting the arts.
+4.	Graduates will become lifelong learners with a passion for music and have cherished memories of their band experience.
+
+
+
+
 
 <br>
 
