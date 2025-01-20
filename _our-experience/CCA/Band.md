@@ -5,19 +5,23 @@ description: ""
 third_nav_title: CCA
 variant: markdown
 ---
-#### Our Motto ####
+#### Our Mission ####
 
-Nothing is impossible; it's all in the mind!&nbsp;
+Growing Through Music Making, Leading with Service, Integrity, and Humility
+
 
 #### Our Vision ####
 
-To be a strong and united band working hand-in-hand towards musicality and disciplinary excellence.
+To inspire confident, compassionate musicians who lead with integrity and a love for music.
 
-#### Our Band ####
 
-Springfield Secondary School Band was founded in 1993 and has a current strength of about 50 members. 
-Despite its small size, Springfield Band has always stood strong and united 
-as they uphold their motto 'Nothing is impossible, it's all in the mind'.
+#### Objectives ####
+
+1.	<b>Instrumental Playing:</b> Equip students with technical playing skills to achieve proficiency in their chosen instruments.
+2.	<b>Music Knowledge:</b> Provide a strong foundation in music theory to enhance both performance and creativity.
+3.	<b>Collaboration and Discipline:</b> Cultivate teamwork and a disciplined approach to music making, fostering an inclusive and cohesive band culture.
+4.	<b>Leadership Development:</b> Develop leadership skills by providing students with opportunities to take on responsibilities and peer mentoring.
+
 
 <br>
 
