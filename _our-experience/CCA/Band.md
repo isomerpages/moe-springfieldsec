@@ -64,6 +64,3 @@ To inspire confident, compassionate musicians who lead with integrity and a love
 ![](/images/band3.jpg)
 
 ![](/images/band4.jpg)
-
-
-
