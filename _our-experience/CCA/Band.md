@@ -29,12 +29,10 @@ To inspire confident, compassionate musicians who lead with integrity and a love
 3.	The band will contribute to school and community events, developing talents and promoting the arts.
 4.	Graduates will become lifelong learners with a passion for music and have cherished memories of their band experience.
 
-
-
-
-
 <br>
 
+<b>CCA Schedule:</b>
+<br>Monday and Wednesday (2:30 - 5:30 pm)
 
 <table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:#DDEEE9;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Skills / Talents / Qualities the Band is looking for</th><th style="background-color:#DDEEE9;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Practical &amp; Theoretical musicianship &amp; ensembleship. Keen interest in music
 </th></tr></thead><tbody><tr><td style="border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">CCA Schedule:</td><td style="border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"> Mondays &amp; Wedensdays <br>Time: 2.30PM - 5.30PM<br>Venue: Band Room 
