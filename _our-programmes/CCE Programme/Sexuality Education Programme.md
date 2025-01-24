@@ -32,7 +32,7 @@ You may click [HERE](https://go.gov.sg/moe-sexuality-education) for more informa
 
   
 
- **Overview of Springfield Secondary School’s Sexuality Education Programme for 2024**
+ **Overview of Springfield Secondary School’s Sexuality Education Programme for 2025**
 
 4\. Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click [here](https://go.gov.sg/moe-sexuality-education-scope) for more information on the scope of Sexuality Education in the school curriculum.
 
@@ -45,29 +45,29 @@ b. Character and Citizenship Education (CCE)
 
 **<u>Sexuality Education Lessons:</u>**
 
-6\. The values and attitudes of our youth towards sexuality are increasingly shaped by their peers, exposure to the media, popular culture and the internet. Adolescence is a complex stage in life as the adolescent attempts to find his/her own identity and often struggles with new social relationships. The period of middle adolescence (generally from 15 – 17 years old) can be a turbulent period for adolescents. The gap between physical and emotional/cognitive maturity may result in a tendency to act on impulse, experiment with various activities (including sexual activities), sometimes without understanding the unpleasant consequences that may arise from such experimentation. The need for peer acceptance can be overwhelmingly strong and hinder one’s ability to act responsibly.  Given the pressures faced by the middle adolescent from within themselves and from peers, it is important to build a strong sense of self-worth, personal conviction and an understanding of the possible consequences of sexual behaviour. 
+6\. The values and attitudes of our youth towards sexuality are increasingly shaped by their peers, exposure to the media, popular culture and the internet. Adolescence is a complex stage in life as the adolescent attempts to find his or her own identity and often struggles with new social relationships. The period of middle adolescence (generally from 15 – 17 years old) can be a turbulent period for adolescents. The gap between physical and emotional/cognitive maturity may result in a tendency to act on impulse, experiment with various activities (including sexual activities), sometimes without understanding the unpleasant consequences that may arise from such experimentation. The need for peer acceptance can be overwhelmingly strong and hinder one’s ability to act responsibly.  Given the pressures faced by the middle adolescent from within themselves and from peers, it is important to build a strong sense of self-worth, personal conviction and an understanding of the possible consequences of sexual behaviour. 
 
   
 7\. Through the Sexuality Education lessons, secondary students will have the opportunity to develop a positive self-esteem, develop their character, and expand their understanding and repertoire of skills to deal with various issues related to sexuality, which are of prime concern at this age. 
 
 
-**At Springfield Secondary School, the following Sexuality Education lessons will be taught in 2024:**
+**At Springfield Secondary School, the following Sexuality Education lessons will be taught in 2025:**
 
 
 #### **SECONDARY 1**  
-[SED 2024 for Secondary 1](/files/SEC_1_2024_SEXUALITY_EDUCATION_LESSONS.pdf)
+[SED 2025 for Secondary 1](/files/2025_sec1_SEd.pdf)
 
 #### **SECONDARY 2**&nbsp;
-[SED 2024 for Secondary 2](/files/SEC_2_2024_SEXUALITY_EDUCATION_LESSONS.pdf)
+[SED 2025 for Secondary 2](/files/2025_sec2_SEd.pdf)
 
 #### **SECONDARY 3**&nbsp;
-[SED 2024 for Secondary 3](/files/SEC_3_2024_SEXUALITY_EDUCATION_LESSONS.pdf)
+[SED 2025 for Secondary 3](/files/2025_sec3_SEd.pdf)
 
 #### **SECONDARY 4**&nbsp;
-[SED 2024 for Secondary 4](/files/SEC_4_2024_SEXUALITY_EDUCATION_LESSONS.pdf)
+[SED 2025 for Secondary 4](/files/2025_sec4_SEd.pdf)
 
 #### **SECONDARY 5**&nbsp;
-[SED 2024 for Secondary 5](/files/SEC_5_2024_SEXUALITY_EDUCATION_LESSONS.pdf)
+[SED 2025 for Secondary 5](/files/2025_sec5_SEd.pdf)
 
 
 <b><u><i>eTeens</i> Programme: </u></b>
@@ -76,16 +76,16 @@ b. Character and Citizenship Education (CCE)
 
 9\. Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family, and the importance of responsible decision-making and seeking help. Abstinence and upholding family values are the key messages. 
 
-**At Springfield Secondary School, the <i>eTeens</i> programme will be implemented as follows in 2024:**
+**At Springfield Secondary School, the <i>eTeens</i> programme will be implemented as follows in 2025:**
 
-![](/images/sexed1.png)
+![](/images/SEd20251.png)
 
 <b>INFORMATION FOR PARENTS</b>
 
 10\. Parents may opt their children out of the Sexuality Education lessons, eTeens and/or supplementary sexuality education programmes by MOE-approved external providers. 
 
-11\. Parents who wish to opt their children out of the <b>Sexuality Education lessons</b> need to complete an opt-out form. This form will be communicated to parents at the start of the year and is also downloadable [here](https://form.gov.sg/65aa02682f3ebe0011998918). The completed form is to be submitted by 07/02/2024. 
+11\. Parents who wish to opt their children out of the <b>Sexuality Education lessons</b> need to complete an opt-out form. This form will be communicated to parents at the start of the year and is also downloadable [here](https://form.gov.sg/67905619c12733e25ca3abe6). The completed form is to be submitted by 07/02/2025. 
 
-12\. Parents who wish to opt their children out of the <b>eTeens programme</b> need to complete an opt-out form. This form will be communicated to parents at the start of the year and is also downloadable [here](https://form.gov.sg/65aa08644bfb580012c95076).  The completed form is to be submitted by 04/03/2024.
+12\. Parents who wish to opt their children out of the <b>eTeens programme</b> need to complete an opt-out form. This form will be communicated to parents at the start of the year and is also downloadable [here](https://form.gov.sg/67905605e278a84b54d7f79a).  The completed form is to be submitted by 07/02/2025.
 
-13\. Parents can contact the school at <u>Tel: 6318 3053 or email: springfields@moe.edu.sg </u> for discussion or to seek clarification about the school’s Sexuality Education programme.
+13\. Parents can contact the school at <b>E-mail:</b> springfields@moe.edu.sg or <b>Tel:</b> 6318 3053 for discussion or to seek clarification about the school’s Sexuality Education programme
