@@ -2,4 +2,5 @@ collections:
   testing:
     output: true
     order:
+      - ask sfss.md
       - SFSS 2025.md
