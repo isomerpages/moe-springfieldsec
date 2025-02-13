@@ -2,5 +2,6 @@ collections:
   testing:
     output: true
     order:
+      - ChkTargetVisits/Landing Page.md
       - ChkTargetVisits/Parents Page 1.md
       - ChkTargetVisits/.keep
