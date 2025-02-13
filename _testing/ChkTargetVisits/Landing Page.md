@@ -46,10 +46,10 @@ third_nav_title: ChkTargetVisits
 <p>Parents Click here</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Student Click here</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>General Public here</p>
 </td>
 </tr>
 </tbody>
