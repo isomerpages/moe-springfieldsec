@@ -2,6 +2,7 @@ collections:
   our-experience:
     output: true
     order:
+      - Alumni Homecoming 2025.md
       - CCA/.keep
       - CCA/CCA.md
       - CCA/Floorball (Girls).md
