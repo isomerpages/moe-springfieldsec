@@ -14,11 +14,11 @@ The exhibition was graced by the Advisers to Tampines GRC GROs, Minister Masagos
 
 💡<b> Interactive Learning in Action </b><br>
 Our students and teachers showcased various sustainability initiatives through interactive activities, including:<br>
-✅ Turning Food Waste into Compost using the ECO Digester<br>
-✅ Growing Microgreens for sustainable consumption<br>
-✅ Home-based Hydroponics for vegetable cultivation<br>
-✅ Soil-based Planting to encourage urban farming<br>
-✅ Upcycling Used Paper to reduce waste<br>
+✅ <b>Turning Food Waste into Compost </b>using the ECO Digester<br>
+✅ <b>Growing Microgreens </b>for sustainable consumption<br>
+✅ <b>Home-based Hydroponics</b> for vegetable cultivation<br>
+✅ <b>Soil-based Planting</b> to encourage urban farming<br>
+✅<b> Upcycling Used Paper</b> to reduce waste<br>
 
 This event and the school’s sustainability programme was covered by the following media platforms:
 
