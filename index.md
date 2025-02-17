@@ -21,6 +21,15 @@ sections:
           url: https://sites.google.com/view/ictspringfield
       variant: center
   - infopic:
+      title: Champions Sustainability at Tampines 4Rs Exhibition
+      id: infopic
+      description: Our dedicated Environment Ambassadors and teachers from the EcoSTEM
+        Committee proudly represented Springfield Secondary School at the
+        Tampines 4Rs Exhibition.
+      button: READ MORE
+      url: /n-level-results-release-2024/
+      alt: Image alt text
+  - infopic:
       title: O Level Results Release 2024
       id: infopic
       button: Administrative Briefing
