@@ -27,8 +27,8 @@ sections:
         Committee proudly represented Springfield Secondary School at the
         Tampines 4Rs Exhibition.
       button: READ MORE
-      url: /n-level-results-release-2024/
-      alt: Image alt text
+      url: /champions-sustainability-at-tampines-4rs-exhibition/
+      image: /images/sus1.png
   - infopic:
       title: O Level Results Release 2024
       id: infopic
