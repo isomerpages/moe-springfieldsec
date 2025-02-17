@@ -27,9 +27,9 @@ Instagram post on Tampines 4Rs Exhibition on 17 Nov  2024, by Our Tampines Hub (
 
 Lianhe Zaobao article on the school’s sustainability programme and participation in the Tampines 4Rs Exhibition: [https://www.zaobao.com.sg/news/singapore/story20250212-5862403 ](https://www.zaobao.com.sg/news/singapore/story20250212-5862403)
 
-💚 Meet Our Student Eco-Champions<br>
+💚<b> Meet Our Student Eco-Champions</b><br>
 The event would not have been possible without the dedication and enthusiasm of our student Environment Ambassadors:<br>
-👩‍🎓 Chio Yi Ying Celesse (1C)<br>
+👩‍🎓<b> Chio Yi Ying Celesse (1C)<br>
 👩‍🎓 Wong Xin Yue (3A)<br>
 👨‍🎓 Tan Zhi Zhong (3B)<br>
 👩‍🎓 Lim Zhi Ning Meagan (3E)<br>
@@ -37,8 +37,28 @@ The event would not have been possible without the dedication and enthusiasm of 
 👩‍🎓 Lau Yi Xuan (Liu Yixuan) (3F)<br>
 👨‍🎓 Wayne Lim (Lin Junfeng) (3F)<br>
 👨‍🎓 Kou Kar Wei (4A)<br>
-👨‍🎓 Wang Wei Jie (4C)
+👨‍🎓 Wang Wei Jie (4C)</b>
 
 A huge <b>thank you </b>to our students and teachers for their commitment to sustainability and for inspiring the community to embrace greener living. 🌍🌱
 
 🔗 <b>Together, we can make a difference! </b>Let’s continue our journey toward a more sustainable future!
+
+#SpringfieldSustainability #EcoSTEM #Tampines4Rs #GreenSpringfield #SustainabilityInAction 🌿✨
+
+![](/images/sus2.png)
+
+![](/images/sus3.png)
+
+![](/images/sus4.png)
+
+![](/images/sus5.png)
+
+![](/images/sus6.png)
+
+![](/images/sus7.png)
+
+![](/images/sus8.png)
+
+![](/images/sus9.jpg)
+
+![](/images/sus10.png)
