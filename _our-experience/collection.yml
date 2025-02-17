@@ -2,7 +2,6 @@ collections:
   our-experience:
     output: true
     order:
-      - Alumni Homecoming 2025.md
       - CCA/.keep
       - CCA/CCA.md
       - CCA/Floorball (Girls).md
@@ -43,3 +42,4 @@ collections:
       - Sec 1 Meet the Parents.md
       - O Level Results 2024.md
       - Champions Sustainability at Tampines 4Rs Exhibition.md
+      - Alumni Homecoming 2025.md
