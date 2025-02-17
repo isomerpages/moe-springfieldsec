@@ -31,6 +31,15 @@ sections:
       image: /images/sus1.png
       alt: Image alt text
   - infopic:
+      title: Alumni Homecoming 2025
+      id: infopic
+      description: Do you know any ex-students from Springfield Secondary School?
+        Share this message and the QR code on the e-poster with them!
+      button: find out more
+      url: /alumni-homecoming-2025/
+      image: /images/SFSS_Alumni_Homecoming_2025_Poster_Final.png
+      alt: Image alt text
+  - infopic:
       title: O Level Results Release 2024
       id: infopic
       button: Administrative Briefing
