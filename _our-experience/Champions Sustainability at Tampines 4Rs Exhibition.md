@@ -38,3 +38,7 @@ The event would not have been possible without the dedication and enthusiasm of 
 👨‍🎓 Wayne Lim (Lin Junfeng) (3F)<br>
 👨‍🎓 Kou Kar Wei (4A)<br>
 👨‍🎓 Wang Wei Jie (4C)
+
+A huge <b>thank you </b>to our students and teachers for their commitment to sustainability and for inspiring the community to embrace greener living. 🌍🌱
+
+🔗 <b>Together, we can make a difference! </b>Let’s continue our journey toward a more sustainable future!
