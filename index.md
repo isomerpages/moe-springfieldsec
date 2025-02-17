@@ -29,6 +29,7 @@ sections:
       button: READ MORE
       url: /champions-sustainability-at-tampines-4rs-exhibition/
       image: /images/sus1.png
+      alt: Image alt text
   - infopic:
       title: O Level Results Release 2024
       id: infopic
