@@ -26,7 +26,7 @@ sections:
       description: Photos/videos of students & parents may be captured during school
         events & used in publications, website, & social media per PDPA
         guidelines.
-      image: /images/WhatsApp_Image_2025_02_28_at_07_17_15.jpg
+      image: /images/PDPA1.jpg
       alt: Image alt text
   - infopic:
       title: Champions Sustainability at Tampines 4Rs Exhibition
