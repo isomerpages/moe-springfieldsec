@@ -21,7 +21,7 @@ sections:
           url: https://sites.google.com/view/ictspringfield
       variant: center
   - infopic:
-      title: "Notice: Photography & Video Recording Advisory"
+      title: PDPA Advisory
       id: infopic
       description: Photos/videos of students & parents may be captured during school
         events & used in publications, website, & social media per PDPA
