@@ -21,6 +21,14 @@ sections:
           url: https://sites.google.com/view/ictspringfield
       variant: center
   - infopic:
+      title: PDPA Advisory
+      id: infopic
+      description: Photos/videos of students & parents may be captured during school
+        events & used in publications, website, & social media per PDPA
+        guidelines.
+      image: /images/PDPA1.jpg
+      alt: Image alt text
+  - infopic:
       title: Champions Sustainability at Tampines 4Rs Exhibition
       id: infopic
       description: Our dedicated Environment Ambassadors and teachers from the EcoSTEM
@@ -38,37 +46,6 @@ sections:
       button: find out more
       url: /alumni-homecoming-2025/
       image: /images/SFSS_Alumni_Homecoming_2025_Poster_Final.png
-      alt: Image alt text
-  - infopic:
-      title: O Level Results Release 2024
-      id: infopic
-      button: Administrative Briefing
-      url: /o-level-results-release-2024/
-      alt: Image alt text
-      image: /images/olevel2024.png
-  - infopic:
-      title: Secondary 1 Meet-the-Parents
-      id: infopic
-      description: Dear parents,  please click on the link below to access the
-        information shared during the Meet-the-Parents session.
-      button: read more
-      url: https://springfieldsec.moe.edu.sg/sec-1-meet-the-parents/
-      alt: Image alt text
-      image: /images/mtp1.png
-  - infopic:
-      title: Secondary 1 Posting 2025
-      id: infopic
-      description: General information for parents and students.
-      button: Read more
-      url: our-experience/sec-1-posting-2025/
-      image: /images/s1posting.png
-      alt: Image alt text
-  - infopic:
-      title: N Level Results Release 2024
-      id: infopic
-      button: Administrative Briefing
-      url: /n-level-results-release-2024/
-      image: /images/n_pic.png
       alt: Image alt text
   - infopic:
       title: World Taekwondo Virtual Championships
