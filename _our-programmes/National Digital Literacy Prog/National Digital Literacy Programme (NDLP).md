@@ -86,8 +86,7 @@ strategies to enable school-wide implementation of CCE. These include:</p>
 </p>
 </li>
 </ul>
-<p>To support you in keeping your child safe online, you may refer to these
-resources:</p>
+<p></p>
 <p>To support you in keeping your child safe online, you may refer to these
 resources:</p>
 <ul data-tight="true" class="tight">
