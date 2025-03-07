@@ -86,11 +86,6 @@ strategies to enable school-wide implementation of CCE. These include:</p>
 </p>
 </li>
 </ul>
-<h4>Device Management Application (DMA)</h4>
-<p>All student PLDs will be installed with the Device Management Application
-(DMA) to provide a safer digital environment for learning.</p>
-<p>To find out more about the DMA, please click <a href="https://sites.google.com/view/ictspringfield/ndlp/device-management-application-dma_1" rel="noopener nofollow" target="_blank">here.</a>
-</p>
 <p>To support you in keeping your child safe online, you may refer to these
 resources:</p>
 <ul data-tight="true" class="tight">
@@ -117,3 +112,9 @@ on the resources below:</p>
 </p>
 <p><a href="/files/IP3___Parent_Handbook__II__2025.pdf" rel="noopener nofollow" target="_blank">Parent Handbook II</a>
 </p>
+<h4>Device Management Application (DMA)</h4>
+<p>All student PLDs will be installed with the Device Management Application
+(DMA) to provide a safer digital environment for learning.</p>
+<p>To find out more about the DMA, please click <a href="https://sites.google.com/view/ictspringfield/ndlp/device-management-application-dma_1" rel="noopener nofollow" target="_blank">here.</a>
+</p>
+<p></p>
