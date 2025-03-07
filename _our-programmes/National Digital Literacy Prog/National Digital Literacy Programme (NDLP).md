@@ -88,8 +88,6 @@ strategies to enable school-wide implementation of CCE. These include:</p>
 </ul>
 <p>To support you in keeping your child safe online, you may refer to these
 resources:</p>
-<p>To support you in keeping your child safe online, you may refer to these
-resources:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><em><a href="https://go.gov.sg/moe-cyber-wellness" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/moe-cyber-wellness</a></em>
@@ -108,5 +106,15 @@ resources:</p>
 </p>
 </li>
 </ul>
-<p>To download the Parent Handbook on 1-to-1 Learning, click <a href="/files/Parent%20Handbook%20I%20on%201_1%20Learning.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>
+<p>To view or download the Parent Handbook on 1-to-1 Learning, you may click
+on the resources below:</p>
+<p><a href="/files/IP2___Parent_Handbook__I__2025.pdf" rel="noopener nofollow" target="_blank">Parent Handbook I</a>
 </p>
+<p><a href="/files/IP3___Parent_Handbook__II__2025.pdf" rel="noopener nofollow" target="_blank">Parent Handbook II</a>
+</p>
+<h4>Device Management Application (DMA)</h4>
+<p>All student PLDs will be installed with the Device Management Application
+(DMA) to provide a safer digital environment for learning.</p>
+<p>To find out more about the DMA, please click <a href="https://sites.google.com/view/ictspringfield/ndlp/device-management-application-dma_1" rel="noopener nofollow" target="_blank">here.</a>
+</p>
+<p></p>
