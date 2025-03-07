@@ -108,5 +108,9 @@ resources:</p>
 </p>
 </li>
 </ul>
-<p>To download the Parent Handbook on 1-to-1 Learning, click <a href="/files/Parent%20Handbook%20I%20on%201_1%20Learning.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>
+<p>To download the Parent Handbook on 1-to-1 Learning, you may click on the
+resources below:</p>
+<p><a href="/files/IP2___Parent_Handbook__I__2025.pdf" rel="noopener nofollow" target="_blank">Parent Handbook I</a>
+</p>
+<p><a href="/files/IP3___Parent_Handbook__II__2025.pdf" rel="noopener nofollow" target="_blank">Parent Handbook II</a>
 </p>
