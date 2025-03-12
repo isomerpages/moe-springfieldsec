@@ -18,7 +18,7 @@ sections:
           url: https://springfieldsec.moe.edu.sg/sec-1-meet-the-parents/
         - title: ICT @ springfield
           description: Click here to access
-          url: https://sites.google.com/view/ictspringfield
+          url: https://sites.google.com/view/ictspringfield/home
       variant: center
   - infopic:
       title: PDPA Advisory
