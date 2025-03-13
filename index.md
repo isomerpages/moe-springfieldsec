@@ -21,14 +21,6 @@ sections:
           url: https://sites.google.com/view/ictspringfield/home
       variant: center
   - infopic:
-      title: PDPA Advisory
-      id: infopic
-      description: Photos/videos of students & parents may be captured during school
-        events & used in publications, website, & social media per PDPA
-        guidelines.
-      image: /images/PDPA1.jpg
-      alt: Image alt text
-  - infopic:
       title: Champions Sustainability at Tampines 4Rs Exhibition
       id: infopic
       description: Our dedicated Environment Ambassadors and teachers from the EcoSTEM
@@ -82,6 +74,14 @@ sections:
       button: READ MORE
       url: /our-experience/project-eco/
       image: /images/IMG_1534.JPG
+      alt: Image alt text
+  - infopic:
+      title: PDPA Advisory
+      id: infopic
+      description: Photos/videos of students & parents may be captured during school
+        events & used in publications, website, & social media per PDPA
+        guidelines.
+      image: /images/PDPA1.jpg
       alt: Image alt text
   - infobar:
       title: School Corporate Video
