@@ -11,6 +11,7 @@ variant: markdown
 *  [Student Learning Space](https://learning.moe.edu.sg/)
 *  [MOE iCon 2.0](https://icon.moe.edu.sg)
 *  [MIMS Portal](https://portal.mims.moe.gov.sg/)
+*  [Lightspeed Parent Portal (DMA)](https://moes.portal.relay.school/)
 * [Polytechnic Foundation Programme (PFP)](https://pfp.polytechnic.edu.sg/PFP/index.html)
 * [Direct Entry Scheme to Polytechnic Programme (DPP)](https://www.ite.edu.sg/apply-for-ITE-courses/dpp)
 <br>
