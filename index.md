@@ -26,7 +26,7 @@ sections:
       description: test ABC test ABC test ABC test ABC test ABC test ABC test ABC test
         ABCtest ABC test ABCtest ABC test ABC test ABC test A
       button: read more
-      url: /n-level-results-release-2024/
+      url: /minister-of-state-visits-school/
       image: /images/minstate1.jpg
       alt: Image alt text
   - infopic:
