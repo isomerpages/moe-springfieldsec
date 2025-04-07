@@ -21,6 +21,15 @@ sections:
           url: https://sites.google.com/view/ictspringfield/home
       variant: center
   - infopic:
+      title: Minister of State Visits Springfield Secondary School
+      id: infopic
+      description: test ABC test ABC test ABC test ABC test ABC test ABC test ABC test
+        ABCtest ABC test ABCtest ABC test ABC test ABC test A
+      button: read more
+      url: /n-level-results-release-2024/
+      image: /images/minstate1.jpg
+      alt: Image alt text
+  - infopic:
       title: Champions Sustainability at Tampines 4Rs Exhibition
       id: infopic
       description: Our dedicated Environment Ambassadors and teachers from the EcoSTEM
