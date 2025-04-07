@@ -13,3 +13,7 @@ The Minister of State, with the Superintendent present, observed lessons, and en
 A key highlight of the visit was a tour of the school's Eco-Garden. This student-led initiative demonstrates the school's dedication to environmental education and sustainable practices. The Minister of State and Superintendent were impressed by the students' passion and knowledge in cultivating a thriving ecosystem within the school grounds.
  
 The school community is grateful for the Minister of State's interest in Springfield's educational initiatives and their commitment to supporting student success.
+
+![](/images/minCol1.jpg)
+
+![](/images/minCol2.jpg)
