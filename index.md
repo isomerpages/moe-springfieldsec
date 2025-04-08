@@ -23,8 +23,9 @@ sections:
   - infopic:
       title: Minister of State Visits Springfield Secondary School
       id: infopic
-      description: test ABC test ABC test ABC test ABC test ABC test ABC test ABC test
-        ABCtest ABC test ABCtest ABC test ABC test ABC test A
+      description: Springfield Secondary welcomed MOS Gan Siow Huang and Mdm Sarah
+        Leong, showcasing student-led innovation, sustainability, and engaging
+        classroom learning.
       button: read more
       url: /minister-of-state-visits-school/
       image: /images/minstate1.jpg
