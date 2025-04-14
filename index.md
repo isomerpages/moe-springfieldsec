@@ -21,6 +21,16 @@ sections:
           url: https://sites.google.com/view/ictspringfield/home
       variant: center
   - infopic:
+      title: Minister of State Visits Springfield Secondary School
+      id: infopic
+      description: Springfield Secondary welcomed MOS Gan Siow Huang and Mdm Sarah
+        Leong, showcasing student-led innovation, sustainability, and engaging
+        classroom learning.
+      button: read more
+      url: /minister-of-state-visits-school/
+      image: /images/minstate1.jpg
+      alt: Image alt text
+  - infopic:
       title: Champions Sustainability at Tampines 4Rs Exhibition
       id: infopic
       description: Our dedicated Environment Ambassadors and teachers from the EcoSTEM

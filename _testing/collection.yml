@@ -2,6 +2,7 @@ collections:
   testing:
     output: true
     order:
+      - Recent Google Reviews.md
       - ChkTargetVisits/Landing Page.md
       - ChkTargetVisits/Parents Page 1.md
       - ChkTargetVisits/.keep
