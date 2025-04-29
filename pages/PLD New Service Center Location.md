@@ -21,6 +21,6 @@ Monday to Friday: 9:00 AM – 6:00 PM<br>
 Saturday: 9:00 AM – 1:00 PM<br>
 Closed on Sundays and Public Holidays <br>
 
-Enclosed is the [FAQs](files/Change_in_Lenovo_Authorised_Service_Centre___FAQs.pdf) for your reference.
+Enclosed is the [FAQs](/files/Change_in_Lenovo_Authorised_Service_Centre___FAQs.pdf) for your reference.
 
 Thank you for your attention to this matter.
