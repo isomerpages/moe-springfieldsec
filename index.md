@@ -13,9 +13,9 @@ sections:
         - title: O Level Result Release 2024
           description: Read More
           url: https://www.springfieldsec.moe.edu.sg/o-level-results-release-2024/
-        - title: Sec 1 Meet-the-parents
+        - title: PLD Service Center info
           description: Read More
-          url: https://springfieldsec.moe.edu.sg/sec-1-meet-the-parents/
+          url: /pld-new-service-center-location/
         - title: ICT @ springfield
           description: Click here to access
           url: https://sites.google.com/view/ictspringfield/home
@@ -39,15 +39,6 @@ sections:
       button: READ MORE
       url: /champions-sustainability-at-tampines-4rs-exhibition/
       image: /images/sus1.png
-      alt: Image alt text
-  - infopic:
-      title: Alumni Homecoming 2025
-      id: infopic
-      description: Do you know any ex-students from Springfield Secondary School?
-        Share this message and the QR code on the e-poster with them!
-      button: find out more
-      url: /alumni-homecoming-2025/
-      image: /images/SFSS_Alumni_Homecoming_2025_Poster_Final.png
       alt: Image alt text
   - infopic:
       title: World Taekwondo Virtual Championships
