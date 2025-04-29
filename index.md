@@ -15,7 +15,7 @@ sections:
           url: https://www.springfieldsec.moe.edu.sg/o-level-results-release-2024/
         - title: PLD Service Center info
           description: Read More
-          url: files/Change_in_Lenovo_Authorised_Service_Centre___FAQs.pdf
+          url: /pld-new-service-center-location/
         - title: ICT @ springfield
           description: Click here to access
           url: https://sites.google.com/view/ictspringfield/home
