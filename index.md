@@ -13,9 +13,9 @@ sections:
         - title: O Level Result Release 2024
           description: Read More
           url: https://www.springfieldsec.moe.edu.sg/o-level-results-release-2024/
-        - title: Sec 1 Meet-the-parents
+        - title: PLD Service Center info
           description: Read More
-          url: https://springfieldsec.moe.edu.sg/sec-1-meet-the-parents/
+          url: /pld-new-service-center-location/
         - title: ICT @ springfield
           description: Click here to access
           url: https://sites.google.com/view/ictspringfield/home
