@@ -7,7 +7,7 @@ variant: markdown
 ---
 # **DSA Exercise 2025**
 
-#### **DSA Exercise 2024**
+#### **DSA Exercise 2025**
 
 In Springfield, we nurture students to be lifelong learners and exemplary leaders. We invite Primary 6 students with sporting talent to join our school through the DSA Exercise.
 
@@ -20,7 +20,7 @@ In Springfield, we nurture students to be lifelong learners and exemplary leader
 <br>•	passionate in one of the following areas: **Rockwall Climbing, Taekwondo, Floorball and STEM**
 <br>•good character and leadership skills / taken on leadership position in schools
 
-2. Applications for 2024 DSA-Secondary Exercise will open from **7th May 2024** and the selection process will be conducted at our school.
+2. Applications for 2025 DSA-Secondary Exercise will open from **7th May 2025** and the selection process will be conducted at our school.
 
 For more information on the programmes, activities and/or opportunities that students can expect to participate in for Floorball, Rockwall Climbing, Taekwondo and STEM, please refer to our School's CCA website.
 
@@ -36,7 +36,7 @@ _Please note that meeting all the criteria does not guarantee that the student w
 
 **(B) APPLICATION PROCESS**
 
-Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of charge and will be open from 7 May 2024, 11am to 3 June 2024, 3pm. For more details, please refer to MOE [website](https://www.moe.gov.sg/secondary/dsa) - www.moe.gov.sg/dsa-sec  
+Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of charge and will be open from 7 May 2025, 11am to 3 June 2025, 3pm. For more details, please refer to MOE [website](https://www.moe.gov.sg/secondary/dsa) - www.moe.gov.sg/dsa-sec  
 
 Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the schools’ academic and non-academic requirements, and the programmes available to develop the area of talent.
 
