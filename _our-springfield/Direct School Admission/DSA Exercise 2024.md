@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Direct School Admission
 variant: markdown
 ---
-# **DSA Exercise 2024**
+# **DSA Exercise 2025**
 
 #### **DSA Exercise 2024**
 
