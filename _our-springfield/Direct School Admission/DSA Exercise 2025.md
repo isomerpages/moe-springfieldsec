@@ -1,13 +1,13 @@
 ---
-title: DSA Exercise 2024
-permalink: /about-us/direct-school-admission/dsa-exercise-2024/
+title: DSA Exercise 2025
+permalink: /about-us/direct-school-admission/dsa-exercise-2025/
 description: ""
 third_nav_title: Direct School Admission
 variant: markdown
 ---
-# **DSA Exercise 2024**
+# **DSA Exercise 2025**
 
-#### **DSA Exercise 2024**
+#### **DSA Exercise 2025**
 
 In Springfield, we nurture students to be lifelong learners and exemplary leaders. We invite Primary 6 students with sporting talent to join our school through the DSA Exercise.
 
@@ -20,7 +20,7 @@ In Springfield, we nurture students to be lifelong learners and exemplary leader
 <br>•	passionate in one of the following areas: **Rockwall Climbing, Taekwondo, Floorball and STEM**
 <br>•good character and leadership skills / taken on leadership position in schools
 
-2. Applications for 2024 DSA-Secondary Exercise will open from **7th May 2024** and the selection process will be conducted at our school.
+2. Applications for 2025 DSA-Secondary Exercise will open from **7th May 2025** and the selection process will be conducted at our school.
 
 For more information on the programmes, activities and/or opportunities that students can expect to participate in for Floorball, Rockwall Climbing, Taekwondo and STEM, please refer to our School's CCA website.
 
@@ -36,15 +36,15 @@ _Please note that meeting all the criteria does not guarantee that the student w
 
 **(B) APPLICATION PROCESS**
 
-Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of charge and will be open from 7 May 2024, 11am to 3 June 2024, 3pm. For more details, please refer to MOE [website](https://www.moe.gov.sg/secondary/dsa) - www.moe.gov.sg/dsa-sec  
+Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of charge and will be open from 7 May 2025, 11am to 3 June 2025, 3pm. For more details, please refer to MOE [website](https://www.moe.gov.sg/secondary/dsa) - www.moe.gov.sg/dsa-sec  
 
 Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the schools’ academic and non-academic requirements, and the programmes available to develop the area of talent.
 
 **(C) IMPORTANT DATES TO NOTE**
 
-<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:#DDEEE9;border-color:#333333;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">DSA Exercise </th><th style="background-color:#DDEEE9;border-color:#333333;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Time Frame <br></th></tr></thead><tbody><tr><td style="background-color:#ffffff;border-color:#333333;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Start of DSA Application <br><br> • Application is now closed<br></td><td style="background-color:#ffffff;border-color:#333333;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:bold"></span><span style="font-weight:bold"></span><span style="font-weight:normal">7 May 2024, 11am <br>(Tuesday) <br>to 3 June 2024, 3pm <br>(Monday)
-</span></td></tr><tr><td style="background-color:#DDEEE9;border-color:#333333;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">• Shortlisted applicants will be invited through a letter for a sports trial and/or interview <br><br> • Shortlisted applicants will be advised on the date and time as well as attire for the tests</td><td style="background-color:#DDEEE9;border-color:#333333;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Between 24 June 2024 <br> to 9 Sept 2024
-<br></td></tr><tr><td style="background-color:#ffffff;border-color:#333333;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">• All applicants will receive letters on the outcome of their applications<br></td><td style="background-color:#ffffff;border-color:#333333;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">By 9 Sept 2024
+<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:#DDEEE9;border-color:#333333;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">DSA Exercise </th><th style="background-color:#DDEEE9;border-color:#333333;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Time Frame <br></th></tr></thead><tbody><tr><td style="background-color:#ffffff;border-color:#333333;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Start of DSA Application <br><br>• Application can be made via <a target="_blank" href="https://go.gov.sg/apply-dsa-sec">DSA-Sec Portal</a><br></td><td style="background-color:#ffffff;border-color:#333333;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:bold"></span><span style="font-weight:bold"></span><span style="font-weight:normal">7 May 2025, 11am <br>(Wednesday) <br>to 3 June 2025, 3pm <br>(Tuesday)
+</span></td></tr><tr><td style="background-color:#DDEEE9;border-color:#333333;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">• Shortlisted applicants will be invited through a letter for a sports trial and/or interview <br><br> • Shortlisted applicants will be advised on the date and time as well as attire for the tests</td><td style="background-color:#DDEEE9;border-color:#333333;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Between 30 June 2025 <br> to 4 Sept 2025
+<br></td></tr><tr><td style="background-color:#ffffff;border-color:#333333;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">• All applicants will receive letters on the outcome of their applications<br></td><td style="background-color:#ffffff;border-color:#333333;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">By 4 Sept 2025
 </td></tr><tr><td style="background-color:#DDEEE9;border-color:#333333;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">• PSLE Result Release<br></td><td style="background-color:#DDEEE9;border-color:#333333;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Late November
   </td></tr></tbody></table>
 

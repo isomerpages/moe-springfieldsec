@@ -29,7 +29,7 @@ variant: markdown
 * [Resource Booking Service (RBS)](https://rbs.avero-tech.com/login.html)
 * [School Cockpit](https://schoolcockpit.moe.gov.sg)
 * [SC Mobile](https://scmobile.moe.edu.sg/login)
-* [Student Learning Space](https://learning.moe.edu.sg/)
+* [Student Learning Space](https://vle.learning.moe.edu.sg/login)
 * [SPF Library OPAC](https://schoolibrary.moe.edu.sg/springfieldsec)
 * [Sports Safety Resources](https://www.sportsingapore.gov.sg/sports-education/sports-safety/safety-resources-and-useful-links)
 * [Lightning Warning System](http://www.weather.gov.sg/lightning/)
