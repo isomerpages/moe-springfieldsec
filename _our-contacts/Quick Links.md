@@ -8,7 +8,7 @@ variant: markdown
 
 #### Students / Parents
 * [ICT @ Springfield](https://sites.google.com/view/ictspringfield)
-*  [Student Learning Space](https://learning.moe.edu.sg/)
+*  [Student Learning Space](https://vle.learning.moe.edu.sg/login)
 *  [MOE iCon 2.0](https://icon.moe.edu.sg)
 *  [MIMS Portal](https://portal.mims.moe.gov.sg/)
 *  [Lightspeed Parent Portal (DMA)](https://moes.portal.relay.school/)
