@@ -10,9 +10,9 @@ sections:
       title: Springfield Secondary School
       background: /images/schoolbg.jpg
       key_highlights:
-        - title: O Level Result Release 2024
+        - title: DSA Exercise 2025
           description: Read More
-          url: https://www.springfieldsec.moe.edu.sg/o-level-results-release-2024/
+          url: https://www.springfieldsec.moe.edu.sg/about-us/direct-school-admission/dsa-exercise-2025/
         - title: PLD Service Center info
           description: Read More
           url: /pld-new-service-center-location/
