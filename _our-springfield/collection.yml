@@ -3,13 +3,13 @@ collections:
     output: true
     order:
       - Our Principal's Message.md
-      - Our School/Alumni Achievements.md
-      - Our School/News and Achievements.md
-      - Our School/Our School Song.md
-      - Our School/Our School Logo and Motto.md
       - Our School/.keep
       - Our School/Our Vision, Mission, and Values.md
       - Our School/POS ED.md
+      - Our School/Our School Logo and Motto.md
+      - Our School/Our School Song.md
+      - Our School/News and Achievements.md
+      - Our School/Alumni Achievements.md
       - Our People/.keep
       - Our People/School Management Committee.md
       - Our People/Form Classes.md
