@@ -17,3 +17,7 @@ links:
         url: /permalink
       - title: New submenu 2
         url: /permalink
+      - title: New submenu
+        url: /permalink
+  - title: New Website
+    collection: new-website
