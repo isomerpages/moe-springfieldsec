@@ -13,3 +13,5 @@ links:
   - title: New menu group
     url: /permalink
     sublinks: []
+  - title: Home
+    collection: new-website
