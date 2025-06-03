@@ -2,9 +2,9 @@ collections:
   new-website:
     output: true
     order:
-      - Home/Photos.md
-      - Home/Home.md
       - Home/.keep
+      - Home/Home.md
+      - Home/Photos.md
       - Our Springfield/.keep
       - Our Springfield/home.md
       - Students Parents/.keep
