@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Admissions/.keep
-      - Home.md
       - Our Programmes/.keep
       - Our Programmes/Home.md
       - Students Parents/.keep
