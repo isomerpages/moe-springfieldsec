@@ -2,11 +2,11 @@ collections:
   students-and-parents:
     output: true
     order:
-      - For Parents/Group Personal Accident Insurance Plan for Students.md
-      - For Parents/Financial Assistance.md
-      - For Parents/Fees Information.md
-      - For Parents/Straits Times Pocket Money Fund 2025.md
-      - For Parents/School Suppliers.md
-      - For Parents/Parents Gateway.md
-      - For Parents/Quick Links.md
       - For Parents/.keep
+      - For Parents/Quick Links.md
+      - For Parents/Parents Gateway.md
+      - For Parents/School Suppliers.md
+      - For Parents/Fees Information.md
+      - For Parents/Financial Assistance.md
+      - For Parents/Straits Times Pocket Money Fund 2025.md
+      - For Parents/Group Personal Accident Insurance Plan for Students.md
