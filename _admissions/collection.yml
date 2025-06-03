@@ -2,5 +2,5 @@ collections:
   admissions:
     output: true
     order:
-      - Springfield Experience (e OpenHouse).md
       - DSA Exercise 2025.md
+      - Springfield Experience (e OpenHouse).md
