@@ -2,6 +2,7 @@ collections:
   new-website:
     output: true
     order:
+      - Home/Home.md
       - Home/.keep
       - Our Springfield/.keep
       - Our Springfield/home.md
