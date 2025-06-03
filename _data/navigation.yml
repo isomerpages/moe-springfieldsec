@@ -10,3 +10,10 @@ links:
     collection: students
   - title: Our Contacts
     collection: our-contacts
+  - title: New menu group
+    url: /permalink
+    sublinks:
+      - title: New submenu 1
+        url: /permalink
+      - title: New submenu 2
+        url: /permalink
