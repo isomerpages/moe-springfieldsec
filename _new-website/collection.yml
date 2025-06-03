@@ -2,10 +2,10 @@ collections:
   new-website:
     output: true
     order:
-      - Our Programmes/Home.md
-      - Our Programmes/.keep
-      - Students Parents/Home.md
-      - Students Parents/.keep
-      - Our Springfield/home.md
-      - Our Springfield/.keep
       - Home.md
+      - Our Programmes/.keep
+      - Our Programmes/Home.md
+      - Students Parents/.keep
+      - Students Parents/Home.md
+      - Our Springfield/.keep
+      - Our Springfield/home.md
