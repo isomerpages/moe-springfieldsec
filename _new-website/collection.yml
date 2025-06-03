@@ -2,5 +2,6 @@ collections:
   new-website:
     output: true
     order:
+      - Students Parents/.keep
       - Ourspringfield/.keep
       - Home.md
