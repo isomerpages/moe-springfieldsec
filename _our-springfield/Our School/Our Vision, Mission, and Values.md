@@ -5,7 +5,7 @@ description: ""
 variant: markdown
 third_nav_title: Our School
 ---
-# **Our Vision, Mission,&nbsp;and Values**
+# **Vision, Mission,&nbsp;and Values**
 
 ###   Our Vision
 
