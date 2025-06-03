@@ -2,6 +2,7 @@ collections:
   our-programmes:
     output: true
     order:
+      - School Distinctive Programmes/GEP (must be 4 Char).md
       - School Distinctive Programmes/Springfield Explorer (SIL).md
       - School Distinctive Programmes/.keep
       - School Distinctive Programmes/Applied Learning Programme (ALP).md
