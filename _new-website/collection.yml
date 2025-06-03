@@ -1,0 +1,4 @@
+collections:
+  new-website:
+    output: true
+    order: []
