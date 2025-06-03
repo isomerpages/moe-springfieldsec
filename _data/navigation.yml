@@ -11,5 +11,4 @@ links:
   - title: Our Contacts
     collection: our-contacts
   - title: New Website
-    url: /new website/home
-    sublinks: []
+    collection: new-website
