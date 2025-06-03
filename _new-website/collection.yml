@@ -1,4 +1,5 @@
 collections:
   new-website:
     output: true
-    order: []
+    order:
+      - Home.md
