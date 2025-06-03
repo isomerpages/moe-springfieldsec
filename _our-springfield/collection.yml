@@ -2,6 +2,7 @@ collections:
   our-springfield:
     output: true
     order:
+      - Our Partners/Springfield Parents Network (SPN).md
       - Our Partners/School Advisory Committee.md
       - Our Partners/.keep
       - Our Principal's Message.md
