@@ -2,6 +2,7 @@ collections:
   our-springfield:
     output: true
     order:
+      - Vision, Mission & Values/.keep
       - Our Principal's Message.md
       - Our School.md
       - Our Vision, Mission, and Values.md
