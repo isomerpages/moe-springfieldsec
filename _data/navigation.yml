@@ -6,8 +6,8 @@ links:
     collection: our-programmes
   - title: Our Experience
     collection: our-experience
-  - title: Our Contacts
-    collection: our-contacts
+  - title: Contact Us
+    collection: contact-us
   - title: New Website
     url: /permalink
     sublinks:
