@@ -2,6 +2,7 @@ collections:
   new-website:
     output: true
     order:
+      - Contact Us/Home.md
       - Contact Us/.keep
       - Home.md
       - Our Springfield/.keep
