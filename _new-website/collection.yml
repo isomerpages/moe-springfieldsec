@@ -2,8 +2,6 @@ collections:
   new-website:
     output: true
     order:
-      - Contact Us/Home.md
-      - Contact Us/.keep
       - Home.md
       - Our Springfield/.keep
       - Our Springfield/home.md
@@ -15,3 +13,5 @@ collections:
       - Admissions/Home.md
       - Quick Links/.keep
       - Quick Links/Home.md
+      - Contact Us/.keep
+      - Contact Us/Home.md
