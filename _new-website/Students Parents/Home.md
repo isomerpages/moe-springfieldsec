@@ -5,4 +5,4 @@ variant: tiptap
 description: ""
 third_nav_title: Students Parents
 ---
-<p></p>
+<p>This is the home page under Students and Parents</p>
