@@ -2,6 +2,7 @@ collections:
   new-website:
     output: true
     order:
+      - Quick Links/Home.md
       - Quick Links/.keep
       - Home.md
       - Our Programmes/.keep
