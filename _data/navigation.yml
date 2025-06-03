@@ -10,8 +10,8 @@ links:
     collection: students
   - title: Our Contacts
     collection: our-contacts
-  - title: New menu group
-    url: /permalink
-    sublinks: []
-  - title: Home
-    collection: new-website
+  - title: New Website
+    url: /new website/home
+    sublinks:
+      - title: New submenu
+        url: /permalink
