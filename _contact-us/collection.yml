@@ -1,5 +1,5 @@
 collections:
-  our-contacts:
+  contact-us:
     output: true
     order:
       - Contact Us.md
