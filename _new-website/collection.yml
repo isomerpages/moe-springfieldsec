@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Home/.keep
-      - Home.md
       - Our Springfield/.keep
       - Our Springfield/home.md
       - Students Parents/.keep
