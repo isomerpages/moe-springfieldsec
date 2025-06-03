@@ -2,10 +2,6 @@ collections:
   our-springfield:
     output: true
     order:
-      - Our Partners/.keep
-      - Our Partners/School Advisory Committee.md
-      - Our Partners/Alumni.md
-      - Our Partners/Springfield Parents Network (SPN).md
       - Our Principal's Message.md
       - Our School/.keep
       - Our School/Our Vision, Mission, and Values.md
@@ -19,6 +15,10 @@ collections:
       - Our People/Form Classes.md
       - Our People/Student Support.md
       - Our People/School Administration Team.md
+      - Our Partners/.keep
+      - Our Partners/School Advisory Committee.md
+      - Our Partners/Alumni.md
+      - Our Partners/Springfield Parents Network (SPN).md
       - Home School Partnership.md
       - School Corporate Video.md
       - Direct School Admission/.keep
