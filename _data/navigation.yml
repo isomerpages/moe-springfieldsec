@@ -12,6 +12,4 @@ links:
     collection: our-contacts
   - title: New Website
     url: /new website/home
-    sublinks:
-      - title: New submenu
-        url: /permalink
+    sublinks: []
