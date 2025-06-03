@@ -10,7 +10,7 @@ links:
     collection: students
   - title: Our Contacts
     collection: our-contacts
-  - title: New menu group
+  - title: New Website
     url: /permalink
     sublinks:
       - title: New submenu 1
