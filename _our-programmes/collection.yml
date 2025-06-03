@@ -2,9 +2,9 @@ collections:
   our-programmes:
     output: true
     order:
-      - School Distinctive Programmes/Learning for Life Programme (LLP).md
-      - School Distinctive Programmes/Applied Learning Programme (ALP).md
       - School Distinctive Programmes/.keep
+      - School Distinctive Programmes/Applied Learning Programme (ALP).md
+      - School Distinctive Programmes/Learning for Life Programme (LLP).md
       - POS ED.md
       - Curriculum/.keep
       - Curriculum/English Language & Literature Department.md
