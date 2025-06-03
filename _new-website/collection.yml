@@ -2,7 +2,6 @@ collections:
   new-website:
     output: true
     order:
-      - Admissions/Home.md
       - Admissions/.keep
       - Our Programmes/.keep
       - Our Programmes/Home.md
