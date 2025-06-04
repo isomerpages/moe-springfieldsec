@@ -8,7 +8,7 @@ links:
     collection: our-experience
   - title: Contact Us
     collection: contact-us
-  - title: New Website
+  - title: New Website (Menu Group)
     url: /permalink
     sublinks:
       - title: New submenu 1
@@ -17,7 +17,7 @@ links:
         url: /permalink
       - title: New submenu
         url: /permalink
-  - title: New Website
+  - title: New Website (Folder)
     collection: new-website
   - title: Cyberwellness
     resource_room: true
