@@ -2,8 +2,12 @@ logo: /images/sfsslogo2.png
 links:
   - title: Our Springfield
     collection: our-springfield
+  - title: Students and Parents
+    collection: students-and-parents
   - title: Our Programmes
     collection: our-programmes
+  - title: Admissions
+    collection: admissions
   - title: Our Experience
     collection: our-experience
   - title: Contact Us
@@ -21,5 +25,3 @@ links:
     collection: new-website
   - title: Cyberwellness
     resource_room: true
-  - title: Students and Parents
-    collection: students-and-parents
