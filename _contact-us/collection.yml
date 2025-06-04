@@ -3,5 +3,4 @@ collections:
     output: true
     order:
       - Contact Us.md
-      - Quick Links.md
       - Admin Matters/.keep
