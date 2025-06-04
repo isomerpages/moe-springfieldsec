@@ -19,3 +19,5 @@ links:
         url: /permalink
   - title: New Website
     collection: new-website
+  - title: Cyberwellness
+    resource_room: true
