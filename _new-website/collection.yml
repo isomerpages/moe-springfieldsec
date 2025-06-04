@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Home/.keep
-      - Home/Home.md
       - Home/Photos.md
       - Our Springfield/.keep
       - Our Springfield/home.md
