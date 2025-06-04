@@ -21,3 +21,5 @@ links:
     collection: new-website
   - title: Cyberwellness
     resource_room: true
+  - title: Students and Parents
+    collection: students-and-parents
