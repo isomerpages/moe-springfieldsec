@@ -7,3 +7,4 @@ description: ""
 image: ""
 variant: tiptap
 ---
+<p>Contains overview of school values, strengths, and principal's message</p>
