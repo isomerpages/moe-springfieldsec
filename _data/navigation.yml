@@ -8,9 +8,11 @@ links:
     collection: our-programmes
   - title: Admissions
     collection: admissions
-  - title: Our Experience
-    collection: our-experience
+  - title: Quick Links
+    collection: quick-links
   - title: Contact Us
     collection: contact-us
+  - title: Our Experience
+    collection: our-experience
   - title: Cyberwellness
     resource_room: true
