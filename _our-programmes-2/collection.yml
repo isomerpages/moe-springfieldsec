@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - CCE Folder/.keep
-      - CCA Folder/.keep
       - Positive Education Overview.md
       - Curriculum/Curriculum Overview.md
       - Curriculum/Maths Lang.md
