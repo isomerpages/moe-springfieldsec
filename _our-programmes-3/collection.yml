@@ -4,10 +4,10 @@ collections:
     order:
       - 01 Curriculum Folder/.keep
       - 01 Curriculum Folder/Curriculum Overview.md
-      - 02A CC CCA Folder/.keep
-      - 02A CC CCA Folder/CCA Overview.md
-      - 02A CC CCA Folder/Floorball (Girls).md
-      - 02A CC CCA Folder/Floorball (Boys).md
+      - 02A CC CCA/.keep
+      - 02A CC CCA/CCA Overview.md
+      - 02A CC CCA/Floorball (Girls).md
+      - 02A CC CCA/Floorball (Boys).md
       - 02B CC CCE/.keep
       - 02B CC CCE/CCE Programme.md
       - 02C CC Student Wellbeing/.keep
