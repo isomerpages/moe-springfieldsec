@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Positive Education.md
+      - Curriculum/Maths Lang.md
       - Curriculum/.keep
       - Curriculum/Eng Lang.md
       - Co Curriculum/.keep
