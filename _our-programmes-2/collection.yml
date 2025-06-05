@@ -2,6 +2,7 @@ collections:
   our-programmes-2:
     output: true
     order:
+      - CCA/.keep
       - POS ED 2.md
       - SDP/.keep
       - Co Curriculum/CCA 123.md
