@@ -2,7 +2,6 @@ collections:
   our-programmes-2:
     output: true
     order:
-      - CCE Folder/.keep
       - Positive Education Overview.md
       - Curriculum/Curriculum Overview.md
       - Curriculum/Maths Lang.md
