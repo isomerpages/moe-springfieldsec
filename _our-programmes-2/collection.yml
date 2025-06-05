@@ -2,5 +2,6 @@ collections:
   our-programmes-2:
     output: true
     order:
+      - Co Curriculum/.keep
       - Curriculum/Curriculum.md
       - Curriculum/.keep
