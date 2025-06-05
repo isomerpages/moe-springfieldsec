@@ -2,8 +2,8 @@ collections:
   our-programmes-3:
     output: true
     order:
-      - Curriculum Folder/.keep
-      - Curriculum Folder/Curriculum Overview.md
+      - 01 Curriculum Folder/.keep
+      - 01 Curriculum Folder/Curriculum Overview.md
       - CC CCA Folder/.keep
       - CC CCA Folder/CCA Overview.md
       - CC CCA Folder/Floorball (Girls).md
