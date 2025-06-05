@@ -4,6 +4,7 @@ collections:
     order:
       - Student Management Folder/.keep
       - Student Wellbeing Folder/.keep
+      - CCE Folder/CCE Programme.md
       - CCE Folder/.keep
       - CCA Folder/.keep
       - Curriculum Folder/.keep
