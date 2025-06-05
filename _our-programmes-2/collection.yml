@@ -2,15 +2,15 @@ collections:
   our-programmes-2:
     output: true
     order:
-      - CCE/CCE landing Page.md
-      - CCE/.keep
-      - CCA/CCA Landing Page.md
-      - CCA/.keep
       - Positive Education.md
-      - SDP/SDP Landing Page.md
-      - SDP/.keep
-      - Co Curriculum/CCA 123.md
-      - Co Curriculum/.keep
+      - Curriculum/.keep
       - Curriculum/Eng Lang.md
       - Curriculum/Positive Education.md
-      - Curriculum/.keep
+      - Co Curriculum/.keep
+      - Co Curriculum/CCA 123.md
+      - SDP/.keep
+      - SDP/SDP Landing Page.md
+      - CCE/.keep
+      - CCE/CCE landing Page.md
+      - CCA/.keep
+      - CCA/CCA Landing Page.md
