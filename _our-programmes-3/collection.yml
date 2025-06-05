@@ -2,5 +2,6 @@ collections:
   our-programmes-3:
     output: true
     order:
+      - CCE Folder/.keep
       - CCA Folder/.keep
       - Curriculum Folder/.keep
