@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - SDP/.keep
+      - Co Curriculum/CCA 123.md
       - Co Curriculum/.keep
       - Curriculum/Eng Lang.md
       - Curriculum/Positive Education.md
