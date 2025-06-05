@@ -2,15 +2,15 @@ collections:
   our-programmes-3:
     output: true
     order:
-      - St Distinctive Prog Folder/.keep
-      - CC Student Leadership Folder/.keep
-      - CC Student Management Folder/.keep
-      - CC Student Wellbeing Folder/.keep
-      - CC CCE Folder/CCE Programme.md
-      - CC CCE Folder/.keep
+      - Curriculum Folder/.keep
+      - Curriculum Folder/Curriculum Overview.md
       - CC CCA Folder/.keep
       - CC CCA Folder/CCA Overview.md
       - CC CCA Folder/Floorball (Girls).md
       - CC CCA Folder/Floorball (Boys).md
-      - Curriculum Folder/Curriculum Overview.md
-      - Curriculum Folder/.keep
+      - CC CCE Folder/.keep
+      - CC CCE Folder/CCE Programme.md
+      - CC Student Wellbeing Folder/.keep
+      - CC Student Management Folder/.keep
+      - CC Student Leadership Folder/.keep
+      - St Distinctive Prog Folder/.keep
