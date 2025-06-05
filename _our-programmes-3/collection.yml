@@ -2,6 +2,7 @@ collections:
   our-programmes-3:
     output: true
     order:
+      - Student Leadership Folder/.keep
       - Student Management Folder/.keep
       - Student Wellbeing Folder/.keep
       - CCE Folder/CCE Programme.md
