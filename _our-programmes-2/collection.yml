@@ -3,15 +3,15 @@ collections:
     output: true
     order:
       - Positive Education Overview Page.md
-      - Curriculum/Curriculum Overview.md
-      - Curriculum/Maths Lang.md
-      - Curriculum/.keep
-      - Curriculum/Eng Lang.md
-      - Co Curriculum/CCE Overview.md
-      - Co Curriculum/.keep
-      - Co Curriculum/CCA Overview.md
-      - Co Curriculum/CCA Floorball (Boys).md
-      - Co Curriculum/CCA Floorball (Girls).md
+      - Curriculum Folder/Curriculum Overview.md
+      - Curriculum Folder/Maths Lang.md
+      - Curriculum Folder/.keep
+      - Curriculum Folder/Eng Lang.md
+      - Curriculum Folder/CCE Overview.md
+      - Curriculum Folder/.keep
+      - Curriculum Folder/CCA Overview.md
+      - Curriculum Folder/CCA Floorball (Boys).md
+      - Curriculum Folder/CCA Floorball (Girls).md
       - SDP/ALP Overview.md
       - SDP/.keep
       - SDP/SDP Overview.md
