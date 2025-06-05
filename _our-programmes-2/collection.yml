@@ -2,17 +2,16 @@ collections:
   our-programmes-2:
     output: true
     order:
-      - Co Curriculum Folder/.keep
       - Positive Education Overview Page.md
+      - Curriculum Folder/.keep
       - Curriculum Folder/Curriculum Overview.md
       - Curriculum Folder/Maths Lang.md
-      - Curriculum Folder/.keep
       - Curriculum Folder/Eng Lang.md
       - Curriculum Folder/CCE Overview.md
-      - Curriculum Folder/.keep
       - Curriculum Folder/CCA Overview.md
       - Curriculum Folder/CCA Floorball (Boys).md
       - Curriculum Folder/CCA Floorball (Girls).md
-      - SDP Folder/ALP Overview.md
+      - Co Curriculum Folder/.keep
       - SDP Folder/.keep
+      - SDP Folder/ALP Overview.md
       - SDP Folder/SDP Overview.md
