@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Student Leadership Folder/.keep
-      - Student Management Folder/.keep
+      - CC Student Management Folder/.keep
       - CC Student Wellbeing Folder/.keep
       - Co Curriculum CCE Folder/CCE Programme.md
       - Co Curriculum CCE Folder/.keep
