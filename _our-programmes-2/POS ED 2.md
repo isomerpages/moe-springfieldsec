@@ -4,7 +4,7 @@ permalink: /pos-ed-2/
 variant: tiptap
 description: ""
 ---
-<h3>POS ED 2</h3>
+<h3><strong>Positive Education</strong></h3>
 <p></p>
 <p></p>
 <p>Positive Education @ Springfield Secondary School</p>
