@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - CCA/.keep
-      - POS ED.md
+      - Positive Education Overview.md
       - Curriculum/.keep
       - Curriculum/English Language & Literature Department.md
       - Curriculum/Mathematics.md
