@@ -4,10 +4,10 @@ collections:
     order:
       - Curriculum/.keep
       - Curriculum/Curriculum Overview.md
-      - 02A CC CCA/.keep
-      - 02A CC CCA/CCA Overview.md
-      - 02A CC CCA/Floorball (Girls).md
-      - 02A CC CCA/Floorball (Boys).md
+      - CCA (Co Curriculum)/.keep
+      - CCA (Co Curriculum)/CCA Overview.md
+      - CCA (Co Curriculum)/Floorball (Girls).md
+      - CCA (Co Curriculum)/Floorball (Boys).md
       - 02B CC CCE/.keep
       - 02B CC CCE/CCE Programme.md
       - 02C CC Student Wellbeing/.keep
