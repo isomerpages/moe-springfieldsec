@@ -2,6 +2,7 @@ collections:
   cca-folder:
     output: true
     order:
+      - Netball.md
       - NPCC.md
       - NCC (Land).md
       - Floorball (Boys).md
