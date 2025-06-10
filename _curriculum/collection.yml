@@ -1,5 +1,5 @@
 collections:
-  our-programmes-3:
+  curriculum:
     output: true
     order:
       - Our Programmes Overview.md
