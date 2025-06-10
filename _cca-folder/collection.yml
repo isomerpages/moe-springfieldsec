@@ -2,5 +2,6 @@ collections:
   cca-folder:
     output: true
     order:
+      - Boys' Brigade.md
       - CCA.md
       - Outdoor Pursuits Club.md
