@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - CCA Programmes.md
+      - Student Leadership/CCA Leaders.md
       - Student Leadership/.keep
       - Learning for Life Programme (LLP).md
       - Springfield Explorer (SIL).md
