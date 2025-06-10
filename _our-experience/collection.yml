@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - CCA/.keep
-      - CCA/EcoSTEM Club.md
       - 2025 Booklist & Uniform.md
       - Start IT Right (SIR) Programme.md
       - Student Leadership/.keep
