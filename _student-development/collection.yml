@@ -2,8 +2,8 @@ collections:
   student-development:
     output: true
     order:
-      - Student Leadership/.keep
       - CCA Programmes.md
+      - Student Leadership/.keep
       - Learning for Life Programme (LLP).md
       - Springfield Explorer (SIL).md
       - GEP (must be 4 Char).md
