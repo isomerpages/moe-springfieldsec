@@ -2,7 +2,6 @@ collections:
   our-programmes-2:
     output: true
     order:
-      - Positive Education Overview.md
       - Curriculum Folder/Curriculum Overview.md
       - Curriculum Folder/.keep
       - Curriculum Folder/Maths Lang.md
