@@ -93,6 +93,10 @@ description: ""
 </a><a rel="noopener noreferrer nofollow" href="/cca/clubs-n-societies/ecostem-club/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="EcoStem" src="/images/eco2.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">EcoSTEM Club</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">Find out more!</div></div></a>
 </div>
 <h3>Aims of our CCA Programme</h3>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ccavalues.png">
+</div>
 <ul>
 <li>
 <p>Our programme aims to give a more complete and balanced education. It
