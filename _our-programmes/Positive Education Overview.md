@@ -6,7 +6,7 @@ description: ""
 ---
 # **Our Programmes**
 
-#### Positive Eduaction
+#### Positive Education
 
 Positive Education @ Springfield Secondary School
 Nurturing a Culture of Positivity and Purpose
