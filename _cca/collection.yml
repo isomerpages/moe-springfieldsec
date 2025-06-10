@@ -3,18 +3,18 @@ collections:
     output: true
     order:
       - Overview of CCA.md
-      - EcoSTEM Club.md
-      - Guzheng Ensemble.md
-      - Drama (English).md
-      - Dance.md
-      - Band.md
-      - Girls' Brigade.md
-      - Taekwondo.md
-      - Netball.md
-      - NPCC.md
-      - NCC (Land).md
       - Floorball (Boys).md
-      - Football.md
       - Floorball (Girls).md
-      - Boys' Brigade.md
+      - Football.md
+      - Netball.md
       - Outdoor Pursuits Club.md
+      - Taekwondo.md
+      - Boys' Brigade.md
+      - Girls' Brigade.md
+      - NCC (Land).md
+      - NPCC.md
+      - Band.md
+      - Dance.md
+      - Drama (English).md
+      - Guzheng Ensemble.md
+      - EcoSTEM Club.md
