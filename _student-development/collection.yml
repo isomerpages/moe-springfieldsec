@@ -2,7 +2,7 @@ collections:
   student-development:
     output: true
     order:
-      - GEP (must be 4 Char).md
-      - Springfield Explorer (SIL).md
-      - Learning for Life Programme (LLP).md
       - CCA Programmes.md
+      - Learning for Life Programme (LLP).md
+      - Springfield Explorer (SIL).md
+      - GEP (must be 4 Char).md
