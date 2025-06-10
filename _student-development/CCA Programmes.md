@@ -6,8 +6,8 @@ description: ""
 ---
 <h1>CCA</h1>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/programmes/cce-programme" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/floorballkai.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Floorball (Boys)</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">Find out more!</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/cca/physical-sports/floorball-boys/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/floorballkai.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Floorball (Boys)</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">Find out more!</div></div></a>
+<a rel="noopener noreferrer nofollow" href="/cca/physical-sports/floorball-girls/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/floorballGirlsTeam.jpeg">
@@ -18,8 +18,8 @@ description: ""
 <div class="isomer-card-description">This is body text for your card. Describe your card.</div>
 <div class="isomer-card-link">Find out more!</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/soccer1.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Football</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+</a><a rel="noopener noreferrer nofollow" href="/cca/physical-sports/football/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/soccer1.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Football</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+<a rel="noopener noreferrer nofollow" href="/cca/physical-sports/netball/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="alt" src="/images/Netball Cover.jpg">
@@ -30,7 +30,7 @@ description: ""
 <div class="isomer-card-description">This is body text for your card. Describe your card.</div>
 <div class="isomer-card-link">Find out more!</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Outdoor Pursuits Club" src="/images/OPC_reflection.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Outdoor Pursuits Club</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">Find out more!</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="/cca/physical-sports/outdoor-pursuits-club/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Outdoor Pursuits Club" src="/images/OPC_reflection.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Outdoor Pursuits Club</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">Find out more!</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/cca/physical-sports/taekwondo/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -42,8 +42,8 @@ description: ""
 <div class="isomer-card-description">This is body text for your card. Describe your card.</div>
 <div class="isomer-card-link">This is a link for your card</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="alt" src="/images/boybrigade3.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Boys' Brigade</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">Find out more!</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+</a><a rel="noopener noreferrer nofollow" href="/cca/uniformed-groups/boys-brigade/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="alt" src="/images/boybrigade3.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Boys' Brigade</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">Find out more!</div></div></a>
+<a rel="noopener noreferrer nofollow" href="/cca/uniformed-groups/girls-brigade/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="alt" src="/images/girls_brigade_web.jpg">
@@ -55,7 +55,7 @@ description: ""
 <div class="isomer-card-link">Find out more!</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="/cca/physical-sports/ncc-land/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="NCC (Land)" src="/images/NCC2.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">NCC (Land)</div><div class="isomer-card-description">insert words here</div><div class="isomer-card-link">Find out more!</div></div></a>
-<a rel="noopener noreferrer nofollow" href="/cca/physical-sports/npcc-sea/" class="isomer-card">
+<a rel="noopener noreferrer nofollow" href="/cca/uniformed-groups/npcc-sea/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Student Leader" src="/images/NPCC_2018.jpg">
@@ -66,8 +66,8 @@ description: ""
 <div class="isomer-card-description">This is body text for your card. Describe your card.</div>
 <div class="isomer-card-link">Find out more!</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="alt" src="/images/band1.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Band</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">Find out more!</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+</a><a rel="noopener noreferrer nofollow" href="/cca/visual-n-performing-arts/band/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="alt" src="/images/band1.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Band</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">Find out more!</div></div></a>
+<a rel="noopener noreferrer nofollow" href="/cca/visual-n-performing-arts/dance/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="dance" src="/images/2018 Teachers Day Dance.jpeg">
@@ -78,7 +78,7 @@ description: ""
 <div class="isomer-card-description">This is body text for your card. Describe your card.</div>
 <div class="isomer-card-link">Find out more!</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Drama" src="/images/Drama 3.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Drama (English)</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">Find out more!</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="/cca/visual-n-performing-arts/drama-english/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Drama" src="/images/Drama 3.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Drama (English)</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">Find out more!</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/cca/visual-n-performing-arts/guzheng-ensemble/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
