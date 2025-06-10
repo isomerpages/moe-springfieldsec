@@ -2,6 +2,7 @@ collections:
   curriculum:
     output: true
     order:
+      - Physical Education Department.md
       - Craft & Technology Department.md
       - Information Communication Technology Department.md
       - Our Programmes Overview.md
