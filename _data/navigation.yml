@@ -4,13 +4,13 @@ links:
     collection: our-springfield
   - title: Students and Parents
     collection: students-and-parents
-  - title: Our Programmes
-    collection: our-programmes
-  - title: Admissions
-    collection: admissions
-  - title: Quick Links
-    collection: quick-links
   - title: Our Programmes 3
     collection: our-programmes-3
   - title: Student Development
     url: https://springfieldsec.moe.edu.sg/cca-overview/
+  - title: Admissions
+    collection: admissions
+  - title: Quick Links
+    collection: quick-links
+  - title: Our Programmes
+    collection: our-programmes
