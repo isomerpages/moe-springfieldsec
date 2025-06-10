@@ -20,8 +20,6 @@ Symbolically, it portrays the tender care by which the school nurtures pupils to
   
 
 # **Our School Song**
-*Music by Soh Kay Cheng   
-Lyrics by Rosa Lein*
 
 Springfield, oh Springfield,   
 To you our loyalty we pledge,   
@@ -44,3 +42,7 @@ Till our work is done
 Springfield, dear Springfield,   
 We hear your beckoning call   
 Better Self for Better Tomorrow.
+
+
+*Music by Soh Kay Cheng   
+Lyrics by Rosa Lein*
