@@ -4,7 +4,7 @@ permalink: /our-programmes-test/
 variant: tiptap
 description: ""
 ---
-<h1> Our Programmes Overview</h1>
+<h1>Our Programmes Overview</h1>
 <p>Positive Education @ Springfield Secondary School</p>
 <p>Nurturing a Culture of Positivity and Purpose</p>
 <p>At Springfield Secondary School, we believe that a positive school culture
