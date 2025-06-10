@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - CCA/.keep
-      - CCA/CCA.md
       - CCA/Girls' Brigade.md
       - CCA/Band.md
       - CCA/Dance.md
