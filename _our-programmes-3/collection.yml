@@ -2,6 +2,7 @@ collections:
   our-programmes-3:
     output: true
     order:
+      - Springfield Explorer (SIL).md
       - Learning for Life Programme (LLP).md
       - Our Programmes Overview.md
       - Curriculum Programmes/.keep
