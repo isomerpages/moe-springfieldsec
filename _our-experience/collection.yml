@@ -2,7 +2,6 @@ collections:
   our-experience:
     output: true
     order:
-      - 2025 Booklist & Uniform.md
       - Start IT Right (SIR) Programme.md
       - Student Leadership/.keep
       - Student Leadership/SPF Student Leadership Framework.md
