@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Student Leadership/.keep
-      - Student Leadership/SPF Student Leadership Framework.md
       - Sec 1 Posting 2025/.keep
       - Sec 1 Posting 2025/Welcome to Springfield.md
       - "Sec 1 Posting 2025/Parent Kit: Pri to Sec Transition.md"
