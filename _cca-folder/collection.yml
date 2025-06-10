@@ -1,4 +1,5 @@
 collections:
   cca-folder:
     output: true
-    order: []
+    order:
+      - Outdoor Pursuits Club.md
