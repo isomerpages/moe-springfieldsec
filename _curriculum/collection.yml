@@ -2,6 +2,7 @@ collections:
   curriculum:
     output: true
     order:
+      - Humanities Department.md
       - Physical Education Department.md
       - Craft & Technology Department.md
       - Information Communication Technology Department.md
