@@ -2,6 +2,7 @@ collections:
   cca-folder:
     output: true
     order:
+      - Football.md
       - Floorball (Girls).md
       - Boys' Brigade.md
       - CCA.md
