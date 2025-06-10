@@ -2,6 +2,7 @@ collections:
   our-programmes-3:
     output: true
     order:
+      - Co Curriculum Activities.md
       - Our Programmes Overview.md
       - Instructional Programmes/.keep
       - Curriculum Programmes/.keep
