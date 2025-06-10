@@ -3,8 +3,8 @@ collections:
     output: true
     order:
       - Our Programmes Test.md
-      - Curriculum/.keep
-      - Curriculum/Curriculum Overview.md
+      - Curriculum Programmes/.keep
+      - Curriculum Programmes/Curriculum Overview.md
       - Co Curriculum Programmes/Student Wellbeing.md
       - Co Curriculum Programmes/.keep
       - Co Curriculum Programmes/Co Curriculum Activities.md
