@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Our Programmes Test.md
-      - Overview of Our Programmes.md
       - Our Programmes/.keep
       - Curriculum/.keep
       - Curriculum/Curriculum Overview.md
