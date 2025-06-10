@@ -2,6 +2,7 @@ collections:
   curriculum:
     output: true
     order:
+      - Applied Learning Programme (ALP).md
       - Curriculum Overview.md
       - English Language & Literature Department.md
       - Mathematics.md
