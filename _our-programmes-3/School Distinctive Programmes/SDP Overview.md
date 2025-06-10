@@ -16,7 +16,7 @@ third_nav_title: School Distinctive Programmes
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Learning for Life Programme (LLP)</div>
+<div class="isomer-card-title">Learning for Life Programme</div>
 <div class="isomer-card-description">This is body text for your card. Describe your card.</div>
 <div class="isomer-card-link">https://springfieldsec.moe.edu.sg/llp-2025/</div>
 </div>
