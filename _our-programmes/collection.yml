@@ -1,5 +1,4 @@
 collections:
   our-programmes:
     output: true
-    order:
-      - Positive Education Overview.md
+    order: []
