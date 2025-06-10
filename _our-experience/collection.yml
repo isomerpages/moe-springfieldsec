@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - CCA/.keep
-      - CCA/Dance.md
       - CCA/Drama (English).md
       - CCA/Guzheng Ensemble.md
       - CCA/EcoSTEM Club.md
