@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Our Programmes Overview.md
+      - Instructional Programmes/Curriculum Overview.md
       - Instructional Programmes/.keep
       - CCA Programmes.md
       - Student Development Programmes/.keep
