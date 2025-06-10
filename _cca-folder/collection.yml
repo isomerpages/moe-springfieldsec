@@ -2,6 +2,7 @@ collections:
   cca-folder:
     output: true
     order:
+      - Band.md
       - Girls' Brigade.md
       - Taekwondo.md
       - Netball.md
