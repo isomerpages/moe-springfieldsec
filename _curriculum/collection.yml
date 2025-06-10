@@ -2,6 +2,7 @@ collections:
   curriculum:
     output: true
     order:
+      - Curriculum Overview.md
       - Full Subject Based Banding (FSBB).md
       - Applied Learning Programme (ALP).md
       - English Language & Literature Department.md
@@ -12,5 +13,4 @@ collections:
       - Physical Education Department.md
       - Craft & Technology Department.md
       - Information Communication Technology Department.md
-      - Curriculum Overview.md
       - School Distinctive Programmes/.keep
