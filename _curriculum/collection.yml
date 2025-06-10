@@ -2,8 +2,8 @@ collections:
   curriculum:
     output: true
     order:
-      - Full Subject Based Banding (FSBB).md
       - Curriculum Overview.md
+      - Full Subject Based Banding (FSBB).md
       - Applied Learning Programme (ALP).md
       - English Language & Literature Department.md
       - Mathematics.md
