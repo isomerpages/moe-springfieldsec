@@ -5,7 +5,7 @@ description: ""
 variant: markdown
 third_nav_title: Our School
 ---
-# **Vision, Mission,&nbsp;and Values**
+# **Vision, Mission,&nbsp;and Values & Motto**
 
 ###   Our Vision
 
@@ -19,3 +19,7 @@ Nurturing Springfielders to grow, care &amp; lead
 ### Our Values - STRIDE 
 
 Service, Tenacity, Respect, Integrity, Diligence, Empathy
+
+
+### Our Motto
+“Better Self for Better Tomorrow”
