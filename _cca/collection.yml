@@ -1,5 +1,5 @@
 collections:
-  cca-folder:
+  cca:
     output: true
     order:
       - Overview of CCA.md
