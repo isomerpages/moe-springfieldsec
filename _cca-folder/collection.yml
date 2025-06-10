@@ -2,6 +2,7 @@ collections:
   cca-folder:
     output: true
     order:
+      - EcoSTEM Club.md
       - Guzheng Ensemble.md
       - Drama (English).md
       - Dance.md
