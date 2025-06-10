@@ -2,8 +2,8 @@ collections:
   our-programmes-3:
     output: true
     order:
-      - Instructional Programmes/.keep
       - Our Programmes Overview.md
+      - Instructional Programmes/.keep
       - Curriculum Programmes/.keep
       - Curriculum Programmes/Curriculum Overview.md
       - Co Curriculum Programmes/.keep
