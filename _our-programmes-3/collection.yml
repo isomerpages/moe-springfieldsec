@@ -2,7 +2,6 @@ collections:
   our-programmes-3:
     output: true
     order:
-      - Learning for Life Programme (LLP).md
       - Our Programmes Overview.md
       - Curriculum Programmes/.keep
       - Curriculum Programmes/Curriculum Overview.md
