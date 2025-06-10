@@ -2,6 +2,7 @@ collections:
   cca-folder:
     output: true
     order:
+      - Taekwondo.md
       - Netball.md
       - NPCC.md
       - NCC (Land).md
