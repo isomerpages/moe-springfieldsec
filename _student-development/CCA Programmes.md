@@ -54,7 +54,7 @@ description: ""
 <div class="isomer-card-description">This is body text for your card. Describe your card.</div>
 <div class="isomer-card-link">Find out more!</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="/cca/physical-sports/ncc-land/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="NCC (Land)" src="/images/NCC2.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">NCC (Land)</div><div class="isomer-card-description">insert words here</div><div class="isomer-card-link">Find out more!</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="/cca/uniformed-groups/ncc-land/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="NCC (Land)" src="/images/NCC2.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">NCC (Land)</div><div class="isomer-card-description">insert words here</div><div class="isomer-card-link">Find out more!</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/cca/uniformed-groups/npcc-sea/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
