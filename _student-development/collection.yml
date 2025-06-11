@@ -2,8 +2,8 @@ collections:
   student-development:
     output: true
     order:
-      - Character Citizenship Edu/.keep
       - CCA Programmes.md
+      - Character Citizenship Edu/.keep
       - Student Leadership/.keep
       - Student Leadership/SPF Student Leadership Framework.md
       - Student Leadership/Student Council.md
