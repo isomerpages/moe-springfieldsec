@@ -2,8 +2,9 @@
 title: Learning for Life Programme (LLP)
 permalink: /programmes/learning-for-life-programme-llp/
 description: ""
+variant: markdown
 ---
-# **Learning for Life Programme (LLP)**
+# **Community Youth Leadership (LLP)**
 
 **LEARNING FOR LIFE PROGRAMME - COMMUNITY YOUTH LEADERSHIP**
 
