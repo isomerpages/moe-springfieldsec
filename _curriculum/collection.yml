@@ -2,6 +2,7 @@ collections:
   curriculum:
     output: true
     order:
+      - National Digital Literacy Programme (NDLP).md
       - Our Curriculum.md
       - Full Subject Based Banding (FSBB).md
       - STEM & Sustainability Programme (ALP).md
