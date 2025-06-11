@@ -2,12 +2,12 @@ collections:
   student-development:
     output: true
     order:
-      - Student Distinctive Programme Overview.md
       - CCA Programmes.md
+      - Student Distinctive Programme Overview.md
+      - Student Leadership/.keep
       - Student Leadership/SPF Student Leadership Framework.md
       - Student Leadership/Student Council.md
       - Student Leadership/CCA Leaders.md
-      - Student Leadership/.keep
       - Learning for Life Programme (LLP).md
       - Springfield Explorer (SIL).md
       - GEP (must be 4 Char).md
