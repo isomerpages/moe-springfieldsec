@@ -2,7 +2,7 @@ collections:
   curriculum:
     output: true
     order:
-      - Curriculum Overview.md
+      - Our Curriculum.md
       - Full Subject Based Banding (FSBB).md
       - STEM & Sustainability Programme (ALP).md
       - English Language & Literature Department.md
