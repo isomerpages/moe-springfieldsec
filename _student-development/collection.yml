@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - CCA Programmes.md
-      - Student Distinctive Programme Overview.md
       - Student Leadership/.keep
       - Student Leadership/SPF Student Leadership Framework.md
       - Student Leadership/Student Council.md
