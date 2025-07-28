@@ -182,7 +182,7 @@ variant: tiptap
 <p>STEM Instructor 4 (Laboratory)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Nurul Nisryna Binti Khairil Idham</p>
+<p>Ms Tay Zi Xian Hazel</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
