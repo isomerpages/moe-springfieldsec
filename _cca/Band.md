@@ -38,8 +38,8 @@ To inspire confident, compassionate musicians who lead with integrity and a love
 
 <b>Teachers in-charge: </b>
 <br>Ms Eudora Tan (IC)
-<br>Mdm Syarifah Hafizah Syed Haroon Alsree (2IC)
-<br>Mdm Nurisha Hamid (ST)
+<br>Mdm Nurinda Ahmad (2IC)
+<br>Ms Claudia Yap
 
 <b>Conductor:</b>
 <br>Ms Ruth Lin
