@@ -8,21 +8,9 @@ third_nav_title: Our School
 <h1><strong>News and Achievements</strong></h1>
 <h2>Year 2025</h2>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/minister-of-state-visits-school/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="alt" src="/images/minstate1.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Minister of State Visits Springfield Secondary School</div><div class="isomer-card-description">Springfield Secondary welcomed MOS Gan Siow Huang and Mdm Sarah Leong, showcasing student-led innovation, sustainability, and engaging classroom learning.</div><div class="isomer-card-link">READ MORE</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">This is a title for your card</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
-<div class="isomer-card-link">This is a link for your card</div>
-</div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
 </div>
 <h2>Year 2024</h2>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/champions-sustainability-at-tampines-4rs-exhibition/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="alt" src="/images/sus1.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title"> Champions Sustainability at Tampines 4Rs Exhibition</div><div class="isomer-card-description">Our dedicated Environment Ambassadors and teachers from the EcoSTEM Committee proudly represented Springfield Secondary School at the Tampines 4Rs Exhibition.</div><div class="isomer-card-link">READ MORE</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/champions-sustainability-at-tampines-4rs-exhibition/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="alt" src="/images/sus1.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Champions Sustainability at Tampines 4Rs Exhibition</div><div class="isomer-card-description">Our dedicated Environment Ambassadors and teachers from the EcoSTEM Committee proudly represented Springfield Secondary School at the Tampines 4Rs Exhibition.</div><div class="isomer-card-link">READ MORE</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/taekwondo-tkd-triumphs-again/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -54,17 +42,5 @@ job TKD team!🌟⭐️</div>
 <h2>Year 2023</h2>
 <p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/our-experience/project-eco/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/eco1.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Springfield Wins Gold at Project E.C.O.</div><div class="isomer-card-description">Congratulations to our Environment Ambassadors for winning the Gold Award at the NEA’s Project E.C.O.! Their efforts in improving our school’s recycling practices stood out among 58 teams. Well done, Springfield eco-warriors!</div><div class="isomer-card-link">READ MORE</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">This is a title for your card</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
-<div class="isomer-card-link">This is a link for your card</div>
-</div>
-</a>
 </div>
 <p></p>
