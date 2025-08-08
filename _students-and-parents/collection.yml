@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - For Parents/.keep
-      - For Parents/Quick Links.md
+      - For Parents/Quick Links for Parents.md
       - For Parents/School Suppliers.md
       - For Parents/Fees Information.md
       - For Parents/Financial Assistance.md
