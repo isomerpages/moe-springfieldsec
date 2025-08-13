@@ -153,7 +153,7 @@ third_nav_title: Our People
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p><strong>1D</strong>
 </p>
 </td>
@@ -171,6 +171,15 @@ third_nav_title: Our People
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ng_choon_hwee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_choon_hwee@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Siti Nuruljannah Bte Sukamar</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:siti_nuruljannah_bte_sukamar@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">siti_nuruljannah_bte_sukamar@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -227,7 +236,7 @@ third_nav_title: Our People
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p><strong>1G</strong>
 </p>
 </td>
@@ -246,6 +255,14 @@ third_nav_title: Our People
 <td rowspan="1" colspan="1">
 <p><a href="mailto:xiong_xiaodong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">xiong_xiaodong@moe.edu.sg</a>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Claudia Yap</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
