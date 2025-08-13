@@ -19,7 +19,7 @@ In Springfield, we nurture students to be lifelong learners and exemplary leader
 <br>•	passionate in one of the following areas: **Rockwall Climbing, Taekwondo, Floorball and STEM**
 <br>•good character and leadership skills / taken on leadership position in schools
 
-2. Applications for 2025 DSA-Secondary Exercise will open from **7th May 2025** and the selection process will be conducted at our school.
+2. Applications for 2025 DSA-Secondary Exercise is now closed.
 
 For more information on the programmes, activities and/or opportunities that students can expect to participate in for Floorball, Rockwall Climbing, Taekwondo and STEM, please refer to our School's CCA website.
 
