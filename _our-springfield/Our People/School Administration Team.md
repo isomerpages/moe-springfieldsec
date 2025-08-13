@@ -74,18 +74,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>ICT Manager</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Kolanjanati Shashi Kumar</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:kolanjanati_shashi_kumar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kolanjanati_shashi_kumar@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>ICT Associate</p>
 </td>
 <td rowspan="1" colspan="1">
