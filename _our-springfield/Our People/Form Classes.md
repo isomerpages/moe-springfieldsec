@@ -682,10 +682,10 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Sng Kai Ming, Joel</p>
+<p>Ms Nurinda Bte Ahmad</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:sng_kai_ming_joel@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sng_kai_ming_joel@moe.edu.sg</a>
+<p><a href="mailto:nurinda_ahmad@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sng_kai_ming_joel@moe.edu.sg</a>
 </p>
 </td>
 </tr>
