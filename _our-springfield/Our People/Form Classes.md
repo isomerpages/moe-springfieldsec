@@ -49,18 +49,6 @@ third_nav_title: Our People
 </p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Student Manager</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Yeo Yi Lin, Verine</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:yeo_yi_lin_verine@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yeo_yi_lin_verine@moe.edu.sg</a>
-</p>
-</td>
-</tr>
 </tbody>
 </table>
 <p></p>
