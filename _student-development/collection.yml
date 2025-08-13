@@ -2,6 +2,7 @@ collections:
   student-development:
     output: true
     order:
+      - CCE Programme.md
       - CCA Programmes.md
       - Character Citizenship Edu/.keep
       - Student Leadership/.keep
