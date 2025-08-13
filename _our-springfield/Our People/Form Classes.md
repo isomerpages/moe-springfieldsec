@@ -202,28 +202,27 @@ third_nav_title: Our People
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Siti Nuruljannah Bte Sukamar</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:siti_nuruljannah_bte_sukamar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">siti_nuruljannah_bte_sukamar@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Syarifah Hafizah Binte Syed</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:syarifah_hafizah_syed@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">syarifah_hafizah_syed@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mdm Ita Pranatih Binte Pratojanuri</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ita_pranatih_pratojanuri@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ita_pranatih_pratojanuri@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Rashidah A Rashid (ST)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Syarifah Hafizah Binte Syed</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:syarifah_hafizah_syed_haroon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">syarifah_hafizah_syed_haroon@moe.edu.sg</a>
 </p>
 </td>
 </tr>
