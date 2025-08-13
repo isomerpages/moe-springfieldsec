@@ -49,18 +49,6 @@ third_nav_title: Our People
 </p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Student Manager</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Yeo Yi Lin, Verine</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:yeo_yi_lin_verine@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yeo_yi_lin_verine@moe.edu.sg</a>
-</p>
-</td>
-</tr>
 </tbody>
 </table>
 <p></p>
@@ -153,7 +141,7 @@ third_nav_title: Our People
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p><strong>1D</strong>
 </p>
 </td>
@@ -171,6 +159,15 @@ third_nav_title: Our People
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ng_choon_hwee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_choon_hwee@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Siti Nuruljannah Bte Sukamar</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:siti_nuruljannah_bte_sukamar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">siti_nuruljannah_bte_sukamar@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -202,24 +199,6 @@ third_nav_title: Our People
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Siti Nuruljannah Bte Sukamar</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:siti_nuruljannah_bte_sukamar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">siti_nuruljannah_bte_sukamar@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Syarifah Hafizah Binte Syed</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:syarifah_hafizah_syed@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">syarifah_hafizah_syed@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mdm Ita Pranatih Binte Pratojanuri</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -228,7 +207,24 @@ third_nav_title: Our People
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="1" colspan="1">
+<p>Ms Rashidah A Rashid (ST)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Syarifah Hafizah Binte Syed</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:syarifah_hafizah_syed_haroon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">syarifah_hafizah_syed_haroon@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3" colspan="1">
 <p><strong>1G</strong>
 </p>
 </td>
@@ -247,6 +243,14 @@ third_nav_title: Our People
 <td rowspan="1" colspan="1">
 <p><a href="mailto:xiong_xiaodong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">xiong_xiaodong@moe.edu.sg</a>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Claudia Yap</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
@@ -296,7 +300,7 @@ third_nav_title: Our People
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p><strong>2B</strong>
 </p>
 </td>
@@ -314,6 +318,15 @@ third_nav_title: Our People
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lee_si_min_celynn@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_si_min_celynn@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Michelle Elizabeth Rajlal</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:michelle_elizabeth_rajlal@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">michelle_elizabeth_rajlal@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -386,7 +399,7 @@ third_nav_title: Our People
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p><strong>3A</strong>
 </p>
 </td>
@@ -405,6 +418,14 @@ third_nav_title: Our People
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ahmad_zaini_yusof@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ahmad_zaini_yusof@moe.edu.sg</a>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Norine Liew</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -457,6 +478,18 @@ third_nav_title: Our People
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:nurisha_hamid@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nurisha_hamid@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Ves Chee Kim Lee (ST)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chee_kim_lee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chee_kim_lee@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -637,10 +670,10 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Sng Kai Ming, Joel</p>
+<p>Ms Nurinda Bte Ahmad</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:sng_kai_ming_joel@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sng_kai_ming_joel@moe.edu.sg</a>
+<p><a href="mailto:nurinda_ahmad@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nurinda_ahmad@moe.edu.sg</a>
 </p>
 </td>
 </tr>
