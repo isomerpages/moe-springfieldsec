@@ -6,7 +6,7 @@ description: ""
 ---
 <h1>CCA</h1>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/cca/physical-sports/floorball-boys/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/floorballkai.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Floorball (Boys)</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">Find out more!</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/cca/physical-sports/floorball-boys/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/floorballkai.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Floorball (Boys)</div><div class="isomer-card-link">Find out more!</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/cca/physical-sports/floorball-girls/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -15,10 +15,9 @@ description: ""
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Floorball (Girls)</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
 <div class="isomer-card-link">Find out more!</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="/cca/physical-sports/football/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/soccer1.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Football</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="/cca/physical-sports/football/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/soccer1.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Football</div><div class="isomer-card-link">Find out more!</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/cca/physical-sports/netball/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -27,10 +26,9 @@ description: ""
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Netball</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
 <div class="isomer-card-link">Find out more!</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="/cca/physical-sports/outdoor-pursuits-club/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Outdoor Pursuits Club" src="/images/OPC_reflection.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Outdoor Pursuits Club</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">Find out more!</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="/cca/physical-sports/outdoor-pursuits-club/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Outdoor Pursuits Club" src="/images/OPC_reflection.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Outdoor Pursuits Club</div><div class="isomer-card-link">Find out more!</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/cca/physical-sports/taekwondo/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -39,10 +37,9 @@ description: ""
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Taekwondo</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
-<div class="isomer-card-link">This is a link for your card</div>
+<div class="isomer-card-link">Find out more!</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="/cca/uniformed-groups/boys-brigade/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="alt" src="/images/boybrigade3.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Boys' Brigade</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">Find out more!</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="/cca/uniformed-groups/boys-brigade/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="alt" src="/images/boybrigade3.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Boys' Brigade</div><div class="isomer-card-link">Find out more!</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/cca/uniformed-groups/girls-brigade/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -51,10 +48,9 @@ description: ""
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Girls' Brigade</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
 <div class="isomer-card-link">Find out more!</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="/cca/uniformed-groups/ncc-land/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="NCC (Land)" src="/images/NCC2.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">NCC (Land)</div><div class="isomer-card-description">insert words here</div><div class="isomer-card-link">Find out more!</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="/cca/uniformed-groups/ncc-land/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="NCC (Land)" src="/images/NCC2.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">NCC (Land)</div><div class="isomer-card-link">Find out more!</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/cca/uniformed-groups/npcc-sea/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -63,10 +59,9 @@ description: ""
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">NPCC</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
 <div class="isomer-card-link">Find out more!</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="/cca/visual-n-performing-arts/band/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="alt" src="/images/band1.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Band</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">Find out more!</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="/cca/visual-n-performing-arts/band/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="alt" src="/images/band1.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Band</div><div class="isomer-card-link">Find out more!</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/cca/visual-n-performing-arts/dance/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -75,10 +70,9 @@ description: ""
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Dance</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
 <div class="isomer-card-link">Find out more!</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="/cca/visual-n-performing-arts/drama-english/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Drama" src="/images/Drama 3.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Drama (English)</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">Find out more!</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="/cca/visual-n-performing-arts/drama-english/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Drama" src="/images/Drama 3.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Drama (English)</div><div class="isomer-card-link">Find out more!</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/cca/visual-n-performing-arts/guzheng-ensemble/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -87,10 +81,9 @@ description: ""
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Guzheng Ensemble</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
 <div class="isomer-card-link">Find out more!</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="/cca/clubs-n-societies/ecostem-club/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="EcoStem" src="/images/eco2.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">EcoSTEM Club</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">Find out more!</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="/cca/clubs-n-societies/ecostem-club/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="EcoStem" src="/images/eco2.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">EcoSTEM Club</div><div class="isomer-card-link">Find out more!</div></div></a>
 </div>
 <h3>Aims of our CCA Programme</h3>
 <p></p>
