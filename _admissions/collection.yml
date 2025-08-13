@@ -1,0 +1,5 @@
+collections:
+  admissions:
+    output: true
+    order:
+      - DSA Exercise 2025.md

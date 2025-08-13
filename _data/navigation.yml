@@ -2,11 +2,13 @@ logo: /images/sfsslogo2.png
 links:
   - title: Our Springfield
     collection: our-springfield
-  - title: Our Programmes
-    collection: our-programmes
-  - title: Our Experience
-    collection: our-experience
-  - title: Students
-    collection: students
-  - title: Our Contacts
-    collection: our-contacts
+  - title: Students and Parents
+    collection: students-and-parents
+  - title: Curriculum
+    collection: curriculum
+  - title: Student Development
+    collection: student-development
+  - title: Admissions
+    collection: admissions
+  - title: Quick Links
+    collection: quick-links

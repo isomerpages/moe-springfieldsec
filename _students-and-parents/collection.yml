@@ -1,0 +1,15 @@
+collections:
+  students-and-parents:
+    output: true
+    order:
+      - For Parents/.keep
+      - For Parents/School Suppliers.md
+      - For Parents/Fees Information.md
+      - For Parents/Financial Assistance.md
+      - For Parents/Straits Times Pocket Money Fund 2025.md
+      - For Parents/Group Personal Accident Insurance Plan for Students.md
+      - Home School Partnership/.keep
+      - Home School Partnership/Springfield Parents Network (SPN).md
+      - Home School Partnership/Termly Letter.md
+      - Springfield Student Portal.md
+      - School Rules.md

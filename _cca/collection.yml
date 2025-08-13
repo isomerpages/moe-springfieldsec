@@ -1,0 +1,20 @@
+collections:
+  cca:
+    output: true
+    order:
+      - Overview of CCA.md
+      - Floorball (Boys).md
+      - Floorball (Girls).md
+      - Football.md
+      - Netball.md
+      - Outdoor Pursuits Club.md
+      - Taekwondo.md
+      - Boys' Brigade.md
+      - Girls' Brigade.md
+      - NCC (Land).md
+      - NPCC.md
+      - Band.md
+      - Dance.md
+      - Drama (English).md
+      - Guzheng Ensemble.md
+      - EcoSTEM Club.md
