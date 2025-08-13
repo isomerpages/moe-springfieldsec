@@ -411,7 +411,7 @@ third_nav_title: Our People
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p><strong>3A</strong>
 </p>
 </td>
@@ -430,6 +430,14 @@ third_nav_title: Our People
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ahmad_zaini_yusof@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ahmad_zaini_yusof@moe.edu.sg</a>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Norine Liew</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -482,6 +490,18 @@ third_nav_title: Our People
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:nurisha_hamid@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nurisha_hamid@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Ves Chee Kim Lee (ST)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chee_kim_lee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chee_kim_lee@moe.edu.sg</a>
 </p>
 </td>
 </tr>
