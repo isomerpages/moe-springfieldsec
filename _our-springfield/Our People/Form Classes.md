@@ -179,7 +179,7 @@ third_nav_title: Our People
 <p>Mdm Siti Nuruljannah Bte Sukamar</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:siti_nuruljannah_bte_sukamar@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">siti_nuruljannah_bte_sukamar@schools.gov.sg</a>
+<p><a href="mailto:siti_nuruljannah_bte_sukamar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">siti_nuruljannah_bte_sukamar@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -312,7 +312,7 @@ third_nav_title: Our People
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p><strong>2B</strong>
 </p>
 </td>
@@ -330,6 +330,15 @@ third_nav_title: Our People
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lee_si_min_celynn@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_si_min_celynn@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Michelle Elizabeth Rajlal</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:michelle_elizabeth_rajlal@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">michelle_elizabeth_rajlal@moe.edu.sg</a>
 </p>
 </td>
 </tr>
