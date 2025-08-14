@@ -2,7 +2,7 @@ collections:
   student-development:
     output: true
     order:
-      - Our Co Curriculum.md
+      - Co Curriculum.md
       - CCA Programmes.md
       - CCE Programme/.keep
       - CCE Programme/CCE Programme Overview.md
