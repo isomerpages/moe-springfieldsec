@@ -5,91 +5,159 @@ description: ""
 third_nav_title: Home School Partnership
 variant: tiptap
 ---
-# **Springfield Parents' Network (SPN)**
-The Springfield Parents Network (SPN) is a dedicated community of parents who believe that every child thrives when families and schools work hand in hand. Guided by the core pillars of Collaboration, Support, and Appreciation, the SPN brings parents together to forge meaningful partnerships with the school, walk alongside one another in the parenting journey, and show gratitude to the teachers and staff who nurture our children daily. Together, we build a caring community where every Springfield student can flourish.
-
-### Objectives of the SPN
-![](/images/SPNN.png)
-
-The Springfield Parents Network (SPN) is led by a dedicated Executive Committee made up of passionate parent volunteers who plan, organise and guide the network’s activities throughout the year. Their commitment ensures that every parent’s voice is heard and that meaningful programmes are brought to life for the benefit of all families.
-
-SPN Executive Committee Members:
-
-
-
-
-| Appointment | Name
-| -------- | -------- 
-| Chairperson      | Mdm Siti Aishah Abdullah
-| Vice Chairperson  | Ms June Lim Xui Ting
-| Secretary | Mdm Sitti Haifah 
-| Treasureer     | Mdm Fathima Nazila     
-
-
-
-### Join the Springfield Parents Network
-
-All Springfield parents are warmly welcome to be part of our parent community. Whether you’d like to volunteer, attend events, or simply connect with other parents, there’s a place for you in the SPN family.
-
-👉 [Click here to sign up]  (https://go.gov.sg/sfss-spn-2025)
-
-
-
-
-### Our Programmes Through the Years
-
-Every year, the Springfield Parents Network (SPN) brings parents and families together through a variety of activities and initiatives. From parent education talks and practical workshops to family bonding sessions and heartfelt celebrations, each event is thoughtfully planned to build stronger home-school partnerships, equip parents with valuable skills, and create shared memories within our Springfield family.
-Below is a glimpse of the programmes we have organised over the recent few years:
-
-#### 2025
-##### Parent Education Talks
-
-![](/images/Exco%20members.png)
-
-
-For Parents whom are keen to join the Springfield Parents' Network, please do not hesitate to contact Ms Aishah at mdmaishah@gmail.com .
-
-
-
-### 2022
-
-![](/images/spnpic1.png)
-
-![](/images/spnpic2.png)
-
-![](/images/spnpic3.png)
-
-![](/images/spnpic4.png)
-
-![](/images/spnpic5.png)
-
-![](/images/spnpic6.png)
-
-
-### 2021
-
-![](/images/spnpic7.png)
-
-![](/images/spnpic8.png)
-
-### 2020
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TwqPN7JJM3w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-
-
-### 2019
-
-![](/images/spnpic9.png)
-
-![](/images/spnpic10.png)
-
-![](/images/spnpic11.png)
-
-
-### 2018
-
-![](/images/spnpic12.png)
-
-![](/images/spnpic13.png)
-
-![](/images/spnpic14.png)
+<h1><strong>Springfield Parents' Network (SPN)</strong></h1>
+<p>The Springfield Parents Network (SPN) is a dedicated community of parents
+who believe that every child thrives when families and schools work hand
+in hand. Guided by the core pillars of Collaboration, Support, and Appreciation,
+the SPN brings parents together to forge meaningful partnerships with the
+school, walk alongside one another in the parenting journey, and show gratitude
+to the teachers and staff who nurture our children daily. Together, we
+build a caring community where every Springfield student can flourish.</p>
+<h3>Objectives of the SPN</h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SPNN.png">
+</div>
+<p>The Springfield Parents Network (SPN) is led by a dedicated Executive
+Committee made up of passionate parent volunteers who plan, organise and
+guide the network’s activities throughout the year. Their commitment ensures
+that every parent’s voice is heard and that meaningful programmes are brought
+to life for the benefit of all families.</p>
+<p>SPN Executive Committee Members:</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Appointment</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Name</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chairperson</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Siti Aishah Abdullah</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Vice Chairperson</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms June Lim Xui Ting</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Secretary</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Sitti Haifah</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Treasureer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Fathima Nazila</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h3>Join the Springfield Parents Network</h3>
+<p>All Springfield parents are warmly welcome to be part of our parent community.
+Whether you’d like to volunteer, attend events, or simply connect with
+other parents, there’s a place for you in the SPN family.</p>
+<p>👉 <strong>[Click here to sign up] </strong>(<a href="https://go.gov.sg/sfss-spn-2025" rel="noopener nofollow" target="_blank">https://go.gov.sg/sfss-spn-2025</a>)</p>
+<h3>Our Programmes Through the Years</h3>
+<p>Every year, the Springfield Parents Network (SPN) brings parents and families
+together through a variety of activities and initiatives. From parent education
+talks and practical workshops to family bonding sessions and heartfelt
+celebrations, each event is thoughtfully planned to build stronger home-school
+partnerships, equip parents with valuable skills, and create shared memories
+within our Springfield family. Below is a glimpse of the programmes we
+have organised over the recent few years:</p>
+<h4>2025</h4>
+<h5>Parent Education Talks</h5>
+<p><em>Insightful talks by Care Corner to equip parents with practical tips and fresh perspectives for everyday parenting.</em>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/spn1.png">
+</div>
+<p><strong>Parent-Child Bonding Sessions<br></strong><em>Fun and meaningful activities for parents and children to strengthen family ties and make memories together.</em>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/spn2.png">
+</div>
+<p><strong>Coffee Talks for Parents with SEN<br></strong><em>A safe, supportive space for parents of students with special educational needs to connect, share, and encourage one another.</em>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/spn3.png">
+</div>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>For Parents whom are keen to join the Springfield Parents' Network, please
+do not hesitate to contact Ms Aishah at mdmaishah@gmail.com .</p>
+<h3>2022</h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/spnpic1.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/spnpic2.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/spnpic3.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/spnpic4.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/spnpic5.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/spnpic6.png">
+</div>
+<h3>2021</h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/spnpic7.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/spnpic8.png">
+</div>
+<h3>2020</h3>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/TwqPN7JJM3w"></iframe>
+</div>
+<h3>2019</h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/spnpic9.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/spnpic10.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/spnpic11.png">
+</div>
+<h3>2018</h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/spnpic12.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/spnpic13.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/spnpic14.png">
+</div>
+<p></p>
