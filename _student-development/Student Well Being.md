@@ -144,4 +144,41 @@ early and more effectively. The support can take various forms, such as
 small group sessions, individual counselling, targeted academic coaching,
 or social-emotional learning programmes.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/addsupport1.png">
+</div>
+<h3>The Support Tree Framework: Nurturing Every Student to Thrive</h3>
+<p>Just like a tree needs roots, sunlight, water, and care to grow strong
+and tall, we believe students need intentional and diverse support structures
+to flourish in their educational journey. The Support Tree Framework represents
+how various layers of support in Springfield are interconnected and essential
+for holistic student development.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/addsupport2.png">
+</div>
+<p>At the root of the Support Tree is the belief that every student is unique
+and may require different kinds of help at different times. This foundational
+mindset anchors the school’s support strategies and promotes equity, empathy,
+and inclusiveness in education.&nbsp;</p>
+<p>The school provides tailored support in the following key domains (branches):&nbsp;</p>
+<h4><strong>Academic Support&nbsp;</strong></h4>
+<ul>
+<li>
+<p>In-class Support - Equitable access to learning through accommodation
+and differentiated instruction</p>
+</li>
+<li>
+<p>Pull-out Interventions – Enhancing literacy, numeracy, or executive functioning
+skills</p>
+</li>
+<li>
+<p>Learning Support Programmes - Bridging learning gaps and providing out-of-school
+experiential learning</p>
+</li>
+</ul>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/addsupport3.png">
+</div>
 <p></p>
