@@ -8,7 +8,7 @@ variant: markdown
 # **Springfield Parents' Network (SPN)**
 The Springfield Parents Network (SPN) is a dedicated community of parents who believe that every child thrives when families and schools work hand in hand. Guided by the core pillars of Collaboration, Support, and Appreciation, the SPN brings parents together to forge meaningful partnerships with the school, walk alongside one another in the parenting journey, and show gratitude to the teachers and staff who nurture our children daily. Together, we build a caring community where every Springfield student can flourish.
 
-# Objectives of the SPN
+### Objectives of the SPN
 ![](/images/SPNN.png)
 
 **Activities/Support Provided**
