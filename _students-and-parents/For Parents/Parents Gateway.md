@@ -7,4 +7,4 @@ third_nav_title: For Parents
 ---
 # **Parents Gateway**
 
-Instruction to download app
+Instructions to download Parents Gateway App
