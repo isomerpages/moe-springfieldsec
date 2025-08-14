@@ -2,8 +2,6 @@ collections:
   student-development:
     output: true
     order:
-      - School Distinctive Programme/Global Education Programme.md
-      - School Distinctive Programme/.keep
       - Our Co Curriculum.md
       - CCA Programmes.md
       - CCE Programme/.keep
@@ -11,6 +9,8 @@ collections:
       - CCE Programme/Education & Career Guidance Programme.md
       - CCE Programme/Sexuality Education Programme.md
       - Student Well Being.md
+      - School Distinctive Programme/.keep
+      - School Distinctive Programme/Global Education Programme.md
       - Character Citizenship Edu/.keep
       - Student Leadership/.keep
       - Student Leadership/SPF Student Leadership Framework.md
