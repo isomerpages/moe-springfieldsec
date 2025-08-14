@@ -181,4 +181,80 @@ experiential learning</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/addsupport3.png">
 </div>
+<h4><strong>Social-Emotional Support&nbsp;</strong></h4>
+<ul>
+<li>
+<p>Counselling Services – Nurturing mental well-being&nbsp;</p>
+</li>
+<li>
+<p>Mentoring Programmes – Building trust and guidance&nbsp;</p>
+</li>
+<li>
+<p>Check-Ins with Adults – Creating safe, supportive connections</p>
+</li>
+</ul>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/addsupport4.png">
+</div>
+<h4><strong>Behavioural Support&nbsp;</strong></h4>
+<ul>
+<li>
+<p>Intervention Plans – Intentional, planned support systems</p>
+</li>
+<li>
+<p>Teacher-Student Conferencing – Personalized guidance moments&nbsp;</p>
+</li>
+<li>
+<p>Positive Reinforcement – Encouraging good choices&nbsp;</p>
+</li>
+<li>
+<p>At-Risk Student Programmes - Promote positive behaviours and mindsets</p>
+</li>
+</ul>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/addsupport5.png">
+</div>
+<p>Similar to how the tree’s canopy is far reaching and grows to expand the
+shelter provided, the school also collaborates beyond its walls to provide
+support for all learners.&nbsp;</p>
+<h4><strong>External Collaborations&nbsp;</strong></h4>
+<ul>
+<li>
+<p>Family Partnerships – Involving parents in the students’ development&nbsp;</p>
+</li>
+<li>
+<p>Community Partners – Working with partners like Tasek Sailors, MENDAKI,
+SAMH, AWWA, Care Corner and others</p>
+</li>
+<li>
+<p>Wider Support Networks – Addressing ecological and socio-economic challenges
+by engaging organisations such as Family Service Centres and ComLink+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/addsupport6.png">
+</div>
+</li>
+</ul>
+<p>Just like sunlight sustains a tree, constant review and adaptation fuel
+the success of support provisions. We regularly reflect on the effectiveness
+of these supports and adjust them based on the evolving needs of our students.</p>
+<p>When all parts of the Support Tree Framework are nurtured, students are
+empowered not just to survive, but to grow, thrive, and blossom—academically,
+emotionally, and socially.</p>
+<h3>The Student Support Team</h3>
+<p>The Springfield Student Support Team plays a vital role in nurturing the
+holistic development and well-being of our students. Comprising dedicated
+professionals such as School Counsellors (SCs), Special Educational Needs
+Officers (SENOs), Student Welfare Officers (SWOs), Teacher Counsellors
+(TCs) and an Education Career Guidance Counsellor (ECGC), the team works
+collaboratively to provide timely and targeted support. Through close collaboration
+with teachers, parents, and external partners, the Student Support Team
+ensures that every student receives the necessary guidance and support
+to progress confidently in their educational journey.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/supportteam.png">
+</div>
 <p></p>
