@@ -2,10 +2,10 @@ collections:
   student-development:
     output: true
     order:
-      - Student Well Being.md
       - Our Co Curriculum.md
       - CCA Programmes.md
       - CCE Programme.md
+      - Student Well Being.md
       - Character Citizenship Edu/.keep
       - Student Leadership/.keep
       - Student Leadership/SPF Student Leadership Framework.md
