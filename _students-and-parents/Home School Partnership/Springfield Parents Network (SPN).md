@@ -117,7 +117,7 @@ have organised over the recent few years:</p>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/spn5.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/spn5.png">
 </div>
 <p><strong>Supporting School Events</strong>
 </p>
@@ -125,16 +125,27 @@ have organised over the recent few years:</p>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/spn6.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/spn6.png">
 </div>
 <p></p>
 <p><strong>Five Cs of Parenting Sharing&nbsp;</strong>
 </p>
 <p><em>5 Cs of parenting sharing focuses on guiding parents to nurture their children through Care, Communication, Consistency, Character-building, and Connection. It provides practical strategies to strengthen family relationships and support children’s holistic development.</em>
 </p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/spn7.png">
+</div>
 <p>
-<br>
+<br><strong>Supporting Staff and Graduating Students&nbsp;&nbsp;</strong>
 </p>
+<p><em>Appreciation to staff during Teachers’ Day through heartfelt gestures, and extending well wishes to graduating classes by coordinating letters of encouragement from parents as they embark on their next journey.</em>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/spn8.png">
+</div>
 <p>
 <br>
 </p>
