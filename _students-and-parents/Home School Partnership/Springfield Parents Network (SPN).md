@@ -84,7 +84,7 @@ celebrations, each event is thoughtfully planned to build stronger home-school
 partnerships, equip parents with valuable skills, and create shared memories
 within our Springfield family. Below is a glimpse of the programmes we
 have organised over the recent few years:</p>
-<h3>2025</h3>
+<h3><strong>2025</strong></h3>
 <p><strong>Parent-Child Bonding Sessions</strong>
 </p>
 <p><em>Insightful talks by Care Corner to equip parents with practical tips and fresh perspectives for everyday parenting.</em>
@@ -110,7 +110,7 @@ have organised over the recent few years:</p>
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/spn4.png">
 </div>
 <p></p>
-<h3>2024</h3>
+<h3><strong>2024</strong></h3>
 <p><strong>Parent-Child Bonding Sessions</strong>
 </p>
 <p><em>Strengthen family bonds, foster positive communication, and create shared experiences that build trust and understanding. They provide opportunities for parents and children to learn, play, and grow together in a supportive environment.</em>
@@ -146,7 +146,33 @@ have organised over the recent few years:</p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/spn8.png">
 </div>
+<p></p>
+<h3><strong>2023</strong></h3>
+<p><strong>Celebrating CNY with Our Support Staff</strong>
+</p>
+<p><em>Celebrated Chinese New Year with our dedicated support staff by presenting festive hampers, expressing gratitude for their hard work and contributions to the school community.</em>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/spn9.png">
+</div>
+<p></p>
+<p><strong>Celebrating Racial Harmony with Students</strong>
+</p>
+<p><em>Vibrant booths featuring old-school games and traditional snacks, giving students a fun and engaging way to experience and appreciate Singapore’s rich cultural heritage.</em>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/spn10.png">
+</div>
 <p>
+<br><strong>Sports Day&nbsp;</strong>
+</p>
+<p><em>Actively supported the school’s Sports Day by assisting with logistics, cheering on participants, and setting up refreshment booths.</em>
+</p>
+<p>
+<br>
+<br>
 <br>
 </p>
 <p>For Parents whom are keen to join the Springfield Parents' Network, please
