@@ -3,6 +3,7 @@ title: Home School Partnership
 permalink: /our-springfield/permalink/
 variant: tiptap
 description: ""
+third_nav_title: Home School Partnership
 ---
 <h1><strong>Home School Partnership</strong></h1>
 <p>Dear Parents / Guardians,</p>
