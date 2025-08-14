@@ -2,10 +2,10 @@ collections:
   student-development:
     output: true
     order:
-      - CCE Programme/Education & Career Guidance Programme.md
-      - CCE Programme/.keep
       - Our Co Curriculum.md
       - CCA Programmes.md
+      - CCE Programme/.keep
+      - CCE Programme/Education & Career Guidance Programme.md
       - CCE Programmes.md
       - Student Well Being.md
       - Character Citizenship Edu/.keep
