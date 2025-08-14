@@ -2,6 +2,7 @@
 title: Global Education Programme
 permalink: /programmes/global-education-programme/
 description: ""
+third_nav_title: School Distinctive Programme
 ---
 # **Global Education Programme**
 

@@ -1,7 +1,9 @@
 ---
-title: CCE Programme
-permalink: /programmes/CCE-Programme/
+title: CCE Programme Overview
+permalink: /programmes/cce-programme/
 description: ""
+variant: tiptap
+third_nav_title: CCE Programme
 ---
 # **CCE Programme**
 

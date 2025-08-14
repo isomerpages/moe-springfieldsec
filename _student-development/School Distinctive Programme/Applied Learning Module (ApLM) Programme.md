@@ -3,6 +3,7 @@ title: Applied Learning Module (ApLM) Programme
 permalink: /applied-learning-moudles-aplm/
 variant: markdown
 description: ""
+third_nav_title: School Distinctive Programme
 ---
 # **Applied Learning Module (ApLM) Programme**
 

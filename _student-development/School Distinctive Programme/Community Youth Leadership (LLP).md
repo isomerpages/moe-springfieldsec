@@ -3,6 +3,7 @@ title: Community Youth Leadership (LLP)
 permalink: /programmes/learning-for-life-programme-llp/
 description: ""
 variant: markdown
+third_nav_title: School Distinctive Programme
 ---
 # **Community Youth Leadership (LLP)**
 

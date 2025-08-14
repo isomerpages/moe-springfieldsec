@@ -3,6 +3,7 @@ title: Sexuality Education Programme
 permalink: /programmes/cce-programme/sexuality-education-programme/
 description: ""
 variant: markdown
+third_nav_title: CCE Programme
 ---
 # **MOE SEXUALITY EDUCATION IN SCHOOLS**
 

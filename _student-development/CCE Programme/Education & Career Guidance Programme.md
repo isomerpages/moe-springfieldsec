@@ -3,6 +3,7 @@ title: Education & Career Guidance Programme
 permalink: /programmes/cce-programme/educational-n-career-guidance-programme/
 description: ""
 variant: markdown
+third_nav_title: CCE Programme
 ---
 # **Eduational &amp; Career Guidance Programme**
 
