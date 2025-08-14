@@ -85,7 +85,7 @@ partnerships, equip parents with valuable skills, and create shared memories
 within our Springfield family. Below is a glimpse of the programmes we
 have organised over the recent few years:</p>
 <h3><strong>2025</strong></h3>
-<p><strong>Parent-Child Bonding Sessions</strong>
+<p><strong>Parent Education Talks</strong>
 </p>
 <p><em>Insightful talks by Care Corner to equip parents with practical tips and fresh perspectives for everyday parenting.</em>
 </p>
@@ -170,61 +170,20 @@ have organised over the recent few years:</p>
 </p>
 <p><em>Actively supported the school’s Sports Day by assisting with logistics, cheering on participants, and setting up refreshment booths.</em>
 </p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/spn11.png">
+</div>
+<p>
+<br><strong>Parenting Wellness Workshop</strong>
+</p>
+<p><em>Parenting Wellness with TWIS is a collaborative programme aimed at equipping parents with practical strategies to support their children’s well-being and development.</em>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/spn12.png">
+</div>
 <p>
 <br>
-<br>
-<br>
 </p>
-<p>For Parents whom are keen to join the Springfield Parents' Network, please
-do not hesitate to contact Ms Aishah at mdmaishah@gmail.com .</p>
-<h3>2022</h3>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/spnpic1.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/spnpic2.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/spnpic3.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/spnpic4.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/spnpic5.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/spnpic6.png">
-</div>
-<h3>2021</h3>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/spnpic7.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/spnpic8.png">
-</div>
-<h3>2020</h3>
-<div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/TwqPN7JJM3w"></iframe>
-</div>
-<h3>2019</h3>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/spnpic9.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/spnpic10.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/spnpic11.png">
-</div>
-<h3>2018</h3>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/spnpic12.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/spnpic13.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/spnpic14.png">
-</div>
 <p></p>
