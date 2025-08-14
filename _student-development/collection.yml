@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - CCA Programmes.md
+      - CCE Programme.md
       - Character Citizenship Edu/.keep
       - Student Leadership/.keep
       - Student Leadership/SPF Student Leadership Framework.md
