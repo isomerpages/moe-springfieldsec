@@ -2,6 +2,7 @@ collections:
   student-development:
     output: true
     order:
+      - School Distinctive Programme/.keep
       - Our Co Curriculum.md
       - CCA Programmes.md
       - CCE Programme/.keep
