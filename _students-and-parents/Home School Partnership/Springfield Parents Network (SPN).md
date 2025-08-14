@@ -11,13 +11,37 @@ The Springfield Parents Network (SPN) is a dedicated community of parents who be
 ### Objectives of the SPN
 ![](/images/SPNN.png)
 
-**Activities/Support Provided**
+The Springfield Parents Network (SPN) is led by a dedicated Executive Committee made up of passionate parent volunteers who plan, organise and guide the network’s activities throughout the year. Their commitment ensures that every parent’s voice is heard and that meaningful programmes are brought to life for the benefit of all families.
 
-The SPN plans and conducts Family Days, Parent-Child Bonding activities, Termly Meetings and Sharing Sessions, and participate in school based activities to encourage strong bonding between parents, pupils and staff of the school.
+SPN Executive Committee Members:
 
-With the loosening of safe management measures, SPN able to conduct meetings with the School Leaders and Teachers face-to-face to ensure communication. SPN members also met in small groups to plan out several activities such the Parents’ Day, Teacher’s Day and Graduation Day. 
 
-### Members
+
+
+| Appointment | Name
+| -------- | -------- 
+| Chairperson      | Mdm Siti Aishah Abdullah
+| Vice Chairperson  | Ms June Lim Xui Ting
+| Secretary | Mdm Sitti Haifah 
+| Treasureer     | Mdm Fathima Nazila     
+
+
+
+### Join the Springfield Parents Network
+
+All Springfield parents are warmly welcome to be part of our parent community. Whether you’d like to volunteer, attend events, or simply connect with other parents, there’s a place for you in the SPN family.
+
+👉 [Click here to sign up]  (https://go.gov.sg/sfss-spn-2025)
+
+
+
+
+### Our Programmes Through the Years
+
+Every year, the Springfield Parents Network (SPN) brings parents and families together through a variety of activities and initiatives. From parent education talks and practical workshops to family bonding sessions and heartfelt celebrations, each event is thoughtfully planned to build stronger home-school partnerships, equip parents with valuable skills, and create shared memories within our Springfield family.
+Below is a glimpse of the programmes we have organised over the recent few years:
+
+
 
 ![](/images/Exco%20members.png)
 
