@@ -41,7 +41,8 @@ All Springfield parents are warmly welcome to be part of our parent community. W
 Every year, the Springfield Parents Network (SPN) brings parents and families together through a variety of activities and initiatives. From parent education talks and practical workshops to family bonding sessions and heartfelt celebrations, each event is thoughtfully planned to build stronger home-school partnerships, equip parents with valuable skills, and create shared memories within our Springfield family.
 Below is a glimpse of the programmes we have organised over the recent few years:
 
-
+#### 2025
+##### Parent Education Talks
 
 ![](/images/Exco%20members.png)
 
