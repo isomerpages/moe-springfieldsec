@@ -13,12 +13,6 @@ competencies and life skills to thrive in school and beyond.</p>
 <p>Our broad-based programmes support the holistic development of all Springfielders,
 while additional higher-tiered support is available for students with specialised
 needs, including those related to mental health and learning differences.&nbsp;</p>
-<ul>
-<li>
-<p>Find out more about our well-being offerings for students with more specialised
-needs <u>HERE</u>.&nbsp;</p>
-</li>
-</ul>
 <h3>Signature Programmes that Anchor Holistic Development</h3>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -301,7 +295,7 @@ anonymous webCHAT sessions.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://www.chat.mentalhealth.sg/" rel="noopener noreferrer nofollow" target="_blank">Mindline.sg</a></strong>
+<p><strong>Midline.sg</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
