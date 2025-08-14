@@ -49,11 +49,11 @@ branches:
 <p><strong><u>Pos Ed’s Philosophy for a Flourishing Springfielder</u></strong>
 </p>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Curriculum Programmes</div><div class="isomer-card-description">Where academic excellence is pursued with meaning and reflection. Students engage in deep learning through engaging pedagogies, critical thinking, and the intentional infusion of 21st Century Competencies.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.springfieldsec.moe.edu.sg/about-us/our-organisation/english-language-n-literature-department/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/IW8.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Curriculum Programmes</div><div class="isomer-card-description">Where academic excellence is pursued with meaning and reflection. Students engage in deep learning through engaging pedagogies, critical thinking, and the intentional infusion of 21st Century Competencies.</div><div class="isomer-card-link">Our Curriculum Programmes</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/cca-overview/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/DSAboys1.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -62,9 +62,8 @@ branches:
 Character and Citizenship Education (CCE) programme, student development
 experiences and more. Every experience is an opportunity to cultivate character,
 confidence, and connection.</div>
-<div class="isomer-card-link">This is a link for your card</div>
+<div class="isomer-card-link">Our Curriculum Programmes</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://springfieldsec.moe.edu.sg/student-distinctive-programme-overview/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">School Distinctive Programme</div><div class="isomer-card-description">Our Health &amp; Food Science ALP, Community Youth Leadership LLP, Springfield Explorer, and Global Education Programme offer authentic, interdisciplinary, future-ready learning experiences that prepare Springfielders for the world ahead.
-</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://springfieldsec.moe.edu.sg/student-distinctive-programme-overview/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Sci2.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">School Distinctive Programme</div><div class="isomer-card-description">Our Health &amp; Food Science ALP, Community Youth Leadership LLP, Springfield Explorer, and Global Education Programme offer authentic, interdisciplinary, future-ready learning experiences that prepare Springfielders for the world ahead.</div><div class="isomer-card-link">Our School Distinctive Programme</div></div></a>
 </div>
 <p></p>
