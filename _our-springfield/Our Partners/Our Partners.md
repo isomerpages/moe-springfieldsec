@@ -6,6 +6,7 @@ description: ""
 third_nav_title: Our Partners
 ---
 <h1>Our Partners</h1>
+<h4>BACKGROUND</h4>
 <p>The SFSS Partnership Framework aims to foster <strong>strategic, supportive, and sustainable</strong> partnerships
 with key stakeholders to provide well-rounded educational opportunities
 and support for students’ success, aligned with the school’s vision and
