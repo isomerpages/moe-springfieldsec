@@ -257,4 +257,121 @@ to progress confidently in their educational journey.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/supportteam.png">
 </div>
+<h4><strong>Mental Health Support</strong></h4>
+<p>For students who may require additional mental health support beyond what
+the school can offer, we work closely with trusted external agencies to
+ensure timely and professional assistance. These organisations provide
+specialised care and resources to support students’ well-being. Should
+the need arise, students and parents can reach out directly or through
+the school for referrals. For more information, please visit the following
+resources:</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Organisation</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Description &amp; Link</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>CHAT&nbsp;</strong>
+</p>
+<p>(Community Health Assessment Team)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>For youths aged 16 to 30, CHAT offers free, confidential mental health
+assessments and personalised support through in-person, phone, video, or
+anonymous webCHAT sessions.</p>
+<p>
+<br>
+</p>
+<p><a href="https://www.chat.mentalhealth.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.chat.mentalhealth.sg</u></a>
+</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><a href="https://www.chat.mentalhealth.sg/" rel="noopener noreferrer nofollow" target="_blank">Mindline.sg</a></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore’s national digital mental health platform offering free, anonymous
+self-help tools, mood check-ins, guided exercises, and service referrals
+to support emotional well-being.</p>
+<p>
+<br>
+</p>
+<p><a href="https://www.chat.mentalhealth.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.mindline.sg</u></a>
+</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Samaritans of Singapore (SOS)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Provides confidential 24/7 emotional support via hotline (1777 / 1800
+221 4444), email befriending, and trained volunteers who offer a listening
+ear to those in distress or at risk of suicide.</p>
+<p>
+<br>
+</p>
+<p><a href="https://www.chat.mentalhealth.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.sos.org.sg</u></a>
+</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>REACH&nbsp;</strong>
+</p>
+<p>(Response, Early Intervention and Assessment in Community mental Health)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>A community-based initiative through IMH that works with schools to deliver
+school-based mental health interventions and support for students with
+identified needs</p>
+<p>
+<br>
+</p>
+<p><a href="https://www.chat.mentalhealth.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>https://tinyurl.com/reach-services</u></a>
+</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>HealthHub</strong>
+</p>
+<p>Mental Health Resources for Youths</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>A digital health platform offering youth-focused mental well-being resources.
+The MindSG programme provides self-help tools, coping tips, emotional checklists,
+and links to community support services.</p>
+<p>
+<br>
+</p>
+<p><a href="https://www.chat.mentalhealth.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.healthhub.sg/live-healthy/2381/youth-mental-health</u></a>
+</p>
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>
+<br>
+</p>
 <p></p>
