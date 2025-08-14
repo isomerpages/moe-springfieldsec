@@ -7,7 +7,7 @@ third_nav_title: For Parents
 ---
 <h1><strong>Parents Gateway</strong></h1>
 <h3>Instructions to download Parents Gateway App</h3>
-<p>1) Launch App Store (iphone) or Play Store (Android)</p>
+<p>1) Launch App Store (iPhone) or Play Store (Android)</p>
 <div class="isomer-image-wrapper">
 <img style="width: 40%;" height="auto" width="100%" alt="" src="/images/pgapps.png">
 </div>
