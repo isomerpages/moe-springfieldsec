@@ -84,8 +84,9 @@ celebrations, each event is thoughtfully planned to build stronger home-school
 partnerships, equip parents with valuable skills, and create shared memories
 within our Springfield family. Below is a glimpse of the programmes we
 have organised over the recent few years:</p>
-<h4>2025</h4>
-<h5>Parent Education Talks</h5>
+<h3>2025</h3>
+<p><strong>Parent-Child Bonding Sessions</strong>
+</p>
 <p><em>Insightful talks by Care Corner to equip parents with practical tips and fresh perspectives for everyday parenting.</em>
 </p>
 <p></p>
@@ -94,20 +95,49 @@ have organised over the recent few years:</p>
 </div>
 <p><strong>Parent-Child Bonding Sessions<br></strong><em>Fun and meaningful activities for parents and children to strengthen family ties and make memories together.</em>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/spn2.png">
 </div>
 <p><strong>Coffee Talks for Parents with SEN<br></strong><em>A safe, supportive space for parents of students with special educational needs to connect, share, and encourage one another.</em>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/spn3.png">
 </div>
 <p></p>
+<p><strong>Habituating Study Skills Workshop<br></strong><em>Hands-on workshop to help parents guide their children in building good study habits and self-discipline at home.</em>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/spn4.png">
+</div>
 <p></p>
+<h3>2024</h3>
+<p><strong>Parent-Child Bonding Sessions</strong>
+</p>
+<p><em>Strengthen family bonds, foster positive communication, and create shared experiences that build trust and understanding. They provide opportunities for parents and children to learn, play, and grow together in a supportive environment.</em>
+</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/spn5.png">
+</div>
+<p><strong>Supporting School Events</strong>
+</p>
+<p><em>Partnering with teachers and staff to enhance students’ learning experiences. SPN contributes through volunteering, organising activities, providing resources, and fostering a strong school-home partnership.</em>
+</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/spn6.png">
+</div>
+<p></p>
+<p><strong>Five Cs of Parenting Sharing&nbsp;</strong>
+</p>
+<p><em>5 Cs of parenting sharing focuses on guiding parents to nurture their children through Care, Communication, Consistency, Character-building, and Connection. It provides practical strategies to strengthen family relationships and support children’s holistic development.</em>
+</p>
+<p>
+<br>
+</p>
+<p>
+<br>
+</p>
 <p>For Parents whom are keen to join the Springfield Parents' Network, please
 do not hesitate to contact Ms Aishah at mdmaishah@gmail.com .</p>
 <h3>2022</h3>
