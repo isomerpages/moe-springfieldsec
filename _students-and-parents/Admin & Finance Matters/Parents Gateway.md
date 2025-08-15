@@ -3,7 +3,7 @@ title: Parents Gateway
 permalink: /parents-gateway/
 variant: tiptap
 description: ""
-third_nav_title: For Parents
+third_nav_title: Admin & Finance Matters
 ---
 <h1><strong>Parents Gateway</strong></h1>
 <h3>Instructions to download Parents Gateway App</h3>

@@ -2,7 +2,7 @@
 title: Fees Information
 permalink: /about-us/admin-matters/fees-information/
 description: ""
-third_nav_title: For Parents
+third_nav_title: Admin & Finance Matters
 ---
 # **Fees Information**
 
