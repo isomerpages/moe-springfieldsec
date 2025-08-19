@@ -35,7 +35,7 @@ variant: tiptap
 </ul>
 <p></p>
 <h3><strong>National Digital Literacy Programme (NDLP)</strong></h3>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/pld1.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">National Digital Literacy Programme (NDLP)</div><div class="isomer-card-description">Launched in March 2020, the National Digital Literacy Programme (NDLP) equips students with essential skills to be future-ready. Through the ‘Find, Think, Apply, Create’ framework, students gain digital literacies to navigate the digital age.</div><div class="isomer-card-link">FIND OUT MORE</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/programmes/NDLP/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/pld1.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">National Digital Literacy Programme (NDLP)</div><div class="isomer-card-description">Launched in March 2020, the National Digital Literacy Programme (NDLP) equips students with essential skills to be future-ready. Through the ‘Find, Think, Apply, Create’ framework, students gain digital literacies to navigate the digital age.</div><div class="isomer-card-link">FIND OUT MORE</div></div></a>
 </div>
 <h3>Department Programmes:</h3>
 <p>In alignment with the National Digital Literacy Programme's (NDLP) aim
