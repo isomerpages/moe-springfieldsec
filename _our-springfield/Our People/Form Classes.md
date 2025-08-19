@@ -211,7 +211,8 @@ third_nav_title: Our People
 <p>Ms Rashidah A Rashid (ST)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:nur_rashidah_a_rashid@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_rashidah_a_rashid@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
