@@ -18,8 +18,8 @@ learning. Support will be given to ensure that no child is denied of this
 opportunity. Singapore Citizen students can use their Edusave Account to
 pay for the PLD.</p>
 <p>Springfield Secondary is scheduled for Phase 1 implementation and the
-non-graduating students in Secondary 1, 2 and 3 will be receiving the PLD
-in Term 2, 2021.</p>
+non-graduating students in Secondary 1, 2 and 3 have received the PLD in
+Term 2, 2021.</p>
 <h3>Intended Outcome</h3>
 <p>There are&nbsp;<strong>3</strong>&nbsp;intended outcomes of the 1:1 personalized
 learning environment.&nbsp;</p>
