@@ -10,9 +10,9 @@ sections:
       title: Springfield Secondary School
       background: /images/schoolbg.jpg
       key_highlights:
-        - title: DSA Exercise 2025
+        - title: Termly Letter
           description: Read More
-          url: https://www.springfieldsec.moe.edu.sg/about-us/direct-school-admission/dsa-exercise-2025/
+          url: https://www.springfieldsec.moe.edu.sg/our-experience/termly-letter/
         - title: PLD Service Center info
           description: Read More
           url: /pld-new-service-center-location/
