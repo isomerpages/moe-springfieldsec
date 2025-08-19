@@ -3,14 +3,11 @@ collections:
     output: true
     order:
       - Our Curriculum.md
-      - Full Subject Based Banding (FSBB).md
-      - STEM & Sustainability Programme (ALP).md
       - English Language & Literature Department.md
-      - Mother Tongue Language Department.md
-      - Mathematics.md
+      - Mathematics Department.md
       - Science Department.md
+      - Mother Tongue Language Department.md
       - Humanities Department.md
-      - Physical Education Department.md
       - Craft & Technology Department.md
+      - Physical Education Department.md
       - Information Communication Technology Department.md
-      - National Digital Literacy Programme (NDLP).md

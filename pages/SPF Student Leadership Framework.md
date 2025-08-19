@@ -2,7 +2,6 @@
 title: SPF Student Leadership Framework
 permalink: /programmes/student-leadership/
 description: ""
-third_nav_title: Student Leadership
 ---
 # **SPF STUDENT LEADERSHIP FRAMEWORK – The ‘1-5’ Model**
 

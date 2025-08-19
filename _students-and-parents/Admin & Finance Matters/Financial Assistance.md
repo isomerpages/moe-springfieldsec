@@ -2,7 +2,7 @@
 title: Financial Assistance
 permalink: /about-us/admin-matters/financial-assistance/
 description: ""
-third_nav_title: For Parents
+third_nav_title: Admin & Finance Matters
 variant: markdown
 ---
 # **Financial Assistance**

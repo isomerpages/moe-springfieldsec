@@ -3,7 +3,7 @@ title: Group Personal Accident Insurance Plan for Students
 permalink: /group-personal-accident-insurance-plan-for-students/
 variant: markdown
 description: ""
-third_nav_title: For Parents
+third_nav_title: Admin & Finance Matters
 ---
 # **Group Personal Accident Insurance Plan for Students**
 

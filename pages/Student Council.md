@@ -2,7 +2,6 @@
 title: Student Council
 permalink: /programmes/student-leadership/student-council/
 description: ""
-third_nav_title: Student Leadership
 variant: markdown
 ---
 # **Student Council**

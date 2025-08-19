@@ -3,7 +3,7 @@ title: School Suppliers
 permalink: /school-suppliers/
 variant: tiptap
 description: ""
-third_nav_title: For Parents
+third_nav_title: Admin & Finance Matters
 ---
 <h1><strong>School Suppliers</strong></h1>
 <p></p>

@@ -1,5 +1,5 @@
 ---
-title: Mathematics
+title: Mathematics Department
 permalink: /about-us/our-organisation/mathematics-department/
 description: ""
 variant: markdown
