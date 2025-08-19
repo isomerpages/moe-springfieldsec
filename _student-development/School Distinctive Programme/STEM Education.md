@@ -57,6 +57,27 @@ making choices that support both their bodies and their lifestyles.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/alpstem3.png">
 </div>
+<h4><strong>Secondary 2 ALP: Growing the Future in the City</strong> </h4>
+<p>How do you grow enough food when space is running out? Our Secondary 2
+students took on this challenge in their <strong>Applied Learning Programme</strong> by
+stepping into the shoes of urban farmers. With Biology and Food Science
+as their guide, they explored how plant nutrition connects to real-world
+food production and sustainability—right here in land-scarce Singapore.</p>
+<p>From vertical gardens to creative farm layouts, students brainstormed,
+designed, and built models of innovative farming systems aimed at <strong>maximising crop yield in the smallest possible space</strong>.
+Along the way, they tackled real-life problems urban farmers face, applying
+skills in scientific investigation, engineering design, and even a bit
+of Math magic with angles and measurements.</p>
+<p>The learning didn’t stop in the classroom. Students headed out on an <strong>industrial learning journey</strong> to
+some of Singapore’s most inspiring urban farms, seeing how ideas come to
+life and gaining fresh inspiration for their own designs. Who knows? The
+next big breakthrough in sustainable farming might just start here in our
+Sec 2 ALP!</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/alpstem4.png">
+</div>
 <p>
+<br>
 <br>
 </p>
