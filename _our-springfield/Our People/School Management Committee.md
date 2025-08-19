@@ -122,18 +122,6 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD | Mother Tongue</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Ang Sor Cheng</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:ang_sor_cheng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ang_sor_cheng@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>HOD | Information and Communications Technology (ICT)</p>
 </td>
 <td rowspan="1" colspan="1">
