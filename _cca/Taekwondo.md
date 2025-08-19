@@ -25,7 +25,8 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/tkd_5.png">
 </div>
-<p></p>
+<p>Watch the Taekwondo Team in action <a href="https://www.youtube.com/shorts/oj4LZAbcEQE" rel="noopener noreferrer nofollow" target="_blank">HERE</a>
+</p>
 <p>The Springfield Taekwondo team trains regularly to sharpen their techniques,
 build resilience, and strive for excellence. Guided by Coach Joyce Lim
 and Coach Cheryl Ng, the team worked hard and achieved commendable results
@@ -43,35 +44,9 @@ of skills.</p>
 <p>Through these experiences, students who join Taekwondo become more disciplined,
 physically fit, strong-minded, and resilient individuals — growing not
 only as athletes, but also as leaders with character and heart.</p>
-<p>
-<br>
-</p>
-<h5>C div Boys Poomsae 2023 – Overall second runner up</h5>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/taekwondo1.jpg">
-</div>
-<h5>C div Boys Team photo</h5>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/taekwondo2.jpg">
-</div>
-<h5>B Div Boys and Girls Team photo</h5>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/taekwondo3.jpg">
-</div>
-<h5>C div Girls Team photos</h5>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/taekwondo4.jpg">
-</div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/taekwondo5.jpg">
-</div>
-<h5>Team Photo</h5>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/taekwondo6.jpg">
-</div>
-<p>Watch the Taekwondo Team in action <a href="https://youtu.be/TR1IYSbTH3k" rel="noopener noreferrer nofollow" target="_blank">HERE</a>
-</p>
+<h5></h5>
+<p></p>
 <p>‘Tae’ means to kick or smash with the feet, ‘Kwon’ implies punching or
 destroying with the hands or fists and ‘Do’ means the art or the way. Hence,
 Taekwondo, a Korean phraseology, literally means the art of foot and hand
@@ -125,7 +100,7 @@ and Vice-captains of Taekwondo 2023.
 </tr>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Monday / Wednesday</p>
+<p>Monday and Wednesday</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>2.30PM - 5.30PM</p>
@@ -155,7 +130,6 @@ and Vice-captains of Taekwondo 2023.
 <td rowspan="1" colspan="3">
 <p>• Mdm Ita Pranatih Binte Pratojanuri​ (IC)
 <br>• Mrs Nur Fadhlin Sakina Binte Ismail (2IC)
-<br>• Miss Metha Pang Hui Shan
 <br>• Mdm Lin Yihua
 <br>
 </p>
@@ -168,8 +142,7 @@ and Vice-captains of Taekwondo 2023.
 </td>
 <td rowspan="1" colspan="3">
 <p>1. Ms Joyce Lim
-<br>2. Ms Pauline Lim
-<br>3. Ms Cheryl Ng
+<br>2. Ms Cheryl Ng
 <br>Coaches are from ACME Sabertooth</p>
 </td>
 </tr>
@@ -187,22 +160,21 @@ and Vice-captains of Taekwondo 2023.
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Highlights of 2023</strong>
+<p><strong>Highlights of 2025</strong>
 </p>
 </td>
 <td rowspan="1" colspan="3">
-<p>1. Taekwondo Training Camp
-<br>a. Taekwondo Captain Election
-<br>b. Seniors Appreciation Night
-<br>
-<br>2. National Inter-School Taekwondo Championship
-<br>a. 2023 B Division Boys Poomsae Overall Champion
-<br>b. 2023 B Division Girls Poomsae Overall First runner-up
-<br>c. 2023 C Division Boys Poomsae Overall Second runner-up
-<br>
-<br>3. Termly Games Day
-<br>a.Providing a platform for team bonding
-<br>b. Planned and executed by Sec 2 and 3 TKD leaders</p>
+<p><strong>National School Games:</strong>
+</p>
+<p>a. 2025 B Division Boys Poomsae Overall Second Runner-up</p>
+<p>b. 2025 B Division Girls Poomsae Overall Third runner-up</p>
+<p>c. 2025 C Division Girls Poomsae Overall Second runner-up</p>
+<p></p>
+<p><strong>Performances:</strong>
+</p>
+<p>a. Chinese New Year</p>
+<p>b. Awards Day 2025</p>
+<p>c. Alumni Homecoming 2025</p>
 </td>
 </tr>
 <tr>
@@ -211,11 +183,9 @@ and Vice-captains of Taekwondo 2023.
 </p>
 </td>
 <td rowspan="1" colspan="3">
-<p>2023 B Division Boys Poomsae Overall Champion
-<br>2023 B Division Girls Poomsae Overall First runner-up
-<br>2023 C Division Boys Poomsae Overall Second runner-up
-<br>
-</p>
+<p>2025 B Division Boys Poomsae Overall Second runner-up</p>
+<p>2025 B Division Girls Poomsae Overall Third runner-up</p>
+<p>2025 C Division Girls Poomsae Overall Second runner-up</p>
 </td>
 </tr>
 <tr>
