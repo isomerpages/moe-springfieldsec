@@ -57,7 +57,7 @@ making choices that support both their bodies and their lifestyles.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/alpstem3.png">
 </div>
-<h4><strong>Secondary 2 ALP: Growing the Future in the City</strong> </h4>
+<h4><strong>Secondary 2 ALP: Growing the Future in the City</strong></h4>
 <p>How do you grow enough food when space is running out? Our Secondary 2
 students took on this challenge in their <strong>Applied Learning Programme</strong> by
 stepping into the shoes of urban farmers. With Biology and Food Science
@@ -77,7 +77,11 @@ Sec 2 ALP!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/alpstem4.png">
 </div>
-<p>
-<br>
-<br>
-</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/alpstem5.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/alpstem6.png">
+</div>
+<p></p>
