@@ -52,7 +52,7 @@ goals.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SIL.png">
 </div>
 <p></p>
-<h3>Key Programmes &amp; Initiative </h3>
+<h3>Key Programmes &amp; Initiative</h3>
 <h4>Four Learning Domains</h4>
 <ol>
 <li>
@@ -77,7 +77,7 @@ or help with operations.</p>
 <p></p>
 <ol start="2" data-tight="true" class="tight">
 <li>
-<p><strong> Body – Personal Physical Well-being<br></strong> Promotes resilience,
+<p><strong>Body – Personal Physical Well-being<br></strong> Promotes resilience,
 discipline, and healthy habits.&nbsp;</p>
 </li>
 </ol>
@@ -94,8 +94,6 @@ discipline, and healthy habits.&nbsp;</p>
 <p>Practice football juggling to build agility and focus.
 <br>
 </p>
-<p></p>
-<p></p>
 <p></p>
 <ol start="3" data-tight="true" class="tight">
 <li>
@@ -123,7 +121,7 @@ discipline, and healthy habits.&nbsp;</p>
 <p><strong>Spirit – Artistic and Musical Fields<br></strong> Encourages creative
 expression and confidence.
 <br>
-<br> <em>Examples:</em>
+<br><em>Examples:</em>
 </p>
 </li>
 </ol>
