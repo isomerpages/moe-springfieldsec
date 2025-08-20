@@ -38,7 +38,7 @@ and application of values, knowledge and skills​.</p>
 </p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Day: Monday / Wednesday
+<p>Day: Monday &amp; Wednesday
 <br>Time: 2.30PM - 5.30PM
 <br>Venue: Netball Court (Springfield Secondary School)
 <br>
