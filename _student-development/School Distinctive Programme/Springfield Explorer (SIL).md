@@ -71,9 +71,11 @@ or volunteering in outreach and events.</p>
 <p><strong>HCA Hospice Care</strong> – befriend seniors, engage in creative
 activities, accompany them to appointments.</p>
 </li>
-</ul>
+<li>
 <p><strong>Voices for Animals</strong> – promote adoptions, foster rescues,
 or help with operations.</p>
+</li>
+</ul>
 <p></p>
 <ol start="2" data-tight="true" class="tight">
 <li>
@@ -91,9 +93,7 @@ discipline, and healthy habits.&nbsp;</p>
 <p>Learn trending dances like the “Slickback” to improve coordination.</p>
 </li>
 <li>
-<p>Practice football juggling to build agility and focus.
-<br>
-</p>
+<p>Practice football juggling to build agility and focus.</p>
 <p></p>
 <ol start="3" data-tight="true" class="tight">
 <li>
@@ -119,12 +119,12 @@ discipline, and healthy habits.&nbsp;</p>
 <ol start="4" data-tight="true" class="tight">
 <li>
 <p><strong>Spirit – Artistic and Musical Fields<br></strong> Encourages creative
-expression and confidence.
-<br>
-<br><em>Examples:</em>
-</p>
+expression and confidence.</p>
 </li>
 </ol>
+<p></p>
+<p><em>Examples:</em>
+</p>
 </li>
 <li>
 <p>Develop singing skills and overcome stage anxiety.</p>
