@@ -19,9 +19,9 @@ centre provider, Servlink, to enhance repair quality and customer experience.</p
 <br>Saturday: 9:00 AM – 1:00 PM
 <br>Closed on Sundays and Public Holidays</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/pldnewloc.png">
-</div>
+
+<img style="width:70%; height:auto; display:block; margin-left:0;" src="/images/pldnewloc.png">
+
 <p><strong>Students can check their warranty validity through the following link:</strong>
 <br><a href="https://pcsupport.lenovo.com/sg/en/warranty-lookup#/" rel="noopener noreferrer nofollow" target="_blank">https://pcsupport.lenovo.com/sg/en/warranty-lookup#/</a>
 <br>
