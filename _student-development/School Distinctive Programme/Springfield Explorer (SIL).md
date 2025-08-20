@@ -64,16 +64,15 @@ empathy, and active citizenship.</p>
 </p>
 <ul>
 <li>
-<p><strong>Food Bank Singapore</strong> – assist in food sorting, packing,
-or volunteering in outreach and events.</p>
+<p>Food Bank Singapore – assist in food sorting, packing, or volunteering
+in outreach and events.</p>
 </li>
 <li>
-<p><strong>HCA Hospice Care</strong> – befriend seniors, engage in creative
-activities, accompany them to appointments.</p>
+<p>HCA Hospice Care – befriend seniors, engage in creative activities, accompany
+them to appointments.</p>
 </li>
 <li>
-<p><strong>Voices for Animals</strong> – promote adoptions, foster rescues,
-or help with operations.</p>
+<p>Voices for Animals – promote adoptions, foster rescues, or help with operations.</p>
 </li>
 </ul>
 <p></p>
