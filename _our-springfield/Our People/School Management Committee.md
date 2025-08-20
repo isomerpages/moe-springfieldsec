@@ -385,13 +385,25 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH | Student Leadership (Ag)</p>
+<p>SH | Student Leadership</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Ng Zhao Ying</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ng_zhao_ying@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_zhao_ying@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SH | Student Management</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Lim Dao Wei Fabian</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lim_dao_wei_fabian@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_dao_wei_fabian@moe.edu.sg</a>
 </p>
 </td>
 </tr>
