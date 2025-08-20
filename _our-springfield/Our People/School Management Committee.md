@@ -86,6 +86,18 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>HOD | English</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Muhammad Hafiz Bin Salleh</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:muhammad_hafiz_salleh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">muhammad_hafiz_salleh@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>HOD | Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -105,30 +117,6 @@ third_nav_title: Our People
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:norain_anuar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">norain_anuar@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>HOD | English</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Muhammad Hafiz Bin Salleh</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:muhammad_hafiz_salleh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">muhammad_hafiz_salleh@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>HOD | Information and Communications Technology (ICT)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Ng Jenn Yang</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:ng_jenn_yang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_jenn_yang@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -165,6 +153,30 @@ third_nav_title: Our People
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lau_kok_hiong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lau_kok_hiong@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>HOD | Information and Communications Technology (ICT)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Ng Jenn Yang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ng_jenn_yang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_jenn_yang@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>HOD | Student Management (Ag)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Lim Jing Kai</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lim_jing_kai@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_jing_kai@moe.edu.sg</a>
 </p>
 </td>
 </tr>
