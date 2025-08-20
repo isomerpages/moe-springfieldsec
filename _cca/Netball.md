@@ -6,7 +6,7 @@ variant: markdown
 ---
 # **Netball**
 
-![](/images/Group%20Photo%201.jpeg)
+![](/images/netball20256.jpg)
 
 
 Watch the Springfield Netball Team showreel [HERE](https://youtu.be/oF5y9U7Mz9c)
@@ -20,6 +20,12 @@ For many years, the Netball Girls have organized the annual Springfield Netball 
 
 <br>
 
-![](/images/C%20Division%20Netball%20Girls.jpeg)
+![](/images/netball20251.jpg)
 
-![](/images/netballteam.jpeg)
+![](/images/netball20252.jpg)
+
+![](/images/netball20253.jpg)
+
+![](/images/netball20254.jpg)
+
+![](/images/netball20255.jpg)
