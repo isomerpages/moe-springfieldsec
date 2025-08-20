@@ -4,23 +4,28 @@ permalink: /pld-new-service-center-location/
 variant: markdown
 description: ""
 ---
-# **Lenovo Authorised Service Centre for PLD**
+<h1><strong>Lenovo Authorised Service Centre for PLD</strong></h1>
+<p>Dear Parents/Guardians,</p>
+<p>We are pleased to update you that Lenovo has transitioned to a new service
+centre provider, Servlink, to enhance repair quality and customer experience.</p>
+<p></p>
+<p><strong>New Service Centre Location:</strong>
+<br>Servlink Technologies – Lenovo Authorised Service Centre
+<br>Address: 2 Kallang Avenue #09-01, CTHub 1, Singapore 339407
+<br>Hotline: +65 6817 1435
+<br>Email: Svcctr@servlink.com.sg</p>
+<p><strong>Operating hours:</strong>
+<br>Monday to Friday: 9:00 AM – 6:00 PM
+<br>Saturday: 9:00 AM – 1:00 PM
+<br>Closed on Sundays and Public Holidays</p>
+<p></p>
 
-Dear Parents/Guardians,
+<img style="width:80%; height:auto; display:block; margin-left:0;" src="/images/pldnewloc.png">
 
-We are pleased to update you that Lenovo has transitioned to a new service centre provider, Servlink, to enhance repair quality and customer experience.
-
-<b>New Service Centre Location:</b><br>
-Servlink Technologies – Lenovo Authorised Service Centre<br>
-Address: 2 Kallang Avenue #09-01, CTHub 1, Singapore 339407<br>
-Hotline: +65 6817 1435<br>
-Email: Svcctr@servlink.com.sg
-
-<b>Operating hours:</b><br>
-Monday to Friday: 9:00 AM – 6:00 PM<br>
-Saturday: 9:00 AM – 1:00 PM<br>
-Closed on Sundays and Public Holidays <br>
-
-Enclosed is the [FAQs](/files/Change_in_Lenovo_Authorised_Service_Centre___FAQs.pdf) for your reference.
-
-Thank you for your attention to this matter.
+<p><strong>Students can check their warranty validity through the following link:</strong>
+<br><a href="https://pcsupport.lenovo.com/sg/en/warranty-lookup#/" rel="noopener noreferrer nofollow" target="_blank">https://pcsupport.lenovo.com/sg/en/warranty-lookup#/</a>
+<br>
+</p>
+<p>Enclosed is the <a href="/files/Change_in_Lenovo_Authorised_Service_Centre___FAQs.pdf" rel="noopener noreferrer nofollow" target="_blank">FAQs</a> for
+your reference.</p>
+<p>Thank you for your attention to this matter.</p>
