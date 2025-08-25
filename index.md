@@ -25,7 +25,7 @@ sections:
       id: infopic
       description: The Caring Teacher Awards honor educators who go beyond duty with
         care and compassion, nurturing confident learners who contribute to our
-        nation
+        nation.
       button: Nominate now
       url: https://www.cta.nie.edu.sg/home
       image: /images/logo.png
