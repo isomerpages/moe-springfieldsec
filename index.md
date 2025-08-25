@@ -23,9 +23,9 @@ sections:
   - infopic:
       title: CARING TEACHER AWARDS 2026
       id: infopic
-      description: Honouring educators who go the extra mile, the Caring Teacher
-        Awards recognise their role in shaping resilient, confident, and caring
-        learners.
+      description: The Caring Teacher Awards honor educators who go beyond duty with
+        care and compassion, nurturing confident learners who contribute to our
+        nation
       button: Nominate now
       url: https://www.cta.nie.edu.sg/home
       image: /images/logo.png
