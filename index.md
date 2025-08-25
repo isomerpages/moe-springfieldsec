@@ -21,6 +21,16 @@ sections:
           url: https://sites.google.com/view/ictspringfield/home
       variant: center
   - infopic:
+      title: CARING TEACHER AWARDS 2026
+      id: infopic
+      description: Honouring educators who go the extra mile, the Caring Teacher
+        Awards recognise their role in shaping resilient, confident, and caring
+        learners.
+      button: Nominate now
+      url: https://www.cta.nie.edu.sg/home
+      image: /images/logo.png
+      alt: Image alt text
+  - infopic:
       title: Minister of State Visits Springfield Secondary School
       id: infopic
       description: Springfield Secondary welcomed MOS Gan Siow Huang and Mdm Sarah
