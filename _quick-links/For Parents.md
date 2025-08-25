@@ -10,4 +10,5 @@ description: ""
 *  [Lightspeed Parent Portal (DMA)](https://moes.portal.relay.school/)
 * [Polytechnic Foundation Programme (PFP)](https://pfp.polytechnic.edu.sg/PFP/index.html)
 * [Direct Entry Scheme to Polytechnic Programme (DPP)](https://www.ite.edu.sg/apply-for-ITE-courses/dpp)
+* [Admin &amp; Finance Matters](https://www.springfieldsec.moe.edu.sg/about-us/admin-matters/fees-information/)
 <br>
