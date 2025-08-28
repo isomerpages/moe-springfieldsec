@@ -200,8 +200,43 @@ the planet’s future.
 <br>
 </p>
 <p><strong>Taking flight – students testing their glider designs</strong>
+<br>
 </p>
-<p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/sciencenew7.png">
+</div>
+<p><em>Our young marine explorers aboard the OceanXplorer research vessel – Science learning beyond the classroom.</em>
+</p>
+<p><strong>Secondary 4’s Day at the Museum: Time-Traveling Through Evolution</strong>
+</p>
+<p>Our Secondary 4 Biology students traded their classroom for the captivating
+halls of the Lee Kong Chian Natural History Museum—and stepped straight
+into Earth’s storybook. Surrounded by towering dinosaur skeletons, preserved
+specimens, and intricate fossil displays, they explored the incredible
+journey of life through time.</p>
+<p>From ancient sea creatures to modern-day marvels, every exhibit brought
+the concepts of evolution to life. Students examined how species adapt,
+survive, and diversify, seeing first-hand the evidence that has shaped
+our understanding of life’s history.&nbsp;</p>
+<p>“It’s like walking through millions of years in a single afternoon,” one
+student shared, eyes wide with excitement.</p>
+<p>More than just a field trip, this was a chance to connect textbook theories
+to real, tangible examples—making evolution not just a chapter in their
+syllabus, but a living, breathing story. The visit left our budding biologists
+inspired, curious, and ready to dig deeper into the mysteries of life on
+Earth.</p>
+<p></p>
+<p><strong>Hands-on discovery – examining preserved specimens and fossils to trace adaptation and survival.</strong>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/sciencenew8.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/sciencenew9.png">
+</div>
+<p><em>Face to face with giants – towering dinosaur skeletons sparking curiosity about evolution</em>
 <br>
 <br>
 </p>
