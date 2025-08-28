@@ -127,29 +127,25 @@ learning and success.&nbsp;</p>
 </p>
 <p><strong>Secondary 1’s Epic Science Kick-Off: A STEMazing Race</strong>
 </p>
-<p>
-<br>
-</p>
+<p></p>
 <p>The STEMazing Race marked an exciting launch of our Secondary 1 students’
 science journey. Designed to spark curiosity and enthusiasm, this high-energy
 event challenged students to navigate a series of interactive stations
-themed around Science, Technology, Engineering, and Mathematics.</p>
-<p>
+themed around Science, Technology, Engineering, and Mathematics.
 <br>
 </p>
 <p>At each station, teams applied their creativity, problem-solving skills,
 and scientific knowledge to complete hands-on tasks—ranging from quick-fire
 experiments to logic puzzles and design challenges. The race not only brought
 textbook concepts to life but also encouraged collaboration, resilience,
-and strategic thinking.</p>
-<p>
+and strategic thinking.
 <br>
 </p>
 <p>By the end of the day, our students had experienced the joy of discovery,
 strengthened their bonds as classmates, and taken their first steps towards
 seeing science as an exciting, real-world adventure. The STEMazing Race
 truly set the tone for a year of exploration, innovation, and teamwork.</p>
-<p>&nbsp;</p>
+<p></p>
 <p><strong>Secondary 1 students cracking challenges and discovering the fun of STEM at every station</strong>
 </p>
 <p>
