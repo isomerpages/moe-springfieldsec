@@ -2,5 +2,6 @@ collections:
   admissions:
     output: true
     order:
+      - Full Subject Based Banding (FSBB).md
       - Full Subject Based Banding (FSBB)(old).md
       - DSA Exercise 2025.md
