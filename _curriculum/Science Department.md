@@ -86,9 +86,7 @@ to making a positive difference in society.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/sciencenew1.png">
 </div>
-<p>
-<br><strong><u>Science Research Programme</u></strong>
-</p>
+<h4><br>Science Research Programme</h4>
 <p>Our Science Research Programme offers students the opportunity to go beyond
 the classroom and immerse themselves in authentic scientific inquiry. Under
 the guidance of mentors, students design and carry out their own research
@@ -125,8 +123,7 @@ learning and success.&nbsp;</p>
 </div>
 <p><em>Our 2024/2025 Science Research Teams – exploring, experimenting and uncovering new discoveries through hands-on investigations.</em>
 </p>
-<p><strong>Secondary 1’s Epic Science Kick-Off: A STEMazing Race</strong>
-</p>
+<h4>Secondary 1’s Epic Science Kick-Off: A STEMazing Race</h4>
 <p></p>
 <p>The STEMazing Race marked an exciting launch of our Secondary 1 students’
 science journey. Designed to spark curiosity and enthusiasm, this high-energy
@@ -148,10 +145,7 @@ truly set the tone for a year of exploration, innovation, and teamwork.</p>
 <p></p>
 <p><strong>Secondary 1 students cracking challenges and discovering the fun of STEM at every station</strong>
 </p>
-<p>
-<br><strong>Secondary 2 STEM Quests: From Robots to Rainforests</strong>
-<br>
-</p>
+<h4><br>Secondary 2 STEM Quests: From Robots to Rainforests<br></h4>
 <p>Our Secondary 2 students took their learning to the next level through
 the <strong>Explore@STEM</strong> programme—a hands-on challenge that blended
 creativity, technology, and science. Tasked with programming mBots to transport
@@ -174,8 +168,7 @@ of technology, nature, and conservation.</p>
 to overcome heat transfer challenges in a hands-on STEM quest.)
 <br>(Bottom 2 photos: Exploring biodiversity at the Lee Kong Chian Natural
 History Museum – discovering Singapore’s natural heritage)</p>
-<p><strong>Secondary 3 Science Adventures: ‘Taking Flight and Diving Deep’</strong>
-</p>
+<h4>Secondary 3 Science Adventures: ‘Taking Flight and Diving Deep’</h4>
 <p></p>
 <p>Science took flight for our Secondary 3 students in the Power Glider Challenge.
 Working in teams, they sketched, cut, assembled, and fine-tuned their own
@@ -207,8 +200,7 @@ the planet’s future.
 </div>
 <p><em>Our young marine explorers aboard the OceanXplorer research vessel – Science learning beyond the classroom.</em>
 </p>
-<p><strong>Secondary 4’s Day at the Museum: Time-Traveling Through Evolution</strong>
-</p>
+<h4>Secondary 4’s Day at the Museum: Time-Traveling Through Evolution</h4>
 <p>Our Secondary 4 Biology students traded their classroom for the captivating
 halls of the Lee Kong Chian Natural History Museum—and stepped straight
 into Earth’s storybook. Surrounded by towering dinosaur skeletons, preserved
