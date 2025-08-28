@@ -100,8 +100,6 @@ technology-driven world.</p>
 </li>
 <li>
 <p>National Olympiad in Informatics 2024</p>
-</li>
-<li>
 <p></p>
 </li>
 </ul>
