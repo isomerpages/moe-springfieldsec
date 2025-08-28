@@ -2,7 +2,6 @@ collections:
   curriculum:
     output: true
     order:
-      - Physical Education Department.md
       - Our Curriculum.md
       - English Language & Literature Department.md
       - Mathematics Department.md
@@ -10,5 +9,6 @@ collections:
       - Mother Tongue Language Department.md
       - Humanities Department.md
       - Craft & Technology Department.md
+      - Physical Education Department.md
       - Physical Education Department (old).md
       - Information Communication Technology Department.md
