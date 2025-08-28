@@ -15,28 +15,28 @@ in a multicultural society.</p>
 <p></p>
 <p>Subjects offered include G1/G2/G3 Chinese Language, Higher Chinese Language
 and G1/G2/G3 Malay Language.</p>
-<h4><br><strong>Reading Programme</strong></h4>
+<h4><br>Reading Programme</h4>
 <p>As part of our ongoing efforts to cultivate strong reading habits, carefully
 selected materials are provided to engage students in meaningful reading.
 Customised reading packages and activities are designed to enrich their
 reading experience and promote language development.</p>
-<h4><strong>Podcast Programme</strong></h4>
+<h4>Podcast Programme</h4>
 <p>The Podcast Programme provides students with authentic opportunities to
 develop their oral communication and listening skills. By creating and
 engaging with podcasts, students learn to express themselves more clearly
 and confidently.</p>
-<h4><strong>Mother Tongue Language (MTL) Fortnight</strong></h4>
+<h4>Mother Tongue Language (MTL) Fortnight</h4>
 <p>The MTL Fortnight offers students a range of hands-on activities that
 deepen their appreciation of culture and heritage. It also provides an
 immersive environment for students to actively use their Mother Tongue
 in creative and practical ways.</p>
-<h4><strong>Intensive Revision Programme</strong></h4>
+<h4>Intensive Revision Programme</h4>
 <p>Targeted at students taking the GCE ‘O’ Level Mother Tongue examination,
 the Intensive Revision Programme aims to strengthen their readiness and
 language skills through focused revision. Held during the last two weeks
 of Term 2, the programme equips students with strategies to perform confidently
 in the national examination.</p>
-<h4><strong>Festive Celebrations: Spring Festival &amp; Hari Raya</strong></h4>
+<h4>Festive Celebrations: Spring Festival &amp; Hari Raya</h4>
 <p>Students come together to celebrate the rich cultural diversity of our
 community through the Spring Festival and Hari Raya celebrations. These
 festive occasions provide meaningful opportunities to appreciate traditions,
