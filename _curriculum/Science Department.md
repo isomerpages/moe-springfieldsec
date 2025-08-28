@@ -87,5 +87,28 @@ to making a positive difference in society.</p>
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/sciencenew1.png">
 </div>
 <p>
+<br><strong><u>Science Research Programme</u></strong>
+</p>
+<p>Our Science Research Programme offers students the opportunity to go beyond
+the classroom and immerse themselves in authentic scientific inquiry. Under
+the guidance of mentors, students design and carry out their own research
+projects, applying investigative skills, critical thinking, and creativity
+to explore real-world scientific problems. Through this process, they gain
+hands-on experience with experimental techniques, data analysis, and scientific
+communication, building confidence and a deeper appreciation for how science
+advances knowledge and solves challenges. This programme nurtures curiosity,
+perseverance, and innovation, — qualities that are essential for future
+learning and success.&nbsp;</p>
+<p><strong>Our 2025/2026 Science Research Teams immersed in hands-on experiments, testing ideas and bringing discovery to life</strong>
+</p>
+<p>&nbsp;&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/sciencenew2.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/sciencenew3.png">
+</div>
+<p>
 <br>
 </p>
