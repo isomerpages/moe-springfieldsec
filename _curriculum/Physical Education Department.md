@@ -65,7 +65,8 @@ encouraged participation from students of all abilities.&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/pe3.png">
 </div>
-<p>Our students’ favourite as they were fully engaged in E-sports.</p>
+<p><em>Our students’ favourite as they were fully engaged in E-sports.</em>
+</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/pe4.png">
@@ -75,14 +76,14 @@ encouraged participation from students of all abilities.&nbsp;</p>
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/pe5.png">
 </div>
 <p>
-<br>In collaboration with Springfield Parents Network, game booths and interactive
-activities were planned for our Springfielders.</p>
+<br><em>In collaboration with Springfield Parents Network, game booths and interactive activities were planned for our Springfielders.</em>
+</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/pe6.png">
 </div>
-<p>Our CCA Leaders taking the lead to plan and organise fun activities and
-games for our lower secondary students.&nbsp;</p>
+<p><em>Our CCA Leaders taking the lead to plan and organise fun activities and games for our lower secondary students.&nbsp;</em>
+</p>
 <h4><br>Resilience Run</h4>
 <p>This year's Resilience Run proved to be a testament to our students' determination
 and endurance. The event challenged participants to push their boundaries
@@ -98,7 +99,8 @@ with numerous personal bests achieved.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/pe11.png">
 </div>
-<p>Students sprinting to the finish line.</p>
+<p><em>Students sprinting to the finish line.</em>
+</p>
 <h4>Team Challenge</h4>
 <p>The Team Challenge event embodied our commitment to developing collaborative
 skills and strategic thinking through physical activities. Students worked
@@ -124,7 +126,7 @@ bonds among peers, fostering a positive and supportive school community.</p>
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/pe10.png">
 </div>
 <p>
-<br>Our Principal, Ms Chia, joining a relay team.
+<br><em>Our Principal, Ms Chia, joining a relay team. </em>
 <br>
 </p>
 <p>Throughout these events, our PE department has consistently emphasised
