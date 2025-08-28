@@ -2,7 +2,6 @@ collections:
   curriculum:
     output: true
     order:
-      - Information Communication Technology Department.md
       - Our Curriculum.md
       - English Language & Literature Department.md
       - English Language & Literature Department (OLD).md
@@ -12,3 +11,4 @@ collections:
       - Humanities Department.md
       - Craft & Technology Department.md
       - Physical Education Department.md
+      - Information Communication Technology Department.md
