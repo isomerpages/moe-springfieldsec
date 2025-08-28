@@ -6,10 +6,10 @@ description: ""
 ---
 <h1>Craft &amp; Technology Department</h1>
 <h2>Department Vision</h2>
-<p>• Inquisitive Learners, Creative Innovators</p>
+<p>Inquisitive Learners, Creative Innovators</p>
 <p></p>
 <h2>Department Mission</h2>
-<p>• To develop learners with an appreciation for design, art and culture,
+<p>To develop learners with an appreciation for design, art and culture,
 who are creative and resourceful when solving problems.</p>
 <p></p>
 <h2>Department Direction</h2>
