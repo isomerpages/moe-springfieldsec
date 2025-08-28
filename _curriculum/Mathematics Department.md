@@ -71,4 +71,74 @@ concepts like Algebra and Geometry alive through games and friendly competitions
 </p>
 </li>
 </ul>
+<h4>Signature Learning Experiences</h4>
+<ul>
+<li>
+<p><strong>Sec 1 Math Trail</strong>: Applied math concepts across stations
+around the school. Encourages teamwork and real-life contextual learning.
+<br>
+</p>
+</li>
+<li>
+<p><strong>Sec 2 Statistics in Action</strong>: A hands-on exploration of
+data collection, analysis and presentation using Excel, bringing statistics
+to life.
+<br>
+</p>
+</li>
+<li>
+<p><strong>Sec 3 Inquiry-Based Learning (PRWC)</strong>: Students model real-world
+scenarios, such as analyzing toy company profits using quadratic equations—strengthening
+algebraic understanding and decision-making skills.</p>
+</li>
+</ul>
+<p></p>
+<h4>Technology-Enhanced Learning</h4>
+<ul>
+<li>
+<p>Tools like <strong>Desmos</strong>, <strong>GeoGebra</strong>, and <strong>AI-powered apps</strong> are
+incorporated to build digital literacy and deepen conceptual understanding.
+<br>
+</p>
+</li>
+</ul>
+<h4>Competitions and Enrichment</h4>
+<ul>
+<li>
+<p>Tiered training and exposure to math competitions like SMOPS and SASMO.
+<br>
+</p>
+</li>
+<li>
+<p>Mathletes are identified and coached to grow their potential.</p>
+</li>
+</ul>
+<p></p>
+<h3>Achievements &amp; Highlights</h3>
+<p>Math competitions play a crucial role in the educational development of
+students by enhancing their mathematical abilities, providing motivation
+and recognition, and preparing them to think critically and adaprt quickly.
+Students learn to approach problems from different angles and devise creative
+solutions under time constraints.</p>
+<p><strong>2024 SMGF</strong>
+</p>
+<p><em>2 participants: 1 COP, 1 Gold</em>
+</p>
+<p><strong>2024 SASMO</strong>
+</p>
+<p><em>10 participants: 6 COP, 1 honourable mention, 2 bronze, 1 silver</em>
+</p>
+<p><em>1 participant (from school but signed up on her own) : 1 gold</em>
+</p>
+<p><strong>2024 SMKC</strong>
+</p>
+<p><em>10 participants: 3 COP, 1 honourable mention, 3 bronze, 3 silver</em>
+</p>
+<p><strong>2024 NUS SMO</strong>
+</p>
+<p><em>9 participants</em>
+</p>
+<p>
+<br>
+</p>
 <p></p>
