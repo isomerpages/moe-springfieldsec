@@ -2,7 +2,6 @@ collections:
   curriculum:
     output: true
     order:
-      - Academic Support.md
       - Our Curriculum.md
       - English Language & Literature Department.md
       - Mathematics Department.md
@@ -12,3 +11,4 @@ collections:
       - Craft & Technology Department.md
       - Physical Education Department.md
       - Information Communication Technology Department.md
+      - Academic Support.md
