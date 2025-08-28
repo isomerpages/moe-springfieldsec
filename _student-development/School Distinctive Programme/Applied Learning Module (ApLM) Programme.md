@@ -1,47 +1,104 @@
 ---
 title: Applied Learning Module (ApLM) Programme
 permalink: /applied-learning-moudles-aplm/
-variant: markdown
+variant: tiptap
 description: ""
 third_nav_title: School Distinctive Programme
 ---
-# **Applied Learning Module (ApLM) Programme**
-
-### Rationale
-
-1. To extend and build on the learning objectives of existing Normal course subjects through applied learning; 
-2.	To introduce students to possible course of study in Post Secondary Educational Institutions; and
-3. To expose students to possible career paths.
-
-**Approach**
-<br>i. Learning by doing
-<br>When students learn by doing, they are engaged in hands-on, experiential learning. In doing so, there is greater engagement in the learning process and this results in deeper learning for students as they see connections between theory and practice.  
-<br>ii. Learning about the real world
-<br>Providing students with rich opportunities to acquire and apply knowledge and skills in real-world contexts helps to deepen their learning. This also allows them to see the relevance of their learning, which aids in developing motivation and a sense of purpose in our students.
-
-iii. Learning for life
-<br>Through ‘Learning by doing’ and ‘Learning about the real world’, students will  appreciate  the  complexities  of  reality  and  experience  the  need  to imagine possibilities, take risks, try something new or different, and learn from challenges and setbacks when things do not work according to plan or theory. These are attitudes and dispositions which they can continue to apply as lifelong learners.
-
-
-<b><u>Student-in-Action</u></b>
-![](/images/aplm1.png)
-
-![](/images/aplm2.png)
-
-![](/images/aplm3.png)
-
-![](/images/aplm4.png)
-
-![](/images/aplm5.png)
-
-<b><u>Student's 2024 ApLM Works</u></b>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xM44vA-fBUk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<h1><strong>Applied Learning Module (ApLM) Programme</strong></h1>
+<p>The <strong>Applied Learning Module (ApLM) Programme</strong> enriches the
+Normal course curriculum by offering students hands-on, applied learning
+experiences that deepen learning through real-world relevance and help
+shape their educational and career pathways.&nbsp;
 <br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/t9L_9tkwct0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+</p>
+<p>Its rationale includes:</p>
+<ol>
+<li>
+<p>Extending and building on existing Normal course learning objectives through
+applied learning.</p>
+</li>
+<li>
+<p>Introducing students to possible post-secondary educational courses.</p>
+</li>
+<li>
+<p>Exposing students to various career paths.&nbsp;</p>
+</li>
+</ol>
+<p></p>
+<p>This programme aligns with MOE’s vision of <strong>learning by doing</strong>, <strong>learning about the real world</strong>,
+and <strong>learning for life</strong>, enabling students to connect theory
+with practice, appreciate authenticity in learning, and develop lifelong
+dispositions of resilience and adaptability.&nbsp;
 <br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU8m6DkWYK4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+</p>
+<p><strong><u>Key Programmes &amp; Initiative</u></strong>
 <br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wENh4I9H0C4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-
-[We are Springfielders 3.pdf](/files/We_are_Springfielders_3.pdf)
+</p>
+<p><strong>Programmes</strong>:&nbsp;</p>
+<p></p>
+<ul>
+<li>
+<p><strong>ApLM @ Schools</strong>: 20–25 hour modules delivered by vendor
+partners within school premises. Students may undertake up to three ApLMs
+during their secondary education, with participation strongly encouraged—especially
+in ApLM @ ITE/Poly—to enhance education and career guidance (ECG) through
+immersive learning Ministry of Education.</p>
+</li>
+</ul>
+<p>
+<br>
+</p>
+<p><em>Students-in-Action</em>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/aplm1.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/aplm2.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/aplm3.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/aplm4.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/aplm5.png">
+</div>
+<p><strong><u>Achievements &amp; Highlights</u></strong>
+</p>
+<p></p>
+<p>ApLM participation can positively contribute to students’ <strong>Holistic Development Profile (HDP)</strong>,
+supporting applications via the Early Admission Exercise (EAE) or Direct
+Admission Exercise (DAE).</p>
+<p>
+<br>ApLM modules may award <em>advanced standing credits</em> for ITE Higher
+Nitec programmes, and a <strong>Certificate of Completion</strong> (with
+commendation for high achievers) is issued to students who meet attendance
+and assessment benchmarks.</p>
+<p><strong><u>Student's Past Works</u></strong>
+</p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/xM44vA-fBUk"></iframe>
+</div>
+<p>
+<br>
+</p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/t9L_9tkwct0"></iframe>
+</div>
+<p>
+<br>
+</p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/GU8m6DkWYK4"></iframe>
+</div>
+<p>
+<br>
+</p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/wENh4I9H0C4"></iframe>
+</div>
+<p><a href="/files/We_are_Springfielders_3.pdf" rel="noopener noreferrer nofollow" target="_blank">We are Springfielders 3.pdf</a>
+</p>
