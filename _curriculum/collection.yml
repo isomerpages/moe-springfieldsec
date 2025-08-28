@@ -2,9 +2,9 @@ collections:
   curriculum:
     output: true
     order:
-      - Mathematics Department.md
       - Our Curriculum.md
       - English Language & Literature Department.md
+      - Mathematics Department.md
       - English Language & Literature Department (OLD).md
       - Science Department.md
       - Mother Tongue Language Department.md
