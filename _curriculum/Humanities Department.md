@@ -85,8 +85,19 @@ research, and reflection skills.</p>
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/humans3.png">
 </div>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/humans4.png">
+</div>
+<h4>2022</h4>
+<p>Historical Scene Investigation – Gold award (First place)</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/humans5.png">
+</div>
+<h4>2021</h4>
+<p>Historical Scene Investigation – Silver award with honourable mention</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/humans6.png">
 </div>
 <p></p>
