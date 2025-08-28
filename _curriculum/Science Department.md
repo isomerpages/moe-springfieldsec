@@ -173,6 +173,36 @@ of technology, nature, and conservation.</p>
 <p>(Top 3 photos: Thinking like engineers – our students were testing strategies
 to overcome heat transfer challenges in a hands-on STEM quest.)
 <br>(Bottom 2 photos: Exploring biodiversity at the Lee Kong Chian Natural
-History Museum – discovering Singapore’s natural heritage)
+History Museum – discovering Singapore’s natural heritage)</p>
+<p></p>
+<p><strong>Secondary 3 Science Adventures: ‘Taking Flight and Diving Deep’</strong>
+</p>
+<p></p>
+<p>Science took flight for our Secondary 3 students in the Power Glider Challenge.
+Working in teams, they sketched, cut, assembled, and fine-tuned their own
+glider designs—putting the physics of aerodynamics, forces, and motion
+into action. Each test flight was a lesson in experimentation: some soared
+gracefully, others nose-dived, but all sparked lively discussions on how
+to improve.&nbsp;</p>
+<p>“It was exciting to see our ideas actually fly—literally!” one student
+shared.&nbsp;</p>
+<p>Through trial and error, they developed not just technical know-how but
+also creativity, resilience, and sharp analytical skills.</p>
+<p></p>
+<p>From the skies, learning plunged into the depths with the OceanX Education
+Programme. Onboard a research vessel, students became young marine explorers—observing
+sea life up close, studying water samples, and engaging with scientists
+about conservation challenges.&nbsp;</p>
+<p>“I never realised how much the ocean connects to our daily lives until
+I saw it for myself,” reflected another student.&nbsp;</p>
+<p>This unforgettable experience linked classroom science to real-world environmental
+action, inspiring our students to think globally and act responsibly for
+the planet’s future.
+<br>
+</p>
+<p><strong>Taking flight – students testing their glider designs</strong>
+</p>
+<p>
+<br>
 <br>
 </p>
