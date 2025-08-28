@@ -2,10 +2,10 @@ collections:
   curriculum:
     output: true
     order:
-      - Science Department.md
       - Our Curriculum.md
       - English Language & Literature Department.md
       - Mathematics Department.md
+      - Science Department.md
       - Mother Tongue Language Department.md
       - Humanities Department.md
       - Craft & Technology Department.md
