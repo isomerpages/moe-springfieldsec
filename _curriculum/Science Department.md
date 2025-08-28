@@ -82,6 +82,10 @@ thinking to tackle real-world issues.
 <p>By integrating knowledge, skills, and values, we prepare our students
 to be future-ready citizens who are curious, innovative, and committed
 to making a positive difference in society.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/sciencenew1.png">
+</div>
 <p>
 <br>
 </p>
