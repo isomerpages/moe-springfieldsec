@@ -2,13 +2,13 @@ collections:
   curriculum:
     output: true
     order:
-      - Humanities Department.md
       - Our Curriculum.md
       - English Language & Literature Department.md
       - English Language & Literature Department (OLD).md
       - Mathematics Department.md
       - Science Department.md
       - Mother Tongue Language Department.md
+      - Humanities Department.md
       - Humanities Department (OLD).md
       - Craft & Technology Department.md
       - Physical Education Department.md
