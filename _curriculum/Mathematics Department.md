@@ -66,9 +66,7 @@ concepts like Algebra and Geometry alive through games and friendly competitions
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/mathnew1.png">
 </div>
-<p>
-<br>
-</p>
+<p></p>
 </li>
 </ul>
 <h4>Signature Learning Experiences</h4>
