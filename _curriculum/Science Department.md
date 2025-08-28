@@ -109,6 +109,10 @@ learning and success.&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/sciencenew3.png">
 </div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/sciencenew4.png">
+</div>
 <p>
 <br>
 </p>
