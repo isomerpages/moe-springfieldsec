@@ -85,6 +85,7 @@ research, and reflection skills.</p>
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/humans3.png">
 </div>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/humans4.png">
 </div>
