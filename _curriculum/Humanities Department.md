@@ -69,6 +69,23 @@ where students answer a short reflection on the values or qualities of
 the migrant they studied. This investigation helps students appreciate
 the diverse contributions of early migrants and develop historical reasoning,
 research, and reflection skills.</p>
-<p>
-<br>
-</p>
+<p></p>
+<h3>Achievements &amp; Highlights</h3>
+<h4>2024</h4>
+<p>Historical Scene Investigation - Silver Award</p>
+<h4>2023</h4>
+<p>Historical Scene Investigation - Silver Award</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/humans2.png">
+</div>
+<p>Prove It! Competition – Silver award AND Gold award (top 10)</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/humans3.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/humans4.png">
+</div>
+<p></p>
