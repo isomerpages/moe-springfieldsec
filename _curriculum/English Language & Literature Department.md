@@ -48,7 +48,7 @@ the situation. Students will then present their findings at a school-level
 platform. The programme aims to equip students with a sense of civic-mindedness
 and at the same time, be aware of what is happening with the community.&nbsp;</p>
 <h4><br>Students’ Achievements</h4>
-<p><u>The Queen’s Royal Commonwealth Essay Competition</u>
+<p><strong><u>The Queen’s Royal Commonwealth Essay Competition</u></strong>
 </p>
 <p>Each year, aspiring young writers are asked to submit their pieces in
 response to a theme. The themes are rooted in Commonwealth values, providing
