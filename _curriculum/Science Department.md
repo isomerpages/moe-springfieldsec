@@ -113,6 +113,46 @@ learning and success.&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/sciencenew4.png">
 </div>
+<p><em>The 2024/2025 Science Research Teams were presented their Certificates of Participation in the Science competitions from our Principal, Ms Eleanor Chia.</em>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/sciencenew5.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/sciencenew6.png">
+</div>
+<p><em>Our 2024/2025 Science Research Teams – exploring, experimenting and uncovering new discoveries through hands-on investigations.</em>
+</p>
+<p><strong>Secondary 1’s Epic Science Kick-Off: A STEMazing Race</strong>
+</p>
 <p>
+<br>
+</p>
+<p>The STEMazing Race marked an exciting launch of our Secondary 1 students’
+science journey. Designed to spark curiosity and enthusiasm, this high-energy
+event challenged students to navigate a series of interactive stations
+themed around Science, Technology, Engineering, and Mathematics.</p>
+<p>
+<br>
+</p>
+<p>At each station, teams applied their creativity, problem-solving skills,
+and scientific knowledge to complete hands-on tasks—ranging from quick-fire
+experiments to logic puzzles and design challenges. The race not only brought
+textbook concepts to life but also encouraged collaboration, resilience,
+and strategic thinking.</p>
+<p>
+<br>
+</p>
+<p>By the end of the day, our students had experienced the joy of discovery,
+strengthened their bonds as classmates, and taken their first steps towards
+seeing science as an exciting, real-world adventure. The STEMazing Race
+truly set the tone for a year of exploration, innovation, and teamwork.</p>
+<p>&nbsp;</p>
+<p><strong>Secondary 1 students cracking challenges and discovering the fun of STEM at every station</strong>
+</p>
+<p>
+<br>
 <br>
 </p>
