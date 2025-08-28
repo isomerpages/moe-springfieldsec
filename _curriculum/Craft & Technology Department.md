@@ -23,7 +23,7 @@ essential. Our approach equips students with the skills and mindset to
 navigate challenges with confidence, ensuring they remain <strong>resilient, adaptable, and forward-thinking</strong> in
 an increasingly dynamic environment. &nbsp;</p>
 <p></p>
-<h3><u>Art Unit</u></h3>
+<h4>Art Unit</h4>
 <p>At Springfield Secondary School, we believe Art is a way of seeing, thinking
 and being. Through making and responding to artworks, students engage with
 three big ideas that shape the discipline:</p>
@@ -67,7 +67,7 @@ and the confidence to respond critically to visual culture.&nbsp;</p>
 <p>Our programme aspires to nurture thoughtful, expressive, and culturally
 grounded learners who are ready to shape the world through the arts.</p>
 <p></p>
-<h3><u>Design &amp; Technology Unit</u></h3>
+<h4>Design &amp; Technology Unit</h4>
 <p>In <strong>Design and Technology (D&amp;T)</strong>, students are exposed
 to opportunities for them to develop skills and competencies which are
 inherent in design practices through designing and making. The design process
@@ -144,7 +144,7 @@ of the design process when designing design opportunities</p>
 aesthetic and economic nature</p>
 </li>
 </ul>
-<h3><u>Music Unit</u></h3>
+<h4>Music Unit</h4>
 <p>The Music Programme is thoughtfully designed to <strong>develop every student’s musical capacity to express themselves confidently and meaningfully</strong>.
 Our curriculum focuses on nurturing critical listening, creative expression,
 cultural appreciation, and collaborative performance—core competencies
@@ -185,7 +185,7 @@ identifying elements such as rhythm, texture, form, and timbre. In Secondary
 enhancing both their analytical and interpretive abilities.</p>
 <p>These components support students in developing the ability to <strong>understand, appreciate, and perform music with contextual and stylistic awareness</strong>,
 in line with the expectations of <strong>MOE’s Stage 4 Learning Outcome 2</strong>.</p>
-<h3><u>Nutrition &amp; Food Science Unit</u></h3>
+<h4>Nutrition &amp; Food Science Unit</h4>
 <p>The <strong>Food and Consumer Education (FCE)</strong> programme for lower
 secondary students focuses on nurturing health-conscious and discerning
 consumers. It equips them with crucial life skills in food and nutrition,
