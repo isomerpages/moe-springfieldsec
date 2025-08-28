@@ -211,8 +211,103 @@ learning journeys to food manufacturing facilities or culinary institutes,
 offering insights into real-world applications of food science. Students
 can further hone their skills through external cooking competitions, providing
 a dynamic platform to apply their knowledge and creativity.</p>
-<p>
+<p></p>
+<p><strong><em><u>C&amp;T Learning Fiesta&nbsp;</u></em></strong>
+</p>
+<p>Every year, sometime in October, our Secondary 1 students embark on an
+unforgettable interdisciplinary adventure involving Art, Music, D&amp;T,
+and NFS as part of the C&amp;T Learning Fiesta. For example, last year’s
+experience—guided by popular Japanese and Korean-inspired cultural themes—was
+a celebration of collaboration, creativity, and cross-cultural appreciation.</p>
+<p></p>
+<p>This was no ordinary project—students took on the role of young designers
+for a fictional Maki-San sushi launch, crafting packaging for a brand-new
+“Sushi Bake” dish. They worked in teams, combining their artistic, design,
+culinary and musical expressions while developing 21st Century Competencies
+such as communication, collaboration and information skills.
 <br>
+</p>
+<p>The C&amp;T Learning Fiesta enabled students to discover connections between
+Art, Design and Technology, Food and Consumer Education and Music. Through
+every crease fold, sushi bake, print pull and music beat, students proved
+that learning is most powerful when it is actively shared, interdisciplinary
+and joyful.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/cnt1.png">
+</div>
+<p><strong><em><u>Learning Beyond the Classroom: Nutrition and Food Science</u></em></strong>
+</p>
+<p>In Nutrition and Food Science, students step out of the classroom and
+into the real world, picking up essential life skills along the way. From
+understanding food commodities to budgeting and planning meals based on
+the themes: <em><u>Food from Movies</u></em>, students embark on an exciting
+and meaningful journey.
+<br>
+</p>
+<p>For some, visiting a supermarket to weigh and select loose groceries was
+a first. Along the way, they explored various food commodities and where
+our food comes from, discovering how global the food supply chain really
+is. With a fixed budget in hand, students collaborated to create dishes
+that were not only nutritious and delicious, but also thoughtful and inventive.
+<br>
+</p>
+<p>Back in the kitchen, they brought their ideas to life—executing recipes,
+applying both new and familiar techniques, and pushing the boundaries of
+what they thought they could do. The results were impressive, and the experience
+was rich with learning.</p>
+<p></p>
+<p>Through this hands-on adventure, students gained confidence, creativity,
+and a deeper appreciation for the everyday skills that make a big difference.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/cnt2.png">
+</div>
+<p>
+<br><strong><em><u>C&amp;T Retreat — Learning never stops for our teachers!</u></em></strong>
+</p>
+<p>The Craft &amp; Technology department embarked on an inspiring retreat
+filled with creativity, innovation, and a dash of sweetness. Our journey
+began at <strong>Vivita</strong>, where we explored how design thinking
+can be brought to life through hands-on experiences. We saw firsthand how
+students could be empowered to brainstorm, prototype, and create through
+a variety of engaging mediums. The highlight? Designing our very own keychains,
+earrings, and bookmarks by upcycling plastic bags—turning waste into wonder!</p>
+<p>The adventure continued at <strong>Ice Cream Chefs</strong>, where we treated
+ourselves to a behind-the-scenes look at the science of ice cream. From
+gelato to sorbet, we explored the different types of frozen delights and
+learned about the entrepreneurial journey behind the business. The owner’s
+candid sharing gave us fresh insights we hope to pass on to our students.</p>
+<p>Beyond the learning, what made the day special was the camaraderie. Over
+sweet treats and warm conversations, we strengthened our bonds and left
+with hearts full and minds brimming with new ideas for our classrooms.
+A retreat to remember—equal parts fun, food, and future-ready inspiration!</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/cnt3.png">
+</div>
+<h2>Achievements &amp; Highlights</h2>
+<p><strong><em><u>ITE IgnITE Challenge</u></em></strong>
+</p>
+<p>The Ignite Skills Challenge is an annual competition that introduces students
+to technical skills and provides insights into courses offered by ITE.
+Designed to be engaging and hands-on, the competition allows students to
+learn in a fun and memorable way.</p>
+<p>This year, 36 of our Secondary 3NA and NT Craft &amp; Technology students
+participated in 6 exciting challenges across three ITE campuses: Aroma
+Fantasy Challenge, Logistics Challenge, AirITE Adventure Awaits Challenge,
+Eggcellent Eggdiction, i Light ITE, and Crisis Management.</p>
+<p>We are proud to announce that 3 teams excelled and secured a place in
+the IgnITE Skills Finals. Their dedication and hard work have placed them
+among the Top 10 Teams in their respective categories:</p>
+<p>· &nbsp; &nbsp; &nbsp; &nbsp; Aroma Fantasy Challenge</p>
+<p>· &nbsp; &nbsp; &nbsp; &nbsp; Eggcellent Eggdiction</p>
+<p>· &nbsp; &nbsp; &nbsp; &nbsp; i Light ITE</p>
+<p>Congratulations to our students on their achievements!</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/cnt5.png">
+</div>
+<p>
 <br>
 </p>
 <p></p>
