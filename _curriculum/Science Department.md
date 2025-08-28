@@ -149,6 +149,30 @@ truly set the tone for a year of exploration, innovation, and teamwork.</p>
 <p><strong>Secondary 1 students cracking challenges and discovering the fun of STEM at every station</strong>
 </p>
 <p>
+<br><strong>Secondary 2 STEM Quests: From Robots to Rainforests</strong>
 <br>
+</p>
+<p>Our Secondary 2 students took their learning to the next level through
+the <strong>Explore@STEM</strong> programme—a hands-on challenge that blended
+creativity, technology, and science. Tasked with programming mBots to transport
+an ice cube safely across a bridge, students had to think like engineers
+and scientists, applying their understanding of heat transfer and insulation
+while devising strategies to minimise melting. The activity not only reinforced
+scientific concepts but also strengthened critical thinking, problem-solving,
+and teamwork skills in a fun, competitive setting.</p>
+<p></p>
+<p>To deepen their appreciation for the natural world, students also stepped
+out of the classroom for immersive learning journeys. At the <strong>Lee Kong Chian Natural History Museum</strong>,
+they explored Singapore’s rich biodiversity and gained insights into conservation
+efforts. The <strong>Biodiversity Learning Journey at Bird Paradise</strong> offered
+close encounters with diverse bird species and their habitats, reinforcing
+lessons on interactions within ecosystems. These authentic experiences
+brought science to life, inspiring students to see the interconnectedness
+of technology, nature, and conservation.</p>
+<p>&nbsp;</p>
+<p>(Top 3 photos: Thinking like engineers – our students were testing strategies
+to overcome heat transfer challenges in a hands-on STEM quest.)
+<br>(Bottom 2 photos: Exploring biodiversity at the Lee Kong Chian Natural
+History Museum – discovering Singapore’s natural heritage)
 <br>
 </p>
