@@ -45,8 +45,8 @@ foster mutual respect, and strengthen bonds across cultures.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/mtnew1.png">
 </div>
-<h3><br>Achievements &amp; Highlights </h3>
-<h4><strong>2025</strong></h4>
+<h3><br>Achievements &amp; Highlights</h3>
+<h4>2025</h4>
 <ul>
 <li>
 <p><em>National Secondary Chinese Poetry Writing Competition 2025</em>: <strong>3rd Individual Placing Award</strong> achieved.
@@ -62,7 +62,7 @@ foster mutual respect, and strengthen bonds across cultures.</p>
 <p><em>8th National Text Recitation Competition 2025</em>: <strong>Bronze Award</strong> attained.</p>
 </li>
 </ul>
-<h4><strong>2024</strong></h4>
+<h4>2024</h4>
 <ul>
 <li>
 <p><em>National Secondary School Chinese Creative Writing Competition (Xin Lei Jiang)</em>: <strong>Chen Yi Meng</strong> from
@@ -88,7 +88,7 @@ foster mutual respect, and strengthen bonds across cultures.</p>
 1D received the <strong>Bronze Award</strong>.</p>
 </li>
 </ul>
-<h4><strong>2023</strong></h4>
+<h4>2023</h4>
 <ul>
 <li>
 <p><em>National Secondary School On-the-Spot Writing Competition</em>: <strong>First Prize</strong> and <strong>Merit Awards</strong> in
