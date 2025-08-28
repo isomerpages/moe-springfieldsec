@@ -169,12 +169,11 @@ close encounters with diverse bird species and their habitats, reinforcing
 lessons on interactions within ecosystems. These authentic experiences
 brought science to life, inspiring students to see the interconnectedness
 of technology, nature, and conservation.</p>
-<p>&nbsp;</p>
+<p></p>
 <p>(Top 3 photos: Thinking like engineers – our students were testing strategies
 to overcome heat transfer challenges in a hands-on STEM quest.)
 <br>(Bottom 2 photos: Exploring biodiversity at the Lee Kong Chian Natural
 History Museum – discovering Singapore’s natural heritage)</p>
-<p></p>
 <p><strong>Secondary 3 Science Adventures: ‘Taking Flight and Diving Deep’</strong>
 </p>
 <p></p>
