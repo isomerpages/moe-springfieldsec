@@ -1,62 +1,113 @@
 ---
 title: Mother Tongue Language Department
-permalink: /about-us/our-organisation/mother-tongue-language-department/
+permalink: /mother-tongue-language-department/
+variant: tiptap
 description: ""
-variant: markdown
 ---
-# **Mother Tongue Language Department**
-
-**Head of Department**    
-Mdm Ang Sor Cheng  
-Email:&nbsp;[ang_sor_cheng@moe.edu.sg](mailto:ang_sor_cheng@moe.edu.sg)
-
-**Senior Teacher**    
-Mdm Nurisha Bte Hamid<br>
-Email:&nbsp;[nurisha_hamid@moe.edu.sg](mailto:nurisha_hamid@moe.edu.sg)
-
-
-
-### Curriculum &amp; Assessments:
-
-
-We offer Basic Chinese Language, Basic Malay Language, Chinese Language, Malay Language and Higher Chinese Language.
-
-
-###  Department Programmes:
-
-**Reading Programme**  
-In our continuous effort to inculcate good reading habits, suitable reading materials are selected for the students. Reading packages and activities are designed to enhance the reading experience.  
-
-**Podcast Programme**    
-Our Podcast Programme aims to improve students’ oral speaking and listening skill through authentic experience.
-
-
-**Mother Tongue Language (MTL) Fortnight**    
-With a variety of hands-on activities, the Mother Tongue Fortnight Programme provides an opportunity for students to gain a deeper understanding of their culture and heritage and to use the MTL .
-
-
-**Intensive Revision Programme**  
-Students taking the ‘O’ level Mother Tongue Language will be involved in the Intensive Revision Programme. This programme aims to further equip students with the necessary skills for GCE ‘O’ level paper in June. It will take place during the last 2 weeks in Term 2.
-
-**Recent Achievements**   
-***2023***
-<br>Lower secondary First and Merit Awards, upper secondary Merit Awards in the National Secondary School On-the-Spot Writing Competition.<br>
-Third in both lower secondary and upper secondary in the National Secondary Chinese Creative Writing Competition“Xin Lei Jiang".<br>
-Third in the National Secondary Chinese Creative Writing Competition“Xin Lei Jiang" - Poetry category.
-
-***2022***
-<br>First in the 7th National Secondary Chinese Poetry Writing Competition
-First in the National Secondary Chinese Creative Writing Competition “Xin Lei Jiang"
-First in Creative Writing Competition with Photography
-Bronze in 5th Chinese Recital Competition (Preliminary round) for individual and group category.
-
-***2021***
-<br>Merit Award in the 6th National Secondary Chinese Poetry Writing Competition 2021 Gold Award in the National Secondary Chinese Creative Writing Competition “Xin Lei Jiang"
-
-
-
-![](/images/mothertongue1.JPG)
-
-![](/images/mothertongue2.JPG)
-
-![](/images/mothertongue3.JPG)
+<h1>Mother Tongue Language Department</h1>
+<p>The Mother Tongue Department seeks to develop students’ proficiency in
+their Mother Tongue while going beyond academic mastery to foster its practical
+use in everyday life. Through engaging and meaningful learning experiences,
+students gain a deeper appreciation of their cultural heritage, values,
+and traditions. In doing so, they build greater confidence and cultural
+awareness, equipping them to participate thoughtfully and respectfully
+in a multicultural society.</p>
+<p></p>
+<p>Subjects offered include G1/G2/G3 Chinese Language, Higher Chinese Language
+and G1/G2/G3 Malay Language.</p>
+<h4><br>Reading Programme</h4>
+<p>As part of our ongoing efforts to cultivate strong reading habits, carefully
+selected materials are provided to engage students in meaningful reading.
+Customised reading packages and activities are designed to enrich their
+reading experience and promote language development.</p>
+<h4>Podcast Programme</h4>
+<p>The Podcast Programme provides students with authentic opportunities to
+develop their oral communication and listening skills. By creating and
+engaging with podcasts, students learn to express themselves more clearly
+and confidently.</p>
+<h4>Mother Tongue Language (MTL) Fortnight</h4>
+<p>The MTL Fortnight offers students a range of hands-on activities that
+deepen their appreciation of culture and heritage. It also provides an
+immersive environment for students to actively use their Mother Tongue
+in creative and practical ways.</p>
+<h4>Intensive Revision Programme</h4>
+<p>Targeted at students taking the GCE ‘O’ Level Mother Tongue examination,
+the Intensive Revision Programme aims to strengthen their readiness and
+language skills through focused revision. Held during the last two weeks
+of Term 2, the programme equips students with strategies to perform confidently
+in the national examination.</p>
+<h4>Festive Celebrations: Spring Festival &amp; Hari Raya</h4>
+<p>Students come together to celebrate the rich cultural diversity of our
+community through the Spring Festival and Hari Raya celebrations. These
+festive occasions provide meaningful opportunities to appreciate traditions,
+foster mutual respect, and strengthen bonds across cultures.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/mtnew1.png">
+</div>
+<h3><br>Achievements &amp; Highlights</h3>
+<h4>2025</h4>
+<ul>
+<li>
+<p><em>National Secondary Chinese Poetry Writing Competition 2025</em>: <strong>3rd Individual Placing Award</strong> achieved.
+<br>
+</p>
+</li>
+<li>
+<p><em>National Secondary Schools Translation Competition 2025</em>: <strong>Merit Award</strong> received.
+<br>
+</p>
+</li>
+<li>
+<p><em>8th National Text Recitation Competition 2025</em>: <strong>Bronze Award</strong> attained.</p>
+</li>
+</ul>
+<h4>2024</h4>
+<ul>
+<li>
+<p><em>National Secondary School Chinese Creative Writing Competition (Xin Lei Jiang)</em>: <strong>Chen Yi Meng</strong> from
+3F won <strong>Second Place</strong>.
+<br>
+</p>
+</li>
+<li>
+<p><em>Chinese Creative Writing with Photography Competition 2024</em>: <strong>Lin Ziye</strong> from
+2D received a <strong>Merit Award</strong>, and <strong>Liu Ziying</strong> from
+2D won <strong>Second Place</strong>.
+<br>
+</p>
+</li>
+<li>
+<p><em>National Bilingual Creative Writing Competition</em>: <strong>Liu Ziying</strong> from
+2D was awarded the <strong>"Feiyue" Distinction Award</strong>.
+<br>
+</p>
+</li>
+<li>
+<p><em>Secondary School National Text Recital Competition</em>: <strong>Qiu Junyang</strong> from
+1D received the <strong>Bronze Award</strong>.</p>
+</li>
+</ul>
+<h4>2023</h4>
+<ul>
+<li>
+<p><em>National Secondary School On-the-Spot Writing Competition</em>: <strong>First Prize</strong> and <strong>Merit Awards</strong> in
+the <em>Lower Secondary</em> category; <strong>Merit Awards</strong> in the <em>Upper Secondary</em> category.
+<br>
+</p>
+</li>
+<li>
+<p><em>National Secondary Chinese Creative Writing Competition “Xin Lei Jiang”</em>: <strong>Third Place</strong> in
+both the <em>Lower Secondary</em> and <em>Upper Secondary</em> categories.
+<br>
+</p>
+</li>
+<li>
+<p><em>National Secondary Chinese Creative Writing Competition “Xin Lei Jiang” – Poetry Category</em>: <strong>Third Place</strong>.</p>
+</li>
+</ul>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/mtnew2.png">
+</div>
+<p></p>

@@ -1,84 +1,234 @@
 ---
 title: Science Department
-permalink: /about-us/our-organisation/science-department/
+permalink: /science-department/
+variant: tiptap
 description: ""
-variant: markdown
 ---
-# **Science Department**
-
-**Head of Department**  
-Mrs Norain Johari    
-Email:&nbsp;[norain_anuar@moe.edu.sg_](mailto:norain_anuar@moe.edu.sg)
-
-**Level Head**    
-Miss Lim Hui Leng    
-Email:&nbsp;[lim_hui_leng_b@moe.edu.sg](mailto:lim_hui_leng_b@moe.edu.sg)
-
-
-### Department Goals/Objectives:
-
-*   To develop scientific mindsets, inquiry and practical knowledge of science and its applications to prepare students for a fast-changing and globalised world of the 21st century.
-*   To impart excitement and value of Science to students.
-
-
-### Department Programmes:
-
-#### Empowering Springfielders to Learn for Life to be Future Leaders
-
-##### 1) Science Research Programme #####
-
-The Science Research Programme is offered to selected Secondary 1 to 3 students who have demonstrated interest in and aptitude for scientific research. It provides the opportunity for these students to participate actively in research projects independently and responsibly, under the guidance of the Science Research Mentors. 
-
-The programme aims to promote an appreciation of the methods, culture and ethos of research through immersion of scientific inquiry and innovation. The research teams will thereon communicate their research findings at various Science Research competitions.
-
-![](/images/phonto.png)
-
-[Science Research Programme 2022 A*STAR-VJC Science Fair Video](https://www.youtube.com/watch?v=jhZdWDqxOtI)
-[Science Research Programme 2022 - 15th Singapore National Crystal Growing Challenge](https://www.youtube.com/watch?v=p9CpARjh00g)
-[cience Research Programme 2022 - Eat Your Farm Competition](https://www.youtube.com/watch?v=50ireutv3oo)
-
-##### 2) Secondary 1 Science and Mathematics Escape Room #####
-
-The Science and Mathematics Escape Room is a collaborative effort of the two departments to promote applied learning of scientific and mathematical concepts amongst the Secondary 1 students.
-
-Using the knowledge and skills acquired from their Science and Mathematics lessons, students applied their learning to solve integrated Science and Mathematics tasks of varying difficulties. Each task solved will unlock a clue for students to unravel the mystery of the “ZOMBI-22 virus” and find the identity of “Patient Zero” to escape from the laboratory within the shortest time possible. 
-
-The Science and Mathematics Escape Room programme aims to engage the students by making the learning of the Sciences and Mathematics fun, exciting and meaningful. The activities and tasks that the students participated in help develop critical thinking skills and problem solving skills that are key in today's world. This programme is also one of our school's unique approaches towards formative assessments and applied learning in both Science and Mathematics.
-
-
-![](/images/science%20collation3.png)
-
-
-##### 3) Secondary 2 STEM Fiesta #####
-
-The STEM Fiesta is a specially curated programme to engage and ignite the interest and passion of our Secondary 2 students in Science, Technology, Engineering and Mathematics (STEM). This Fiesta provides opportunities for students to explore the wonders of STEM, through exciting and engaging activities that enable them to apply scientific knowledge in the areas of Biology, Chemistry, Physics and Nutrition and Food Science (NFS).
-
-At the Biology station, students applied concepts of the ecosystem to build a terrarium. At the Chemistry station, students investigated how changes in pH denatures milk protein and turns milk into solid casein. At the Physics station, students explored the concepts of gravitational potential energy while creating their own paper roller coaster. At the Nutrition and Food Science station, students designed and made their unique 3D jelly cake at the school kitchen. The STEM Fiesta has provided our students a platform to appreciate STEM and experience the joy of learning
-
-![](/images/science%20collation4.png)
-
-
-##### 4) Secondary 3 Kite Programme #####
-
-Springfield has made inroads into interdisciplinary approaches in learning. The Science and Mathematics departments have combined their efforts in ensuring that students are able to have a holistic view of their subjects.
-
-Kite-making and kite-flying during post-exam was an activity where students explored the Mathematical concepts of quadrilaterals and Physics concepts of the different forces that act on the kite which allows it to ascend: tension, thrust, drag, lift and gravity.
-
-![](/images/science%20collation5.png)
-
-![](/images/science%20collation6.png)
-
-
-
-### **Empowering Staff to Inspire and Aspire**
-
-We strive to engage our diverse learners through novel and experiential activities to spark curiosity in Science. Through facilitating learning in a positive classroom environment, we inspire and motivate our students to apply core ideas, practices and ethos of Science in their daily lives. 
-
-As professional educators, we continuously take on the mindset of life-long learners, engaging in professional development to stay relevant and effective. We also value the sharing of good practices within learning communities and professional networks both locally and internationally. Platforms where our teachers have learned and shared among educators include:
-
--	Singapore International Science Teachers’ Conference (SISTC)
--	Singapore Learning Designers Circle (SgLDC)
--	Professional Learning Teams (PLT)
--	Department Engagement and Learning Day
-
-![](/images/science%20collation7.png)
+<h1>Science Department</h1>
+<h2>Vision</h2>
+<p>Inspiring curious minds to explore, innovate, and care for our world through
+Science.</p>
+<p></p>
+<h4>Aims of Science Department:</h4>
+<ul>
+<li>
+<p><strong>Connect Science to Life</strong>
+</p>
+<p>Help students appreciate the practical applications of science in everyday
+life and the wider world.</p>
+<p></p>
+</li>
+<li>
+<p><strong>Nurture Lifelong Interest in Science</strong>
+</p>
+<p>Cultivate curiosity and deepen students’ passion for Science, preparing
+them for future learning and careers.</p>
+<p></p>
+</li>
+<li>
+<p><strong>Build Scientific Literacy for the Future</strong>
+</p>
+<p>Develop informed, innovative, and adaptable citizens who can harness scientific
+knowledge to seize opportunities in the 21st century.</p>
+<p></p>
+</li>
+<li>
+<p><strong>Empower Problem-Solving</strong>
+</p>
+<p>Equip students with critical, adaptive and inventive thinking skills to
+approach, analyse, and solve problems systematically and creatively.</p>
+</li>
+</ul>
+<p>
+<br>At Springfield Secondary School, the Science Department is dedicated to <strong>nurturing inquiring minds to explore, innovate, and care for our world through a robust and dynamic Science programmes</strong>.
+We believe Science is not just a subject, but a way of thinking, questioning,
+and making sense of the world.</p>
+<p></p>
+<p>Science Curriculum in Springfield Secondary is guided by three key pillars:
+<br>
+</p>
+<p><strong>Core Ideas of Science</strong> – Students learn to connect scientific
+concepts to real life, appreciating the relevance of Science in everyday
+contexts. They develop scientific literacy to navigate the challenges of
+the 21st century and contribute meaningfully to society.</p>
+<p></p>
+<p><strong>Practices of Science</strong> – Through hands-on experiments, investigations,
+and collaborative projects, students cultivate curiosity, develop a lifelong
+interest in Science, and sharpen their problem-solving skills.
+<br>
+</p>
+<p><strong>Values, Ethics, and Attitudes</strong> – We aim to nurture informed,
+responsible, and ethical learners who can apply their scientific understanding
+thoughtfully. Students are empowered with critical, adaptive, and inventive
+thinking skills to approach problems systematically and creatively.</p>
+<p></p>
+<p>Our programmes, lessons, and enrichment activities are designed to:</p>
+<p></p>
+<p><strong>Connect Science to Life</strong> – Help students see the practical
+applications of science in the world around them.
+<br>
+</p>
+<p><strong>Nurture Lifelong Interest in Science</strong> – Spark curiosity
+and foster a passion for discovery.</p>
+<p></p>
+<p><strong>Build Scientific Literacy for the Future</strong> – Equip students
+to be innovative, adaptable, and ready for opportunities in a rapidly changing
+world.</p>
+<p></p>
+<p><strong>Empower Problem-Solving</strong> – Develop analytical and creative
+thinking to tackle real-world issues.
+<br>
+</p>
+<p>By integrating knowledge, skills, and values, we prepare our students
+to be future-ready citizens who are curious, innovative, and committed
+to making a positive difference in society.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/sciencenew1.png">
+</div>
+<h4><br>Science Research Programme</h4>
+<p>Our Science Research Programme offers students the opportunity to go beyond
+the classroom and immerse themselves in authentic scientific inquiry. Under
+the guidance of mentors, students design and carry out their own research
+projects, applying investigative skills, critical thinking, and creativity
+to explore real-world scientific problems. Through this process, they gain
+hands-on experience with experimental techniques, data analysis, and scientific
+communication, building confidence and a deeper appreciation for how science
+advances knowledge and solves challenges. This programme nurtures curiosity,
+perseverance, and innovation, — qualities that are essential for future
+learning and success.&nbsp;</p>
+<p><strong>Our 2025/2026 Science Research Teams immersed in hands-on experiments, testing ideas and bringing discovery to life</strong>
+</p>
+<p>&nbsp;&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/sciencenew2.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/sciencenew3.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/sciencenew4.png">
+</div>
+<p><em>The 2024/2025 Science Research Teams were presented their Certificates of Participation in the Science competitions from our Principal, Ms Eleanor Chia.</em>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/sciencenew5.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/sciencenew6.png">
+</div>
+<p><em>Our 2024/2025 Science Research Teams – exploring, experimenting and uncovering new discoveries through hands-on investigations.</em>
+</p>
+<h4>Secondary 1’s Epic Science Kick-Off: A STEMazing Race</h4>
+<p></p>
+<p>The STEMazing Race marked an exciting launch of our Secondary 1 students’
+science journey. Designed to spark curiosity and enthusiasm, this high-energy
+event challenged students to navigate a series of interactive stations
+themed around Science, Technology, Engineering, and Mathematics.
+<br>
+</p>
+<p>At each station, teams applied their creativity, problem-solving skills,
+and scientific knowledge to complete hands-on tasks—ranging from quick-fire
+experiments to logic puzzles and design challenges. The race not only brought
+textbook concepts to life but also encouraged collaboration, resilience,
+and strategic thinking.
+<br>
+</p>
+<p>By the end of the day, our students had experienced the joy of discovery,
+strengthened their bonds as classmates, and taken their first steps towards
+seeing science as an exciting, real-world adventure. The STEMazing Race
+truly set the tone for a year of exploration, innovation, and teamwork.</p>
+<p></p>
+<p><strong>Secondary 1 students cracking challenges and discovering the fun of STEM at every station</strong>
+</p>
+<h4><br>Secondary 2 STEM Quests: From Robots to Rainforests<br></h4>
+<p>Our Secondary 2 students took their learning to the next level through
+the <strong>Explore@STEM</strong> programme—a hands-on challenge that blended
+creativity, technology, and science. Tasked with programming mBots to transport
+an ice cube safely across a bridge, students had to think like engineers
+and scientists, applying their understanding of heat transfer and insulation
+while devising strategies to minimise melting. The activity not only reinforced
+scientific concepts but also strengthened critical thinking, problem-solving,
+and teamwork skills in a fun, competitive setting.</p>
+<p></p>
+<p>To deepen their appreciation for the natural world, students also stepped
+out of the classroom for immersive learning journeys. At the <strong>Lee Kong Chian Natural History Museum</strong>,
+they explored Singapore’s rich biodiversity and gained insights into conservation
+efforts. The <strong>Biodiversity Learning Journey at Bird Paradise</strong> offered
+close encounters with diverse bird species and their habitats, reinforcing
+lessons on interactions within ecosystems. These authentic experiences
+brought science to life, inspiring students to see the interconnectedness
+of technology, nature, and conservation.</p>
+<p></p>
+<p>(Top 3 photos: Thinking like engineers – our students were testing strategies
+to overcome heat transfer challenges in a hands-on STEM quest.)
+<br>(Bottom 2 photos: Exploring biodiversity at the Lee Kong Chian Natural
+History Museum – discovering Singapore’s natural heritage)</p>
+<h4>Secondary 3 Science Adventures: ‘Taking Flight and Diving Deep’</h4>
+<p></p>
+<p>Science took flight for our Secondary 3 students in the Power Glider Challenge.
+Working in teams, they sketched, cut, assembled, and fine-tuned their own
+glider designs—putting the physics of aerodynamics, forces, and motion
+into action. Each test flight was a lesson in experimentation: some soared
+gracefully, others nose-dived, but all sparked lively discussions on how
+to improve.&nbsp;</p>
+<p>“It was exciting to see our ideas actually fly—literally!” one student
+shared.&nbsp;</p>
+<p>Through trial and error, they developed not just technical know-how but
+also creativity, resilience, and sharp analytical skills.</p>
+<p></p>
+<p>From the skies, learning plunged into the depths with the OceanX Education
+Programme. Onboard a research vessel, students became young marine explorers—observing
+sea life up close, studying water samples, and engaging with scientists
+about conservation challenges.&nbsp;</p>
+<p>“I never realised how much the ocean connects to our daily lives until
+I saw it for myself,” reflected another student.&nbsp;</p>
+<p>This unforgettable experience linked classroom science to real-world environmental
+action, inspiring our students to think globally and act responsibly for
+the planet’s future.
+<br>
+</p>
+<p><strong>Taking flight – students testing their glider designs</strong>
+<br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/sciencenew7.png">
+</div>
+<p><em>Our young marine explorers aboard the OceanXplorer research vessel – Science learning beyond the classroom.</em>
+</p>
+<h4>Secondary 4’s Day at the Museum: Time-Traveling Through Evolution</h4>
+<p>Our Secondary 4 Biology students traded their classroom for the captivating
+halls of the Lee Kong Chian Natural History Museum—and stepped straight
+into Earth’s storybook. Surrounded by towering dinosaur skeletons, preserved
+specimens, and intricate fossil displays, they explored the incredible
+journey of life through time.</p>
+<p>From ancient sea creatures to modern-day marvels, every exhibit brought
+the concepts of evolution to life. Students examined how species adapt,
+survive, and diversify, seeing first-hand the evidence that has shaped
+our understanding of life’s history.&nbsp;</p>
+<p>“It’s like walking through millions of years in a single afternoon,” one
+student shared, eyes wide with excitement.</p>
+<p>More than just a field trip, this was a chance to connect textbook theories
+to real, tangible examples—making evolution not just a chapter in their
+syllabus, but a living, breathing story. The visit left our budding biologists
+inspired, curious, and ready to dig deeper into the mysteries of life on
+Earth.</p>
+<p></p>
+<p><strong>Hands-on discovery – examining preserved specimens and fossils to trace adaptation and survival.</strong>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/sciencenew8.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/sciencenew9.png">
+</div>
+<p><em>Face to face with giants – towering dinosaur skeletons sparking curiosity about evolution</em>
+<br>
+<br>
+</p>

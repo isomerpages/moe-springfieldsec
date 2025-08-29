@@ -1,42 +1,135 @@
 ---
 title: Physical Education Department
-permalink: /about-us/our-organisation/physical-education-department/
+permalink: /physical-education-department/
+variant: tiptap
 description: ""
-variant: markdown
 ---
-# **Physical Education Department**
-
-**Head of Department**  
-Mr Marcus Lau Kok Hiong  
-Email: [lau_kok_hiong@moe.edu.sg_](mailto:lau_kok_hiong@moe.edu.sg)  
-
-### Introduction
-
-Physical well-being has far-reaching and universal implications for today’s day and age. It is a balance between physical activities and sound health practices. It encapsulates the foundations of Science and Arts. It underpins our lifestyles choices and our ability to maintain wellness in every possible dimension of our lives. Like most good things we know of in life, physical well-being is easier said than done – there is a vast difference between knowing it and actually doing it. In Springfield, we are committed to not just taking the first step towards this goal but making quantum leaps toward unleashing the true potential of our existence. We invite you to join us on this journey.
-
-
-### Our Objectives
-
-*   Equip students with the knowledge and understanding of good personal and social health practices.
-*   Instill the importance of physical activities and body fitness.  
-*   Provide students with the avenue and opportunity to discover and exploit their talents and potential in a variety of sports and physical activities.
-*   Enable responsible thinking, self-expression and character development through experiential learning in physical activities.
-*   Cater for elements of fun, play, and recreation as part of every pupil’s development.
-
-
-### General Outline
-All pupils undergo the fundamentals of fitness & conditioning and health education. Movement concepts are introduced through Springfield’s unique sport climbing programme. Intra-school games, known as Team Challenge are organized for the pupils to promote teamwork and life-long sports. Running is also part of the school’s culture..
-
-
-![](/images/PE1.png)
-
-The Lower Secondary pupils are provided with a core programme of Sports Climbing and Team sports -  Netball, Floorball, Basketball, and Football. Pupils in Secondary Two are given certification in Sports Climbing Level 1.
-
-![](/images/PE2.png)
-
-Upper Secondary pupils focus on game concepts of various sports to gain skills and knowledge of a spectrum of sports, ranging from touch rugby to badminton. Sec 3 students also go through outdoor education modules to prepare themselves for the MOE-OBS Cohort Camp.
-
-
-### Assessment
-
-Students are assessed on game concepts of various sports ranging from territorial to net barrier games. Furthermore, there is a component on positive traits as physical education lessons are the best platform for character development.
+<h1>Physical Education Department</h1>
+<p><strong>At Springfield, we believe that physical education is essential to nurturing our students’ overall well-being and character.</strong>
+</p>
+<p>Our PE programme goes beyond physical fitness. We aim to instil important
+values such as resilience, teamwork, discipline, and respect. We also emphasise
+healthy living and eating habits, helping students make informed choices
+that support lifelong health. Safety is at the heart of all our activities,
+ensuring that students learn, play, and grow in a secure and supportive
+environment.</p>
+<p>We understand that while knowing the importance of well-being is easy,
+truly living it requires guidance, practice, and commitment. At Springfield,
+we are dedicated to empowering our students to take meaningful steps toward
+healthy, balanced, and values-driven lives. We warmly invite you to join
+us on this journey to unlock every student’s full potential.</p>
+<p><strong>Our Objectives</strong>
+</p>
+<ul>
+<li>
+<p>Equip students with the knowledge and understanding of good personal and
+social health practices.</p>
+</li>
+<li>
+<p>Instill the importance of physical activities and body fitness.</p>
+</li>
+<li>
+<p>Provide students with the avenue and opportunity to discover and exploit
+their talents and potential in a variety of sports and physical activities.</p>
+</li>
+<li>
+<p>Enable responsible thinking, self-expression and character development
+through experiential learning in physical activities.</p>
+</li>
+<li>
+<p>Cater for elements of fun, play, and recreation as part of every pupil’s
+development.</p>
+</li>
+</ul>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/pe1.png">
+</div>
+<p>All students undergo the fundamentals of fitness &amp; conditioning and
+health education. Movement concepts are introduced through Springfield’s
+unique sport climbing programme. Intra-school games, known as Team Challenge
+are organized for the students to promote teamwork and lifelong sports.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/pe2.png">
+</div>
+<p></p>
+<h4>Springfield Carnival</h4>
+<p>Our inaugural Springfield Carnival transformed the school grounds into
+a vibrant hub of sporting activities and friendly competition. Students
+participated in an array of traditional sports and novel games, fostering
+both competitive spirit and camaraderie. The carnival featured innovative
+station games, inter-class competitions, and exciting relay events that
+encouraged participation from students of all abilities.&nbsp;</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/pe3.png">
+</div>
+<p><em>Our students’ favourite as they were fully engaged in E-sports.</em>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/pe4.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/pe5.png">
+</div>
+<p>
+<br><em>In collaboration with Springfield Parents Network, game booths and interactive activities were planned for our Springfielders.</em>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/pe6.png">
+</div>
+<p><em>Our CCA Leaders taking the lead to plan and organise fun activities and games for our lower secondary students.&nbsp;</em>
+</p>
+<h4><br>Resilience Run</h4>
+<p>This year's Resilience Run proved to be a testament to our students' determination
+and endurance. The event challenged participants to push their boundaries
+at Bedok Reservoir Park. Students trained diligently in the weeks leading
+up to the event, developing not only their physical stamina but also mental
+fortitude. The event culminated in an inspiring display of perseverance,
+with numerous personal bests achieved.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/pe7.png">
+</div>
+<h4></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/pe11.png">
+</div>
+<p><em>Students sprinting to the finish line.</em>
+</p>
+<h4>Team Challenge</h4>
+<p>The Team Challenge event embodied our commitment to developing collaborative
+skills and strategic thinking through physical activities. Students worked
+in teams to overcome various obstacles and complete complex tasks that
+required both physical prowess and mental acuity. The challenges included
+problem-solving elements, communication exercises, and physical activities
+that could only be completed through effective teamwork. This event particularly
+highlighted the importance of cooperation, leadership, and mutual support
+in achieving common goals.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/pe9.png">
+</div>
+<h4>Track Challenge</h4>
+<p>The objective of the Track Challenge is to encourage students to develop
+their physical fitness, resilience, and teamwork through friendly athletic
+competition. By participating, students build healthy habits, gain confidence
+in their abilities, and learn the value of perseverance and sportsmanship.
+This experience not only promotes overall well-being but also strengthens
+bonds among peers, fostering a positive and supportive school community.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/pe10.png">
+</div>
+<p>
+<br><em>Our Principal, Ms Chia, joining a relay team. </em>
+<br>
+</p>
+<p>Throughout these events, our PE department has consistently emphasised
+the development of both physical skills and school values. The activities
+have contributed significantly to building a more resilient, collaborative,
+and physically active student body.</p>
