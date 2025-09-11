@@ -15,9 +15,9 @@ STSPMF was established as a Trust on 20 October 2010 with a Board of Trustees an
 
 The fund works with schools under the Ministry of Education (MOE), independent schools, special education schools, religious schools, higher learning institutions and social service agencies, including children's homes and other voluntary welfare organisations in disbursing the funds to students from low-income families. STSPMF enhances its accessibility to eligible students by expanding its partnership network of schools and agencies continuously. 
 
-[Eligibility Criteria (Sec 1 Students)](/files/poster__Sec1_.pdf)
+[STSPMF Eligibility Criteria](/files/STSPMF_Eligibility_Criteria.pdf)
 
 
-[Annex A - STSPMF Application Form](/files/Annex_A___2025_STSPMF_Application_Form_for_schools_sec_1_.pdf)
+[Annex A - STSPMF Application Form](/files/Annex_A___2026_STSPMF_Application_Form_for_schools.pdf)
 
-[Annex B - Income Declaration Form](/files/Annex_B___Income_declaration_form.pdf)
+[Annex B - Income Declaration Form](/files/Annex_B___Income_declaration_form_2026.pdf)
