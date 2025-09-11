@@ -51,15 +51,6 @@ sections:
       image: /images/sus1.png
       alt: Image alt text
   - infopic:
-      title: World Taekwondo Virtual Championships
-      id: infopic
-      description: Javis from 3A secured first place in the Junior Mixed category! 🏆
-        He’s also proudly featured on the event poster! 🎉
-      button: read more
-      image: /images/tkd1.jpg
-      alt: Image alt text
-      url: /world-taekwondo-virtual-championships/
-  - infopic:
       title: Football Feats Unlocked!
       id: infopic
       description: Congrats to our football team for securing 3rd runner-up in League
@@ -78,13 +69,6 @@ sections:
       button: Read more
       url: /taekwondo-tkd-triumphs-again/
       image: /images/TKDaward2.jpg
-      alt: Image alt text
-  - infopic:
-      title: Springfield Wins Gold at Project E.C.O.
-      id: infopic
-      button: READ MORE
-      url: /our-experience/project-eco/
-      image: /images/IMG_1534.JPG
       alt: Image alt text
   - infopic:
       title: PDPA Advisory
