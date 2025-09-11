@@ -51,26 +51,6 @@ sections:
       image: /images/sus1.png
       alt: Image alt text
   - infopic:
-      title: Football Feats Unlocked!
-      id: infopic
-      description: Congrats to our football team for securing 3rd runner-up in League
-        2! 🎉🏆 Big thanks to the players for their hard work—here's to more
-        victories ahead! ⚽
-      button: READ MORE
-      url: /football-feats-unlocked/
-      alt: Image alt text
-      image: /images/Footballpic1.jpg
-  - infopic:
-      title: Taekwondo (TKD) Triumphs Again!
-      id: infopic
-      description: Our heartiest congratulations to our TKD team for clinching two
-        divisional titles - 3rd place for B Div Boys & 2nd place for B Div
-        Girls. Good job TKD team!🌟⭐️
-      button: Read more
-      url: /taekwondo-tkd-triumphs-again/
-      image: /images/TKDaward2.jpg
-      alt: Image alt text
-  - infopic:
       title: PDPA Advisory
       id: infopic
       description: Photos/videos of students & parents may be captured during school
