@@ -41,7 +41,7 @@ To discuss any of the following, please book appointment slots that <b>do NOT co
 	
 <b>Common Admission Exercises</b>
 <br>[• Joint Admissions Exercise (JAE)](https://www.moe.gov.sg/post-secondary/admissions/jae)
-<br> [• JAE Course Booklet](https://go.gov.sg/jae-courses)
+<br> [• JAE Course Booklet](https://www.moe.gov.sg/-/media/files/post-secondary/2026-jae/2026-jae-courses.pdf)
 <br>[• Joint Intake Exercise (JIE)](https://www.moe.gov.sg/post-secondary/admissions/jie)
 <br>[• ITE Admission &amp; Course Information Brochure ](https://go.gov.sg/jie-booklet)
 <br>[• Polytechnic Foundation Programme (PFP)](https://go.gov.sg/pfp)
@@ -70,7 +70,6 @@ To discuss any of the following, please book appointment slots that <b>do NOT co
 <b>Parent Guide and other ECG Resources</b>
 <br>[•	ECG Tips for Parents](http://go.gov.sg/tips-for-parents): Journeying with our Children, Achieving their Aspirations
 <br>[•	Schoolbag Website](https://go.gov.sg/schoolbag): An online publication by MOE for education news, school features and tips
-<br>[•	The Next Step Forward (e-book)](https://go.gov.sg/next-step-forward): Stories of students and the pathways they have chosen
 <br>[•	What’s Next?](https://go.gov.sg/whats-next) *Click the link and scroll to the bottom of the page, for the relevant "What's Next" resource.
 <br>[•	Post-Secondary Education Options](https://go.gov.sg/postsecondary)
 <br>[•	Post-Secondary Education Institutions](https://go.gov.sg/overview-pseis)
