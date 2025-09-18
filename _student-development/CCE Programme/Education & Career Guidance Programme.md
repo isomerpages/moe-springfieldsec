@@ -70,7 +70,6 @@ To discuss any of the following, please book appointment slots that <b>do NOT co
 <b>Parent Guide and other ECG Resources</b>
 <br>[•	ECG Tips for Parents](http://go.gov.sg/tips-for-parents): Journeying with our Children, Achieving their Aspirations
 <br>[•	Schoolbag Website](https://go.gov.sg/schoolbag): An online publication by MOE for education news, school features and tips
-<br>[•	The Next Step Forward (e-book)](https://go.gov.sg/next-step-forward): Stories of students and the pathways they have chosen
 <br>[•	What’s Next?](https://go.gov.sg/whats-next) *Click the link and scroll to the bottom of the page, for the relevant "What's Next" resource.
 <br>[•	Post-Secondary Education Options](https://go.gov.sg/postsecondary)
 <br>[•	Post-Secondary Education Institutions](https://go.gov.sg/overview-pseis)
