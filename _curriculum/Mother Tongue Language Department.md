@@ -65,27 +65,22 @@ foster mutual respect, and strengthen bonds across cultures.</p>
 <h4>2024</h4>
 <ul>
 <li>
-<p><em>National Secondary School Chinese Creative Writing Competition (Xin Lei Jiang)</em>: <strong>Chen Yi Meng</strong> from
-3F won <strong>Second Place</strong>.
+<p><em>National Secondary School Chinese Creative Writing Competition (Xin Lei Jiang)</em>: <strong>2nd Placing Award achieved</strong>.
 <br>
 </p>
 </li>
 <li>
-<p><em>Chinese Creative Writing with Photography Competition 2024</em>: <strong>Lin Ziye</strong> from
-2D received a <strong>Merit Award</strong>, and <strong>Liu Ziying</strong> from
-2D won <strong>Second Place</strong>.
+<p><em>Chinese Creative Writing with Photography Competition 2024</em>: <strong>Merit Award and 2nd Placing Award achieved.</strong> 
 <br>
 </p>
 </li>
 <li>
-<p><em>National Bilingual Creative Writing Competition</em>: <strong>Liu Ziying</strong> from
-2D was awarded the <strong>"Feiyue" Distinction Award</strong>.
+<p><em>National Bilingual Creative Writing Competition</em>:<strong>"Feiyue" Distinction Award attained</strong>.
 <br>
 </p>
 </li>
 <li>
-<p><em>Secondary School National Text Recital Competition</em>: <strong>Qiu Junyang</strong> from
-1D received the <strong>Bronze Award</strong>.</p>
+<p><em>Secondary School National Text Recital Competition</em>: <strong>Bronze Award attained</strong>.</p>
 </li>
 </ul>
 <h4>2023</h4>
