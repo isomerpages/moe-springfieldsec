@@ -6,15 +6,13 @@ variant: markdown
 ---
 # **Guzheng Ensemble**
 
-![](/images/GuzhengCNY.jpeg)**2024 ECAAC Reunion Lunch Celebration**
+![](/images/GuzhengCNY.jpeg) <i>2024 ECAAC Reunion Lunch Celebration</i>
 
 ![](/images/guzh3.jpg)
 
 ##### Watch the 2025 SYF Arts Presentation video below
 
-
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/rDskZxQlybI?si=OcpWfQt4HP8NW8uM" height="315" width="560"></iframe>
-
 
 <br>
 
