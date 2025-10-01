@@ -6,13 +6,13 @@ variant: markdown
 ---
 # **Guzheng Ensemble**
 
-![](/images/GuzhengCNY.jpeg)**2024 ECAAC Reunion Lunch Celebration**
+![](/images/GuzhengCNY.jpeg) <i>2024 ECAAC Reunion Lunch Celebration</i>
 
-![](/images/guzheng2023_1.jpeg)
-**Watch the 2023 SYF Arts Presentation video** [HERE](https://www.youtube.com/watch?v=56OfoAdGpUQ)
+![](/images/guzh3.jpg)
 
+##### Watch the 2025 SYF Arts Presentation video below
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/G3S4KU_0Z1I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/rDskZxQlybI?si=OcpWfQt4HP8NW8uM" height="315" width="560"></iframe>
 
 <br>
 
@@ -20,28 +20,24 @@ variant: markdown
 
 <br>
 
-**SEP - Inline Skating**
-![](/images/guzhengpic5.jpg)
+##### Secondary 1 Orientation
+![](/images/guzh1.jpg)
 
-**SYF 2023**
-![](/images/guzheng2023_2.jpeg)
+##### Chinese New Year Performance
+![](/images/guzh2.jpg)
 
-![](/images/guzheng2023_3.jpeg)
+##### SYF 2025
 
-**Values in Action at OTH - 6 August 2022**
-![](/images/VIA%20at%20Tampines%20OTH%206%20Aug%202022.jpeg)
+![](/images/guzh4.jpg)
 
-**Leaders step-down 2022**
-![](/images/Leaders%20step-down%202022.jpeg)
+##### VIA Performance
+![](/images/guzh5.jpg)
 
-**Team Bonding Activities 2021**
-![](/images/Team%20Bonding%20Activities%202021.jpeg)
+##### SEP Bowling Enrichment and Team Bonding Programme
+![](/images/guzh6.jpg)
 
-**30th Anniversary Celebration**
-![](/images/30th%20Pearl%20Anniversary%20Celebrations.jpeg)
+##### Presidential Elections
+![](/images/guzh8.jpg)
 
-![](/images/picture1.jpeg)
-
-![](/images/Upd_seniors%20back%20home%202020.jpg)
-
-![](/images/National%20Day%20Carnival%202019.jpg)
+##### Stepping Down Ceremony
+![](/images/guzh9.jpg)
