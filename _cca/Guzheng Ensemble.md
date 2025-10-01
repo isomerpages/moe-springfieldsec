@@ -32,3 +32,12 @@ variant: markdown
 
 ##### VIA Performance
 ![](/images/guzh5.jpg)
+
+##### SEP Bowling Enrichment and Team Bonding Programme
+![](/images/guzh6.jpg)
+
+##### Presidential Elections
+![](/images/guzh8.jpg)
+
+##### Stepping Down Ceremony
+![](/images/guzh9.jpg)
