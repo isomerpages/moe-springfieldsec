@@ -3,6 +3,7 @@ title: DSA Exercise 2025
 permalink: /about-us/direct-school-admission/dsa-exercise-2025/
 description: ""
 variant: markdown
+third_nav_title: Direct School Admission (DSA)
 ---
 # **DSA Exercise 2025**
 
