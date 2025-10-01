@@ -2,5 +2,6 @@ collections:
   admissions:
     output: true
     order:
+      - Direct School Admission (DSA)/.keep
       - Full Subject Based Banding (FSBB).md
       - DSA Exercise 2025.md
