@@ -20,28 +20,15 @@ variant: markdown
 
 <br>
 
-**SEP - Inline Skating**
-![](/images/guzhengpic5.jpg)
+##### Secondary 1 Orientation
+![](/images/guzh1.jpg)
 
-**SYF 2023**
-![](/images/guzheng2023_2.jpeg)
+##### Chinese New Year Performance
+![](/images/guzh2.jpg)
 
-![](/images/guzheng2023_3.jpeg)
+##### SYF 2025
+![](/images/guzh3.jpg)
+![](/images/guzh4.jpg)
 
-**Values in Action at OTH - 6 August 2022**
-![](/images/VIA%20at%20Tampines%20OTH%206%20Aug%202022.jpeg)
-
-**Leaders step-down 2022**
-![](/images/Leaders%20step-down%202022.jpeg)
-
-**Team Bonding Activities 2021**
-![](/images/Team%20Bonding%20Activities%202021.jpeg)
-
-**30th Anniversary Celebration**
-![](/images/30th%20Pearl%20Anniversary%20Celebrations.jpeg)
-
-![](/images/picture1.jpeg)
-
-![](/images/Upd_seniors%20back%20home%202020.jpg)
-
-![](/images/National%20Day%20Carnival%202019.jpg)
+##### VIA Performance
+![](/images/guzh5.jpg)
