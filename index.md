@@ -16,9 +16,9 @@ sections:
         - title: PLD Service Center info
           description: Read More
           url: /pld-new-service-center-location/
-        - title: ICT @ springfield
+        - title: Springfield student portal
           description: Click here to access
-          url: https://sites.google.com/view/ictspringfield/home
+          url: https://sites.google.com/view/springfield-student-portal
       variant: center
   - infopic:
       title: CARING TEACHER AWARDS 2026
