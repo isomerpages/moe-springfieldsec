@@ -48,7 +48,6 @@ To discuss any of the following, please book appointment slots that <b>do NOT co
 <br>[•	NAFA Foundation Programme (NFP)](https://go.gov.sg/applynafafp)
 <br>[•	Direct Entry Scheme to Polytechnic Programme (DPP)](https://go.gov.sg/higher-nitec-dpp)
 <br>[• DPP Course Mapping](https://for.edu.sg/dpp-poly-mapping)
-<br>[• ITE Traineeship Scheme](https://www.ite.edu.sg/courses/traineeship-courses): A formalised 'Earn-as-you-Learn' training arrangement
 <br>[•	Joint Polytechnic Admissions Exercise (JPAE)](https://jpae.polytechnic.edu.sg/): ITE Admissions to Poly
 
 
