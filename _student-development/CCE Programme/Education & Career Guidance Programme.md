@@ -29,7 +29,7 @@ To discuss any of the following, please book appointment slots that <b>do NOT co
 <br>[• Full Subject-Based Banding (Full SBB)](https://go.gov.sg/moe-fsbb)
 <br>[• MySkillsFuture (Secondary School)](https://go.gov.sg/mysfsec)
 <br>[• ECG Calendar of Events](https://www.myskillsfuture.gov.sg/content/student/en/secondary/education-guide/events.html)
-<br>[• On My Way by National Youth Council](https://www.nyc.gov.sg/omw/)
+<br>[• On My Way by National Youth Council](https://www.nyc.gov.sg/programmes-grants/programmes/discover-on-my-way)
 <br>[•	Advisory](https://advisory.sg/)
 
 <b>Course &amp; Curriculum Information</b>
