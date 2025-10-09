@@ -7,7 +7,7 @@ description: ""
 # **Quick Links for Students**
 
 
-* [Springfield Student Portal](https://sites.google.com/view/ictspringfield)
+* [Springfield Student Portal](https://sites.google.com/view/springfield-student-portal)
 *  [Student Learning Space](https://vle.learning.moe.edu.sg/login)
 *  [MOE iCon 2.0](https://icon.moe.edu.sg)
 *  [MIMS Portal](https://portal.mims.moe.gov.sg/)
