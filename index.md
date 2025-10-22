@@ -33,9 +33,9 @@ sections:
   - infopic:
       title: Animation and Game Making (AGM) Competition 2025
       id: infopic
-      description: Minh Thu from class 3D wins Gold at AGM 2025, a national contest
-        for CPA students to showcase creativity in animation and AI-themed game
-        design.
+      description: Ly Nguyen Minh Thu from class 3D wins Gold at AGM 2025, a national
+        contest for CPA students to showcase creativity in animation and
+        AI-themed game design.
       button: READ MORE
       url: /animation-and-game-making-agm-competition-2025/
       image: /images/WhatsApp_Image_2025_10_22_at_17_44_40.jpg
