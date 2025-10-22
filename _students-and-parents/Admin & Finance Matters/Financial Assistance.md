@@ -7,10 +7,7 @@ variant: markdown
 ---
 # **Financial Assistance**
 
-
-![](/images/Pamphlet_FAS_2025.jpg)
-
-[MOE Financial Assistance Scheme 2025 Pamphlet ](/files/Pamphlet_FAS_2025.pdf)
+Find out more about Financial Assistance for Year 2026 [HERE](https://www.moe.gov.sg/news/press-releases/20251016-moe-financial-assistance-schemes-to-benefit-an-additional-31000-students).
 
 ### APPLICATION FOR MOE FINANCIAL ASSISTANCE SCHEME&nbsp;(MOE FAS)
 
@@ -26,16 +23,12 @@ The objective of the MOE FAS is to provide financial assistance to Singaporean s
 
 1. Hardcopy Application Forms are available from the School's General Office.
 
-2. You may also download a copy [HERE](/files/MOE_FAS_Application_Form_2025.pdf).
-3. You can return the completed form to the School and school will inform you of the outcome.
+2. You can return the completed form to the School and school will inform you of the outcome.
 
-4. Please submit the Application form with&nbsp;**_ALL_**&nbsp;the supporting documents at the earliest convenience so that the School is able to process it soonest.
+3. Please submit the Application form with&nbsp;**_ALL_**&nbsp;the supporting documents at the earliest convenience so that the School is able to process it soonest.
 
-<div style="display:none;">
-  5. You may also apply via e-FAS at 
-  <a href="https://go.gov.sg/moe-efas">https://go.gov.sg/moe-efas</a> 
-  or scan the QR code below.
-</div>
+4. You may also apply via e-FAS at [https://go.gov.sg/moe-efasggas](https://go.gov.sg/moe-efasggas).
+
 
 
 <img src="/images/QR_2025.png" style="width:300px;height:300px;margin-left:15px; display:none;">
