@@ -7,7 +7,7 @@ description: ""
 <h1><strong>Animation and Game Making (AGM) Competition 2025</strong></h1>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_10_22_at_22_12_01.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_10_22_at_22_12_01.jpg">
 </div>
 <p>The <strong>Animation and Game Making (AGM) Competition</strong> is a prestigious
 annual national event organised by the <strong>Computer Education Unit</strong> for
