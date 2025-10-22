@@ -68,7 +68,7 @@ sections:
       description: Minh Thu wins Gold at AGM 2025, a national contest for CPA students
         to showcase creativity in animation and AI-themed game design.
       button: READ MORE
-      url: www.springfieldsec.moe.edu.sg
+      url: /animation-and-game-making-agm-competition-2025/
       image: /images/WhatsApp_Image_2025_10_22_at_17_44_40.jpg
       alt: Image alt text
 ---
