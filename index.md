@@ -21,6 +21,15 @@ sections:
           url: https://sites.google.com/view/springfield-student-portal
       variant: center
   - infopic:
+      title: OPEN HOUSE 2025
+      id: infopic
+      description: Fun-filled day of learning & discovery - our Open House invites you
+        to dive into hands-on science experiments, creative art workshops, &
+        interactive tech demos.
+      button: FIND out more
+      url: https://www.springfieldsec.moe.edu.sg
+      alt: Image alt text
+  - infopic:
       title: CARING TEACHER AWARDS 2026
       id: infopic
       description: The Caring Teacher Awards honor educators who go beyond duty with
