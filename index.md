@@ -7,8 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Springfield Secondary School
-      background: /images/schoolbg.jpg
+      background: /images/openHouse2025.png
       key_highlights:
         - title: Termly Letter
           description: Read More
