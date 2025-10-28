@@ -29,6 +29,7 @@ sections:
       button: FIND out more
       url: https://www.springfieldsec.moe.edu.sg
       alt: Image alt text
+      image: /images/openhouse2025_2.jpg
   - infopic:
       title: CARING TEACHER AWARDS 2026
       id: infopic
