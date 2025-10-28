@@ -25,8 +25,6 @@ sections:
       description: Fun-filled day of learning & discovery - our Open House invites you
         to dive into hands-on science experiments, creative art workshops, &
         interactive tech demos.
-      button: FIND out more
-      url: https://www.springfieldsec.moe.edu.sg
       alt: Image alt text
       image: /images/openhouse2025_2.jpg
   - infopic:
