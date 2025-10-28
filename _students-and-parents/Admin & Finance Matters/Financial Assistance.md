@@ -19,7 +19,7 @@ The objective of the MOE FAS is to provide financial assistance to Singaporean s
 
 ### How to apply?
 
-##### <i>Application is now closed. </i>
+
 
 1. Hardcopy Application Forms are available from the School's General Office.
 
