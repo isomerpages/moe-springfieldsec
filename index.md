@@ -7,8 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Springfield Secondary School
-      background: /images/schoolbg.jpg
+      background: /images/openHouse2025.png
       key_highlights:
         - title: Termly Letter
           description: Read More
@@ -20,6 +19,14 @@ sections:
           description: Click here to access
           url: https://sites.google.com/view/springfield-student-portal
       variant: center
+  - infopic:
+      title: OPEN HOUSE 2025
+      id: infopic
+      description: Fun-filled day of learning & discovery - our Open House invites you
+        to dive into hands-on science experiments, creative art workshops, &
+        interactive tech demos.
+      alt: Image alt text
+      image: /images/openhouse2025_2.jpg
   - infopic:
       title: CARING TEACHER AWARDS 2026
       id: infopic
