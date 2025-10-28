@@ -27,6 +27,7 @@ sections:
         interactive tech demos.
       alt: Image alt text
       image: /images/openhouse2025_2.jpg
+      subtitle: 22 Nov 2025 - 830am to 1230pm
   - infopic:
       title: CARING TEACHER AWARDS 2026
       id: infopic
