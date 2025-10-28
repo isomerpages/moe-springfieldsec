@@ -2,7 +2,7 @@ collections:
   quick-links:
     output: true
     order:
-      - Yearbook.md
       - For Parents.md
       - For Students.md
       - For Teachers.md
+      - Yearbook.md
