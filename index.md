@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/openHouse2025.png
+      background: /images/openHouse2025_2.png
       key_highlights:
         - title: Termly Letter
           description: Read More
