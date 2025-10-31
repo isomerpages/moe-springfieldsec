@@ -29,6 +29,7 @@ sections:
       subtitle: 22 Nov 2025 - 830am to 1230pm
       button: virtual tour
       url: https://www.thinglink.com/scene/2040527695921545702
+      alt: Image alt text
   - infopic:
       title: CARING TEACHER AWARDS 2026
       id: infopic
