@@ -28,7 +28,7 @@ sections:
       image: /images/openhouse2025TL.jpg
       subtitle: 22 Nov 2025 - 830am to 1230pm
       button: virtual tour
-      url: https://www.thinglink.com/view/scene/2040527695921545702
+      url: https://www.thinglink.com/view/scene/2033019866696384998
       alt: Image alt text
   - infopic:
       title: CARING TEACHER AWARDS 2026
