@@ -25,9 +25,10 @@ sections:
       description: Fun-filled day of learning & discovery - our Open House invites you
         to dive into hands-on science experiments, creative art workshops, &
         interactive tech demos.
-      alt: Image alt text
       image: /images/openhouse2025TL.jpg
       subtitle: 22 Nov 2025 - 830am to 1230pm
+      button: virtual tour
+      url: https://www.thinglink.com/scene/2040527695921545702
   - infopic:
       title: CARING TEACHER AWARDS 2026
       id: infopic
