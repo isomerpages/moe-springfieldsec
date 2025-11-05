@@ -102,7 +102,4 @@ both the <em>Lower Secondary</em> and <em>Upper Secondary</em> categories.
 </li>
 </ul>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/mtnew2.png">
-</div>
 <p></p>
