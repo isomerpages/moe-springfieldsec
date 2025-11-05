@@ -102,6 +102,7 @@ third_nav_title: Admin & Finance Matters
 <p>(School Bookshop):</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>17 Nov 2025 to 9 Jan 2026</p>
 <p>Mondays to Fridays: 9.00am - 3.00pm</p>
 </td>
 </tr>
