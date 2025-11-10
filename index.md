@@ -36,6 +36,7 @@ sections:
       button: NOMINATE NOW
       url: /president-s-award-for-teachers-pat-outstanding-youth-in-education-award-oyea/
       alt: Image alt text
+      image: /images/patxoyea2.png
   - infopic:
       title: CARING TEACHER AWARDS 2026
       id: infopic
