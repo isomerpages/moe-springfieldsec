@@ -25,9 +25,18 @@ sections:
       description: Fun-filled day of learning & discovery - our Open House invites you
         to dive into hands-on science experiments, creative art workshops, &
         interactive tech demos.
-      alt: Image alt text
       image: /images/openhouse2025TL.jpg
       subtitle: 22 Nov 2025 - 830am to 1230pm
+      alt: Image alt text
+  - infopic:
+      title: PAT and OYEA 2026
+      id: infopic
+      description: Nominations for the 2026 President’s Award for Teachers and
+        Outstanding Youth in Education Award are now open! Submit by 9 Jan 2026.
+      button: NOMINATE NOW
+      url: /president-s-award-for-teachers-pat-outstanding-youth-in-education-award-oyea/
+      alt: Image alt text
+      image: /images/patxoyea2.png
   - infopic:
       title: CARING TEACHER AWARDS 2026
       id: infopic
