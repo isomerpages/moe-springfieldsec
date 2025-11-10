@@ -11,18 +11,13 @@ description: ""
 national awards that celebrate excellence and dedication in the teaching
 profession:</p>
 <h4><strong>President’s Award for Teachers (PAT)</strong></h4>
-<p>The President’s Award for Teachers honours outstanding educators in Singapore
-who have made significant contributions to the teaching profession and
-inspired both their students and colleagues through their commitment and
-passion.</p>
+<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PAT__002_.jpg">
 </div>
 <h4><strong>Outstanding Youth in Education Award (OYEA)</strong></h4>
-<p>The Outstanding Youth in Education Award recognises young teachers who
-demonstrate enthusiasm, creativity, and dedication in nurturing and engaging
-their students, shaping the future of education in Singapore.</p>
+<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/OYEA__002_.jpg">
