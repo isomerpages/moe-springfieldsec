@@ -29,7 +29,7 @@ sections:
       subtitle: 22 Nov 2025 - 830am to 1230pm
       alt: Image alt text
   - infopic:
-      title: President’s Award and Outstanding Youth in Education Award
+      title: PAT and OYEA 2026
       id: infopic
       description: Nominations for the 2026 President’s Award for Teachers and
         Outstanding Youth in Education Award are now open! Submit by 9 Jan 2026.
