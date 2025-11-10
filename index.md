@@ -29,6 +29,14 @@ sections:
       subtitle: 22 Nov 2025 - 830am to 1230pm
       alt: Image alt text
   - infopic:
+      title: President’s Award and Outstanding Youth in Education Award
+      id: infopic
+      description: Nominations for the 2026 President’s Award for Teachers and
+        Outstanding Youth in Education Award are now open! Submit by 9 Jan 2026.
+      button: NOMINATE NOW
+      url: springfieldsec.moe.edu.sg
+      alt: Image alt text
+  - infopic:
       title: CARING TEACHER AWARDS 2026
       id: infopic
       description: The Caring Teacher Awards honor educators who go beyond duty with
@@ -80,12 +88,4 @@ sections:
       title: School Corporate Video
       button: Click here to view the video
       url: https://youtu.be/up-2lZHaOgc
-  - infopic:
-      title: President’s Award and Outstanding Youth in Education Award
-      id: infopic
-      description: Nominations for the 2026 President’s Award for Teachers and
-        Outstanding Youth in Education Award are now open! Submit by 9 Jan 2026.
-      button: NOMINATE NOW
-      url: springfieldsec.moe.edu.sg
-      alt: Image alt text
 ---
