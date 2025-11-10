@@ -34,7 +34,7 @@ sections:
       description: Nominations for the 2026 President’s Award for Teachers and
         Outstanding Youth in Education Award are now open! Submit by 9 Jan 2026.
       button: NOMINATE NOW
-      url: springfieldsec.moe.edu.sg
+      url: /president-s-award-for-teachers-pat-outstanding-youth-in-education-award-oyea/
       alt: Image alt text
   - infopic:
       title: CARING TEACHER AWARDS 2026
