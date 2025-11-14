@@ -4,7 +4,14 @@ title: Springfield Secondary School
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
-notification: ""
+notification: How much can i write here How much can i write here How much can i
+  write here How much can i write here How much can i write here How much can i
+  write herev How much can i write here v vHow much can i write hereHow much can
+  i write hereHow much can i write hereHow much can i write hereHow much can i
+  write hereHow much can i write hereHow much can i write hereHow much can i
+  write hereHow much can i write hereHow much can i write hereHow much can i
+  write hereHow much can i write hereHow much can i write hereHow much can i
+  write hereHow much can i write here
 sections:
   - hero:
       background: /images/openHouse2025_5.jpg
