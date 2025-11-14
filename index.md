@@ -10,9 +10,9 @@ sections:
   - hero:
       background: /images/openHouse2025_5.jpg
       key_highlights:
-        - title: Termly Letter
-          description: Read More
-          url: https://www.springfieldsec.moe.edu.sg/our-experience/termly-letter/
+        - title: open house 2025
+          description: Click here for Virtual Tour
+          url: https://www.thinglink.com/view/scene/2033019866696384998
         - title: PLD Service Center info
           description: Read More
           url: /pld-new-service-center-location/
