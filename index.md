@@ -4,7 +4,8 @@ title: Springfield Secondary School
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
-notification: ""
+notification: Join us on 22 November 2025 for the Open House. If you’re unable
+  to attend, click below to view our Virtual Tour.
 sections:
   - hero:
       background: /images/openHouse2025_5.jpg
