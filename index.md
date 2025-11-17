@@ -92,4 +92,11 @@ sections:
       title: School Corporate Video
       button: Click here to view the video
       url: https://youtu.be/up-2lZHaOgc
+  - infopic:
+      title: Open House Event Map
+      id: infopic
+      description: Explore our Open House event map to find key zones, activities, and
+        highlights easily. Start your journey and discover what awaits!
+      image: /images/SFSS_Open_House_2025___Event_Map.png
+      alt: Image alt text
 ---
