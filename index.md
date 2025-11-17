@@ -21,7 +21,7 @@ sections:
           url: https://sites.google.com/view/springfield-student-portal
       variant: center
   - infopic:
-      title: OPEN HOUSE 2025
+      title: OPEN HOUSE EVENT TIMELINE
       id: infopic
       description: Fun-filled day of learning & discovery - our Open House invites you
         to dive into hands-on science experiments, creative art workshops, &
@@ -31,6 +31,13 @@ sections:
       alt: Image alt text
       url: https://www.thinglink.com/view/scene/2033019866696384998
       button: virtual tour
+  - infopic:
+      title: OPEN HOUSE EVENT MAP
+      id: infopic
+      description: Explore our Open House event map to find key zones, activities, and
+        highlights easily. Start your journey and discover what awaits!
+      image: /images/SFSS_Open_House_2025___Event_Map.png
+      alt: Image alt text
   - infopic:
       title: PAT and OYEA 2026
       id: infopic
@@ -92,11 +99,4 @@ sections:
       title: School Corporate Video
       button: Click here to view the video
       url: https://youtu.be/up-2lZHaOgc
-  - infopic:
-      title: Open House Event Map
-      id: infopic
-      description: Explore our Open House event map to find key zones, activities, and
-        highlights easily. Start your journey and discover what awaits!
-      image: /images/SFSS_Open_House_2025___Event_Map.png
-      alt: Image alt text
 ---
