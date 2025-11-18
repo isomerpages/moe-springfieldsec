@@ -28,6 +28,8 @@ sections:
       image: /images/openhouse2025TL.jpg
       subtitle: 22 Nov 2025 - 830am to 1230pm
       alt: Image alt text
+      button: VIRTUAL TOUR
+      url: https://www.thinglink.com/view/scene/2033019866696384998
   - infopic:
       title: OPEN HOUSE EVENT MAP
       id: infopic
