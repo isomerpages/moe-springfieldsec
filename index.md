@@ -4,15 +4,11 @@ title: Springfield Secondary School
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
-notification: Join us on 22 Nov 2025, 8:30am–12:30pm for our Open House. You may
-  also like to experience our virtual tour by clicking on the link below.
+notification: ""
 sections:
   - hero:
       background: /images/openHouse2025_5.jpg
       key_highlights:
-        - title: VIRTUAL TOUR
-          description: Open House 2025
-          url: https://www.thinglink.com/view/scene/2033019866696384998
         - title: PLD Service Center info
           description: Read More
           url: /pld-new-service-center-location/
@@ -29,8 +25,6 @@ sections:
       image: /images/openhouse2025TL.jpg
       subtitle: 22 Nov 2025 - 830am to 1230pm
       alt: Image alt text
-      button: VIRTUAL TOUR
-      url: https://www.thinglink.com/view/scene/2033019866696384998
   - infopic:
       title: OPEN HOUSE EVENT MAP
       id: infopic
