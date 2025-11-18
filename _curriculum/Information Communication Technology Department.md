@@ -112,7 +112,10 @@ technology-driven world.</p>
 </li>
 <li>
 <p>National Olympiad in Informatics 2024</p>
-<p></p>
 </li>
 </ul>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/cur_ict_4.png">
+</div>
 <p></p>
