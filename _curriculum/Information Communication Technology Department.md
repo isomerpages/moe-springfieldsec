@@ -24,6 +24,11 @@ and Innovators.</p>
 </p>
 </li>
 </ul>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/cur_ict_1.png">
+</div>
+<p></p>
 <p>In alignment with the <strong>MOE EdTech Masterplan 2030</strong>, the
 Springfield ICT Department implements a range of programmes to strengthen
 students’ attainment in <strong>digital literacy and technological skills</strong>,
@@ -34,6 +39,10 @@ to support and extend their learning beyond the classroom. These skills
 enable students to work more efficiently, collaborate meaningfully, and
 manage their own learning, nurturing them to become self-directed and connected
 learners.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/cur_ict_2.png">
+</div>
 <p></p>
 <p>Beyond foundational digital competencies, Springfield customises learning
 experiences to develop students’ <strong>computational thinking</strong>, <strong>critical thinking</strong>,
@@ -46,6 +55,9 @@ but also to foster adaptability and resilience in a fast-changing technological
 landscape.
 <br>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/cur_ict_3.png">
+</div>
 <p>By integrating these digital and technological skills into the school
 curriculum, the ICT Department ensures that students are well-prepared
 to navigate the demands of the future workplace and society. This approach
