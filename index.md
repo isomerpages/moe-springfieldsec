@@ -10,9 +10,6 @@ sections:
   - hero:
       background: /images/openHouse2025_5.jpg
       key_highlights:
-        - title: Virtual tour
-          description: Open House 2025
-          url: https://www.thinglink.com/view/scene/2033019866696384998
         - title: PLD Service Center info
           description: Read More
           url: /pld-new-service-center-location/
