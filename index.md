@@ -12,7 +12,7 @@ sections:
       key_highlights:
         - title: VIRTUAL TOUR
           description: Open House 2025
-          url: https://www.thinglink.com/view/scene/2033019866696384998
+          url: https://www.thinglink.com/view/scene/2047255255694967652
         - title: PLD Service Center info
           description: Read More
           url: /pld-new-service-center-location/
@@ -29,7 +29,7 @@ sections:
       image: /images/openhouse2025TL.jpg
       subtitle: 22 Nov 2025 - 830am to 1230pm
       alt: Image alt text
-      url: https://www.thinglink.com/view/scene/2033019866696384998
+      url: https://www.thinglink.com/view/scene/2047255255694967652
       button: virtual tour
   - infopic:
       title: OPEN HOUSE EVENT MAP
