@@ -4,7 +4,8 @@ title: Springfield Secondary School
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
-notification: ""
+notification: "Notice: The school will be closed on 5 December 2025 for a
+  full-day shutdown. For urgent matters, please contact 8238 8372."
 sections:
   - hero:
       background: /images/openHouse2025_5.jpg
