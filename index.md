@@ -17,6 +17,14 @@ sections:
           url: https://sites.google.com/view/springfield-student-portal
       variant: center
   - infopic:
+      title: Release of N-Level Results
+      id: infopic
+      description: MORE INFO HERE MORE INFOR HERE
+      button: more info
+      url: https://for.edu.sg/sfss-n-result
+      image: /images/n_level_release_2025.png
+      alt: Image alt text
+  - infopic:
       title: PAT and OYEA 2026
       id: infopic
       description: Nominations for the 2026 President’s Award for Teachers and
