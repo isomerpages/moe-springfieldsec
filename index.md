@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/openHouse2025_5.jpg
+      background: /images/schoolbg.jpg
       key_highlights:
         - title: VIRTUAL TOUR
           description: Open House 2025
