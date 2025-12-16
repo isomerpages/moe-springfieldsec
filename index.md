@@ -7,11 +7,8 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/openHouse2025_5.jpg
+      background: /images/schoolbg.jpg
       key_highlights:
-        - title: VIRTUAL TOUR
-          description: Open House 2025
-          url: https://www.thinglink.com/view/scene/2047255255694967652
         - title: PLD Service Center info
           description: Read More
           url: /pld-new-service-center-location/
@@ -19,23 +16,16 @@ sections:
           description: Click here to access
           url: https://sites.google.com/view/springfield-student-portal
       variant: center
+      title: Springfield Secondary School
   - infopic:
-      title: OPEN HOUSE EVENT TIMELINE
+      title: Release of N-Level Results
       id: infopic
-      description: Fun-filled day of learning & discovery - our Open House invites you
-        to dive into hands-on science experiments, creative art workshops, &
-        interactive tech demos.
-      image: /images/openhouse2025TL.jpg
-      subtitle: 22 Nov 2025 - 830am to 1230pm
-      alt: Image alt text
-      url: https://www.thinglink.com/view/scene/2047255255694967652
-      button: virtual tour
-  - infopic:
-      title: OPEN HOUSE EVENT MAP
-      id: infopic
-      description: Explore our Open House event map to find key zones, activities, and
-        highlights easily. Start your journey and discover what awaits!
-      image: /images/SFSS_Open_House_2025___Event_Map.png
+      description: Getting your N-Level results? Stay calm and review the important
+        reminders, where to get information, and how to book appointments, all
+        in one place.
+      button: more info
+      url: https://for.edu.sg/sfss-n-result
+      image: /images/n_level_release_2025.png
       alt: Image alt text
   - infopic:
       title: PAT and OYEA 2026
