@@ -16,6 +16,7 @@ sections:
           description: Click here to access
           url: https://sites.google.com/view/springfield-student-portal
       variant: center
+      title: Springfield Secondary School
   - infopic:
       title: Release of N-Level Results
       id: infopic
