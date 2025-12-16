@@ -9,9 +9,6 @@ sections:
   - hero:
       background: /images/schoolbg.jpg
       key_highlights:
-        - title: VIRTUAL TOUR
-          description: Open House 2025
-          url: https://www.thinglink.com/view/scene/2047255255694967652
         - title: PLD Service Center info
           description: Read More
           url: /pld-new-service-center-location/
@@ -19,24 +16,6 @@ sections:
           description: Click here to access
           url: https://sites.google.com/view/springfield-student-portal
       variant: center
-  - infopic:
-      title: OPEN HOUSE EVENT TIMELINE
-      id: infopic
-      description: Fun-filled day of learning & discovery - our Open House invites you
-        to dive into hands-on science experiments, creative art workshops, &
-        interactive tech demos.
-      image: /images/openhouse2025TL.jpg
-      subtitle: 22 Nov 2025 - 830am to 1230pm
-      alt: Image alt text
-      url: https://www.thinglink.com/view/scene/2047255255694967652
-      button: virtual tour
-  - infopic:
-      title: OPEN HOUSE EVENT MAP
-      id: infopic
-      description: Explore our Open House event map to find key zones, activities, and
-        highlights easily. Start your journey and discover what awaits!
-      image: /images/SFSS_Open_House_2025___Event_Map.png
-      alt: Image alt text
   - infopic:
       title: PAT and OYEA 2026
       id: infopic
