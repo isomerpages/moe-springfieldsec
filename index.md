@@ -20,7 +20,9 @@ sections:
   - infopic:
       title: Release of N-Level Results
       id: infopic
-      description: MORE INFO HERE MORE INFOR HERE
+      description: Getting your N-Level results? Stay calm and review the important
+        reminders, where to get information, and how to book appointments, all
+        in one place.
       button: more info
       url: https://for.edu.sg/sfss-n-result
       image: /images/n_level_release_2025.png
