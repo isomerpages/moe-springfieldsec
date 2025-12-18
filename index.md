@@ -11,7 +11,7 @@ sections:
       key_highlights:
         - title: N Level Results 2025
           description: Administrative Slides
-          url: ""
+          url: /2025-gce-n-level-results-release-administrative-instructions/
         - title: PLD Service Center info
           description: Read More
           url: /pld-new-service-center-location/
