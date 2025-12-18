@@ -202,8 +202,8 @@ Secondary 1 G1/G2/G3 &gt; Click Purchase Textbook &gt; Wait for booklist
 to load)</p>
 <p>•Uniforms - <a href="http://www.myuniformshop.com.sg" rel="noopener noreferrer nofollow" target="_blank">www.myuniformshop.com.sg</a>
 </p>
-<p>*Parents will still be able to make online orders after 25th Dec but the
-delivery date may be after the first week of school.</p>
+<p><em>*Parents will still be able to make online orders after 25th Dec but the delivery date may be after the first week of school.</em>
+</p>
 </td>
 </tr>
 <tr>
