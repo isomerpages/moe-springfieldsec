@@ -2,13 +2,16 @@
 layout: homepage
 title: Springfield Secondary School
 description: An Isomer site of the Singapore Government
-image: /images/isomer-logo.svg
+image: /images/sfss-logo.png
 permalink: /
 notification: ""
 sections:
   - hero:
       background: /images/schoolbg.jpg
       key_highlights:
+        - title: N Level Results 2025
+          description: Administrative Slides
+          url: /2025-gce-n-level-results-release-administrative-instructions/
         - title: PLD Service Center info
           description: Read More
           url: /pld-new-service-center-location/
