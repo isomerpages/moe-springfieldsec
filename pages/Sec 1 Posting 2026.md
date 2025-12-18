@@ -263,4 +263,73 @@ only be supported after the FAS approval letter is issued.</p>
 </tr>
 </tbody>
 </table>
+<h4>D. School Smart Card (SSC) for Secondary Level Students</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>All students entering Secondary One in January 2026 would be issued with
+a new Secondary Level School Smart Card (SSC). Secondary One students can
+continue to use their Primary level SSCs for concessionary travel till
+end April 2026 while waiting for their Secondary level SSCs to be ready.
+Students can still purchase the Monthly Concession Pass using their Primary
+level SSCs, but they would need to pay the fare for Secondary School students.</p>
+</li>
+<li>
+<p>For Secondary Level SSC application, photograph taking in Springfield’s
+school uniform would be arranged for all students in February 2026. Please
+do not take your own photographs for submission to the school.</p>
+</li>
+</ul>
+<h4>E. First Day of School 2026</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>The school term for 2026 will begin on <strong><u>Friday 2nd January 2026</u></strong>.</p>
+</li>
+<li>
+<p>The following checklist can help your child/ ward in his/her preparation
+for the first day at school.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/s1_checklist.png">
+</div>
+</li>
+<li>
+<p>All Secondary One students will be engaged in the Start-it-Right Programme
+(SIR) (an orientation programme) from 2nd to 7th January 2026, more information
+in the section below.</p>
+</li>
+</ul>
+<h4>F. Start-it-Right (SIR) Programme 2026</h4>
+<p><u>Start-it-Right (SIR) Activities from 2nd to 7th Jan 2026</u>
+</p>
+<p>The SIR is a unique programme designed and customised by the school to
+provide a holistic and purposeful transition for the Secondary One students
+to secondary school. The students will undergo a series of hands-on, team-based,
+and interactive activities to build positive bonds, develop good habits
+&amp; routines and strengthen their personal competencies. The students
+also work closely with the Class Form Teachers to forge class identity
+and establish positive peer relationships, through class and cohort engagement.</p>
+<p>There will be a <strong>Parents Briefing on 7th January (Wednesday), 4.00pm to 6.45pm in the school hall </strong>for
+parents to learn more about the school’s programmes and processes, including
+information on Full Subject-Based Banding (FSBB) and Personalised Digital
+Learning Programme (PDLP). You will also get a chance to meet with your
+child’s/ ward’s Form Teachers. We would also like to invite parents to
+stay on after the briefing to join us in our campfire to celebrate the
+rounding up of SIR with your child/ ward and also watch a special performance
+that they will be putting up as a class. In view of the late dismissal
+on 7 Jan (Wed), your child/ward would be allowed to report to school by
+8.00 a.m. the following day, 8 Jan (Thu).</p>
+<p>Detailed information on the SIR activities that your child/ ward will
+be going through will be sent to parents/ guardians via Parents gateway
+(PG).</p>
+<p><u>Co-Curricular Activities (CCA) Orientation</u>
+</p>
+<p>CCA plays an integral role in the holistic growth and character development
+of each student. It also serves as a platform for skills acquisition and
+nurturing of talents. <strong>In secondary school, it is compulsory for all students to enrol and participate in a CCA.</strong> Through
+CCA, students will be able to develop and contribute actively in key aspects
+of student leadership, school representation and community-based service
+learning activities. The CCA orientation will provide an overview of the
+CCA programme in Springfield and enable the students to find out more about
+the different CCAs in the school, and indicate their CCAs choices according
+to their interests and talents.</p>
 <p></p>
