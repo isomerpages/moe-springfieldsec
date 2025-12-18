@@ -234,19 +234,31 @@ Sat – 10am to 4pm, closed on PH)</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="1" colspan="2">
+<p><strong>Students under Financial Assistance</strong>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>From 19th Dec</p>
 </td>
 <td rowspan="1" colspan="1">
+<p><strong><u>Students with FAS Approval Letter</u></strong>
+</p>
+<p>Bring FAS approval letter to Springfield Secondary School General Office
+to receive a letter for the purchase of books and uniforms. Books and uniforms
+can be purchased on-site immediately after receiving the letter from General
+Office.</p>
+<p><em>(Do note that online purchases will incur a delivery fee that is not covered by the FAS provision and will need to be borne by parents directly.)</em>
+</p>
 <p></p>
+<p><strong><u>New Applicants</u></strong>
+</p>
+<p>Download FAS application form from <a href="https://springfieldsec.moe.edu.sg/about-us/admin-matters/financial-assistance" rel="noopener noreferrer nofollow" target="_blank">https://springfieldsec.moe.edu.sg/about-us/admin-matters/financial-assistance</a> and
+submit the completed application form at the school’s General Office with
+all the required supporting documents. Purchase of books and uniforms can
+only be supported after the FAS approval letter is issued.</p>
 </td>
 </tr>
 </tbody>
