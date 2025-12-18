@@ -2,7 +2,7 @@
 layout: homepage
 title: Springfield Secondary School
 description: An Isomer site of the Singapore Government
-image: /images/isomer-logo.svg
+image: /images/sfss-logo.png
 permalink: /
 notification: ""
 sections:
