@@ -26,7 +26,7 @@ sections:
       description: A warm welcome to Springfield Secondary School! Please see attached
         the important information for S1 Registration.
       button: More info
-      url: springfieldsec.moe.edu.sg
+      url: https://springfieldsec.moe.edu.sg/sec-1-posting-2026/
       alt: Image alt text
       image: /images/sec1regimg.png
   - infopic:
