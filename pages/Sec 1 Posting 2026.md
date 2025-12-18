@@ -107,4 +107,22 @@ Huang. The contact details are below.</p>
 receive the FAS approval letter before purchasing books and school uniforms.</p>
 </li>
 </ul>
+<h4>C. Sale of Books and School Uniform</h4>
+<p>Springfield Secondary School’s school uniform comprises the following:</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Formal uniform shirt/ blouse and shorts/ skorts</p>
+</li>
+<li>
+<p>Polo T-shirt</p>
+</li>
+<li>
+<p>PE T-shirt and PE shorts</p>
+</li>
+<li>
+<p>School Tie</p>
+</li>
+</ol>
+<p>The school has the following attire policy for students; parents may take
+it into consideration in determining the number of uniform items to purchase:</p>
 <p></p>
