@@ -56,8 +56,9 @@ In the event you would like to meet up with school personnel, please make
 an appointment with the school personnel prior.</p>
 </li>
 <li>
-<p>Please refer to Annex A for the safe management measures in place to ensure
-the safety of our staff and students in school.</p>
+<p>Please refer to <a href="/files/Annex_A___Sec_1_Posting_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Annex A</a> for
+the safe management measures in place to ensure the safety of our staff
+and students in school.</p>
 </li>
 <li>
 <p>You may direct any feedback or queries during office hours (8am to 5pm
