@@ -9,7 +9,7 @@ sections:
   - hero:
       background: /images/schoolbg.jpg
       key_highlights:
-        - title: N Level Result Release 2025
+        - title: N Level Results 2025
           description: Administrative Slides
           url: ""
         - title: PLD Service Center info
