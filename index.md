@@ -21,6 +21,15 @@ sections:
       variant: center
       title: Springfield Secondary School
   - infopic:
+      title: S1 Registration 2026 – Welcome Note to Parents
+      subtitle: Add an image and text
+      id: infopic
+      description: A warm welcome to Springfield Secondary School! Please see attached
+        the important information for S1 Registration.
+      button: More info
+      url: springfieldsec.moe.edu.sg
+      alt: Image alt text
+  - infopic:
       title: Release of N-Level Results
       id: infopic
       description: Getting your N-Level results? Stay calm and review the important
