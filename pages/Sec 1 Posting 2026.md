@@ -125,4 +125,130 @@ receive the FAS approval letter before purchasing books and school uniforms.</p>
 </ol>
 <p>The school has the following attire policy for students; parents may take
 it into consideration in determining the number of uniform items to purchase:</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Day</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>School Attire</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Monday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Formal school uniform with Tie</p>
+<p>After morning assembly, students may remove their ties.</p>
+<p>If students have PE lessons, they should change to PE attire (PE/ Polo
+T-shirt and PE shorts) for the lessons, and there is no need to change
+back to the formal uniform shirt/ blouse after the PE lesson; they can
+continue to wear their PE/ Polo T-shirt with their formal uniform shorts/
+skorts.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Tuesday to Friday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Students may choose to wear the formal school uniform – shirt/ blouse
+and shorts/ skorts, or to wear “half-uniform” – Polo T-shirt or PE T-shirt
+with formal uniform shorts/ skorts.</p>
+<p>If students have PE lessons, they should change to PE attire (PE/ Polo
+T-shirt and PE shorts) for the lessons. After the PE lesson; they can continue
+to wear their PE/ Polo T-shirt with their formal uniform shorts/ skorts.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Daily</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Students are to wear only low-cut white shoes with white socks that fully
+cover the ankle joint.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="2">
+<p>Online Orders</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>19th – 25th Dec</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Orders should be placed by 25th December for delivery to be by first week
+of school. Do note that there will be a delivery fee for online orders.</p>
+<p>•Books - <a href="http://cascoedusupply.com.sg" rel="noopener noreferrer nofollow" target="_blank">cascoedusupply.com.sg</a>
+</p>
+<p>(Create new account and register child data, education level choose Springfield
+Secondary 1 G1/G2/G3 &gt; Click Purchase Textbook &gt; Wait for booklist
+to load)</p>
+<p>•Uniforms - <a href="http://www.myuniformshop.com.sg" rel="noopener noreferrer nofollow" target="_blank">www.myuniformshop.com.sg</a>
+</p>
+<p>*Parents will still be able to make online orders after 25th Dec but the
+delivery date may be after the first week of school.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>Walk-in orders/ Self-collection</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>From 19th Dec</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Parents may choose to purchase books and uniforms in person, or arrange
+for self-collection of online orders.</p>
+<p><strong>Operating hours:</strong>
+</p>
+<p><strong>Mon – Fri, 9.00am – 3.00pm</strong>
+</p>
+<p><strong>Closed on Sat, Sun, eve of PH &amp; PH (i.e. closed on 20, 21, 24, 25, 27, 28, 31 Dec and 1 Jan)</strong>
+</p>
+<p>Bookshop Tel no.: 6789 8159 (9am – 3pm)</p>
+<p>Casco Main Office Tel no.: 6547 4704 (9am – 3pm)</p>
+<p>My Uniform Shop Main Office Tel no: 6276 6689 (Wed to Fri – 3pm to 8pm,
+Sat – 10am to 4pm, closed on PH)</p>
+<p><em>*Parents will still be able to purchase books and uniforms on-site from 2 Jan 2026. Formal lessons will only start on 8 Jan 2026, after the Sec 1 orientation programme.</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
