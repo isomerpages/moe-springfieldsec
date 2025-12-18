@@ -332,4 +332,15 @@ learning activities. The CCA orientation will provide an overview of the
 CCA programme in Springfield and enable the students to find out more about
 the different CCAs in the school, and indicate their CCAs choices according
 to their interests and talents.</p>
+<p><u>SIR &amp; CCA Orientation Schedule (2nd to 7th January 2026)</u>
+</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/sirtt1.png">
+</div>
+<p><strong><u>Note:</u></strong>
+</p>
+<p><strong>(1) Detailed information on CCAs, including session days and timings will be shared with your child / ward during the CCA briefing session.</strong>
+</p>
+<p><strong>(2) In view of the late dismissal on 7 Jan (Wed), your child/ward is allowed to report to school by 8.00 a.m. on 8 Jan (Thu).</strong>
+</p>
