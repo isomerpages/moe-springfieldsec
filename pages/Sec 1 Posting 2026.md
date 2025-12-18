@@ -66,4 +66,45 @@ on weekdays) to the school’s General Office or to Year Head, Ms Tan Chna
 Huang. The contact details are below.</p>
 </li>
 </ul>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Springfield Secondary School</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Year Head</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>General Office</p>
+<p>6318 3053</p>
+<p><a href="mailto:springfields@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">springfields@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Tan Chna Huang</p>
+<p>6318 3972</p>
+<p><a href="mailto:tan_chna_huang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_chna_huang@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4>B. Students under the MOE Financial Assistance Scheme (MOE FAS)</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>Kindly refer to the link for more information: <a href="https://springfieldsec.moe.edu.sg/about-us/admin-matters/financial-assistance" rel="noopener noreferrer nofollow" target="_blank">https://springfieldsec.moe.edu.sg/about-us/admin-matters/financial-assistance</a>
+</p>
+</li>
+<li>
+<p>Parents who have submitted the MOE FAS application should wait until they
+receive the FAS approval letter before purchasing books and school uniforms.</p>
+</li>
+</ul>
 <p></p>
