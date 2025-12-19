@@ -332,9 +332,8 @@ the different CCAs in the school, and indicate their CCAs choices according
 to their interests and talents.</p>
 <p><u>SIR &amp; CCA Orientation Schedule (2nd to 7th January 2026)</u>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/sirtt1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/S1_Posting_2026_Week_1_schedule.jpg">
 </div>
 <p><strong><u>Note:</u></strong>
 </p>
