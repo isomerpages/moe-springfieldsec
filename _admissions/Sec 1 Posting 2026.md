@@ -247,11 +247,9 @@ Sat – 10am to 4pm, closed on PH)</p>
 <p><strong><u>Students with FAS Approval Letter</u></strong>
 </p>
 <p>Bring FAS approval letter to Springfield Secondary School General Office
-to receive a letter for the purchase of books and uniforms. Books and uniforms
-can be purchased on-site immediately after receiving the letter from General
-Office.</p>
-<p><em>(Do note that online purchases will incur a delivery fee that is not covered by the FAS provision and will need to be borne by parents directly.)</em>
-</p>
+to receive a letter for the collection of books and uniforms. Books and
+uniforms can be collected on-site immediately after receiving the letter
+from General Office.</p>
 <p></p>
 <p><strong><u>New Applicants</u></strong>
 </p>
