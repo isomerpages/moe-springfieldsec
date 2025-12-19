@@ -36,7 +36,7 @@ sections:
         reminders, where to get information, and how to book appointments, all
         in one place.
       button: more info
-      url: https://for.edu.sg/sfss-n-result
+      url: /2025-gce-n-level-results-release-administrative-instructions/
       image: /images/n_level_release_2025.png
       alt: Image alt text
   - infopic:
