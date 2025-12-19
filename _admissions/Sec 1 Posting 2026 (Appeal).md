@@ -70,7 +70,7 @@ Late submission will not be allowed.&nbsp; &nbsp; &nbsp;</p>
 <li>
 <p>Students should still report to the posted secondary school on 2 January
 2026.&nbsp; &nbsp;</p>
-<p>&nbsp;</p>
+<p></p>
 </li>
 <li>
 <p>The school will inform you if the application is successful. Please note
