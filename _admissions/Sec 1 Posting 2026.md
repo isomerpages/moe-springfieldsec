@@ -247,18 +247,16 @@ Sat – 10am to 4pm, closed on PH)</p>
 <p><strong><u>Students with FAS Approval Letter</u></strong>
 </p>
 <p>Bring FAS approval letter to Springfield Secondary School General Office
-to receive a letter for the purchase of books and uniforms. Books and uniforms
-can be purchased on-site immediately after receiving the letter from General
-Office.</p>
-<p><em>(Do note that online purchases will incur a delivery fee that is not covered by the FAS provision and will need to be borne by parents directly.)</em>
-</p>
+to receive a letter for the collection of books and uniforms. Books and
+uniforms can be collected on-site immediately after receiving the letter
+from General Office.</p>
 <p></p>
 <p><strong><u>New Applicants</u></strong>
 </p>
 <p>Download FAS application form from <a href="https://springfieldsec.moe.edu.sg/about-us/admin-matters/financial-assistance" rel="noopener noreferrer nofollow" target="_blank">https://springfieldsec.moe.edu.sg/about-us/admin-matters/financial-assistance</a> and
 submit the completed application form at the school’s General Office with
-all the required supporting documents. Purchase of books and uniforms can
-only be supported after the FAS approval letter is issued.</p>
+all the required supporting documents. Collection of books and uniforms
+can only be supported after the FAS approval letter is issued.</p>
 </td>
 </tr>
 </tbody>
@@ -313,11 +311,11 @@ parents to learn more about the school’s programmes and processes, including
 information on Full Subject-Based Banding (FSBB) and Personalised Digital
 Learning Programme (PDLP). You will also get a chance to meet with your
 child’s/ ward’s Form Teachers. We would also like to invite parents to
-stay on after the briefing to join us in our campfire to celebrate the
-rounding up of SIR with your child/ ward and also watch a special performance
-that they will be putting up as a class. In view of the late dismissal
-on 7 Jan (Wed), your child/ward would be allowed to report to school by
-8.00 a.m. the following day, 8 Jan (Thu).</p>
+stay on after the briefing to join us in our <strong>campfire, from 6.45pm to 8.00pm</strong> to
+celebrate the rounding up of SIR with your child/ ward and also watch a
+special performance that they will be putting up as a class. In view of
+the late dismissal on 7 Jan (Wed), your child/ward would be allowed to
+report to school by 8.00 a.m. the following day, 8 Jan (Thu).</p>
 <p>Detailed information on the SIR activities that your child/ ward will
 be going through will be sent to parents/ guardians via Parents gateway
 (PG).</p>
@@ -334,9 +332,8 @@ the different CCAs in the school, and indicate their CCAs choices according
 to their interests and talents.</p>
 <p><u>SIR &amp; CCA Orientation Schedule (2nd to 7th January 2026)</u>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/sirtt1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/S1_Posting_2026_Week_1_schedule.jpg">
 </div>
 <p><strong><u>Note:</u></strong>
 </p>
