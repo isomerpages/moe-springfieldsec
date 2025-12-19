@@ -30,7 +30,7 @@ school's cut-off point of the posting year.</p>
 <p>Posting Group 3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>≤ 22*</p>
+<p>≤ 22</p>
 </td>
 </tr>
 <tr>
@@ -38,7 +38,7 @@ school's cut-off point of the posting year.</p>
 <p>Posting Group 2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>22 - 25*</p>
+<p>22 - 25</p>
 </td>
 </tr>
 <tr>
@@ -51,12 +51,31 @@ school's cut-off point of the posting year.</p>
 </tr>
 </tbody>
 </table>
-<p>*The last student posted to the school had a PSLE Score better than this
-score. However, as the school still had vacancies after S1 posting, its
-cut-off point is reflected as this score as it could have admitted a S1-eligible
-student with PSLE score of this score.</p>
-<p>Please note that transfer will be subject to available vacancies and the
-school’s admission criteria.&nbsp;</p>
+<p>*The last student posted to the school had a PSLE Score better than 30.
+However, as the school still had vacancies after S1 posting, its cut-off
+point is reflected as 30 as it could have admitted a S1-eligible student
+with PSLE score of 30.</p>
+<p></p>
+<ol data-tight="true" class="tight">
+<li>
+<p>The deadline for the submission of appeals is on 26 December 2025, 12pm.
+Late submission will not be allowed.&nbsp; &nbsp; &nbsp;</p>
+</li>
+<li>
+<p>Schools do not disclose reasons for selection / non-selection of students.
+&nbsp; &nbsp; &nbsp;</p>
+</li>
+<li>
+<p>Students should still report to the posted secondary school on 2 January
+2026.&nbsp; &nbsp;</p>
+<p>&nbsp;</p>
+</li>
+<li>
+<p>The school will inform you if the application is successful. Please note
+that transfer will be subject to available vacancies and the school’s admission
+criteria.&nbsp;</p>
+</li>
+</ol>
 <p></p>
 <p><a href="https://form.gov.sg/69397e402a9a456ed5599fd8" rel="noopener nofollow" target="_blank">Secondary 1 - Appeal Application form</a>
 </p>
