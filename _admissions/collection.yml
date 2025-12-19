@@ -2,7 +2,6 @@ collections:
   admissions:
     output: true
     order:
-      - S1 Posting (Appeal).md
       - Sec 1 Posting 2026.md
       - Full Subject Based Banding (FSBB).md
       - Direct School Admission (DSA)/.keep
