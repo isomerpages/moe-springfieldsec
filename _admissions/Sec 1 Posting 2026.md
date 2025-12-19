@@ -255,8 +255,8 @@ from General Office.</p>
 </p>
 <p>Download FAS application form from <a href="https://springfieldsec.moe.edu.sg/about-us/admin-matters/financial-assistance" rel="noopener noreferrer nofollow" target="_blank">https://springfieldsec.moe.edu.sg/about-us/admin-matters/financial-assistance</a> and
 submit the completed application form at the school’s General Office with
-all the required supporting documents. Purchase of books and uniforms can
-only be supported after the FAS approval letter is issued.</p>
+all the required supporting documents. Collection of books and uniforms
+can only be supported after the FAS approval letter is issued.</p>
 </td>
 </tr>
 </tbody>
@@ -311,11 +311,11 @@ parents to learn more about the school’s programmes and processes, including
 information on Full Subject-Based Banding (FSBB) and Personalised Digital
 Learning Programme (PDLP). You will also get a chance to meet with your
 child’s/ ward’s Form Teachers. We would also like to invite parents to
-stay on after the briefing to join us in our campfire to celebrate the
-rounding up of SIR with your child/ ward and also watch a special performance
-that they will be putting up as a class. In view of the late dismissal
-on 7 Jan (Wed), your child/ward would be allowed to report to school by
-8.00 a.m. the following day, 8 Jan (Thu).</p>
+stay on after the briefing to join us in our <strong>campfire, from 6.45pm to 8.00pm</strong> to
+celebrate the rounding up of SIR with your child/ ward and also watch a
+special performance that they will be putting up as a class. In view of
+the late dismissal on 7 Jan (Wed), your child/ward would be allowed to
+report to school by 8.00 a.m. the following day, 8 Jan (Thu).</p>
 <p>Detailed information on the SIR activities that your child/ ward will
 be going through will be sent to parents/ guardians via Parents gateway
 (PG).</p>
