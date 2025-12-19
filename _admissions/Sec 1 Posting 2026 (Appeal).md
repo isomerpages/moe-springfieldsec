@@ -60,17 +60,14 @@ with PSLE score of 30.</p>
 <li>
 <p>The deadline for the submission of appeals is on 26 December 2025, 12pm.
 Late submission will not be allowed.&nbsp; &nbsp; &nbsp;</p>
-<p></p>
 </li>
 <li>
 <p>Schools do not disclose reasons for selection / non-selection of students.
 &nbsp; &nbsp; &nbsp;</p>
-<p></p>
 </li>
 <li>
 <p>Students should still report to the posted secondary school on 2 January
 2026.&nbsp; &nbsp;</p>
-<p></p>
 </li>
 <li>
 <p>The school will inform you if the application is successful. Please note
