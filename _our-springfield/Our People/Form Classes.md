@@ -421,58 +421,49 @@ third_nav_title: Our People
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Siti Zubaidah Bte Arshad</p>
+<p>Ms Michelle Elizabeth Rajlal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:siti_zubaidah_arshad@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">siti_zubaidah_arshad@moe.edu.sg</a>
+<p><a href="mailto:michelle_elizabeth_rajlal@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">michelle_elizabeth_rajlal@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Ahmad Zaini Bin Yusof</p>
+<p>Miss Lim Shanrui Joanne</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ahmad_zaini_yusof@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ahmad_zaini_yusof@moe.edu.sg</a>
+<p><a href="mailto:lim_shanrui_joanne@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_shanrui_joanne@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Norine Liew</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="2" colspan="1">
 <p><strong>3B</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Ho Shu Ling, Judith</p>
+<p>Mdm Jacobs Suzanne Irene</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ho_shu_ling_judith@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ho_shu_ling_judith@moe.edu.sg</a>
+<p><a href="mailto:jacobs_suzanne_irene@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jacobs_suzanne_irene@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Mohmmad Firuz Mustapha</p>
+<p>Mdm Syarifah Hafizah Binte Syed</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:mohammad_firuz_mustapha@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mohammad_firuz_mustapha@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Miss Siti Nur'Aliah Binte Ghazali</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:siti_nuraliah_ghazali@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">siti_nuraliah_ghazali@moe.edu.sg</a>
+<p><a href="mailto:syarifah_hafizah_syed_haroon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">syarifah_hafizah_syed_haroon@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -482,19 +473,19 @@ third_nav_title: Our People
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Joy Chan - Chua Puay Yong</p>
+<p>Mr Muhammad Zaki B Samsudi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chua_puay_yong_joy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chua_puay_yong_joy@moe.edu.sg</a>
+<p><a href="mailto:muhammad_zaki_samsudi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">muhammad_zaki_samsudi@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Nurisha Hameed (ST)</p>
+<p>Mdm Zaleela Binte Zakariah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nurisha_hamid@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nurisha_hamid@moe.edu.sg</a>
+<p><a href="mailto:zaleela_zakariah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zaleela_zakariah@moe.edu.sg</a>
 </p>
 </td>
 </tr>
