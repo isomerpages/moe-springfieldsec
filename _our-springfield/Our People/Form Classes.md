@@ -490,98 +490,23 @@ third_nav_title: Our People
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Ves Chee Kim Lee (ST)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:chee_kim_lee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chee_kim_lee@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="3" colspan="1">
+<td rowspan="2" colspan="1">
 <p><strong>3D</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Yong Jing Jun</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:yong_jing_jun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yong_jing_jun@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Zaleela Binte Zakariah</p>
+<p>Mr Tan Yik Zhen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:zaleela_zakariah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zaleela_zakariah@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Pay Cai Yun Angelia (LH)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:pay_cai_yun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">pay_cai_yun@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="2" colspan="1">
-<p><strong>3E</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Lin Yihua</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:lin_yihua@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lin_yihua@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Jeremy Wang (SH)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:jeremy_wang_hsin-wei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jeremy_wang_hsin-wei@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="3" colspan="1">
-<p><strong>3F</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Ong Kang Sheng (SH)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:ong_kang_sheng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ong_kang_sheng@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Nurhayati Binte Abdul Ghafoor</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:nurhayati_abdul_ghafoor@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nurhayati_abdul_ghafoor@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Chan Hui Min</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:chan_hui_min@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chan_hui_min@moe.edu.sg</a>
+<p><a href="mailto:tan_yik_zhen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_yik_zhen@moe.edu.sg</a>
 </p>
 </td>
 </tr>
