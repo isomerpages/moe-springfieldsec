@@ -185,7 +185,7 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Miss Nur Zakiyah Bte Abdullah</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -495,7 +495,7 @@ third_nav_title: Our People
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Miss Goh Ming Min</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -585,10 +585,11 @@ third_nav_title: Our People
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Nurisha Bte Hamid</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:nurisha_hamid@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nurisha_hamid@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
