@@ -80,19 +80,19 @@ third_nav_title: Our People
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Nicholas Tan Aum Yeow (SH)</p>
+<p>Ms Nurhuda Binte Osman</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nicholas_tan_aum_yeow@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nicholas_tan_aum_yeow@moe.edu.sg</a>
+<p><a href="mailto:nurhuda_osman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nurhuda_osman@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Cheo Swee Lian Maureen</p>
+<p>Ms Tan Cijun Eudora</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:maureen_cheo@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">maureen_cheo@moe.edu.sg</a>
+<p><a href="mailto:tan_cijun_eudora@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_cijun_eudora@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -102,20 +102,19 @@ third_nav_title: Our People
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Ng Zhao Ying (SH)</p>
+<p>Mdm Nor Hazimah Binte Mohd Hanafi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ng_zhao_ying@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_zhao_ying@moe.edu.sg</a>
+<p><a href="mailto:nor_hazimah_mohd_hanafi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nor_hazimah_mohd_hanafi@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Chue Bing Hao, Edwin</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chue_bing_hao_edwin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chue_bing_hao_edwin@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -124,41 +123,32 @@ third_nav_title: Our People
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Bryan Tan</p>
+<p>Mr Bernard Khoo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:bryan_tan_fan_jun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">bryan_tan_fan_jun@moe.edu.sg</a>
+<p><a href="mailto:khoo_ghee_hock_bernard@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">khoo_ghee_hock_bernard@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Zhang Lisa (SH)</p>
+<p>Mr Jeremy Wang (SH)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:zhang_lisa@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zhang_lisa@moe.edu.sg</a>
+<p><a href="mailto:jeremy_wang_hsin-wei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jeremy_wang_hsin-wei@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="2" colspan="1">
 <p><strong>1D</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Shashtriya Manogaran</p>
+<p>Mr Teo Wee Meng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:shastriya_manogaran@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">shastriya_manogaran@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Ng Choon Hwee (SH)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:ng_choon_hwee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_choon_hwee@moe.edu.sg</a>
+<p><a href="mailto:teo_wee_meng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teo_wee_meng@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -172,86 +162,55 @@ third_nav_title: Our People
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p><strong>1E</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Metha Pang</p>
+<p>Miss Nur Fadhlin Sakina</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:metha_pang_hui_shan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">metha_pang_hui_shan@moe.edu.sg</a>
+<p><a href="mailto:nur_fadhlin_sakina_ismail@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_fadhlin_sakina_ismail@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Loh Chean Meng</p>
+<p>Ms Chan Hui Min</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:loh_chean_meng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">loh_chean_meng@moe.edu.sg</a>
+<p><a href="mailto:chan_hui_min@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chan_hui_min@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
 <p><strong>1F</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Ita Pranatih Binte Pratojanuri</p>
+<p>Miss Ang Hui Wen Grace</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ita_pranatih_pratojanuri@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ita_pranatih_pratojanuri@moe.edu.sg</a>
+<p><a href="mailto:ang_hui_wen_grace@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ang_hui_wen_grace@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Rashidah A Rashid (ST)</p>
+<p>Mdm Michelle Lee-Chew Pee Chern</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nur_rashidah_a_rashid@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_rashidah_a_rashid@moe.edu.sg</a>
+<p><a href="mailto:chew_pee_chern@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chew_pee_chern@moe.edu.sg</a>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Syarifah Hafizah Binte Syed</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:syarifah_hafizah_syed_haroon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">syarifah_hafizah_syed_haroon@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="3" colspan="1">
-<p><strong>1G</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Miss Lim Hui Leng (LH)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:lim_hui_leng_b@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_hui_leng_b@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Xiong Xiaodong</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:xiong_xiaodong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">xiong_xiaodong@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Claudia Yap</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
