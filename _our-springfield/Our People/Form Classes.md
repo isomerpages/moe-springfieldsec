@@ -252,10 +252,11 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Jenny Goh Jia Yee</p>
+<p>Mrs Jenny Goh Jia Yee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:goh_jia_yee_jenny@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">goh_jia_yee_jenny@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
