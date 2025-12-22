@@ -195,6 +195,10 @@ cover the ankle joint.</p>
 <td rowspan="1" colspan="1">
 <p>Orders should be placed by 25th December for delivery to be by first week
 of school. Do note that there will be a delivery fee for online orders.</p>
+<p></p>
+<p>You may view the Secondary 1 booklist <a href="https://drive.google.com/file/d/1IQikKztRNPkn3DTYwKD-lYIVycSEEF6v/view" rel="noopener nofollow" target="_blank">HERE.</a>
+</p>
+<p></p>
 <p>•Books - <a href="http://cascoedusupply.com.sg" rel="noopener noreferrer nofollow" target="_blank">cascoedusupply.com.sg</a>
 </p>
 <p>(Create new account and register child data, education level choose Springfield
