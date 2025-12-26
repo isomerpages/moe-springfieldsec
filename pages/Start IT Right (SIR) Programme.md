@@ -101,12 +101,13 @@ will be provided for students at foyer / netball court</p>
 <p>6. Recess</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>• The recess canteen break will be a 35 min period based on levels. Students
-may purchase food and drinks at the school canteen
-<br>- Sec 4/5 - 9 am
-<br>- Sec 1 - 9.35 am
-<br>- Sec 3 - 10.10 am
-<br>- Sec 2 - 10.45 am</p>
+<p>The recess canteen break will be a 35 min period based on levels. Students
+may purchase food and drinks at the school canteen.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Sec 4/5 - 9.00am</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
