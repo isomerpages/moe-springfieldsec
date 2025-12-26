@@ -120,16 +120,16 @@ may purchase food and drinks at the school canteen
 </td>
 <td rowspan="1" colspan="1">
 <p>• Sec 1
-<br>2nd Jan, Thur: 1.20pm - 4pm
-<br>3rd Jan, Fri: 12.20pm - 4 pm
+<br>2nd Jan, Fri: 12.20pm - 4pm
+<br>5th Jan, Mon: 2.20pm - 4 pm
 <br>
 <br>• Sec 2 &amp; 3
-<br>6th Jan, Mon: 1.20pm - 4pm
+<br>6th Jan, Tue: 12.50pm - 4pm</p>
+<p>7th Jan, Wed: 1.20 - 4pm
 <br>
 <br>• Sec 3,4 &amp; 5
-<br>7th Jan, Tue: 1.20pm - 4pm
-<br>
-</p>
+<br>8th Jan, Thu: 1.20pm - 4pm
+<br>9th Jan, Fri: 12.20 - 4pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
