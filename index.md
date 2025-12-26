@@ -29,6 +29,7 @@ sections:
       button: start-it right 2026
       url: https://www.springfieldsec.moe.edu.sg
       alt: Image alt text
+      image: /images/SIR2026.jpg
   - infopic:
       title: S1 Registration 2026 – Welcome Note to Parents
       id: infopic
