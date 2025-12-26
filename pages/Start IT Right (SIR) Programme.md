@@ -107,6 +107,15 @@ may purchase food and drinks at the school canteen.</p>
 <li>
 <p>Sec 4/5 - 9.00am</p>
 </li>
+<li>
+<p>Sec 1 - 9.35am</p>
+</li>
+<li>
+<p>Sec 3 - 10.10am</p>
+</li>
+<li>
+<p>Sec 2 - 10.45am</p>
+</li>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
