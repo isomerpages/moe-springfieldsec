@@ -154,7 +154,7 @@ incorporated to facilitate a smooth transition into their new school setting.</p
 <p></p>
 <h5>Secondary 1</h5>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SIRsec1a.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/sec1SIR.png">
 </div>
 <h5>Secondary 2</h5>
 <div class="isomer-image-wrapper">
