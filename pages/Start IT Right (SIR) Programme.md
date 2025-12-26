@@ -6,7 +6,7 @@ variant: tiptap
 ---
 <h1><strong>First Day of School Checklist &amp; Start-IT-Right Programme</strong></h1>
 <h3>Start of New School Term <br>Friday, 2nd January 2026</h3>
-<p>First Day of school checklist on Thursday, 2nd January 2025</p>
+<p>First Day of school checklist on Thursday, 2nd January 2026</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
