@@ -21,6 +21,15 @@ sections:
       variant: center
       title: Springfield Secondary School
   - infopic:
+      title: Start-It-Right 2026
+      id: infopic
+      description: Please click the link below for key information, including a
+        first-day checklist and the 2026 SIR schedule with daily dismissal
+        times.
+      button: start-it right 2026
+      url: https://www.springfieldsec.moe.edu.sg
+      alt: Image alt text
+  - infopic:
       title: S1 Registration 2026 – Welcome Note to Parents
       id: infopic
       description: A warm welcome to Springfield Secondary School! Please see attached
