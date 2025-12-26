@@ -138,19 +138,20 @@ may purchase food and drinks at the school canteen
 </tbody>
 </table>
 <h3>Start-IT-Right (SIR) Programme</h3>
-<p><strong>Secondary 1 to 3: 2 January to 7 January 2025<br>Secondary 4 to 5: 2 January to 10 January 2025</strong>
+<p><strong>Secondary 1 to 3: 2 January to 7 January 2026<br>Secondary 4 to 5: 2 January to 9 January 2026</strong>
 </p>
-<p>The SIR is a unique programme designed and customised to provide the students
-with a holistic and purposeful embarkation for the new academic year. It
-will cover major components of academic learning, information technology
-engagement, positive classroom culture and personal, emotional &amp; social
-well-being. The students will undergo a series of hands-on, team-based
-and interactive activities as they learn to build positive bonds, develop
-good habits &amp; routines and strengthen their personal competencies.
-The students will work closely with the Class Form Teachers to forge a
-class identity, set daily norms and establish positive peer relationships.
-For the Sec 1 cohort, the outdoor learning activities will also be incorporated
-in the SIR to support the students moving into a new learning environment.</p>
+<p>The Start-It-Right (SIR) Programme is designed to provide students with
+a holistic start to the new academic year. The programme supports students’
+academic and digital learning, fosters a positive classroom culture, and
+nurtures their personal, emotional, and social well-being.</p>
+<p>Students will take part in a series of hands-on, team-based, and interactive
+activities aimed at building identity, fostering positive peer relationships,
+developing good habits and routines, and strengthening personal competencies.
+They will also work closely with their Form Teachers to build a strong
+class identity, establish daily norms, and nurture a supportive classroom
+environment. For the Secondary 1 cohort, orientation activities will be
+incorporated to facilitate a smooth transition into their new school setting.</p>
+<p></p>
 <h5>Secondary 1</h5>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SIRsec1a.png">
