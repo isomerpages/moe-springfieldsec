@@ -166,12 +166,12 @@ to report to school by 8.00 a.m. on 8 Jan (Thu).</p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Sec2SIR.png">
 </div>
-<h5>Secondary 3</h5>
+<h4>Secondary 3</h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SIRsec3.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/sec3SIR.png">
 </div>
 <h5>Secondary 4/5</h5>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SIRsec45.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/sec4SIR.png">
 </div>
 <p></p>
