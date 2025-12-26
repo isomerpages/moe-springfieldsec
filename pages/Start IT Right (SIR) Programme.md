@@ -152,13 +152,19 @@ class identity, establish daily norms, and nurture a supportive classroom
 environment. For the Secondary 1 cohort, orientation activities will be
 incorporated to facilitate a smooth transition into their new school setting.</p>
 <p></p>
-<h5>Secondary 1</h5>
+<h4>Secondary 1</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/sec1SIR.png">
 </div>
-<h5>Secondary 2</h5>
+<p><strong><u>Note:</u></strong>
+</p>
+<p>(1) Detailed information on CCAs, including session days and timings will
+be shared with your child / ward during the CCA briefing session.</p>
+<p>(2) In view of the late dismissal on 7 Jan (Wed), your child/ward is allowed
+to report to school by 8.00 a.m. on 8 Jan (Thu).</p>
+<h4>Secondary 2</h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SIRsec2.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Sec2SIR.png">
 </div>
 <h5>Secondary 3</h5>
 <div class="isomer-image-wrapper">
