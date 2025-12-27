@@ -6,7 +6,7 @@ variant: tiptap
 ---
 <h1><strong>First Day of School Checklist &amp; Start-It-Right (SIR) Programme</strong></h1>
 <h3>Start of New School Term <br>Friday, 2<sup>nd</sup> January 2026</h3>
-<p>First Day of school checklist on Friday, 2nd January 2026</p>
+<p>First Day of school checklist on Friday, 2<sup>nd</sup> January 2026</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -30,22 +30,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1. Reporting time</p>
+<p>Reporting time</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>• 7:30am</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2. Reporting venue</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>• Assigned Form Class – signage, class list references and assistance
-will be provided for students at foyer / netball court</p>
+<p>7:30am</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -53,15 +41,27 @@ will be provided for students at foyer / netball court</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3. Attire (First Day of School and SIR Programme)</p>
+<p>Reporting venue</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Assigned Form Class – signage, class list references and assistance will
+be provided for students at foyer / netball court</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Attire (First Day of School and SIR Programme)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Either
 <br>• Springfield School Uniform and white socks/shoes
-<br>Or
+<br>or
 <br>• Springfield White Polo Top and white socks/shoes
 <br>
-<br><em>Sec 1 Students who are unable to report in the Springfield Uniform may put on their regular Primary School Uniform</em>
+<br><em>Sec 1 Students who are unable to report in the Springfield uniform may put on their regular Primary School uniform</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -70,7 +70,7 @@ will be provided for students at foyer / netball court</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4. Preparedness</p>
+<p>Preparedness</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>• Smart and neat haircut
@@ -85,12 +85,12 @@ will be provided for students at foyer / netball court</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>5. Items to bring</p>
+<p>Items to bring</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>• Note-book</p>
+<p>• Notebook</p>
 <p>• Writing materials</p>
-<p>• Personal water-bottle</p>
+<p>• Personal water bottle</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -124,7 +124,7 @@ may purchase food and drinks at the school canteen.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>7. Sale of Books &amp; Uniform in Term 1 Week 1
+<p>Sale of Books &amp; Uniform in Term 1 Week 1
 <br>
 </p>
 </td>
