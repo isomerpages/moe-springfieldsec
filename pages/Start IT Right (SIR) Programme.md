@@ -154,7 +154,7 @@ may purchase food and drinks at the school canteen.</p>
 </p>
 </li>
 <li>
-<p><strong>Sec 4 - 5:  2<sup>nd</sup> to 9<sup>th</sup> Jan 2026</strong>
+<p><strong>Sec 4 - 5: 2<sup>nd</sup> to 9<sup>th</sup> Jan 2026</strong>
 </p>
 </li>
 </ul>
