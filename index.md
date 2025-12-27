@@ -21,6 +21,16 @@ sections:
       variant: center
       title: Springfield Secondary School
   - infopic:
+      title: Start-It-Right 2026
+      id: infopic
+      description: Please click the link below for key information, including a
+        first-day checklist and the 2026 SIR schedule with daily dismissal
+        times.
+      button: start-it right
+      url: /programmes/start-it-right-s-i-r-programme/
+      alt: Image alt text
+      image: /images/SIR2026.jpg
+  - infopic:
       title: S1 Registration 2026 – Welcome Note to Parents
       id: infopic
       description: A warm welcome to Springfield Secondary School! Please see attached
