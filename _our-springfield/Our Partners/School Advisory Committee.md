@@ -16,7 +16,11 @@ grow and progress.</p>
 <p>Our Springfield School Advisory Committee members are as found below.
 If you are interested in joining the committee and playing a part in the
 growth journey of our students, please contact us at <a href="mailto:springfields@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">springfields@moe.edu.sg</a>.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/SAC_Members_2026.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Sac1.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/sac2.jpg">
 </div>
 <p></p>
