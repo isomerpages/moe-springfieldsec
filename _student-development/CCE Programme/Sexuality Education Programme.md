@@ -70,7 +70,7 @@ issues related to sexuality, which are of prime concern at this age.</p>
 <p><strong>At Springfield Secondary School, the following Sexuality Education lessons will be taught in 2025:</strong>
 </p>
 <h4><strong>SECONDARY 1</strong></h4>
-<p><a href="/files/2025_sec1_SEd.pdf" rel="noopener noreferrer nofollow" target="_blank">SED 2025 for Secondary 1</a>
+<p><a href="/files/sec1SED2026.pdf" rel="noopener nofollow" target="_blank">SED 2026 for Secondary 1</a>
 </p>
 <h4><strong>SECONDARY 2</strong>&nbsp;</h4>
 <p><a href="/files/2025_sec2_SEd.pdf" rel="noopener noreferrer nofollow" target="_blank">SED 2025 for Secondary 2</a>
