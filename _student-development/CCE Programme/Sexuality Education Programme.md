@@ -73,16 +73,16 @@ issues related to sexuality, which are of prime concern at this age.</p>
 <p><a href="https://drive.google.com/file/d/14-ARCj4GzsvXfyqqa1KX1PLCnhhLN3Fe/view?usp=drive_link" rel="noopener nofollow" target="_blank">SED 2026 for Secondary 1</a>
 </p>
 <h4><strong>SECONDARY 2</strong>&nbsp;</h4>
-<p><a href="/files/2025_sec2_SEd.pdf" rel="noopener noreferrer nofollow" target="_blank">SED 2025 for Secondary 2</a>
+<p><a href="https://drive.google.com/file/d/1Ix8VhrAYB2-ExhwvB00n_1H8Rd4UVcEN/view?usp=sharing" rel="noopener nofollow" target="_blank">SED 2025 for Secondary 2</a>
 </p>
 <h4><strong>SECONDARY 3</strong>&nbsp;</h4>
-<p><a href="/files/2025_sec3_SEd.pdf" rel="noopener noreferrer nofollow" target="_blank">SED 2025 for Secondary 3</a>
+<p><a href="https://drive.google.com/file/d/1RkC6oyA3X3MKhKIcKxi7-sykMmGwQr1i/view?usp=drive_link" rel="noopener nofollow" target="_blank">SED 2025 for Secondary 3</a>
 </p>
 <h4><strong>SECONDARY 4</strong>&nbsp;</h4>
-<p><a href="/files/2025_sec4_SEd.pdf" rel="noopener noreferrer nofollow" target="_blank">SED 2025 for Secondary 4</a>
+<p><a href="https://drive.google.com/file/d/1gUhlV_sXQFkA08H_r4nnDL2BNsoKNZqe/view?usp=drive_link" rel="noopener nofollow" target="_blank">SED 2025 for Secondary 4</a>
 </p>
 <h4><strong>SECONDARY 5</strong>&nbsp;</h4>
-<p><a href="/files/2025_sec5_SEd.pdf" rel="noopener noreferrer nofollow" target="_blank">SED 2025 for Secondary 5</a>
+<p><a href="https://drive.google.com/file/d/1jf1svdy-ujflwemaVFzxBtR6A3XQEgME/view?usp=sharing" rel="noopener nofollow" target="_blank">SED 2025 for Secondary 5</a>
 </p>
 <p><strong><em><u>eTeens</u></em><u> Programme:</u></strong>
 </p>
