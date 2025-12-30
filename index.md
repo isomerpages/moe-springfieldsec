@@ -9,6 +9,9 @@ sections:
   - hero:
       background: /images/schoolbg.jpg
       key_highlights:
+        - title: Termly letter
+          description: T1 Parents Letter
+          url: ""
         - title: N Level Results 2025
           description: Administrative Slides
           url: /2025-gce-n-level-results-release-administrative-instructions/
