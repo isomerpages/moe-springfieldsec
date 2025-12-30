@@ -2,9 +2,9 @@
 title: Termly Letter
 permalink: /our-experience/termly-letter/
 description: ""
-variant: markdown
+variant: tiptap
 third_nav_title: Home School Partnership
 ---
-# **2025 T4 Parents Letter**
-
-Please click [HERE](/files/SFSS_2025_T4_Parents_Letter.pdf) to view or download the Term 4 Parents letter.
+<h1><strong>2026 T1 Parents Letter</strong></h1>
+<p>Please click <a href="/files/SFSS_2026_T1_Parents_Letter.pdf" rel="noopener nofollow" target="_blank">HERE </a>to
+view the Term 1 Parents letter.</p>
