@@ -67,7 +67,7 @@ consequences of sexual behaviour.</p>
 the opportunity to develop a positive self-esteem, develop their character,
 and expand their understanding and repertoire of skills to deal with various
 issues related to sexuality, which are of prime concern at this age.</p>
-<p><strong>At Springfield Secondary School, the following Sexuality Education lessons will be taught in 2025:</strong>
+<p><strong>At Springfield Secondary School, the following Sexuality Education lessons will be taught in 2026:</strong>
 </p>
 <h4><strong>SECONDARY 1</strong></h4>
 <p><a href="/files/sec1SED2026.pdf" rel="noopener nofollow" target="_blank">SED 2026 for Secondary 1</a>
