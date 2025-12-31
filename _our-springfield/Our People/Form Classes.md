@@ -189,7 +189,8 @@ third_nav_title: Our People
 <p>Miss Nur Zakiyah Bte Abdullah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:nur_zakiyah_abdullah_bari@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_zakiyah_abdullah_bari@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
