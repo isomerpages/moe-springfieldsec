@@ -361,37 +361,13 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Assistant Year Head | Upper Secondary</p>
+<p>SH | CCA</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Ng Jun Kian, Eugene</p>
+<p>Mr Yonatan Ng Yu Zhe</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:jun_kian_eugene_ng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jun_kian_eugene_ng@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Assistant Year Head | Lower Secondary</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Alisya Yeo @ Siti Aisyah</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:alisya_yeo@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">alisya_yeo@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>SH | Student Leadership</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Ng Zhao Ying</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:ng_zhao_ying@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_zhao_ying@moe.edu.sg</a>
+<p><a href="mailto:yonatan_ng_yu_zhe@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yonatan_ng_yu_zhe@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -409,13 +385,37 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH | 21 CC (Ag)</p>
+<p>SH | CCE</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Gemonn Wah Kok Siong</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:gemonn_wah_kok_siong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>gemonn_wah_kok_siong</u>@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Assistant Year Head | S4/5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Ng Zhao Ying</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ng_zhao_ying@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_zhao_ying@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Assistant Year Head | S2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Alisya Yeo @ Siti Aisyah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:alisya_yeo@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">alisya_yeo@moe.edu.sg</a>
 </p>
 </td>
 </tr>
