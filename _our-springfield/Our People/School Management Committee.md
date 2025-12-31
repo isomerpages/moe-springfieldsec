@@ -122,6 +122,18 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>HOD | Mother Tongue</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Mohd Fuad Bin Salim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:mohd_fuad_salim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mohd_fuad_salim@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>HOD | Humanities</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -161,10 +173,10 @@ third_nav_title: Our People
 <p>HOD | Information and Communications Technology (ICT)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Ng Jenn Yang</p>
+<p>Mr Ng Jun Kian, Eugene</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ng_jenn_yang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_jenn_yang@moe.edu.sg</a>
+<p><a href="mailto:jun_kian_eugene_ng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jun_kian_eugene_ng@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -182,13 +194,13 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD | Student Development</p>
+<p>HOD| Character &amp; Citizenship (CCE)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Alex Goh Wui Huat</p>
+<p>Ms Zhang Lisa</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:goh_wui_huat@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">goh_wui_huat@moe.edu.sg</a>
+<p><a href="mailto:zhang_lisa@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zhang_lisa@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -300,25 +312,13 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH | Character &amp; Citizenship (CCE)</p>
+<p>SH | Chinese Language</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Zhang Lisa</p>
+<p>Mdm Ho Kai Li</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:zhang_lisa@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zhang_lisa@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>SH | Partnership</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Nicholas Tan Aum Yeow</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:nicholas_tan_aum_yeow@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nicholas_tan_aum_yeow@moe.edu.sg</a>
+<p><a href="mailto:ho_kai_li@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ho_kai_li@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -361,37 +361,13 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Assistant Year Head | Upper Secondary</p>
+<p>SH | CCA</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Ng Jun Kian, Eugene</p>
+<p>Mr Yonatan Ng Yu Zhe</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:jun_kian_eugene_ng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jun_kian_eugene_ng@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Assistant Year Head | Lower Secondary</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Alisya Yeo @ Siti Aisyah</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:alisya_yeo@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">alisya_yeo@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>SH | Student Leadership</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Ng Zhao Ying</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:ng_zhao_ying@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_zhao_ying@moe.edu.sg</a>
+<p><a href="mailto:yonatan_ng_yu_zhe@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yonatan_ng_yu_zhe@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -409,13 +385,37 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH | 21 CC (Ag)</p>
+<p>SH | CCE</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Gemonn Wah Kok Siong</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:gemonn_wah_kok_siong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>gemonn_wah_kok_siong</u>@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Assistant Year Head | S4/5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Ng Zhao Ying</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ng_zhao_ying@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_zhao_ying@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Assistant Year Head | S2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Alisya Yeo @ Siti Aisyah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:alisya_yeo@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">alisya_yeo@moe.edu.sg</a>
 </p>
 </td>
 </tr>

@@ -9,6 +9,9 @@ sections:
   - hero:
       background: /images/schoolbg.jpg
       key_highlights:
+        - title: Termly letter
+          description: T1 Parents Letter
+          url: /our-experience/termly-letter/
         - title: N Level Results 2025
           description: Administrative Slides
           url: /2025-gce-n-level-results-release-administrative-instructions/
@@ -58,16 +61,6 @@ sections:
       url: /president-s-award-for-teachers-pat-outstanding-youth-in-education-award-oyea/
       alt: Image alt text
       image: /images/patxoyea2.png
-  - infopic:
-      title: CARING TEACHER AWARDS 2026
-      id: infopic
-      description: The Caring Teacher Awards honor educators who go beyond duty with
-        care and compassion, nurturing confident learners who contribute to our
-        nation.
-      button: Nominate now
-      url: https://www.cta.nie.edu.sg/home
-      image: /images/logo.png
-      alt: Image alt text
   - infopic:
       title: Animation and Game Making (AGM) Competition 2025
       id: infopic

@@ -114,7 +114,8 @@ third_nav_title: Our People
 <p>Mr Chua Wee Choo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:chua_wee_choo_A@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chua_wee_choo_a@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -439,7 +440,7 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Cheng Kai Chen Euson</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -498,7 +499,8 @@ third_nav_title: Our People
 <p>Miss Goh Ming Min</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:goh_ming_min@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">goh_ming_min@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
