@@ -122,6 +122,18 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>HOD | Mother Tongue</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Mohd Fuad Bin Salim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:mohd_fuad_salim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mohd_fuad_salim@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>HOD | Humanities</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -182,13 +194,13 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD | Student Development</p>
+<p>HOD| Character &amp; Citizenship (CCE)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Alex Goh Wui Huat</p>
+<p>Ms Zhang Lisa</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:goh_wui_huat@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">goh_wui_huat@moe.edu.sg</a>
+<p><a href="mailto:zhang_lisa@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zhang_lisa@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -295,18 +307,6 @@ third_nav_title: Our People
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ng_choon_hwee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_choon_hwee@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>SH | Character &amp; Citizenship (CCE)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Zhang Lisa</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:zhang_lisa@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zhang_lisa@moe.edu.sg</a>
 </p>
 </td>
 </tr>
