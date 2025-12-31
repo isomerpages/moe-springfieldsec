@@ -189,8 +189,7 @@ third_nav_title: Our People
 <p>Miss Nur Zakiyah Bte Abdullah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nur_zakiyah_abdullah_bari@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_zakiyah_abdullah_bari@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -500,7 +499,8 @@ third_nav_title: Our People
 <p>Miss Goh Ming Min</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:goh_ming_min@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">goh_ming_min@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
