@@ -62,16 +62,6 @@ sections:
       alt: Image alt text
       image: /images/patxoyea2.png
   - infopic:
-      title: CARING TEACHER AWARDS 2026
-      id: infopic
-      description: The Caring Teacher Awards honor educators who go beyond duty with
-        care and compassion, nurturing confident learners who contribute to our
-        nation.
-      button: Nominate now
-      url: https://www.cta.nie.edu.sg/home
-      image: /images/logo.png
-      alt: Image alt text
-  - infopic:
       title: Animation and Game Making (AGM) Competition 2025
       id: infopic
       description: Ly Nguyen Minh Thu from class 3D wins Gold at AGM 2025, a national
