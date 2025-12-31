@@ -114,7 +114,8 @@ third_nav_title: Our People
 <p>Mr Chua Wee Choo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:chua_wee_choo_A@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chua_wee_choo_a@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
