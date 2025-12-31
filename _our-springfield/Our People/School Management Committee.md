@@ -161,10 +161,10 @@ third_nav_title: Our People
 <p>HOD | Information and Communications Technology (ICT)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Ng Jenn Yang</p>
+<p>Mr Ng Jun Kian, Eugene</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ng_jenn_yang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_jenn_yang@moe.edu.sg</a>
+<p><a href="mailto:jun_kian_eugene_ng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jun_kian_eugene_ng@moe.edu.sg</a>
 </p>
 </td>
 </tr>
