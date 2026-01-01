@@ -361,7 +361,7 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH | CCA</p>
+<p>SH | CCA (Acting)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Yonatan Ng Yu Zhe</p>
