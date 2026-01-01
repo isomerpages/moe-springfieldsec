@@ -182,7 +182,7 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD | Student Management (Ag)</p>
+<p>HOD | Student Management</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Lim Jing Kai</p>
