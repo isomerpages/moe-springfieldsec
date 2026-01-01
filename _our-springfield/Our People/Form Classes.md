@@ -42,6 +42,18 @@ third_nav_title: Our People
 <p>Student Manager</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Mr Anwarul Nizam</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:anwarul_nizam@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">anwarul_nizam@moe.edu.sg</a> 
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Student Manager</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Mr Yonatan Ng Yu Zhe</p>
 </td>
 <td rowspan="1" colspan="1">
