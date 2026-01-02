@@ -206,6 +206,7 @@ t change their CCA during their school years except for medical reasons.</p>
 <td rowspan="1" colspan="1">
 <p>Submit CCA Option Form</p>
 <p><a href="https://forms.moe.edu.sg/forms/oOq9VY" rel="noopener nofollow" target="_blank">Sec 1 CCA Option Form</a>
+<br><strong><em>(Form will be published on 21 January 2026)</em></strong>
 </p>
 </td>
 </tr>
