@@ -187,7 +187,7 @@ t change their CCA during their school years except for medical reasons.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>Term 1
 <br>Week 2 - 3</p>
 </td>
@@ -196,40 +196,88 @@ t change their CCA during their school years except for medical reasons.</p>
 <br>21 Jan 2026</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Receive CCA Option Form via Parents Gateway</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>From 21 - 26 January 2026</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Submit CCA Option Form</p>
+<p><a href="https://forms.moe.edu.sg/forms/oOq9VY" rel="noopener nofollow" target="_blank">Sec 1 CCA Option Form</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>Term 1
+<br>Week 4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>26 - 30
+<br>Jan 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No CCA sessions for Sec 1s</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Friday,
+<br>30 January 2026</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>CCA allocation result released via Parents Gateway</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>Term 1
+<br>Week 5 - 6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>From Monday,
+<br>2 February 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 1 attend their allocated CCA</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>9 - 13 February 2026</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Sec 1 appeal period</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Term 1
+<br>Week 7 - 8</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>16 - 25 February 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Management of Sec 1 appeals by HOD CCA</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Term 1
+<br>Week 9</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 - 6 March 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Finalisation of CCA</p>
 </td>
 </tr>
 </tbody>
