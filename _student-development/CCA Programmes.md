@@ -119,12 +119,97 @@ CCAs for all secondary schools. Pupils in these CCAs are not permitted
 t change their CCA during their school years except for medical reasons.</p>
 </li>
 </ul>
-<p><strong>CCA Attachment &amp; Allocation Policy</strong>
+<p></p>
+<p></p>
+<h3>Secondary 1  CCA Experience</h3>
+<p><em>(Updated 5 January 2026)</em>
 </p>
 <p></p>
-<h3>CCA Selection Policy</h3>
-<p><em>(Updated 27 December 2024)</em>
-</p>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/ccaexp1.jpg">
+</div>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Terms</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Dates</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Activity / Key Actions</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Term 1
+<br>Week 1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Wednesday,
+<br>7 Jan 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>HOD CCA Briefing (Start-It-Right)</p>
+</li>
+<li>
+<p>CCA Engagement</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Term 1
+<br>Week 1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>From Monday,
+<br>12 Jan 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Sec 1 CCA Immersion</p>
+</li>
+<li>
+<p>2-weeks CCA Immersion</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
