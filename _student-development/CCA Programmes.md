@@ -121,7 +121,7 @@ t change their CCA during their school years except for medical reasons.</p>
 </ul>
 <p></p>
 <p></p>
-<h3>Secondary 1  CCA Experience</h3>
+<h3>Secondary 1 CCA Experience</h3>
 <p><em>(Updated 5 January 2026)</em>
 </p>
 <p></p>
@@ -184,6 +184,30 @@ t change their CCA during their school years except for medical reasons.</p>
 <p>2-weeks CCA Immersion</p>
 </li>
 </ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Term 1
+<br>Week 2 - 3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>12, 14, 19,
+<br>21 Jan 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
