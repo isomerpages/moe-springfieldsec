@@ -196,11 +196,7 @@ t change their CCA during their school years except for medical reasons.</p>
 <br>21 Jan 2026</p>
 </td>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
 <p>Receive CCA Option Form via Parents Gateway</p>
-</li>
-</ul>
 </td>
 </tr>
 <tr>
