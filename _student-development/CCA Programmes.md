@@ -119,26 +119,31 @@ CCAs for all secondary schools. Pupils in these CCAs are not permitted
 t change their CCA during their school years except for medical reasons.</p>
 </li>
 </ul>
-<p><strong>CCA Attachment &amp; Allocation Policy</strong>
+<p></p>
+<p></p>
+<h3>Secondary 1 CCA Experience</h3>
+<p><em>(Updated 5 January 2026)</em>
 </p>
 <p></p>
-<h3>CCA Selection Policy</h3>
-<p><em>(Updated 27 December 2024)</em>
-</p>
-<table style="minWidth: 50px">
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/ccaexp1.jpg">
+</div>
+<table style="minWidth: 75px">
 <colgroup>
+<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p><strong>Week</strong>
-</p>
+<p>Terms</p>
 </th>
 <th rowspan="1" colspan="1">
-<p><strong>Activity</strong>
-</p>
+<p>Dates</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Activity / Key Actions</p>
 </th>
 </tr>
 <tr>
@@ -147,93 +152,129 @@ t change their CCA during their school years except for medical reasons.</p>
 <br>Week 1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD CCA briefing during start-it-right (SIR) programme
-<br>CCA Engagement (Monday, 6 January 2025)
-<br>VPA CCA performance (Tuesday, 7 January 2025)</p>
+<p>Wednesday,
+<br>7 Jan 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>HOD CCA Briefing (Start-It-Right)</p>
+</li>
+<li>
+<p>CCA Engagement</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Term 1
-<br>Week 1
-<br>
+<br>Week 1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>From Monday,
+<br>12 Jan 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Sec 1 CCA Immersion</p>
+</li>
+<li>
+<p>2-weeks CCA Immersion</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>Term 1
+<br>Week 2 - 3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>12, 14, 19,
+<br>21 Jan 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Receive CCA Option Form via Parents Gateway</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>From 21 - 26 January 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Submit CCA Option Form</p>
+<p><a href="https://forms.moe.edu.sg/forms/oOq9VY" rel="noopener nofollow" target="_blank">Sec 1 CCA Option Form</a>
+<br><strong><em>(Form will be published on 21 January 2026)</em></strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p>On Wednesday, 8 January 2025, Sec 1 students are to fill in the CCA trials/audition/interview
-form (CCA Leaders will provide the QR code for Sec 1s to scan and fill
-in the CCAs they wish to participate in the trials/audition/interview.)
-<br>
-<br>This process will continue for 3 weeks to provide ample time for the Sec
-1s to explore and immerse in the variety of CCAs offered in Springfield.</p>
-</td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>Term 1
-<br>Week 2 - 4</p>
+<br>Week 4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>CCA trials/auditions/interviews (8 – 27 January 2025)
-<br>
-<br>Sec 1 students and their parents will receive the CCA option form on 27
-January 2025 via PG.
-<br>After discussion, submit the Sec 1 CCA Option Form by 2 February 2025.
-<br>
-<br>Students are required to choose at least 1 CCA from Sports, 1 CCA from
-Visual and Performing Arts and 1 CCA from the Uniformed Groups.</p>
+<p>26 - 30
+<br>Jan 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No CCA sessions for Sec 1s</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Friday,
+<br>30 January 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CCA allocation result released via Parents Gateway</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
 <p>Term 1
 <br>Week 5 - 6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sec 1 receive their CCA results allocation on 7 February 2025. Sec 1s
-are to attend their allocated CCA from 10 February onwards.
-<br>
-<br>Sec 1 appeal cases to look for HOD CCA from 10 – 14 February 2025</p>
+<p>From Monday,
+<br>2 February 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 1 attend their allocated CCA</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>9 - 13 February 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 1 appeal period</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Term 1
-<br>Week 7</p>
+<br>Week 7 - 8</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Management of Sec 1 appeal cases (17 – 21 February 2025)
-<br>
-<br>Sec 2 and 3 students may submit their appeal form to HOD CCA from 17 –
-21 February 2025
-<br>
-</p>
+<p>16 - 25 February 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Management of Sec 1 appeals by HOD CCA</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Term 1
-<br>Week 8 - 9</p>
+<br>Week 9</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>For Sec 2 – 3 appeal cases, students are to attend trials/interviews from
-24 February – 5 March 2024
-<br>
-<br>CCA teachers are to submit appeal results to HOD CCA by 5 March 2024
-<br>
-<br>During the CCA appeal period, students must continue to attend the original
-CCA</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Term 1
-<br>Week 10</p>
+<p>2 - 6 March 2026</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Confirmation of CCA appeal result for Sec 2 – 3
-<br>
-</p>
+<p>Finalisation of CCA</p>
 </td>
 </tr>
 </tbody>
