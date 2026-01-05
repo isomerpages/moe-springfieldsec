@@ -153,7 +153,7 @@ t change their CCA during their school years except for medical reasons.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Wednesday,
-<br>7 Jan 2026</p>
+<br>7 January 2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
@@ -173,7 +173,7 @@ t change their CCA during their school years except for medical reasons.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>From Monday,
-<br>12 Jan 2026</p>
+<br>12 January 2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
@@ -187,13 +187,26 @@ t change their CCA during their school years except for medical reasons.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
-<p>Term 1
-<br>Week 2 - 3</p>
+<td rowspan="1" colspan="1">
+<p>Term 1</p>
+<p>Week 2 - 3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>12, 14, 19,
-<br>21 Jan 2026</p>
+<p>12, 14, 19,</p>
+<p>21 January 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CCA immersion to explore and experience the CCAs offer in Springfield</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>Term 1
+<br>Week 3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Wednesday,
+<br>21 January 2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Receive CCA Option Form via Parents Gateway</p>
@@ -217,7 +230,7 @@ t change their CCA during their school years except for medical reasons.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>26 - 30
-<br>Jan 2026</p>
+<br>January 2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>No CCA sessions for Sec 1s</p>
