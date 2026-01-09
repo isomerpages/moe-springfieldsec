@@ -33,6 +33,16 @@ sections:
           linktext: Read more
           url: /full-subject-based-banding-fsbb-for-sec1/
   - infopic:
+      title: Release of O-Level Results
+      id: infopic
+      description: Getting your O-Level results? Stay calm and review the important
+        reminders, where to get information, and how to book appointments, all
+        in one place.
+      button: more info
+      url: https://for.edu.sg/sfss-o-result
+      image: /images/n_level_release_2025.png
+      alt: Image alt text
+  - infopic:
       title: Start-It-Right 2026
       id: infopic
       description: Please click the link below for key information, including a
@@ -51,16 +61,6 @@ sections:
       url: https://springfieldsec.moe.edu.sg/sec-1-posting-2026/
       alt: Image alt text
       image: /images/sec1regimg.png
-  - infopic:
-      title: Release of N-Level Results
-      id: infopic
-      description: Getting your N-Level results? Stay calm and review the important
-        reminders, where to get information, and how to book appointments, all
-        in one place.
-      button: more info
-      url: /2025-gce-n-level-results-release-administrative-instructions/
-      image: /images/n_level_release_2025.png
-      alt: Image alt text
   - infopic:
       title: PAT and OYEA 2026
       id: infopic
