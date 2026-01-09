@@ -40,7 +40,7 @@ sections:
         in one place.
       button: more info
       url: https://for.edu.sg/sfss-o-result
-      image: /images/n_level_release_2025.png
+      image: /images/oImg.jpg
       alt: Image alt text
   - infopic:
       title: Start-It-Right 2026
