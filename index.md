@@ -12,9 +12,6 @@ sections:
         - title: Termly letter
           description: T1 Parents Letter
           url: /our-experience/termly-letter/
-        - title: N Level Results 2025
-          description: Administrative Slides
-          url: /2025-gce-n-level-results-release-administrative-instructions/
         - title: PLD Service Center info
           description: Read More
           url: /pld-new-service-center-location/
@@ -23,6 +20,18 @@ sections:
           url: https://sites.google.com/view/springfield-student-portal
       variant: center
       title: Springfield Secondary School
+  - textcards:
+      title: Secondary 1 Parents Engagement on 7 Jan 2026
+      id: textcards
+      cards:
+        - title: ICT Engagement
+          description: ""
+          linktext: Read more
+          url: /ict-engagement-2026/
+        - title: Full Subject-Based Banding (FSBB)
+          description: ""
+          linktext: Read more
+          url: /full-subject-based-banding-fsbb-for-sec1/
   - infopic:
       title: Start-It-Right 2026
       id: infopic
