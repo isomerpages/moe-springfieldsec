@@ -103,4 +103,16 @@ sections:
       title: School Corporate Video
       button: Click here to view the video
       url: https://youtu.be/up-2lZHaOgc
+  - textcards:
+      title: Secondary 1 Parents Engagement on 7 Jan 2026
+      id: textcards
+      cards:
+        - title: ICT Engagement
+          description: ""
+          linktext: Read more
+          url: ""
+        - title: Full Subject-Based Banding (FSBB)
+          description: ""
+          linktext: Read more
+          url: ""
 ---
