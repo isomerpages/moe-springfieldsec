@@ -34,7 +34,7 @@ sections:
         - title: Full Subject-Based Banding (FSBB)
           description: ""
           linktext: Read more
-          url: /full-subject-based-banding-fsbb/
+          url: /full-subject-based-banding-fsbb-for-sec1/
   - infopic:
       title: Start-It-Right 2026
       id: infopic
