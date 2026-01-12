@@ -43,34 +43,6 @@ sections:
       image: /images/oImg.jpg
       alt: Image alt text
   - infopic:
-      title: Start-It-Right 2026
-      id: infopic
-      description: Please click the link below for key information, including a
-        first-day checklist and the 2026 SIR schedule with daily dismissal
-        times.
-      button: start-it right
-      url: /programmes/start-it-right-s-i-r-programme/
-      alt: Image alt text
-      image: /images/SIR2026.jpg
-  - infopic:
-      title: S1 Registration 2026 – Welcome Note to Parents
-      id: infopic
-      description: A warm welcome to Springfield Secondary School! Please see attached
-        the important information for S1 Registration.
-      button: More info
-      url: https://springfieldsec.moe.edu.sg/sec-1-posting-2026/
-      alt: Image alt text
-      image: /images/sec1regimg.png
-  - infopic:
-      title: PAT and OYEA 2026
-      id: infopic
-      description: Nominations for the 2026 President’s Award for Teachers and
-        Outstanding Youth in Education Award are now open! Submit by 9 Jan 2026.
-      button: NOMINATE NOW
-      url: /president-s-award-for-teachers-pat-outstanding-youth-in-education-award-oyea/
-      alt: Image alt text
-      image: /images/patxoyea2.png
-  - infopic:
       title: Animation and Game Making (AGM) Competition 2025
       id: infopic
       description: Ly Nguyen Minh Thu from class 3D wins Gold at AGM 2025, a national
