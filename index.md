@@ -23,6 +23,16 @@ sections:
           url: https://sites.google.com/view/springfield-student-portal
       variant: center
       title: Springfield Secondary School
+  - infopic:
+      title: Release of O-Level Results
+      id: infopic
+      description: Congratulations on completing your O Level education! Find out more
+        about briefing slides, key reminders, information, and appointment
+        booking in one place.
+      button: more info
+      url: /2025-gce-o-level-result-release-administrative-slides/
+      image: /images/oImg.jpg
+      alt: Image alt text
   - textcards:
       title: Secondary 1 Parents Engagement on 7 Jan 2026
       id: textcards
@@ -35,16 +45,6 @@ sections:
           description: ""
           linktext: Read more
           url: /full-subject-based-banding-fsbb-for-sec1/
-  - infopic:
-      title: Release of O-Level Results
-      id: infopic
-      description: Congratulations on completing your O Level education! Find out more
-        about briefing slides, key reminders, information, and appointment
-        booking in one place.
-      button: more info
-      url: /2025-gce-o-level-result-release-administrative-slides/
-      image: /images/oImg.jpg
-      alt: Image alt text
   - infopic:
       title: Animation and Game Making (AGM) Competition 2025
       id: infopic
