@@ -42,7 +42,7 @@ sections:
         about briefing slides, key reminders, information, and appointment
         booking in one place.
       button: more info
-      url: https://for.edu.sg/sfss-o-result
+      url: /2025-gce-o-level-result-release-administrative-slides/
       image: /images/oImg.jpg
       alt: Image alt text
   - infopic:
