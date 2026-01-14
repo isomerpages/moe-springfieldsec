@@ -38,9 +38,9 @@ sections:
   - infopic:
       title: Release of O-Level Results
       id: infopic
-      description: Getting your O-Level results? Stay calm and review the important
-        reminders, where to get information, and how to book appointments, all
-        in one place.
+      description: Congratulations on completing your O Level education! Find out more
+        about briefing slides, key reminders, information, and appointment
+        booking in one place.
       button: more info
       url: https://for.edu.sg/sfss-o-result
       image: /images/oImg.jpg
