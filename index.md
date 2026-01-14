@@ -11,7 +11,7 @@ sections:
       key_highlights:
         - title: Release of 2025 GCE O-Level Results
           description: Administrative Slides
-          url: https://for.edu.sg/sfss-o-result
+          url: /2025-gce-o-level-result-release-administrative-slides/
         - title: Termly letter
           description: T1 Parents Letter
           url: /our-experience/termly-letter/
