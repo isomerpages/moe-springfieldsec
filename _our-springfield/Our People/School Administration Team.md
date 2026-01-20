@@ -216,6 +216,30 @@ variant: tiptap
 <p>Mr Sazali Bin Mohamed</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Desktop Engineer</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>Mr Anizar Bin Abdul Rahim</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Desktop Engineer</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>Mr Neo Jun Kiat</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Kitchen Assistant</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>Miss Yun Ying</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p><strong>Time for Laser Tag</strong>
