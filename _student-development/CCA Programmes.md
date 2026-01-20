@@ -200,7 +200,7 @@ t change their CCA during their school years except for medical reasons.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="1" colspan="1">
 <p>Term 1
 <br>Week 3</p>
 </td>
@@ -210,17 +210,6 @@ t change their CCA during their school years except for medical reasons.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Receive CCA Option Form via Parents Gateway</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>From 21 - 26 January 2026</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Submit CCA Option Form</p>
-<p><a href="https://forms.moe.edu.sg/forms/oOq9VY" rel="noopener nofollow" target="_blank">Sec 1 CCA Option Form</a>
-<br><strong><em>(Form will be published on 21 January 2026)</em></strong>
-</p>
 </td>
 </tr>
 <tr>
