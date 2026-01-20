@@ -240,6 +240,14 @@ variant: tiptap
 <p>Miss Quek Yun Ying</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Admin Support</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>Miss Chan Yen Lin</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p><strong>Time for Laser Tag</strong>
