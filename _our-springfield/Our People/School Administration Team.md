@@ -237,7 +237,7 @@ variant: tiptap
 <p>Kitchen Assistant</p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Miss Yun Ying</p>
+<p>Miss Quek Yun Ying</p>
 </td>
 </tr>
 </tbody>
