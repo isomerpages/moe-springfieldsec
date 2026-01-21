@@ -42,7 +42,7 @@ to life for the benefit of all families.</p>
 <p>Chairperson</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Siti Aishah Abdullah</p>
+<p>Ms June Lim Xui Ting</p>
 </td>
 </tr>
 <tr>
@@ -50,23 +50,33 @@ to life for the benefit of all families.</p>
 <p>Vice Chairperson</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms June Lim Xui Ting</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Secretary</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mdm Sitti Haifah</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Treasureer</p>
+<p>Advisor</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Fathima Nazila</p>
+<p>Mdm Siti Aishah Abdullah</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3" colspan="1">
+<p>Members</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Mardane Saakshi Ankur</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Nurhafeza Binte Mohamad Haron</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Mashitah Binte Ibrahim</p>
 </td>
 </tr>
 </tbody>
