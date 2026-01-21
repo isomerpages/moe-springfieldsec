@@ -61,7 +61,6 @@ To discuss any of the following, please book appointment slots that <b>do NOT co
 <b>Work and Industry</b>
 <br>[• MyCareersFuture](https://go.gov.sg/careersfuture): A portal with career-related content
 <br>[•	Singapore Industry Landscape](https://go.gov.sg/industrylandscape-sec)
-<br>[•	Industry Transformation Maps (ITMs)](https://www.mti.gov.sg/ITMs/Overview): Roadmaps for the various industries in Singapore
 <br>[•	Skills Framework](https://www.skillsfuture.gov.sg/skills-framework): Information on career sectors, pathways, roles, skills, training, etc.
 
 
