@@ -85,7 +85,7 @@ to life for the benefit of all families.</p>
 <p>All Springfield parents are warmly welcome to be part of our parent community.
 Whether you’d like to volunteer, attend events, or simply connect with
 other parents, there’s a place for you in the SPN family.</p>
-<p>👉 <strong>[Click here to sign up] </strong>(<a href="https://go.gov.sg/sfss-spn-2025" rel="noopener nofollow" target="_blank">https://go.gov.sg/sfss-spn-2025</a>)</p>
+<p>👉 <strong>[Click here to sign up] </strong>(<a href="https://go.gov.sg/sfss-spn-2026" rel="noopener nofollow" target="_blank">https://go.gov.sg/sfss-spn-2026</a>)</p>
 <h3>Our Programmes Through the Years</h3>
 <p>Every year, the Springfield Parents Network (SPN) brings parents and families
 together through a variety of activities and initiatives. From parent education
