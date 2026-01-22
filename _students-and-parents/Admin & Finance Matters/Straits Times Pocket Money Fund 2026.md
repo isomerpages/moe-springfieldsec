@@ -17,9 +17,7 @@ The fund works with schools under the Ministry of Education (MOE), independent s
 
 
 
-
-[STSPMF Eligibility Criteria](/files/STSPMF_Eligibility_Criteria.pdf)
-
+[STSPMF Eligibility Criteria](/files/STSPMF_Eligibility_Criteria_2026.pdf)
 
 [Annex A - STSPMF Application Form](/files/Annex_A___2026_STSPMF_Application_Form_for_sch.pdf)
 
