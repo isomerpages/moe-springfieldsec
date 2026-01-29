@@ -7,7 +7,7 @@ description: ""
 # **Quick Links for Teachers**
 
 * [All Ears Form Builder](https://forms.moe.edu.sg/)
-* [iCon](icon.moe.edu.sg)
+* [MOE iCon 2.0](https://icon.moe.edu.sg)
 * [CDL @ SFSS](https://sites.google.com/moe.edu.sg/cdlsfss/home)
 * [HR Online](https://intranet.moe.gov.sg/hronline/Pages/Home.aspx) (Requires VPN/SSOE2 Network)
 * [HRP Portal](https://www.hrp.gov.sg)
