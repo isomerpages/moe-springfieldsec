@@ -49,4 +49,21 @@ both the school and parents in guiding students’ device use.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/pld26_4.jpg">
 </div>
+<p>Please complete a form <a href="https://form.gov.sg/698e7da87e58d6385f0b651d" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a> to change
+your DMA Options.</p>
+<p>Please note:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>The device will shut down at 10.30 p.m. by default.</p>
+</li>
+<li>
+<p>Changes to After School DMA options are collated on the 1st and 3rd Fridays
+of each month and will take effect the following week.</p>
+</li>
+<li>
+<p>The DMA will be uninstalled when the student graduates or leaves the school.</p>
+</li>
+</ul>
+<p>For further details about each of the DMA options and the setup process,
+please refer to the attachments <a href="https://drive.google.com/open?id=1DdGTt8jTnCdminmoMRtT6MTKAa4KuhvW" rel="noopener noreferrer nofollow" target="_blank"><u>linked</u></a>.</p>
 <p></p>
