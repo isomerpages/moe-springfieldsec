@@ -86,7 +86,7 @@ to the vendor’s service centre for repair.</p>
 </ul>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/pld26_5.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/pld26_5.jpg">
 </div>
 <p><strong><u>💻 Reporting Lost Devices</u></strong>
 </p>
@@ -122,7 +122,7 @@ through assembly talks, school-wide programmes, and <a href="https://www.springf
 equipping them with the knowledge and judgment to navigate the digital
 world responsibly.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/pld26_6.jpg">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/pld26_6.jpg">
 </div>
 <p>
 <br>Together with the school, parents play a vital role in shaping responsible
