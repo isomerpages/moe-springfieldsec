@@ -119,7 +119,7 @@ Lab to arrange for the device to be remotely locked.</p>
 be accompanied by strong values and responsible decision making. <strong>The PLD is a powerful learning tool, and students must learn to use it wisely, respectfully, and safely.</strong>
 </p>
 <p>To support this, the school intentionally educates students on cyber wellness
-through assembly talks, school-wide programmes, and structured CCE lessons,
+through assembly talks, school-wide programmes, and <a href="https://www.springfieldsec.moe.edu.sg/programmes/cce-programme/" rel="noopener nofollow" target="_blank">structured CCE lessons</a>,
 equipping them with the knowledge and judgment to navigate the digital
 world responsibly.</p>
 <div class="isomer-image-wrapper">
