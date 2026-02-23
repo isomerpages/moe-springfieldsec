@@ -2,8 +2,8 @@ collections:
   students-and-parents:
     output: true
     order:
-      - PLD Matters.md
       - Springfield Student Portal.md
+      - PLD Matters.md
       - School Rules.md
       - Home School Partnership/.keep
       - Home School Partnership/Home School Partnership.md
