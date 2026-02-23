@@ -14,14 +14,13 @@ engage in interactive learning experiences.</p>
 <p>Through the use of PLDs, students learn to:</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/pld26_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/pld26_11.jpg">
 </div>
-<p></p>
 <h4><strong>Our PLD Devices</strong></h4>
 <p>At Springfield Secondary School, our chosen PLD is:</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/pld26_2.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/pld26_2.jpg">
 </div>
 <h4><strong>Device Management Application (DMA)</strong></h4>
 <p>An MOE Device Management Application has been installed on all students’
@@ -42,12 +41,12 @@ both the school and parents in guiding students’ device use.</p>
 <p><strong><u>After School Hours, 3.00 p.m to 10.30 p.m</u></strong>
 </p>
 <p>Parents may choose one of the following options:</p>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/pld26_3.jpg">
-</div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/pld26_4.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/pld26_33.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/pld26_4.jpg">
 </div>
 <p>Please complete a form <a href="https://form.gov.sg/698e7da87e58d6385f0b651d" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a> to change
 your DMA Options.</p>
