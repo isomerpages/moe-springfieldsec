@@ -41,7 +41,6 @@ To discuss any of the following, please book appointment slots that <b>do NOT co
 	
 <b>Common Admission Exercises</b>
 <br>[• Joint Admissions Exercise (JAE)](https://www.moe.gov.sg/post-secondary/admissions/jae)
-<br> [• JAE Course Booklet](https://www.moe.gov.sg/-/media/files/post-secondary/2026-jae/2026-jae-courses.pdf)
 <br>[• Joint Intake Exercise (JIE)](https://www.moe.gov.sg/post-secondary/admissions/jie)
 <br>[• ITE Admission &amp; Course Information Brochure ](https://isomer-user-content.by.gov.sg/145/1e485194-f09b-40d2-8e17-0fbfdf660a26/Admission%20&amp;%20Course%20Information%20Brochure%20for%20GCE%20'N'%20Level%20students.pdf)
 <br>[• Polytechnic Foundation Programme (PFP)](https://go.gov.sg/pfp)
