@@ -66,4 +66,22 @@ of each month and will take effect the following week.</p>
 </ul>
 <p>For further details about each of the DMA options and the setup process,
 please refer to the attachments <a href="https://drive.google.com/open?id=1DdGTt8jTnCdminmoMRtT6MTKAa4KuhvW" rel="noopener noreferrer nofollow" target="_blank"><u>linked</u></a>.</p>
+<h4><strong>PLD Technical Support </strong></h4>
+<p><strong><u>💻 Reporting Device Issues, Hardware Faults or Damages</u></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>The student should bring the device to the ICT Team at Computer Lab 1
+for diagnostic assessment and checking of warranty/insurance validity. <em>(For students using the ASUS Chromebook, JK Technology provides only on-site collection services. The ICT Team will advise if this arrangement is possible, on a case-by-case basis.)</em>
+</p>
+</li>
+<li>
+<p>Please note that the ICT Team is <u>not</u> able to carry out major or extensive
+repairs.</p>
+</li>
+<li>
+<p>If necessary, the ICT Team will advise the student to bring the device
+to the vendor’s service centre for repair.</p>
+</li>
+</ul>
 <p></p>
