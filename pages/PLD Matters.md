@@ -42,4 +42,7 @@ both the school and parents in guiding students’ device use.</p>
 <p><strong><u>After School Hours, 3.00 p.m to 10.30 p.m</u></strong>
 </p>
 <p>Parents may choose one of the following options:</p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/pld26_3.jpg">
+</div>
 <p></p>
