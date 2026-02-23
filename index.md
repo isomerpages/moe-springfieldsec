@@ -12,9 +12,6 @@ sections:
         - title: Termly letter
           description: T1 Parents Letter
           url: /our-experience/termly-letter/
-        - title: PLD Service Center info
-          description: Read More
-          url: /pld-new-service-center-location/
         - title: Springfield student portal
           description: Click here to access
           url: https://sites.google.com/view/springfield-student-portal
