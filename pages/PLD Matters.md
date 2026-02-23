@@ -46,3 +46,7 @@ both the school and parents in guiding students’ device use.</p>
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/pld26_3.jpg">
 </div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/pld26_4.jpg">
+</div>
+<p></p>
