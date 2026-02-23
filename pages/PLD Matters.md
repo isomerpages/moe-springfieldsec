@@ -86,3 +86,88 @@ to the vendor’s service centre for repair.</p>
 </li>
 </ul>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/pld26_5.jpg">
+</div>
+<p><strong><u>💻 Reporting Lost Devices</u></strong>
+</p>
+<ul>
+<li>
+<p><strong>Parents are required to make a police report for the lost device.</strong>
+</p>
+</li>
+<li>
+<p>Parents should contact the device contractor directly via their helpdesk
+or service centre.</p>
+</li>
+<li>
+<p>A copy of the police report must be submitted to the vendor for insurance
+claims, this applies only if the device is still within the insurance coverage
+period.</p>
+</li>
+<li>
+<p>The vendor’s helpdesk or service centre will advise parents on the insurance
+claim process.</p>
+</li>
+<li>
+<p>Parents/students should also inform the school’s ICT Team at Computer
+Lab to arrange for the device to be remotely locked.</p>
+</li>
+</ul>
+<h4><strong>Cyber Wellness</strong></h4>
+<p>At Springfield Secondary School, we believe that digital literacy must
+be accompanied by strong values and responsible decision making. <strong>The PLD is a powerful learning tool, and students must learn to use it wisely, respectfully, and safely.</strong>
+</p>
+<p>To support this, the school intentionally educates students on cyber wellness
+through assembly talks, school-wide programmes, and structured CCE lessons,
+equipping them with the knowledge and judgment to navigate the digital
+world responsibly.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/pld26_6.jpg">
+</div>
+<p>
+<br>Together with the school, parents play a vital role in shaping responsible
+digital habits. You can support your child by:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Having regular conversations about their online experiences</p>
+</li>
+<li>
+<p>Setting clear expectations for appropriate device use at home</p>
+</li>
+<li>
+<p>Establishing screen free times, especially before bedtime</p>
+</li>
+<li>
+<p>Monitoring online behaviour in age appropriate ways</p>
+</li>
+<li>
+<p>Modelling respectful and responsible digital behaviour</p>
+</li>
+<li>
+<p>When schools and parents work together, students develop not just digital
+skills, but the judgement and character to use technology well.</p>
+</li>
+</ul>
+<p>Here are some useful cyber wellness resources for your easy reference:</p>
+<ul>
+<li>
+<p>MOE - <a href="https://drive.google.com/drive/folders/1ottM_9m00gxaMk5MDNftjP988Ycrfk4H?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank"><u>Parent Handbooks on Learning with a Personal Learning Device&nbsp;</u></a>
+</p>
+</li>
+<li>
+<p>Digital For Life - <a href="https://www.digitalforlife.gov.sg/learn/resources/all-resources/raising-children-in-the-digital-age?utm_source=google&amp;utm_medium=cpc&amp;utm_term=DigitalParenting-Overall_Generic&amp;utm_content=TX-TX-NA-NA-NA-Resources_RCDA&amp;utm_campaign=SEMDfLBrand_Resources&amp;gad_source=1&amp;gad_campaignid=21962581414&amp;gbraid=0AAAAAqs2dkfm2k5IrV5ptBYdt-S0c5_Wk&amp;gclid=CjwKCAiAwNDMBhBfEiwAd7ti1BWYuuV8cs0_Y5nyW6UE-y8otsUufEOsimNBVRYHCVkFTK0tXoyr7RoCnk8QAvD_BwE" rel="noopener noreferrer nofollow" target="_blank"><u>Raising Children in the Digital Age&nbsp;</u></a>
+</p>
+</li>
+<li>
+<p>Families for Life - <a href="https://familiesforlife.sg/pages/Digital-Balance-Real-Connection?gad_source=1" rel="noopener noreferrer nofollow" target="_blank"><u>Parent Guide to Digital Wellness</u></a>&nbsp;</p>
+</li>
+<li>
+<p>National Library Board - <a href="https://sure.nlb.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>SURE Campaign</u></a>&nbsp;</p>
+</li>
+<li>
+<p>MingSG - <a href="https://www.healthhub.sg/programmes/mindsg/caring-for-ourselves/learning-about-cyber-wellness-teens#home" rel="noopener noreferrer nofollow" target="_blank"><u>Let’s Talk about Cyber Wellness</u></a>
+</p>
+</li>
+</ul>
+<p></p>
