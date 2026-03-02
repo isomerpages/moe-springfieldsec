@@ -56,8 +56,8 @@ your DMA Options.</p>
 <p>The device will shut down at 10.30 p.m. by default.</p>
 </li>
 <li>
-<p>Changes to After School DMA options are collated on the 1st and 3rd Fridays
-of each month and will take effect the following week.</p>
+<p>Changes to After School DMA options are collated on the last Fridays of
+each month and will take effect the following week.</p>
 </li>
 <li>
 <p>The DMA will be uninstalled when the student graduates or leaves the school.</p>
