@@ -35,14 +35,13 @@ EAE, etc.
 <br><a href="https://www.ite.edu.sg/courses/full-time-courses" rel="noopener noreferrer nofollow" target="_blank">• List of all ITE Courses</a>
 <br><a href="https://go.gov.sg/coursefinder" rel="noopener noreferrer nofollow" target="_blank">• CourseFinder</a>:
 Explore courses based on aggregate type, score, type of institute and area
-of interest</p>
-<p><a href="https://go.gov.sg/schoolfinder-preu" rel="noopener noreferrer nofollow" target="_blank">• SchoolFinder - JC &amp; MI</a>:
+of interest
+<br><a href="https://go.gov.sg/schoolfinder-preu" rel="noopener noreferrer nofollow" target="_blank">• SchoolFinder - JC &amp; MI</a>:
 Explore schools based on locations, CCAs, subjects and programmes offered
 <br><a href="https://www.ibo.org/programmes/diploma-programme/curriculum/" rel="noopener noreferrer nofollow" target="_blank">• International Baccalaureate® (IB) Diploma Programme (DP) curriculum</a>
 </p>
 <p><strong>Common Admission Exercises</strong>
-</p>
-<p><a href="http://www.moe.gov.sg/pse" rel="noopener noreferrer nofollow" target="_blank">• Post-Secondary Admissions Exercise (PSE)</a>:
+<br><a href="http://www.moe.gov.sg/pse" rel="noopener noreferrer nofollow" target="_blank">• Post-Secondary Admissions Exercise (PSE)</a>:
 For Full SBB students
 <br><a href="https://www.moe.gov.sg/post-secondary/admissions/jae" rel="noopener noreferrer nofollow" target="_blank">• Joint Admissions Exercise (JAE)</a>
 <br><a href="https://www.moe.gov.sg/post-secondary/admissions/jie" rel="noopener noreferrer nofollow" target="_blank">• Joint Intake Exercise (JIE)</a>:
