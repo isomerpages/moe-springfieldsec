@@ -53,7 +53,7 @@ including 3-year Higher Nitec &amp; DPP
 <br><a href="https://jpae.polytechnic.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">• Joint Polytechnic Admissions Exercise (JPAE)</a>:
 ITE Admissions to Poly</p>
 <p><strong>Aptitude-Based Admission (ABA) Exercises</strong>
-<br><a href="https://go.gov.sg/applyeae" rel="noopener noreferrer nofollow" target="_blank">• ITE Early Admissions Exercise</a>
+<br><a href="https://www.ite.edu.sg/secondary-school-students/admissions/early-admissions-exercise/" rel="noopener noreferrer nofollow" target="_blank">• ITE Early Admissions Exercise</a>
 <br><a href="https://go.gov.sg/polyeae" rel="noopener noreferrer nofollow" target="_blank">• Poly Early Admissions Exercise</a>
 <br><a href="https://eae.polytechnic.edu.sg/eaeStudIns/menu.jsp?type=FAQs" rel="noopener noreferrer nofollow" target="_blank">• Poly EAE FAQ</a>:
 Please read if you are considering EAE
