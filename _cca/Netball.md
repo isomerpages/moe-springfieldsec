@@ -52,9 +52,9 @@ and application of values, knowledge and skills​.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Miss Shastriya Manogaran (IC)
-<br>Ms Judith Ho Shu Ling (2IC)
-<br>Mr Noel Loh
-<br>Miss Norine Liew Xue En</p>
+<br>Ms Judith Ho Shu Ling (ST)
+<br>Mrs Maureen Tan
+<br>Mr Noel Loh</p>
 </td>
 </tr>
 <tr>

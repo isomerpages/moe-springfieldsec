@@ -2,20 +2,119 @@
 title: Floorball (Boys)
 permalink: /cca/physical-sports/floorball-boys/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-# **Floorball (Boys)**
-
-![](/images/floorballboys1.png)
-
-
-Click [HERE](https://youtu.be/QxGUc3-q79g) to watch the Floorball Boys Team in action!
-
-<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:#F4F4F4;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">CCA General Info:<br><br>1. Brief introduction<br><br><br><br><br>2. Challenges students will face<br><br><span style="background-color:initial"><br>3. Skills / Talents / Qualities the CCA is looking for</span><br><br><br>4. The benefits of joining the CCA<br></th><th style="background-color:#F4F4F4;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><br><br>1. “One team, Springfield!” Our Springfield Floorball team (Boys) started in 2012. The training sessions and activities are designed to foster a sense of belonging in the team, build their resilience and nurture good sportsmanship.
-<br><br>2. Students will undergo tough physical training and skills training. As they improve their stamina and endurance, they will also develop their character in terms of leadership, discipline, teamwork, and resilience.<br><br>3. The Floorball team is looking for students who have played the sport in Primary schools. Those without prior experience are also welcomed to try out for the team and they will be put through a series of tests.<br><br><br>4. Students will get to represent the school in National Schools Competition and other external competitions. There will be camps, overseas trips and floorball clinics organised for students to forge strong bonds and develop 21st Century Competencies.</th></tr></thead><tbody><tr><td style="background-color:#DDEEE9;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">CCA Schedule:<br></td><td style="background-color:#DDEEE9;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Day: Monday &amp; Wednesday <br>Time: 2.30PM - 5.30PM<br>Venue: Indoor Sports Hall (Springfield Secondary School)</td></tr><tr><td style="background-color:#F4F4F4;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Teachers-in-charge:</td><td style="background-color:#F4F4F4;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">• Mr Ahmad Zaini Yusof (IC)<br>• Mr Loh Chean Meng (2IC)<br>• Mr Yong Jing Jun</td></tr><tr><td style="background-color:#DDEEE9;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Coach / Trainer<br></td><td style="background-color:#DDEEE9;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Mr. Muhammad Khairul Fahmi</td></tr><tr><td style="background-color:#F4F4F4;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Annual programs/events</td><td style="background-color:#F4F4F4;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">1. Floorball Orientation, Bonding Sessions &amp; Training Camps<br>2. National Schools Games (NSG) - 'B' Division &amp; 'C' Division<br>3. Values-in-Action (VIA) Project<br></td></tr><tr><td style="background-color:#DDEEE9;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Achievements:<br></td><td style="background-color:#DDEEE9;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">2023 - National School Games 'C' and ‘B’ Division <br>2022 - National School Games 'C' Division - 2nd Round<br>2022 - National School Games 'B' Division - 2nd Round <br>2019 - SFA Plate &amp; Bowl Championship 3rd<br>2018 - SFA Plate &amp; Bowl Championship 4th <br> 2017 - SFA Plate &amp; Bowl Championship 2nd</td></tr></tbody></table>
-
+<h1><strong>Floorball (Boys)</strong></h1>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/floorballboys1.png">
+</div>
+<p>Click <a href="https://youtu.be/QxGUc3-q79g" rel="noopener noreferrer nofollow" target="_blank">HERE</a> to
+watch the Floorball Boys Team in action!</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong>CCA General Info:<br><br>1. Brief introduction<br><br><br><br><br>2. Challenges students will face<br><br><br></strong>
+</p>
+<p><strong>3. Skills / Talents / Qualities the CCA is looking for<br><br><br></strong>
+</p>
+<p><strong>4. The benefits of joining the CCA<br></strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>
 <br>
-
-![](/images/floorballboys2.png)
-
-![](/images/floorballboys3.png)
+<br>1. “One team, Springfield!” Our Springfield Floorball team (Boys) started
+in 2012. The training sessions and activities are designed to foster a
+sense of belonging in the team, build their resilience and nurture good
+sportsmanship.
+<br>
+<br>2. Students will undergo tough physical training and skills training.
+As they improve their stamina and endurance, they will also develop their
+character in terms of leadership, discipline, teamwork, and resilience.
+<br>
+<br>3. The Floorball team is looking for students who have played the sport
+in Primary schools. Those without prior experience are also welcomed to
+try out for the team and they will be put through a series of tests.
+<br>
+<br>
+<br>4. Students will get to represent the school in National Schools Competition
+and other external competitions. There will be camps, overseas trips and
+floorball clinics organised for students to forge strong bonds and develop
+21st Century Competencies.</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>CCA Schedule:<br></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Day: Monday &amp; Wednesday <br>Time: 2.30PM - 5.30PM<br>Venue: Indoor Sports Hall (Springfield Secondary School)</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Teachers-in-charge:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>• Mr Yong Jing Jun (IC)
+<br>• Mr Tan Yik Zhen (2IC)
+<br>• Mr Marcus Tan Wei Lun
+<br>• Mr Cheng Kai Chen Euson</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Coach / Trainer<br></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr. Muhammad Khairul Fahmi</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Annual programs/events</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1. Floorball Orientation, Bonding Sessions &amp; Training Camps
+<br>2. National Schools Games (NSG) - 'B' Division &amp; 'C' Division
+<br>3. Values-in-Action (VIA) Project
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Achievements:<br></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2023 - National School Games 'C' and ‘B’ Division
+<br>2022 - National School Games 'C' Division - 2nd Round
+<br>2022 - National School Games 'B' Division - 2nd Round
+<br>2019 - SFA Plate &amp; Bowl Championship 3rd
+<br>2018 - SFA Plate &amp; Bowl Championship 4th
+<br>2017 - SFA Plate &amp; Bowl Championship 2nd</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>
+<br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/floorballboys2.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/floorballboys3.png">
+</div>
+<p></p>

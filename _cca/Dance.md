@@ -2,19 +2,126 @@
 title: Dance
 permalink: /cca/visual-n-performing-arts/dance/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-# **Dance**
-
-![](/images/Dance1.jpg)
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ghLDAV0QocE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-
+<h1><strong>Dance</strong></h1>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dance1.jpg">
+</div>
+<p></p>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/ghLDAV0QocE"></iframe>
+</div>
+<p>
 <br>
-<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:#f4f4f4;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">General Info:<br></th><th style="background-color:#f4f4f4;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Springfield Dance group is a vibrant performing arts group which aims to develop talent and build self-confidence in the dancers. <br><br> They will also build strong bonds among members and develop their characters in terms of discipline and teamwork.<br> </th></tr></thead><tbody><tr><td style="background-color:#ddeee9;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Who should join us?</td><td style="background-color:#ddeee9;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Springfield Dance group is looking for students who have the flair and passion for dancing and those who are keen to learn hiphop and contemporary dance. Students who do not have a dance background but have interest and passion for dancing are welcomed as well. <br></td></tr><tr><td style="background-color:#f4f4f4;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Benefits of joing SFSS Dance </td><td style="background-color:#f4f4f4;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Students will have the opportunity to showcase their dance through school and public performances. They will also have the opportunity to participate in dance competitions such as the Singapore Youth Festival Competition, learning journeys and community involvement programmes. <br></td></tr><tr><td style="background-color:#DDEEE9;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">CCA Schedule<br></td><td style="background-color:#DDEEE9;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"> 
-	Mondays &amp; Wednesdays / Friday (if there are rehearsals for a performance) <br> Time: 2.30PM - 4.30PM <br>Venue: Music Room</td></tr><tr><td style="background-color:#f4f4f4;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Teachers in-charge:</td><td style="background-color:#f4f4f4;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Miss Grace Ang Hui Wen (IC)<br>Mrs Suzanne Irene Jacobs –Gomes (2IC)<br>Mdm Zubaidah Arshad (ST) <br>Mdm Yap Lay Eng</td></tr><tr><td style="background-color:#DDEEE9;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Coaches/Trainers:<br></td><td style="background-color:#DDEEE9;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"> 
-	Mr Kelvin Chow</td></tr><tr><td style="background-color:#f4f4f4;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">List of annual programs/events</td><td style="background-color:#f4f4f4;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">1. School Performances (Spring Festival, Teacher's Day, National Day)<br>2. Singapore Youth Festival (SYF) Competition<br> 3. Dance Camp</td></tr><tr><td style="background-color:#ddeee9;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Achievements: </td><td style="background-color:#ddeee9;border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Singapore Youth Festival (SYF) <br><br>2020 Certificate of Accomplishment (International Dance)<br>2019 Certificate of Accomplishment (International Dance)<br>2017 Certificate of Accomplishment (International Dance) <br><br>Open Stage Competition (Our Tampines Hub) <br><br> 2022 THREE-STARS Acheivement Level</td></tr></tbody></table>
-
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong>General Info:<br></strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Springfield Dance group is a vibrant performing arts group which aims
+to develop talent and build self-confidence in the dancers.
 <br>
-
-![](/images/Dance2.jpg)
+<br>They will also build strong bonds among members and develop their characters
+in terms of discipline and teamwork.
+<br>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Who should join us?</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Springfield Dance group is looking for students who have the flair and
+passion for dancing and those who are keen to learn hiphop and contemporary
+dance. Students who do not have a dance background but have interest and
+passion for dancing are welcomed as well.
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Benefits of joing SFSS Dance</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Students will have the opportunity to showcase their dance through school
+and public performances. They will also have the opportunity to participate
+in dance competitions such as the Singapore Youth Festival Competition,
+learning journeys and community involvement programmes.
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>CCA Schedule<br></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mondays &amp; Wednesdays / Friday (if there are rehearsals for a performance)
+<br>Time: 2.30PM - 4.30PM
+<br>Venue: Music Room</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Teachers in-charge:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Miss Grace Ang Hui Wen (IC)
+<br>Ms Claudia Yap (2IC)
+<br>Ms Teo Hwee Ling</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Coaches/Trainers:<br></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Kelvin Chow</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>List of annual programs/events</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1. School Performances (Spring Festival, Teacher's Day, National Day)
+<br>2. Singapore Youth Festival (SYF) Competition
+<br>3. Dance Camp</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Achievements:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Singapore Youth Festival (SYF) <br><br>2020 Certificate of Accomplishment (International Dance)<br>2019 Certificate of Accomplishment (International Dance)<br>2017 Certificate of Accomplishment (International Dance) <br><br>Open Stage Competition (Our Tampines Hub) <br><br>2022 THREE-STARS Acheivement Level</strong>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>
+<br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dance2.jpg">
+</div>
+<p></p>
