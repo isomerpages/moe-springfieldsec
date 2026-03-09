@@ -62,8 +62,8 @@ floorball clinics organised for students to forge strong bonds and develop
 <td rowspan="1" colspan="1">
 <p>• Mr Yong Jing Jun (IC)
 <br>• Mr Tan Yik Zhen (2IC)
-<br>• Mr Marcus Tan Wei Lun</p>
-<p>• Mr Cheng Kai Chen Euson</p>
+<br>• Mr Marcus Tan Wei Lun
+<br>• Mr Cheng Kai Chen Euson</p>
 </td>
 </tr>
 <tr>
