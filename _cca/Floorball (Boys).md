@@ -18,7 +18,11 @@ watch the Floorball Boys Team in action!</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p><strong>CCA General Info:<br><br>1. Brief introduction<br><br><br><br><br>2. Challenges students will face<br><br><br>3. Skills / Talents / Qualities the CCA is looking for<br><br><br>4. The benefits of joining the CCA<br></strong>
+<p><strong>CCA General Info:<br><br>1. Brief introduction<br><br><br><br><br>2. Challenges students will face<br><br><br></strong>
+</p>
+<p><strong>3. Skills / Talents / Qualities the CCA is looking for<br><br><br></strong>
+</p>
+<p><strong>4. The benefits of joining the CCA<br></strong>
 </p>
 </th>
 <th rowspan="1" colspan="1">
