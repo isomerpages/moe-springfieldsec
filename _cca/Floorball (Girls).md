@@ -65,8 +65,8 @@ for Students to develop the 21 st Century Competencies.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>• Miss Nur Ummairah Surattee Binte Gulam Mohamed (IC)</p>
-<p>• Mdm Zaleela Zakariah (ST)
+<p>• Miss Nur Ummairah Surattee Binte Gulam Mohamed (IC)
+<br>• Mdm Zaleela Zakariah (ST)
 <br>• Miss Goh Ming Min
 <br>• Miss Zakiyah Bte Abdullah</p>
 </td>
