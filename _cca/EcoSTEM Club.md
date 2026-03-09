@@ -154,8 +154,8 @@ Mathematics).
 </td>
 <td rowspan="1" colspan="1">
 <p>• Mdm Tan Bee Yong (IC)
-<br>• Mdm Michelle Chew (2IC)</p>
-<p>• Mr Chue Bing Hao, Edwin</p>
+<br>• Mdm Michelle Chew (2IC)
+<br>• Mr Chue Bing Hao, Edwin</p>
 </td>
 </tr>
 <tr>
