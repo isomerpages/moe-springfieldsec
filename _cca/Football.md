@@ -86,6 +86,14 @@ schools.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>CCA Schedule</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Teachers-in-charge:</p>
 </td>
 <td rowspan="1" colspan="1">
