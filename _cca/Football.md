@@ -4,16 +4,19 @@ permalink: /cca/physical-sports/football/
 description: ""
 variant: tiptap
 ---
-<h1><strong>Football</strong></h1>
+<h1>Football</h1>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/soccer1.jpg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/footballa.jpg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/footballc.jpg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/footballb.jpg">
 </div>
@@ -71,7 +74,8 @@ schools.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>CCA Schedule:<br></strong>
+<p>CCA Schedule:
+<br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -82,8 +86,7 @@ schools.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Teachers-in-charge:</strong>
-</p>
+<p>Teachers-in-charge:</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>• Mr Firuz Mustapha (IC)
@@ -94,7 +97,8 @@ schools.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Coaches / Trainers<br></strong>
+<p>Coaches / Trainers
+<br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -105,8 +109,7 @@ schools.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>List of annual programs/events:</strong>
-</p>
+<p>List of annual programs/events:</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1. National School Games
@@ -118,7 +121,8 @@ schools.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Achievements:<br></strong>
+<p>Achievements:
+<br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
