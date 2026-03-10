@@ -27,12 +27,8 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="2">
-<h4>CCA General Info:</h4>
-</td>
-</tr>
-<tr>
 <th rowspan="1" colspan="1">
+<p>CCA General Info:</p>
 <p>
 <br>1. Brief introduction
 <br>
@@ -55,6 +51,10 @@ variant: tiptap
 </p>
 </th>
 <th rowspan="1" colspan="1">
+<p>
+<br>
+</p>
+<p></p>
 <p>
 <br>1. Springfield Secondary School's Football team has been around since
 1994 and is committed to inculcating the love for football, discipline
