@@ -27,9 +27,13 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
+<td rowspan="1" colspan="2">
+<h4>CCA General Info:</h4>
+</td>
+</tr>
+<tr>
 <th rowspan="1" colspan="1">
-<p>CCA General Info:
-<br>
+<p>
 <br>1. Brief introduction
 <br>
 <br>
@@ -52,7 +56,6 @@ variant: tiptap
 </th>
 <th rowspan="1" colspan="1">
 <p>
-<br>
 <br>1. Springfield Secondary School's Football team has been around since
 1994 and is committed to inculcating the love for football, discipline
 in training and preparing our boys for friendly matches and tournaments.
@@ -74,22 +77,12 @@ schools.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>CCA Schedule:
-<br>
-</p>
+<p>CCA Schedule:</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Day: Monday / Wednesday / Friday (Competition Period)
 <br>Time: 2.30PM - 6PM
 <br>Venue: Field (Springfield Secondary School)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>CCA Schedule</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
