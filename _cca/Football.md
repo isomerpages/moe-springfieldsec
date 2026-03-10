@@ -4,16 +4,19 @@ permalink: /cca/physical-sports/football/
 description: ""
 variant: tiptap
 ---
-<h1><strong>Football</strong></h1>
+<h1>Football</h1>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/soccer1.jpg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/footballa.jpg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/footballc.jpg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/footballb.jpg">
 </div>
@@ -25,8 +28,8 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>CCA General Info:
-<br>
+<p>CCA General Info:</p>
+<p>
 <br>1. Brief introduction
 <br>
 <br>
@@ -50,6 +53,9 @@ variant: tiptap
 <th rowspan="1" colspan="1">
 <p>
 <br>
+</p>
+<p></p>
+<p>
 <br>1. Springfield Secondary School's Football team has been around since
 1994 and is committed to inculcating the love for football, discipline
 in training and preparing our boys for friendly matches and tournaments.
@@ -71,8 +77,7 @@ schools.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>CCA Schedule:<br></strong>
-</p>
+<p>CCA Schedule:</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Day: Monday / Wednesday / Friday (Competition Period)
@@ -82,8 +87,7 @@ schools.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Teachers-in-charge:</strong>
-</p>
+<p>Teachers-in-charge:</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>• Mr Firuz Mustapha (IC)
@@ -94,7 +98,8 @@ schools.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Coaches / Trainers<br></strong>
+<p>Coaches / Trainers
+<br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -105,8 +110,7 @@ schools.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>List of annual programs/events:</strong>
-</p>
+<p>List of annual programs/events:</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1. National School Games
@@ -118,7 +122,8 @@ schools.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Achievements:<br></strong>
+<p>Achievements:
+<br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
