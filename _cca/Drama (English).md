@@ -75,8 +75,8 @@ external performances as well.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>· Mdm Nur Rashidah Bte Rashid (ST)(IC)
-<br>· Mrs Michelle Elizabeth Rajlal(2IC)
+<p>· Mrs Michelle Elizabeth Rajlal(2IC)
+<br>· Miss Claudia Yap (2IC)
 <br>· Ms Teo Hwee Ling</p>
 </td>
 </tr>
