@@ -75,7 +75,7 @@ external performances as well.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>· Mrs Michelle Elizabeth Rajlal(2IC)
+<p>· Mrs Michelle Elizabeth Rajlal (IC)
 <br>· Miss Claudia Yap (2IC)
 <br>· Ms Teo Hwee Ling</p>
 </td>
