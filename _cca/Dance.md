@@ -82,7 +82,7 @@ learning journeys and community involvement programmes.
 </td>
 <td rowspan="1" colspan="1">
 <p>Miss Grace Ang Hui Wen (IC)
-<br>Ms Claudia Yap (2IC)
+<br>Mdm Nur Rashidah Bte Rashid (ST)
 <br>Ms Teo Hwee Ling</p>
 </td>
 </tr>
