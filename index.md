@@ -10,8 +10,8 @@ sections:
       background: /images/schoolbg.jpg
       key_highlights:
         - title: Termly letter
-          description: T1 Parents Letter
-          url: /our-experience/termly-letter/
+          description: T2 Parents Letter
+          url: /home-school-partnership/termly-letter/
         - title: Springfield student portal
           description: Click here to access
           url: https://sites.google.com/view/springfield-student-portal
