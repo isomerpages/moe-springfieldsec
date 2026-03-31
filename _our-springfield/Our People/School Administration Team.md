@@ -77,7 +77,7 @@ variant: tiptap
 <p>ICT Manager</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Faiz</p>
+<p>Mr Muhammad Faiz</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:muhammad_faiz_mohamed_yusoff_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">muhammad_faiz_mohamed_yusoff_a@moe.edu.sg</a>
