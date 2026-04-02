@@ -18,7 +18,7 @@ If you are interested in joining the committee and playing a part in the
 growth journey of our students, please contact us at <a href="mailto:springfields@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">springfields@moe.edu.sg</a>.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Sac1.jpg">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/sacnew1.png">
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 40%;" height="auto" width="100%" alt="" src="/images/sac2.jpg">
