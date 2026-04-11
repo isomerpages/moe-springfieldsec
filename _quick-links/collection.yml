@@ -2,8 +2,8 @@ collections:
   quick-links:
     output: true
     order:
-      - Canteen Advertisement.md
       - For Parents.md
       - For Students.md
       - For Teachers.md
+      - Canteen Advertisement.md
       - Yearbook.md
