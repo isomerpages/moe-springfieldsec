@@ -31,7 +31,7 @@ description: ""
 <p>Chinese Food stall</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>31 Dec 2024</p>
+<p>31 Dec 2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>To serve Chinese cuisine (e.g., rice, noodles)</p>
