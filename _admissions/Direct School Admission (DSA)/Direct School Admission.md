@@ -74,12 +74,9 @@ involvement projects and leadership training for pupils. The TKD CCA programme
 will serve to bring about strong values and the desired outcomes of education
 in our students.</p>
 <h3>Consolidated trend and major achievements</h3>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/dsaachv1.png">
-</div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/dsaachv2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ccaAch2026.png">
 </div>
 <p><strong>(d) STEM</strong>
 </p>
@@ -121,3 +118,7 @@ and Pathfinders in relevant STEM-related organisations and agencies.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/stem_acheivement2.png">
 </div>
 <p></p>
+<p>The selection criteria and process for the talent areas will be updated
+from early-May. For more information on DSA-Sec, please refer to the MOE
+website at <a href="https://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/dsa-sec</a>
+</p>
