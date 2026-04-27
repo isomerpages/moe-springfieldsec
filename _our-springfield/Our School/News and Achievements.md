@@ -7,8 +7,8 @@ third_nav_title: Our School
 ---
 <h1><strong>News and Achievements</strong></h1>
 <h2>Year 2026</h2>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/sgclean4.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">KeepSGClean Award 2026 – Gold Tier</div><div class="isomer-card-description">Springfield earned Gold at the KeepSGClean Award 2026 (CleanHood) in our first submission—a proud reflection of our clean, green, and gracious community.</div><div class="isomer-card-link">READ MORE</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.springfieldsec.moe.edu.sg/keepsgclean-award-2026-gold-tier/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/sgclean4.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">KeepSGClean Award 2026 – Gold Tier</div><div class="isomer-card-description">Springfield earned Gold at the KeepSGClean Award 2026 (CleanHood) in our first submission—a proud reflection of our clean, green, and gracious community.</div><div class="isomer-card-link">READ MORE</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.springfieldsec.moe.edu.sg/shell-nxplorers-global-silver-award/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Shell2.jpg">
