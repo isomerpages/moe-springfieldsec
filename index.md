@@ -18,6 +18,25 @@ sections:
       variant: center
       title: Springfield Secondary School
   - infopic:
+      title: KeepSGClean Award 2026 – Gold Tier
+      id: infopic
+      description: Springfield earned Gold at the KeepSGClean Award 2026 (CleanHood)
+        in our first submission—a proud reflection of our clean, green, and
+        gracious community.
+      button: read more
+      url: /keepsgclean-award-2026-gold-tier/
+      alt: Image alt text
+      image: /images/sgclean4.jpg
+  - infopic:
+      title: Shell NXplorers Global Silver Award Winners!
+      id: infopic
+      description: A proud win—Team Springfield secured Silver at Shell ESPA 2026 with
+        a smart, eco-friendly mosquito-repelling candle.
+      button: read more
+      url: /shell-nxplorers-global-silver-award/
+      alt: Image alt text
+      image: /images/Shell2.jpg
+  - infopic:
       title: Animation and Game Making (AGM) Competition 2025
       id: infopic
       description: Ly Nguyen Minh Thu from class 3D wins Gold at AGM 2025, a national
