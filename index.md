@@ -18,6 +18,15 @@ sections:
       variant: center
       title: Springfield Secondary School
   - infopic:
+      title: KeepSGClean Award 2026 – Gold Tier
+      id: infopic
+      description: Springfield earned Gold at the KeepSGClean Award 2026 (CleanHood)
+        in our first submission—a proud reflection of our clean, green, and
+        gracious community.
+      button: read more
+      url: https://www.springfieldsec.moe.edu.sg
+      alt: Image alt text
+  - infopic:
       title: Shell NXplorers Global Silver Award Winners!
       id: infopic
       description: A proud win—Team Springfield secured Silver at Shell ESPA 2026 with
