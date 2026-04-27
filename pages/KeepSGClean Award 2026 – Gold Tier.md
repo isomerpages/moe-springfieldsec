@@ -6,7 +6,7 @@ description: ""
 ---
 <h1><strong>KeepSGClean Award 2026 – Gold Tier</strong></h1>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/cleansg1.jpg">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/cleansg1.jpg">
 </div>
 <p>Springfield Secondary School is proud to be a recipient of the KeepSGClean
 Award 2026 (CleanHood), achieving the Gold Tier in our very first submission.

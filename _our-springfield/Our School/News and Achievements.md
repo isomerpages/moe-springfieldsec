@@ -6,6 +6,22 @@ description: ""
 third_nav_title: Our School
 ---
 <h1><strong>News and Achievements</strong></h1>
+<h2>Year 2026</h2>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.springfieldsec.moe.edu.sg/keepsgclean-award-2026-gold-tier/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/sgclean4.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">KeepSGClean Award 2026 – Gold Tier</div><div class="isomer-card-description">Springfield earned Gold at the KeepSGClean Award 2026 (CleanHood) in our first submission—a proud reflection of our clean, green, and gracious community.</div><div class="isomer-card-link">READ MORE</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.springfieldsec.moe.edu.sg/shell-nxplorers-global-silver-award/" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Shell2.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Shell NXplorers Global Silver Award</div>
+<div class="isomer-card-description">A proud win—Team Springfield secured Silver at Shell ESPA 2026 with a
+smart, eco-friendly mosquito-repelling candle.</div>
+<div class="isomer-card-link">READ MORE</div>
+</div>
+</a>
+</div>
 <h2>Year 2025</h2>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/minister-of-state-visits-school/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="alt" src="/images/minstate1.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Minister of State Visits Springfield Secondary School</div><div class="isomer-card-description">Springfield Secondary welcomed MOS Gan Siow Huang and Mdm Sarah Leong, showcasing student-led innovation, sustainability, and engaging classroom learning.</div><div class="isomer-card-link">READ MORE</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.springfieldsec.moe.edu.sg/animation-and-game-making-agm-competition-2025/" class="isomer-card">
@@ -57,4 +73,5 @@ job TKD team!🌟⭐️</div>
 <p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/our-experience/project-eco/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/eco1.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Springfield Wins Gold at Project E.C.O.</div><div class="isomer-card-description">Congratulations to our Environment Ambassadors for winning the Gold Award at the NEA’s Project E.C.O.! Their efforts in improving our school’s recycling practices stood out among 58 teams. Well done, Springfield eco-warriors!</div><div class="isomer-card-link">READ MORE</div></div></a>
 </div>
+<p></p>
 <p></p>
