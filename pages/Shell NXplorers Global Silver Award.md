@@ -18,8 +18,8 @@ Shell Exceptional Student Project Awards 2026, selected from over 200 entries
 across 10 countries. Their winning project — a smart mosquito-repelling
 candle made from used coffee grounds and orange peels — showcased impressive
 innovation and problem-solving.</p>
-<p>Award recipients: Xu Haibo (3A), Ng Gigi (4F), Wu Yee Man Win (4F), Zhou
-Qingyang (4F)</p>
+<p><em>Award recipients: Xu Haibo (3A), Ng Gigi (4F), Wu Yee Man Win (4F), Zhou Qingyang (4F)</em>
+</p>
 <p>A remarkable achievement that reflects the creativity and dedication of
 our students.</p>
 <p></p>
