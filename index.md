@@ -26,6 +26,7 @@ sections:
       button: read more
       url: https://www.springfieldsec.moe.edu.sg
       alt: Image alt text
+      image: /images/sgclean4.jpg
   - infopic:
       title: Shell NXplorers Global Silver Award Winners!
       id: infopic
