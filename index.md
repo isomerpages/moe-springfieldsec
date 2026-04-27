@@ -24,7 +24,7 @@ sections:
         in our first submission—a proud reflection of our clean, green, and
         gracious community.
       button: read more
-      url: https://www.springfieldsec.moe.edu.sg
+      url: /keepsgclean-award-2026-gold-tier/
       alt: Image alt text
       image: /images/sgclean4.jpg
   - infopic:
