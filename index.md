@@ -18,6 +18,15 @@ sections:
       variant: center
       title: Springfield Secondary School
   - infopic:
+      title: Infopic
+      subtitle: Add an image and text
+      id: infopic
+      description: A proud win—Team Springfield secured Silver at Shell ESPA 2026 with
+        a smart, eco-friendly mosquito-repelling candle.
+      button: read more
+      url: /minister-of-state-visits-school/
+      alt: Image alt text
+  - infopic:
       title: Animation and Game Making (AGM) Competition 2025
       id: infopic
       description: Ly Nguyen Minh Thu from class 3D wins Gold at AGM 2025, a national
