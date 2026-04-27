@@ -18,14 +18,14 @@ sections:
       variant: center
       title: Springfield Secondary School
   - infopic:
-      title: Infopic
-      subtitle: Add an image and text
+      title: Shell NXplorers Global Silver Award Winners!
       id: infopic
       description: A proud win—Team Springfield secured Silver at Shell ESPA 2026 with
         a smart, eco-friendly mosquito-repelling candle.
       button: read more
-      url: /minister-of-state-visits-school/
+      url: /shell-nxplorers-global-silver-award/
       alt: Image alt text
+      image: /images/Shell2.jpg
   - infopic:
       title: Animation and Game Making (AGM) Competition 2025
       id: infopic
