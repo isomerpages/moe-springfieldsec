@@ -28,7 +28,7 @@ EAE, etc.
 <br><a href="https://go.gov.sg/moe-fsbb" rel="noopener noreferrer nofollow" target="_blank">• Full Subject-Based Banding (Full SBB)</a>
 <br><a href="https://go.gov.sg/mysfsec" rel="noopener noreferrer nofollow" target="_blank">• MySkillsFuture (Secondary School)</a>
 <br><a href="https://www.myskillsfuture.gov.sg/content/student/en/secondary/education-guide/events.html" rel="noopener noreferrer nofollow" target="_blank">• ECG Calendar of Events</a>
-<br><a href="https://www.nyc.gov.sg/programmes-grants/programmes/discover-on-my-way" rel="noopener noreferrer nofollow" target="_blank">• On My Way by National Youth Council</a>
+<br><a href="https://go.gov.sg/sgyp-omw" rel="noopener noreferrer nofollow" target="_blank">• On My Way by National Youth Council</a>
 <br><a href="https://advisory.sg/" rel="noopener noreferrer nofollow" target="_blank">• Advisory</a>
 </p>
 <p><strong>Course &amp; Curriculum Information</strong>
