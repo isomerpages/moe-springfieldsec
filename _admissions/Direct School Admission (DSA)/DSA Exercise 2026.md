@@ -75,7 +75,8 @@ the area of talent.</p>
 <td rowspan="1" colspan="1">
 <p>Start of DSA Application
 <br>
-<br>Application is now closed.</p>
+<br>• Application can be made via&nbsp;<a href="https://go.gov.sg/apply-dsa-sec" rel="noopener noreferrer nofollow" target="_blank">DSA-Sec Portal</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>6 May 2026, 11am
@@ -87,10 +88,12 @@ the area of talent.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>• Shortlisted applicants will be invited through a letter for a sports
-trial and/or interview
-<br>
-<br>• Shortlisted applicants will be advised on the date and time as well
+trial and/or interview</p>
+<p>• You will receive notification from the school by 17 July, if your child
+has been shortlisted to undergo Direct School Admission (DSA) selection.</p>
+<p>• Shortlisted applicants will be advised on the date and time as well
 as attire for the tests</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>By 17 July 2026
@@ -100,7 +103,7 @@ as attire for the tests</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>• All applicants will receive letters on the outcome of their applications
+<p>• All applicants will receive their application outcomes
 <br>
 </p>
 </td>
