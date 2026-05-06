@@ -9,6 +9,9 @@ sections:
   - hero:
       background: /images/schoolbg.jpg
       key_highlights:
+        - title: 2026 DSA EXERCISE
+          description: 2026 Direct School Admission
+          url: https://www.springfieldsec.moe.edu.sg/about-us/direct-school-admission/dsa-exercise-2026/
         - title: Termly letter
           description: T2 Parents Letter
           url: /home-school-partnership/termly-letter/
