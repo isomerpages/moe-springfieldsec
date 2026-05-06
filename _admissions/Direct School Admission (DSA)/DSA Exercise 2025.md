@@ -6,7 +6,7 @@ variant: tiptap
 third_nav_title: Direct School Admission (DSA)
 ---
 <h1><strong>DSA Exercise 2026</strong></h1>
-<h4><strong>DSA Exercise 2025</strong></h4>
+<h4><strong>DSA Exercise 2026</strong></h4>
 <p>In Springfield, we nurture students to be lifelong learners and exemplary
 leaders. We invite Primary 6 students with sporting talent to join our
 school through the DSA Exercise.</p>
