@@ -10,11 +10,11 @@ sections:
       background: /images/schoolbg.jpg
       key_highlights:
         - title: 2026 DSA EXERCISE
-          description: 2026 Direct School Admission
+          description: Click here to access
           url: https://www.springfieldsec.moe.edu.sg/about-us/direct-school-admission/dsa-exercise-2026/
-        - title: Termly letter
-          description: T2 Parents Letter
-          url: /home-school-partnership/termly-letter/
+        - title: 2026 Subject combination exercise
+          description: Click here to access
+          url: ""
         - title: Springfield student portal
           description: Click here to access
           url: https://sites.google.com/view/springfield-student-portal
