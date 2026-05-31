@@ -26,7 +26,7 @@ their growth and future goals.</p>
 <p>The presentation deck used for the briefing during the Semester 1 Parent-Teacher
 Conference can be found here:</p>
 <div class="iframe-wrapper">
-<iframe referrerpolicy="strict-origin-when-cross-origin" height="749" width="1280" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRuHmmGzdwlxlb_sV2h4sbyg0EClS6ceQcheZCsbi97H-jPhwwfeCmI3nWj7pjdT5dxSTfSsM2DLXqx/pubembed?start=false&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="600" width="100%" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRuHmmGzdwlxlb_sV2h4sbyg0EClS6ceQcheZCsbi97H-jPhwwfeCmI3nWj7pjdT5dxSTfSsM2DLXqx/pubembed?start=false&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p></p>
 <h3><u>General Timeline for Students</u></h3>
