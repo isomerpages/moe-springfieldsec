@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <h2>Secondary 2 Subject Combination Exercise 2026</h2>
-<p>Choosing a Upper Secondary subject combination is an important milestone
+<p>Choosing an Upper Secondary subject combination is an important milestone
 in every Springfielder's learning journey. The Subject Combination Exercise
 helps our Secondary 2 students make informed decisions about the subjects
 they will study in Upper Secondary, based on their <strong>interests</strong>, <strong>strengths</strong>, <strong>aspirations</strong>,
