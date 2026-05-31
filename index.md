@@ -14,7 +14,7 @@ sections:
           url: https://www.springfieldsec.moe.edu.sg/about-us/direct-school-admission/dsa-exercise-2026/
         - title: 2026 Subject combination exercise
           description: Click here to access
-          url: ""
+          url: https://www.springfieldsec.moe.edu.sg/2026-subject-combination-exercise/
         - title: Springfield student portal
           description: Click here to access
           url: https://sites.google.com/view/springfield-student-portal
