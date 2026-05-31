@@ -17,7 +17,7 @@ their future educational and career pathways.</p>
 <p></p>
 <h3><u>Briefing for Parents / 29 May 2026</u></h3>
 <p>Parents play a key role in guiding and supporting their child through
-the Subject Combination Exercise. <strong>We encourage parents to engage their child in thoughtful conversations about their interests, strengths, and aspirations. </strong>
+the Subject Combination Exercise. <strong>We encourage parents to engage their child in thoughtful conversations about their interests, strengths, and aspirations.</strong>
 </p>
 <p>These discussions can help students gain a deeper understanding of themselves
 and make informed decisions about the subjects and pathways that best support
@@ -46,7 +46,8 @@ Conference can be found here:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Subject Combination Briefing for Students</p>
+<p><strong>Subject Combination Briefing for Students</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Term 3</strong> Week 1 - Week 3</p>
@@ -54,7 +55,8 @@ Conference can be found here:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Preliminary Student Preference Survey</p>
+<p><strong>Preliminary Student Preference Survey</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Term 3</strong> Week 3</p>
@@ -62,7 +64,8 @@ Conference can be found here:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>End-of-Year Examinations</p>
+<p><strong>End-of-Year Examinations</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Term 4</strong> Week 3 - 4</p>
@@ -70,7 +73,8 @@ Conference can be found here:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Final Student Preference Survey</p>
+<p><strong>Final Student Preference Survey</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Term 4</strong> Week 5/6</p>
@@ -78,8 +82,7 @@ Conference can be found here:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Subject and Class Allocation</p>
-<p>(inclusive of appeal window)</p>
+<p><strong>Subject and Class Allocation </strong>(inclusive of appeal window)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Term 4</strong> Nov</p>
