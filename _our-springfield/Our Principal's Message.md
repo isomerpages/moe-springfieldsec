@@ -51,7 +51,7 @@ sincere hope that all Springfielders – students and staff alike – will
 join me in living out our school motto, <strong>“Better Self for Better Tomorrow,”</strong> as
 we work together to shape a brighter future.</p>
 <p>Thank you for visiting our website, and I invite you to browse the website
-(and Instagram page @ <a href="https://www.instagram.com/sfss_spectrum/" rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/sfss_spectrum/</a>)
+(and Instagram page @ <a href="https://www.instagram.com/springfield.sec/" rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/springfield.sec/</a>)
 to learn more about our programmes and achievements as we continue this
 exciting journey of growth and learning.</p>
 <p><em>Ms Eleanor Chia</em>&nbsp;
