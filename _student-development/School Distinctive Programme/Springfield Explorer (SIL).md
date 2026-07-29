@@ -66,3 +66,7 @@ Those who consistently challenge themselves across all four domains receive
 the All Clear Achievement, recognising their commitment to holistic development
 and lifelong learning.</p>
 <p></p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://sites.google.com/view/springfield-explorer/home" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/silpic.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Springfield Explorer</div><div class="isomer-card-description">Discover how Springfield nurtures independent, lifelong learners through SPRINGFIELD EXPLORER - our unique
+Student Initiated Learning (SIL) program that empowers students to take charge of their own learning journey.</div><div class="isomer-card-link">Find out more</div></div></a>
+</div>
+<p></p>
