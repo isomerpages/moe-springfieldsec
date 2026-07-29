@@ -27,7 +27,7 @@ sections:
         the GOLD Award and Sustained Excellence Award at Project E.C.O. 2025!
         🌱🏆
       button: READ MORE
-      url: /champions-sustainability-at-tampine-4rs-exhibition/
+      url: /project-eco-2025/
       image: /images/Eco_Fest_2025_Apppreciaton_Lunch_with_Mr_Masagos.jpg
       alt: Image alt text
   - infopic:
