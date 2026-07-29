@@ -45,7 +45,7 @@ third_nav_title: Our People
 <p>Mr Anwarul Nizam</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:anwarul_nizam@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">anwarul_nizam@moe.edu.sg</a> 
+<p><a href="mailto:anwarul_nizam@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">anwarul_nizam@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -175,7 +175,7 @@ third_nav_title: Our People
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="2" colspan="1">
 <p><strong>1E</strong>
 </p>
 </td>
@@ -194,14 +194,6 @@ third_nav_title: Our People
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chan_hui_min@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chan_hui_min@moe.edu.sg</a>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Miss Nur Zakiyah Bte Abdullah</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
