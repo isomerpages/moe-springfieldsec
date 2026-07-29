@@ -46,4 +46,23 @@ challenges and active living.</p>
 <h4>Citizen</h4>
 <p>Develop empathy, social responsibility and a spirit of service by contributing
 meaningfully to the school and wider community.</p>
+<h3>Student Outcomes</h3>
+<p>Through Springfield Explorer 2.0, Springfielders will:</p>
+<p>Become Future-Ready Learners by taking increasing ownership of their learning,
+embracing curiosity, and adapting confidently to new challenges.</p>
+<p>Demonstrate a Caring Heart by serving others, contributing positively
+to their community, and living out the STRIDE values.</p>
+<p>Lead with Confidence by making purposeful decisions, pursuing personal
+interests, and showing initiative in authentic learning experiences.</p>
+<p>Develop lifelong learning dispositions such as resilience, creativity,
+collaboration and reflection that prepare them for learning, work and life.</p>
+<p>Celebrating Growth</p>
+<p>Springfield Explorer 2.0 celebrates students who demonstrate commitment,
+initiative and continuous growth throughout their learning journey.</p>
+<p>Students are recognised through milestone achievements across the four
+learning domains, celebrating not only what they accomplish, but also the
+perseverance, curiosity and self-direction they demonstrate along the way.
+Those who consistently challenge themselves across all four domains receive
+the All Clear Achievement, recognising their commitment to holistic development
+and lifelong learning.</p>
 <p></p>
