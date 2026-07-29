@@ -21,6 +21,16 @@ sections:
       variant: center
       title: Springfield Secondary School
   - infopic:
+      title: Project E.C.O 2025
+      id: infopic
+      description: Congratulations to our EcoSTEM students and teachers for winning
+        the GOLD Award and Sustained Excellence Award at Project E.C.O. 2025!
+        🌱🏆
+      button: READ MORE
+      url: /project-eco-2025/
+      image: /images/Eco_Fest_2025_Apppreciaton_Lunch_with_Mr_Masagos.jpg
+      alt: Image alt text
+  - infopic:
       title: KeepSGClean Award 2026 – Gold Tier
       id: infopic
       description: Springfield earned Gold at the KeepSGClean Award 2026 (CleanHood)
@@ -58,16 +68,6 @@ sections:
       button: read more
       url: /minister-of-state-visits-school/
       image: /images/minstate1.jpg
-      alt: Image alt text
-  - infopic:
-      title: Champions Sustainability at Tampines 4Rs Exhibition
-      id: infopic
-      description: Our dedicated Environment Ambassadors and teachers from the EcoSTEM
-        Committee proudly represented Springfield Secondary School at the
-        Tampines 4Rs Exhibition.
-      button: READ MORE
-      url: /champions-sustainability-at-tampines-4rs-exhibition/
-      image: /images/sus1.png
       alt: Image alt text
   - infopic:
       title: PDPA Advisory
