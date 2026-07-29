@@ -4,7 +4,7 @@ permalink: /project-eco/
 variant: tiptap
 description: ""
 ---
-<h1>Celebrating Excellence in Sustainability! </h1>
+<h1>Celebrating Excellence in Sustainability!</h1>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eco_Fest_2025_Apppreciaton_Lunch_with_Mr_Masagos.jpg">
