@@ -50,7 +50,8 @@ challenges and active living.</p>
 <p>Develop empathy, social responsibility and a spirit of service by contributing
 meaningfully to the school and wider community.</p>
 <h3>Student Outcomes</h3>
-<p>Through Springfield Explorer 2.0, Springfielders will:</p>
+<p><em>Through Springfield Explorer 2.0, Springfielders will:</em>
+</p>
 <p>Become Future-Ready Learners by taking increasing ownership of their learning,
 embracing curiosity, and adapting confidently to new challenges.</p>
 <p>Demonstrate a Caring Heart by serving others, contributing positively
