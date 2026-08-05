@@ -86,6 +86,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>ICT Manager</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Muhammad Said</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:muhammad_said_zainol@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">muhammad_said_zainol@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Administrative Executive 1</p>
 </td>
 <td rowspan="1" colspan="1">
