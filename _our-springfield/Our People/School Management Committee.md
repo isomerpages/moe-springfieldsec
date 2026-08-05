@@ -478,13 +478,25 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Senior Teacher | Mother Tongue</p>
+<p>Senior Teacher | Malay Language</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Nurisha Bte Hamid</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:nurisha_hamid@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nurisha_hamid@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Senior Teacher | Chemistry</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ho Shu Ling, Judith</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ho_shu_ling_judith@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ho_shu_ling_judith@moe.edu.sg</a>
 </p>
 </td>
 </tr>
