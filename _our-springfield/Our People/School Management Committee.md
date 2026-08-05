@@ -493,10 +493,34 @@ third_nav_title: Our People
 <p>Senior Teacher | Chemistry</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ho Shu Ling, Judith</p>
+<p>Ms Ho Shu Ling, Judith</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ho_shu_ling_judith@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ho_shu_ling_judith@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Senior Teacher | Craft &amp; Tech</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Nur Rashidah Bte Rashid</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:nur_rashidah_a_rashid@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_rashidah_a_rashid@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Senior Teacher | Mathematics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Ves Chee Kim Lee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chee_kim_lee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chee_kim_lee@moe.edu.sg</a>
 </p>
 </td>
 </tr>
