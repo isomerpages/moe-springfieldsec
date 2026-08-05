@@ -25,8 +25,9 @@ variant: tiptap
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>Administration Manager 1</p>
+<td rowspan="2" colspan="1">
+<p>Administration Manager</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Mimi Hidayati Bte Ismail</p>
@@ -38,9 +39,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Administration Manager 2</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mdm Shamala Balakrishnan</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -49,8 +47,9 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>Operations Manager 1</p>
+<td rowspan="2" colspan="1">
+<p>Operations Manager</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Eileen Gway Chong Ling</p>
@@ -62,9 +61,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Operations Manager 2</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mr K Chandran</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -73,7 +69,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>ICT Manager</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -86,9 +82,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>ICT Manager</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mr Muhammad Said</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -97,8 +90,8 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>Administrative Executive 1</p>
+<td rowspan="2" colspan="1">
+<p>Administrative Executive</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Siti Aishah Bte Ramli</p>
@@ -110,9 +103,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Administrative Executive 2</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mdm Chan Siew Yin Irene</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -121,8 +111,8 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>Corporate Support Officer 1</p>
+<td rowspan="2" colspan="1">
+<p>Corporate Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Lim Siew Bee</p>
@@ -134,9 +124,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Corporate Support Officer 2</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mdm Salmiah Jaapar</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -145,8 +132,8 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>STEM Instructor 1 (Workshop)</p>
+<td rowspan="2" colspan="1">
+<p>STEM Instructor (Workshop)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Hajis Bin Jaafar</p>
@@ -157,9 +144,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>STEM Instructor 2 (Workshop)</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mr Abdul Aziz Bin Haji Ismail</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -167,8 +151,8 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>STEM Instructor 3 (Laboratory)</p>
+<td rowspan="2" colspan="1">
+<p>STEM Instructor (Laboratory)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Afifah Binte Abdul Rahman</p>
@@ -179,57 +163,37 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>STEM Instructor 4 (Laboratory)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Tay Zi Xian Hazel</p>
+<p>Ms Nur Ezzati Bte Elias</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>Operations Support Officer 1</p>
-</td>
-<td rowspan="1" colspan="2">
-<p>Mdm Catherine Tan</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Operations Support Officer 2</p>
+<td rowspan="4" colspan="1">
+<p>Operations Support Officer</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>Mdm Shila D/O Muthusamy</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>Operations Support Officer 3</p>
-</td>
 <td rowspan="1" colspan="2">
 <p>Mdm Suaedah Bte Sairi</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>Operations Support Officer 4</p>
-</td>
 <td rowspan="1" colspan="2">
 <p>Mdm Sumnah Bte Subadah</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>Operations Support Officer 5</p>
-</td>
 <td rowspan="1" colspan="2">
 <p>Mr Sazali Bin Mohamed</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>Desktop Engineer</p>
 </td>
 <td rowspan="1" colspan="2">
@@ -237,9 +201,6 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>Desktop Engineer</p>
-</td>
 <td rowspan="1" colspan="2">
 <p>Mr Neo Jun Kiat</p>
 </td>
