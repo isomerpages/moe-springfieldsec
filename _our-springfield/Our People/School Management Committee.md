@@ -478,13 +478,49 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Senior Teacher | Mother Tongue</p>
+<p>Senior Teacher | Malay Language</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Nurisha Bte Hamid</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:nurisha_hamid@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nurisha_hamid@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Senior Teacher | Chemistry</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Ho Shu Ling, Judith</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ho_shu_ling_judith@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ho_shu_ling_judith@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Senior Teacher | Craft &amp; Tech</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Nur Rashidah Bte Rashid</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:nur_rashidah_a_rashid@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_rashidah_a_rashid@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Senior Teacher | Mathematics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Ves Chee Kim Lee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chee_kim_lee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chee_kim_lee@moe.edu.sg</a>
 </p>
 </td>
 </tr>

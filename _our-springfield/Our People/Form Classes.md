@@ -465,10 +465,10 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Syarifah Hafizah Binte Syed</p>
+<p>Ms Lee Si Min Celynn</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:syarifah_hafizah_syed_haroon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">syarifah_hafizah_syed_haroon@moe.edu.sg</a>
+<p><a href="mailto:lee_si_min_celynn@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_si_min_celynn@moe.edu.sg</a>
 </p>
 </td>
 </tr>
