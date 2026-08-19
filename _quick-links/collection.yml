@@ -2,9 +2,9 @@ collections:
   quick-links:
     output: true
     order:
-      - Springfield Connect.md
       - For Parents.md
       - For Students.md
       - For Teachers.md
-      - Canteen Advertisement.md
+      - Springfield Connect.md
       - Yearbook.md
+      - Canteen Advertisement.md
